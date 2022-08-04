@@ -2,8 +2,8 @@
   "traits": [
     {
       "name": "xenophobe",
-      "addPrice": 100,
-      "removePrice": 200,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "stats": "lower social standing with aliens",
       "description": "test description"      
     }
