@@ -4,8 +4,8 @@
       "name": "xenophobe",
       "addPrice": 100,
       "removePrice": 200,
-      "description": "test description"
-      "stats": "lower social standing with aliens"
+      "stats": "lower social standing with aliens",
+      "description": "test description"      
     },
   ],
   "total": 1
