@@ -5,8 +5,141 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "stats": "lower social standing with aliens",
+      "description": "Timmy hates and distrusts xenos. They see them as little more than animals."      
+    },
+    {
+      "name": "xenophile",
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "stats": "higher social standing with aliens",
+      "description": "Timmy thinks aliens are exotic and interesting. They would love to get to know them more and wouldn't mind forming relationships with them."      
+    },
+    {
+      "name": "likeflame",
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "stats": "Flame meditation focus type allowed.",
+      "description": "It's not like pyromaniac, though. I like fire very much."      
+    },
+    {
+      "name": "attuned",
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "stats": "Artistic meditation focus type disabled."
+      "Natural meditation focus type allowed."
+      "+2 plants"
+      "+20% psychic sensitivity"
+      "-5% mental break threshold"
+      "x120% neural heat recovery rate"
+      "x110% neural heat limit"
+      "x90% neural heat gain",
+      "description": "Timmy has spent time learning and practicing the tribal rituals required to link oneself to an Anima tree. he has long since been enamoured by the wonders of nature."      
+    },
+    {
+      "name": "xenophobe",
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "stats": "lower social standing with aliens",
+      "description": "test description"      
+    },
+    {
+      "name": "xenophobe",
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "stats": "lower social standing with aliens",
+      "description": "test description"      
+    },
+    {
+      "name": "xenophobe",
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "stats": "lower social standing with aliens",
+      "description": "test description"      
+    },
+    {
+      "name": "xenophobe",
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "stats": "lower social standing with aliens",
+      "description": "test description"      
+    },
+    {
+      "name": "xenophobe",
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "stats": "lower social standing with aliens",
+      "description": "test description"      
+    },
+    {
+      "name": "xenophobe",
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "stats": "lower social standing with aliens",
+      "description": "test description"      
+    },
+    {
+      "name": "xenophobe",
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "stats": "lower social standing with aliens",
+      "description": "test description"      
+    },
+    {
+      "name": "xenophobe",
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "stats": "lower social standing with aliens",
+      "description": "test description"      
+    },
+    {
+      "name": "xenophobe",
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "stats": "lower social standing with aliens",
+      "description": "test description"      
+    },
+    {
+      "name": "xenophobe",
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "stats": "lower social standing with aliens",
+      "description": "test description"      
+    },
+    {
+      "name": "xenophobe",
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "stats": "lower social standing with aliens",
+      "description": "test description"      
+    },
+    {
+      "name": "xenophobe",
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "stats": "lower social standing with aliens",
+      "description": "test description"      
+    },
+    {
+      "name": "xenophobe",
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "stats": "lower social standing with aliens",
+      "description": "test description"      
+    },
+    {
+      "name": "xenophobe",
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "stats": "lower social standing with aliens",
+      "description": "test description"      
+    },
+    {
+      "name": "xenophobe",
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "stats": "lower social standing with aliens",
       "description": "test description"      
     }
   ],
-  "total": 5
+  "total": 0
 }
