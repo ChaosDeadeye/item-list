@@ -29,46 +29,46 @@
       "description": "Timmy has spent time learning and practicing the tribal rituals required to link oneself to an Anima tree. he has long since been enamoured by the wonders of nature."      
     },
     {
-      "name": "xenophobe",
+      "name": "flameworship",
       "addPrice": 3500,
       "removePrice": 5500,
-      "stats": "lower social standing with aliens",
-      "description": "test description"      
+      "stats": "Flame meditation focus type allowed.",
+      "description": "Timmy is the Maru. They feel the warmth, remind themselves that they are alive, and clear their minds."      
     },
     {
-      "name": "xenophobe",
+      "name": "sharpeye",
       "addPrice": 3500,
       "removePrice": 5500,
-      "stats": "lower social standing with aliens",
-      "description": "test description"      
+      "stats": "+25% global learning factor +20% sell price multiplier",
+      "description": "Any object, event, or technology has cause and effect. Timmy is very skilled at identifying and learning such causal relationships."      
     },
     {
-      "name": "xenophobe",
+      "name": "flexible",
       "addPrice": 3500,
       "removePrice": 5500,
-      "stats": "lower social standing with aliens",
-      "description": "test description"      
+      "stats": "+10.0 melee dodge chance +0.20 move speed",
+      "description": "Timmy's body is naturally flexible. Stronger and more flexible than others, it has a significant advantage in hunting."      
     },
     {
-      "name": "xenophobe",
+      "name": "self-righteousness",
       "addPrice": 3500,
       "removePrice": 5500,
-      "stats": "lower social standing with aliens",
-      "description": "test description"      
+      "stats": "-9% mental break threshold +10% global work speed +50% global certainty loss factor",
+      "description": "Timmy believes that he is right. The firm belief has a positive effect on his will, just like his piety, but he also tends to ignore the opinions of others."      
     },
     {
-      "name": "xenophobe",
+      "name": "leadership",
       "addPrice": 3500,
       "removePrice": 5500,
-      "stats": "lower social standing with aliens",
-      "description": "test description"      
+      "stats": "-100% mental break threshold",
+      "description": "A person with strong leadership always influences those around them, either positively or negatively.\nNo one knows what path such a person will choose or what kind of life he will lead. But one thing is certain, he won't be an ordinary person who comes and goes into the world without anyone knowing. Timmy was born with that gift."      
     },
     {
-      "name": "xenophobe",
+      "name": "sensitiveears",
       "addPrice": 3500,
       "removePrice": 5500,
-      "stats": "lower social standing with aliens",
-      "description": "test description"      
+      "stats": "-20% rest rate multiplier +8 melee dodge chance +2 melee hit chance",
+      "description": "Timmy has ears that are sensitive to even small sounds. Being sensitive to sounds is always an advantage in life outside of its nest, but it also has the disadvantage of not being able to fall asleep deeply."      
     },
     {
       "name": "xenophobe",
