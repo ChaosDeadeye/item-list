@@ -276,7 +276,7 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "pawn",
+		"abr": "pawn <race>",
 		"price": 1,
 		"karmatype": "Good"
 	},
