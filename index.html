@@ -280,25 +280,8 @@
 
             eventList = new List('events', options, eventData);
         });
-
-	let traitList = null;
-        $.getJSON(eventListURL, function(data) {
-            var options = {
-                valueNames: ['abr', 'price', 'karmatype'],
-                item: '<tr><td class="abr" scope="row"></td><td class="price"></td><td class="karmatype"></td></tr>'
-            };
-
-            var eventData = [];
-            $.each(data.incitems, function(index, value) {
-                if (value["price"] > 0) {
-                    eventData.push(value);
-                }
-            });
-
-            traitList = new List('events', options, eventData);
-        });  
 	    
-       <!--- let traitList = null;
+        let traitList = null;
         $.getJSON(traitListURL, function(data) {
             var options = {
                 valueNames: ['abr', 'price', 'description'],
@@ -312,7 +295,7 @@
                 }
             });
 
-            traitList = new List('traits', options, traitData); -->
+            traitList = new List('traits', options, traitData);
         });
 
         $("#item-price-min").keyup(function() {
@@ -337,6 +320,16 @@
                 return allow;
             });
 	    eventList.filter(function(item) {
+                var allow = true;
+                if (minPrice != "" && parseInt(item.values().price) < minPrice) {
+                    allow = false;
+                }
+                if (maxPrice != "" && parseInt(item.values().price) > maxPrice) {
+                    allow = false;
+                }
+                return allow;
+            });
+	   traitList.filter(function(item) {
                 var allow = true;
                 if (minPrice != "" && parseInt(item.values().price) < minPrice) {
                     allow = false;
