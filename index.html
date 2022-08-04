@@ -280,8 +280,25 @@
 
             eventList = new List('events', options, eventData);
         });
+
+	let traitList = null;
+        $.getJSON(eventListURL, function(data) {
+            var options = {
+                valueNames: ['abr', 'price', 'karmatype'],
+                item: '<tr><td class="abr" scope="row"></td><td class="price"></td><td class="karmatype"></td></tr>'
+            };
+
+            var eventData = [];
+            $.each(data.incitems, function(index, value) {
+                if (value["price"] > 0) {
+                    eventData.push(value);
+                }
+            });
+
+            traitList = new List('events', options, eventData);
+        });  
 	    
-        let traitList = null;
+       <!--- let traitList = null;
         $.getJSON(traitListURL, function(data) {
             var options = {
                 valueNames: ['abr', 'price', 'description'],
@@ -290,13 +307,12 @@
 
             var traitData = [];
             $.each(data.traits, function(index, value) {
-             <!--   if (value["price"] > 0) { -->
-             <!--       traitData.push(value); -->
-             <!--   } -->
-		   traitData.push(value);
+                if (value["price"] > 0) {
+                    traitData.push(value);
+                }
             });
 
-            traitList = new List('traits', options, traitData);
+            traitList = new List('traits', options, traitData); -->
         });
 
         $("#item-price-min").keyup(function() {
