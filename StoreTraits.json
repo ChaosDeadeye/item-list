@@ -1,7 +1,7 @@
 {
   "traits": [
     {
-      "name": "xenophobe"",
+      "name": "xenophobe",
       "addPrice": 100,
       "removePrice": 200,
       "description": "test description"
