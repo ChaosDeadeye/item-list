@@ -2,8 +2,8 @@
   "traits": [
     {
       "abr": "test entry",
-      "description": "test description",
-      "price": 1337420
+      "price": 1337420,
+      "description": "test description"
     },
   ],
   "total": 1
