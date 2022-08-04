@@ -1,0 +1,10 @@
+{
+  "traits": [
+    {
+      "abr": "test entry",
+      "category": "test description",
+      "price": 1337420
+    },
+  ],
+  "total": 1
+}
