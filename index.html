@@ -292,7 +292,7 @@
 
             var traitData = [];
             $.each(data.traits, function(index, value) {
-                if (value["price"] > 0) {
+                if (value["addPrice"] > 0) {
                     traitData.push(value);
                 }
             });
@@ -333,10 +333,10 @@
             });
 	   traitList.filter(function(item) {
                 var allow = true;
-                if (minPrice != "" && parseInt(item.values().price) < minPrice) {
+                if (minPrice != "" && parseInt(item.values().addPrice) < minPrice) {
                     allow = false;
                 }
-                if (maxPrice != "" && parseInt(item.values().price) > maxPrice) {
+                if (maxPrice != "" && parseInt(item.values().addPrice) > maxPrice) {
                     allow = false;
                 }
                 return allow;
