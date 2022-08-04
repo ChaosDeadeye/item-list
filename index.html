@@ -290,9 +290,10 @@
 
             var traitData = [];
             $.each(data.traits, function(index, value) {
-                if (value["price"] > 0) {
+             <!--   if (value["price"] > 0) {
                     traitData.push(value);
-                }
+                } -->
+		   traitData.push(value);
             });
 
             traitList = new List('traits', options, traitData);
