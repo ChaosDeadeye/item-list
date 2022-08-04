@@ -170,8 +170,10 @@
                             </p>
                             <table class="table traits">
                                 <tr>
-                                    <th scope="col" class="sort" data-sort="abr">Name</th>
-                                    <th scope="col" class="sort" data-sort="price">Price</th>
+                                    <th scope="col" class="sort" data-sort="name">Name</th>
+                                    <th scope="col" class="sort" data-sort="addPrice">Add Price</th>
+				    <th scope="col" class="sort" data-sort="removePrice">Remove Price</th>
+				    <th scope="col" class="sort" data-sort="stats">Stats Price</th>
                                     <th scope="col" class="sort" data-sort="description">Description</th>
                                 </tr>
                                 <tbody class="list">
@@ -284,7 +286,7 @@
         let traitList = null;
         $.getJSON(traitListURL, function(data) {
             var options = {
-                valueNames: ['abr', 'price', 'description'],
+                valueNames: ['name', 'addPrice', 'removePrice', 'stats', 'description'],
                 item: '<tr><td class="abr" scope="row"></td><td class="price"></td><td class="description"></td></tr>'
             };
 
