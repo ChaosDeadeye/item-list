@@ -71,25 +71,25 @@
       "description": "Timmy has ears that are sensitive to even small sounds. Being sensitive to sounds is always an advantage in life outside of its nest, but it also has the disadvantage of not being able to fall asleep deeply."      
     },
     {
-      "name": "xenophobe",
+      "name": "prototype",
       "addPrice": 3500,
       "removePrice": 5500,
-      "stats": "lower social standing with aliens",
-      "description": "test description"      
+      "stats": "-16% immunity gain speed +15 melee dodge chance	+0.60 move speed",
+      "description": "Timmy is an experimentally cultivated Maru.\nIt has significantly superior physical abilities than other floors, but its autoimmunity is very low due to its imperfect design."      
     },
     {
-      "name": "xenophobe",
+      "name": "inquisitivemind",
       "addPrice": 3500,
       "removePrice": 5500,
-      "stats": "lower social standing with aliens",
-      "description": "test description"      
+      "stats": "+75% global learning factor",
+      "description": "A fragment of a talent to accomplish a feat."      
     },
     {
-      "name": "xenophobe",
+      "name": "senseofduty",
       "addPrice": 3500,
       "removePrice": 5500,
-      "stats": "lower social standing with aliens",
-      "description": "test description"      
+      "stats": "-14% mental break threshold	+40% global work speed",
+      "description": "A fragment of a talent to accomplish a feat."      
     },
     {
       "name": "xenophobe",
