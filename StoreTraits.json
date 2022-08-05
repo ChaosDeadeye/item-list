@@ -239,17 +239,17 @@
       "description": "Timmy needs a really impressive bedroom. he gets a mood loss if he doesn't get what he wants."      
     },
     {
-      "name": "psychopath",
+      "name": "jealous",
       "addPrice": 3500,
       "removePrice": 5500,
-      "stats": "Morbid meditation focus type allowed.",
-      "description": "Timmy has no empathy."      
+      "stats": "Morbid meditation focus type allowed. mood penalty for having a less impressive bedroom than someone else",
+      "description": "For Timmy, it's degrading to have a less impressive bedroom than someone else. he gets a mood loss if any colonist has a more impressive bedroom."      
     },
     {
       "name": "psychopath",
       "addPrice": 3500,
       "removePrice": 5500,
-      "stats": "Morbid meditation focus type allowed.",
+      "stats": "Morbid meditation focus type allowed. ",
       "description": "Timmy has no empathy."      
     },
     {
