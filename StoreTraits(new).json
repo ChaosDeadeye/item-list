@@ -1,4 +1,5 @@
-[
+{
+  "traits": [
   {
     "name": "xenophobe",
     "addPrice": 3500,
@@ -2404,4 +2405,6 @@
     ],
     "description": "Timmy is a highly trained Soldier, specializing in pistol, shotgun, or rifle weapons. his weapon specialization is augmented by a standard set of combat training. Super Soldiers are trained to be aggressive and consider violence the natural solution to any argument."
   }
-]
+],
+  "total": 0
+}
