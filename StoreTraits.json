@@ -99,39 +99,39 @@
       "description": "A fragment of a talent to accomplish a feat."      
     },
     {
-      "name": "xenophobe",
+      "name": "warp",
       "addPrice": 3500,
       "removePrice": 5500,
-      "stats": "lower social standing with aliens",
-      "description": "test description"      
+      "stats": "-25% mental break threshold",
+      "description": "A fragment of a talent to accomplish a feat."      
     },
     {
-      "name": "xenophobe",
+      "name": "nudist",
       "addPrice": 3500,
       "removePrice": 5500,
-      "stats": "lower social standing with aliens",
-      "description": "test description"      
+      "stats": "mood bonus when naked",
+      "description": "Timmy enjoys the feeling of freedom that comes from being nude. he can handle clothing, but will be happier without it."      
     },
     {
-      "name": "xenophobe",
+      "name": "bloodlust",
       "addPrice": 3500,
       "removePrice": 5500,
-      "stats": "lower social standing with aliens",
-      "description": "test description"      
+      "stats": "Morbid meditation focus type allowed.",
+      "description": "Timmy gets a rush from hurting people, and never minds the sight of blood or death. he is four times as likely to start a social fight as others."      
     },
     {
-      "name": "xenophobe",
+      "name": "kind",
       "addPrice": 3500,
       "removePrice": 5500,
-      "stats": "lower social standing with aliens",
-      "description": "test description"      
+      "stats": "positive social standing",
+      "description": "Timmy is an exceptionally agreeable and giving person. he never insults others and will sometimes offer kind words to brighten the moods of those around him. he also never judges people by their appearance. his agreeableness also makes him more likely to conform to prevailing opinions."      
     },
     {
-      "name": "xenophobe",
+      "name": "psychopath",
       "addPrice": 3500,
       "removePrice": 5500,
-      "stats": "lower social standing with aliens",
-      "description": "test description"      
+      "stats": "Morbid meditation focus type allowed.",
+      "description": "Timmy has no empathy. The suffering of others doesn't bother him at all. he doesn't mind if others are butchered, left unburied, imprisoned, or sold to slavery - unless it affects him. he also feels no mood boost from socializing."      
     }
   ],
   "total": 0
