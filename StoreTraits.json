@@ -4,7 +4,7 @@
       "name": "xenophobe",
       "addPrice": 3500,
       "removePrice": 5500,
-      "stats": "lower social standing with aliens",
+      "stats": "lower social, standing with aliens",
       "description": "Timmy hates and distrusts xenos. They see them as little more than animals."      
     },
     {
@@ -211,18 +211,18 @@
       "description": "Timmy likes to fight up close and personal. his accuracy is greatly increased in melee combat, but he'll be very unhappy if asked to carry a ranged weapon."      
     },
     {
-      "name": "psychopath",
+      "name": "masochist",
       "addPrice": 3500,
       "removePrice": 5500,
       "stats": "Morbid meditation focus type allowed.",
-      "description": "Timmy has no empathy."      
+      "description": "For Timmy, there's something exciting about getting hurt. He doesn't know why, he's just wired differently."      
     },
     {
-      "name": "psychopath",
+      "name": "nightowl",
       "addPrice": 3500,
       "removePrice": 5500,
-      "stats": "Morbid meditation focus type allowed.",
-      "description": "Timmy has no empathy."      
+      "stats": "mood bonus between 23h and 6h mood penalty between 11h and 18h",
+      "description": "Timmy likes to be up during the night, and sleep during the day. he gets a mood bonus if awake at night (23h-6h) and mood loss if awake during the day (11h-18h).he doesn't get a mood penalty for being in the dark."      
     },
     {
       "name": "psychopath",
