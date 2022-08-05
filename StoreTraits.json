@@ -4,7 +4,7 @@
       "name": "xenophobe",
       "addPrice": 3500,
       "removePrice": 5500,
-      "stats": "lower social, standing with aliens",
+      "stats": "lower social standing with aliens",
       "description": "Timmy hates and distrusts xenos. They see them as little more than animals."      
     },
     {
@@ -25,7 +25,7 @@
       "name": "attuned",
       "addPrice": 3500,
       "removePrice": 5500,
-      "stats": "Artistic meditation focus type disabled. Natural meditation focus type allowed. +2 plants +20% psychic sensitivity -5% mental break threshold x120% neural heat recovery rate x110% neural heat limit x90% neural heat gain",
+      "stats": "Artistic meditation focus type disabled. Natural meditation focus type allowed. +2 plants, +20% psychic sensitivity, -5% mental break threshold, x120% neural heat recovery rate, x110% neural heat limit, x90% neural heat gain",
       "description": "Timmy has spent time learning and practicing the tribal rituals required to link oneself to an Anima tree. he has long since been enamoured by the wonders of nature."      
     },
     {
@@ -39,21 +39,21 @@
       "name": "sharpeye",
       "addPrice": 3500,
       "removePrice": 5500,
-      "stats": "+25% global learning factor +20% sell price multiplier",
+      "stats": "+25% global learning factor, +20% sell price multiplier",
       "description": "Any object, event, or technology has cause and effect. Timmy is very skilled at identifying and learning such causal relationships."      
     },
     {
       "name": "flexible",
       "addPrice": 3500,
       "removePrice": 5500,
-      "stats": "+10.0 melee dodge chance +0.20 move speed",
+      "stats": "+10.0 melee dodge chance, +0.20 move speed",
       "description": "Timmy's body is naturally flexible. Stronger and more flexible than others, it has a significant advantage in hunting."      
     },
     {
       "name": "self-righteousness",
       "addPrice": 3500,
       "removePrice": 5500,
-      "stats": "-9% mental break threshold +10% global work speed +50% global certainty loss factor",
+      "stats": "-9% mental break threshold, +10% global work speed, +50% global certainty loss factor",
       "description": "Timmy believes that he is right. The firm belief has a positive effect on his will, just like his piety, but he also tends to ignore the opinions of others."      
     },
     {
@@ -67,14 +67,14 @@
       "name": "sensitiveears",
       "addPrice": 3500,
       "removePrice": 5500,
-      "stats": "-20% rest rate multiplier +8 melee dodge chance +2 melee hit chance",
+      "stats": "-20% rest rate multiplier, +8 melee dodge chance, +2 melee hit chance",
       "description": "Timmy has ears that are sensitive to even small sounds. Being sensitive to sounds is always an advantage in life outside of its nest, but it also has the disadvantage of not being able to fall asleep deeply."      
     },
     {
       "name": "prototype",
       "addPrice": 3500,
       "removePrice": 5500,
-      "stats": "-16% immunity gain speed +15 melee dodge chance +0.60 move speed",
+      "stats": "-16% immunity gain speed, +15 melee dodge chance, +0.60 move speed",
       "description": "Timmy is an experimentally cultivated Maru.\nIt has significantly superior physical abilities than other floors, but its autoimmunity is very low due to its imperfect design."      
     },
     {
@@ -88,14 +88,14 @@
       "name": "senseofduty",
       "addPrice": 3500,
       "removePrice": 5500,
-      "stats": "-14% mental break threshold +40% global work speed",
+      "stats": "-14% mental break threshold, +40% global work speed",
       "description": "A fragment of a talent to accomplish a feat."      
     },
     {
       "name": "philosophy",
       "addPrice": 3500,
       "removePrice": 5500,
-      "stats": "+150.00% negotiation ability +150.00% social impact",
+      "stats": "+150.00% negotiation ability, +150.00% social impact",
       "description": "A fragment of a talent to accomplish a feat."      
     },
     {
@@ -179,7 +179,7 @@
       "name": "toosmart",
       "addPrice": 3500,
       "removePrice": 5500,
-      "stats": "+75% global learning factor +12% mental break threshold",
+      "stats": "+75% global learning factor, +12% mental break threshold",
       "description": "Timmy is too smart for his own good. he learns everything much faster than everyone, but can be quite eccentric."      
     },
     {
@@ -200,14 +200,14 @@
       "name": "lovesick",
       "addPrice": 3500,
       "removePrice": 5500,
-      "stats": "mood bonus in relation mood penalty when betrayed",
+      "stats": "mood bonus in relation, mood penalty when betrayed",
       "description": "Timmy is very passionate about having a partner. He will never get debuffs from being rejected or rejecting others etc but will have stronger moodlets in a relationship and stronger debuffs if there heart is betrayed."      
     },
     {
       "name": "brawler",
       "addPrice": 3500,
       "removePrice": 5500,
-      "stats": "Shoot frenzy inspiration disabled. +4 melee -4 shooting +4.0 melee hit chance",
+      "stats": "Shoot frenzy inspiration disabled. +4 melee, -4 shooting, +4.0 melee hit chance",
       "description": "Timmy likes to fight up close and personal. his accuracy is greatly increased in melee combat, but he'll be very unhappy if asked to carry a ranged weapon."      
     },
     {
@@ -221,22 +221,22 @@
       "name": "nightowl",
       "addPrice": 3500,
       "removePrice": 5500,
-      "stats": "mood bonus between 23h and 6h mood penalty between 11h and 18h",
+      "stats": "mood bonus between 23h and 6h, mood penalty between 11h and 18h",
       "description": "Timmy likes to be up during the night, and sleep during the day. he gets a mood bonus if awake at night (23h-6h) and mood loss if awake during the day (11h-18h).he doesn't get a mood penalty for being in the dark."      
     },
     {
-      "name": "psychopath",
+      "name": "earlybird",
       "addPrice": 3500,
       "removePrice": 5500,
-      "stats": "Morbid meditation focus type allowed.",
-      "description": "Timmy has no empathy."      
+      "stats": "mood bonus between 11h-18h, mood penalty between 23h-6h",
+      "description": "Timmy enjoys to be up during the day, and sleep during the night. he gets a mood bonus if awake at day (11h-18h) and mood loss if awake during the night (23h-6h).he doesn't get a mood penalty for being in the light."      
     },
     {
-      "name": "psychopath",
+      "name": "greedy",
       "addPrice": 3500,
       "removePrice": 5500,
-      "stats": "Morbid meditation focus type allowed.",
-      "description": "Timmy has no empathy."      
+      "stats": "mood penalty when bedroom not impressive",
+      "description": "Timmy needs a really impressive bedroom. he gets a mood loss if he doesn't get what he wants."      
     },
     {
       "name": "psychopath",
