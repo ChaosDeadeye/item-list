@@ -132,6 +132,363 @@
       "removePrice": 5500,
       "stats": "Morbid meditation focus type allowed.",
       "description": "Timmy has no empathy. The suffering of others doesn't bother him at all. he doesn't mind if others are butchered, left unburied, imprisoned, or sold to slavery - unless it affects him. he also feels no mood boost from socializing."      
+    },
+    {
+      "name": "roomie",
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "stats": "is fine sleeping in barracks",
+      "description": "Timmy has no care in the world for there room. they could care less if a room is cramped dirty or shared or uncomfortable, aslong as they have a place to sleep they are ok. they still get negative moodlets from hot or cold rooms."      
+    },
+    {
+      "name": "unsightly",
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "stats": "likes filth, hates beauty",
+      "description": "Timmy has a extreme liking to unsightly environments. They relish the sight of hideous things but hates anything thats brings beauty to a place."      
+    },
+    {
+      "name": "passionate",
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "stats": "more mood bonus for passions",
+      "description": "Timmy has always had a extreme burning passion for there work. they have much stronger moodlets when doing a skill they love."      
+    },
+    {
+      "name": "rawism",
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "stats": "no mood penalty for eating raw food or without table",
+      "description": "Timmy has always been eating rawfood ever since they was little. they dont get negative moodlets from eating raw or nasty food or eating without a table."      
+    },
+    {
+      "name": "cannibal",
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "stats": "Morbid meditation focus type allowed.",
+      "description": "Timmy was taught that eating human meat is wrong and horrible. But one time, long ago, he tried it... and he liked it."      
+    },
+    {
+      "name": "abrasive",
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "stats": "insults people more often",
+      "description": "Timmy always says exactly what's on his mind, especially if it's bugging him. That tends to rub people the wrong way."      
+    },
+    {
+      "name": "toosmart",
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "stats": "+75% global learning factor +12% mental break threshold",
+      "description": "Timmy is too smart for his own good. he learns everything much faster than everyone, but can be quite eccentric."      
+    },
+    {
+      "name": "sicklyenjoyer",
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "stats": "mood bonus when sick",
+      "description": "Timmy is in love with getting sick. he loves the idea of getting sick and doing anything in there power to do it."      
+    },
+    {
+      "name": "pickyeater",
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "stats": "mood penalty when not eating fine meal",
+      "description": "Timmy has always been a picky eater and despises eating anything below fine meal."      
+    },
+    {
+      "name": "lovesick",
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "stats": "mood bonus in relation mood penalty when betrayed",
+      "description": "Timmy is very passionate about having a partner. He will never get debuffs from being rejected or rejecting others etc but will have stronger moodlets in a relationship and stronger debuffs if there heart is betrayed."      
+    },
+    {
+      "name": "brawler",
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "stats": "Shoot frenzy inspiration disabled. +4 melee -4 shooting +4.0 melee hit chance",
+      "description": "Timmy likes to fight up close and personal. his accuracy is greatly increased in melee combat, but he'll be very unhappy if asked to carry a ranged weapon."      
+    },
+    {
+      "name": "psychopath",
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "stats": "Morbid meditation focus type allowed.",
+      "description": "Timmy has no empathy."      
+    },
+    {
+      "name": "psychopath",
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "stats": "Morbid meditation focus type allowed.",
+      "description": "Timmy has no empathy."      
+    },
+    {
+      "name": "psychopath",
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "stats": "Morbid meditation focus type allowed.",
+      "description": "Timmy has no empathy."      
+    },
+    {
+      "name": "psychopath",
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "stats": "Morbid meditation focus type allowed.",
+      "description": "Timmy has no empathy."      
+    },
+    {
+      "name": "psychopath",
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "stats": "Morbid meditation focus type allowed.",
+      "description": "Timmy has no empathy."      
+    },
+    {
+      "name": "psychopath",
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "stats": "Morbid meditation focus type allowed.",
+      "description": "Timmy has no empathy."      
+    },
+    {
+      "name": "psychopath",
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "stats": "Morbid meditation focus type allowed.",
+      "description": "Timmy has no empathy."      
+    },
+    {
+      "name": "psychopath",
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "stats": "Morbid meditation focus type allowed.",
+      "description": "Timmy has no empathy."      
+    },
+    {
+      "name": "psychopath",
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "stats": "Morbid meditation focus type allowed.",
+      "description": "Timmy has no empathy."      
+    },
+    {
+      "name": "psychopath",
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "stats": "Morbid meditation focus type allowed.",
+      "description": "Timmy has no empathy."      
+    },
+    {
+      "name": "psychopath",
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "stats": "Morbid meditation focus type allowed.",
+      "description": "Timmy has no empathy."      
+    },
+    {
+      "name": "psychopath",
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "stats": "Morbid meditation focus type allowed.",
+      "description": "Timmy has no empathy."      
+    },
+    {
+      "name": "psychopath",
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "stats": "Morbid meditation focus type allowed.",
+      "description": "Timmy has no empathy."      
+    },
+    {
+      "name": "psychopath",
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "stats": "Morbid meditation focus type allowed.",
+      "description": "Timmy has no empathy."      
+    },
+    {
+      "name": "psychopath",
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "stats": "Morbid meditation focus type allowed.",
+      "description": "Timmy has no empathy."      
+    },
+    {
+      "name": "psychopath",
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "stats": "Morbid meditation focus type allowed.",
+      "description": "Timmy has no empathy."      
+    },
+    {
+      "name": "psychopath",
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "stats": "Morbid meditation focus type allowed.",
+      "description": "Timmy has no empathy."      
+    },
+    {
+      "name": "psychopath",
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "stats": "Morbid meditation focus type allowed.",
+      "description": "Timmy has no empathy."      
+    },
+    {
+      "name": "psychopath",
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "stats": "Morbid meditation focus type allowed.",
+      "description": "Timmy has no empathy."      
+    },
+    {
+      "name": "psychopath",
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "stats": "Morbid meditation focus type allowed.",
+      "description": "Timmy has no empathy."      
+    },
+    {
+      "name": "psychopath",
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "stats": "Morbid meditation focus type allowed.",
+      "description": "Timmy has no empathy."      
+    },
+    {
+      "name": "psychopath",
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "stats": "Morbid meditation focus type allowed.",
+      "description": "Timmy has no empathy."      
+    },
+    {
+      "name": "psychopath",
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "stats": "Morbid meditation focus type allowed.",
+      "description": "Timmy has no empathy."      
+    },
+    {
+      "name": "psychopath",
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "stats": "Morbid meditation focus type allowed.",
+      "description": "Timmy has no empathy."      
+    },
+    {
+      "name": "psychopath",
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "stats": "Morbid meditation focus type allowed.",
+      "description": "Timmy has no empathy."      
+    },
+    {
+      "name": "psychopath",
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "stats": "Morbid meditation focus type allowed.",
+      "description": "Timmy has no empathy."      
+    },
+    {
+      "name": "psychopath",
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "stats": "Morbid meditation focus type allowed.",
+      "description": "Timmy has no empathy."      
+    },
+    {
+      "name": "psychopath",
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "stats": "Morbid meditation focus type allowed.",
+      "description": "Timmy has no empathy."      
+    },
+    {
+      "name": "psychopath",
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "stats": "Morbid meditation focus type allowed.",
+      "description": "Timmy has no empathy."      
+    },
+    {
+      "name": "psychopath",
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "stats": "Morbid meditation focus type allowed.",
+      "description": "Timmy has no empathy."      
+    },
+    {
+      "name": "psychopath",
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "stats": "Morbid meditation focus type allowed.",
+      "description": "Timmy has no empathy."      
+    },
+    {
+      "name": "psychopath",
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "stats": "Morbid meditation focus type allowed.",
+      "description": "Timmy has no empathy."      
+    },
+    {
+      "name": "psychopath",
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "stats": "Morbid meditation focus type allowed.",
+      "description": "Timmy has no empathy."      
+    },
+    {
+      "name": "psychopath",
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "stats": "Morbid meditation focus type allowed.",
+      "description": "Timmy has no empathy."      
+    },
+    {
+      "name": "psychopath",
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "stats": "Morbid meditation focus type allowed.",
+      "description": "Timmy has no empathy."      
+    },
+    {
+      "name": "psychopath",
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "stats": "Morbid meditation focus type allowed.",
+      "description": "Timmy has no empathy."      
+    },
+    {
+      "name": "psychopath",
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "stats": "Morbid meditation focus type allowed.",
+      "description": "Timmy has no empathy."      
+    },
+    {
+      "name": "psychopath",
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "stats": "Morbid meditation focus type allowed.",
+      "description": "Timmy has no empathy."      
+    },
+    {
+      "name": "psychopath",
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "stats": "Morbid meditation focus type allowed.",
+      "description": "Timmy has no empathy."      
+    },
+    {
+      "name": "psychopath",
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "stats": "Morbid meditation focus type allowed.",
+      "description": "Timmy has no empathy."      
     }
   ],
   "total": 0
