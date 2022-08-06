@@ -276,7 +276,7 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "pawn race",
+		"abr": "pawn",
 		"price": 1,
 		"karmatype": "Good"
 	},
@@ -294,11 +294,6 @@
 		"abr": "removetrait",
 		"price": 1,
 		"karmatype": "Good"
-	},
-	{
-		"abr": "genderswap",
-		"price": 600,
-		"karmatype": "Neutral"
 	},
 	{
 		"abr": "prisoner",
@@ -436,5 +431,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 87
+	"total": 86
 }
