@@ -208,13 +208,13 @@
       "abr": "ancientconcretebarrier",
       "category": "Misc",
       "defname": "AncientConcreteBarrier",
-      "price": 51
+      "price": -10
     },
     {
       "abr": "ancientlamppost",
       "category": "Misc",
       "defname": "AncientLamppost",
-      "price": 50
+      "price": -10
     },
     {
       "abr": "urn",
@@ -544,7 +544,7 @@
       "abr": "ancientcryptosleepcasket",
       "category": "Misc",
       "defname": "AncientCryptosleepCasket",
-      "price": 617
+      "price": -10
     },
     {
       "abr": "largestele",
@@ -2842,19 +2842,19 @@
       "abr": "ancientterminal",
       "category": "Misc",
       "defname": "AncientTerminal_Worshipful",
-      "price": 6
+      "price": -10
     },
     {
       "abr": "ancientterminal",
       "category": "Misc",
       "defname": "AncientTerminal",
-      "price": 6
+      "price": -10
     },
     {
       "abr": "ancientenemyterminal",
       "category": "Misc",
       "defname": "AncientEnemyTerminal",
-      "price": 6
+      "price": -10
     },
     {
       "abr": "hermeticcrate",
@@ -2872,271 +2872,271 @@
       "abr": "ancientcommsconsole",
       "category": "Misc",
       "defname": "AncientCommsConsole",
-      "price": 12
+      "price": -10
     },
     {
       "abr": "ancientunstablefuelnode",
       "category": "Misc",
       "defname": "AncientFuelNode",
-      "price": 18
+      "price": -10
     },
     {
       "abr": "ancientsystemrack",
       "category": "Misc",
       "defname": "AncientSystemRack",
-      "price": 9
+      "price": -10
     },
     {
       "abr": "ancientequipmentblocks",
       "category": "Misc",
       "defname": "AncientEquipmentBlocks",
-      "price": 12
+      "price": -10
     },
     {
       "abr": "ancientmachine",
       "category": "Misc",
       "defname": "AncientMachine",
-      "price": 18
+      "price": -10
     },
     {
       "abr": "ancientstoragecylinder",
       "category": "Misc",
       "defname": "AncientStorageCylinder",
-      "price": 12
+      "price": -10
     },
     {
       "abr": "ancientbed",
       "category": "Misc",
       "defname": "AncientBed",
-      "price": 5
+      "price": -10
     },
     {
       "abr": "ancientdisplaybank",
       "category": "Misc",
       "defname": "AncientDisplayBank",
-      "price": 9
+      "price": -10
     },
     {
       "abr": "ancientlockerbank",
       "category": "Misc",
       "defname": "AncientLockerBank",
-      "price": 5
+      "price": -10
     },
     {
       "abr": "ancientcrate",
       "category": "Misc",
       "defname": "AncientCrate",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "ancientmilitarycrate",
       "category": "Misc",
       "defname": "AncientMilitaryCrate",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "ancientspacercrate",
       "category": "Misc",
       "defname": "AncientSpacerCrate",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "ancientbarrel",
       "category": "Misc",
       "defname": "AncientBarrel",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "ancientgenerator",
       "category": "Misc",
       "defname": "AncientGenerator",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "ancientoperatingtable",
       "category": "Misc",
       "defname": "AncientOperatingTable",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "ancientshoppingcart",
       "category": "Misc",
       "defname": "AncientShoppingCart",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "ancientpostbox",
       "category": "Misc",
       "defname": "AncientPostbox",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "ancientvendingmachine",
       "category": "Misc",
       "defname": "AncientVendingMachine",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "ancientairconditioner",
       "category": "Misc",
       "defname": "AncientAirConditioner",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "ancientkitchensink",
       "category": "Misc",
       "defname": "AncientKitchenSink",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "ancientstove",
       "category": "Misc",
       "defname": "AncientStove",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "ancientoven",
       "category": "Misc",
       "defname": "AncientOven",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "ancientatm",
       "category": "Misc",
       "defname": "AncientATM",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "ancientwashingmachine",
       "category": "Misc",
       "defname": "AncientWashingMachine",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "ancienthydrant",
       "category": "Misc",
       "defname": "AncientHydrant",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "ancientmicrowave",
       "category": "Misc",
       "defname": "AncientMicrowave",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "ancienttoilet",
       "category": "Misc",
       "defname": "AncientToilet",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "ancientrefrigerator",
       "category": "Misc",
       "defname": "AncientRefrigerator",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "ancientsmallcrate",
       "category": "Misc",
       "defname": "AncientSmallCrate",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "ancientlongcrate",
       "category": "Misc",
       "defname": "AncientLongCrate",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "ancientlargecrate",
       "category": "Misc",
       "defname": "AncientLargeCrate",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "ancientwheel",
       "category": "Misc",
       "defname": "AncientWheel",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "ancientgiantwheel",
       "category": "Misc",
       "defname": "AncientGiantWheel",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "ancientfence",
       "category": "Misc",
       "defname": "AncientFence",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "ancientrazorwire",
       "category": "Misc",
       "defname": "AncientRazorWire",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "ancientpipes",
       "category": "Misc",
       "defname": "AncientPipes",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "ancientmega-cannonplatform",
       "category": "Misc",
       "defname": "AncientMegaCannonTripod",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "ancientmega-cannonbarrel",
       "category": "Misc",
       "defname": "AncientMegaCannonBarrel",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "ancientcontainer",
       "category": "Misc",
       "defname": "AncientContainer",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "ancientmechanoidshell",
       "category": "Misc",
       "defname": "AncientMechanoidShell",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "ancientcentipedeshell",
       "category": "Misc",
       "defname": "AncientCentipedeShell",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "ancientmechdropbeacon",
       "category": "Misc",
       "defname": "AncientMechDropBeacon",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "ancientsecurityturret",
       "category": "Misc",
       "defname": "AncientSecurityTurret",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "ancientengineblock",
       "category": "Misc",
       "defname": "AncientRustedEngineBlock",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "ancientnavbeacon",
       "category": "Misc",
       "defname": "AncientShipBeacon",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "terrorsculpture",
@@ -4507,30 +4507,6 @@
       "price": 1842
     },
     {
-      "abr": "prosthetictentacle",
-      "category": "Prosthetic",
-      "defname": "SimpleProstheticTentacle",
-      "price": 433
-    },
-    {
-      "abr": "moonjellybell",
-      "category": "Medicine",
-      "defname": "MedicineMoonjelly",
-      "price": 83
-    },
-    {
-      "abr": "moonjellytentacle",
-      "category": "Medicine",
-      "defname": "MoonjellyTentacle",
-      "price": 30
-    },
-    {
-      "abr": "moonjelly",
-      "category": "Animal",
-      "defname": "Moonjelly_Race",
-      "price": -10
-    },
-    {
       "abr": "rabbiecamisole",
       "category": "Rabbie Apparel",
       "defname": "RB_Camisole",
@@ -4985,120 +4961,6 @@
       "category": "Natural",
       "defname": "Dragonian_Horn",
       "price": 667
-    },
-    {
-      "abr": "nurturingpod",
-      "category": "Misc",
-      "defname": "MimikkoGenerater",
-      "price": 950
-    },
-    {
-      "abr": "sweetpink",
-      "category": "Furniture",
-      "defname": "MimikkoGirlBed",
-      "price": 383
-    },
-    {
-      "abr": "seablue",
-      "category": "Furniture",
-      "defname": "MimikkoSeaBed",
-      "price": 383
-    },
-    {
-      "abr": "teenspirit",
-      "category": "Furniture",
-      "defname": "MimikkoYouthBed",
-      "price": 383
-    },
-    {
-      "abr": "fairytalewonderland",
-      "category": "Furniture",
-      "defname": "MimikkoPrincessBed",
-      "price": 383
-    },
-    {
-      "abr": "momona",
-      "category": "Animals",
-      "defname": "Momona",
-      "price": -10
-    },
-    {
-      "abr": "mysteriouscrystal",
-      "category": "Mimikko: Beast Eared girls",
-      "defname": "MomonaCore",
-      "price": -10
-    },
-    {
-      "abr": "nemuri",
-      "category": "Animals",
-      "defname": "Nemuri",
-      "price": -10
-    },
-    {
-      "abr": "mysteriouscrystal",
-      "category": "Mimikko: Beast Eared girls",
-      "defname": "NemuriCore",
-      "price": -10
-    },
-    {
-      "abr": "liuli",
-      "category": "Animals",
-      "defname": "Liuli",
-      "price": -10
-    },
-    {
-      "abr": "mysteriouscrystal",
-      "category": "Mimikko: Beast Eared girls",
-      "defname": "LiuliCore",
-      "price": -10
-    },
-    {
-      "abr": "nonona",
-      "category": "Animals",
-      "defname": "Nonona",
-      "price": -10
-    },
-    {
-      "abr": "mysteriouscrystal",
-      "category": "Mimikko: Beast Eared girls",
-      "defname": "NononaCore",
-      "price": -10
-    },
-    {
-      "abr": "ulrica",
-      "category": "Animals",
-      "defname": "Ulrica",
-      "price": -10
-    },
-    {
-      "abr": "mysteriouscrystal",
-      "category": "Mimikko: Beast Eared girls",
-      "defname": "UlricaCore",
-      "price": -10
-    },
-    {
-      "abr": "ariana",
-      "category": "Animals",
-      "defname": "Ariana",
-      "price": -10
-    },
-    {
-      "abr": "mysteriouscrystal",
-      "category": "Mimikko: Beast Eared girls",
-      "defname": "ArianaCore",
-      "price": -10
-    },
-    {
-      "abr": "alphazero",
-      "category": "Animals",
-      "defname": "Alphazero",
-      "price": -10
-    },
-    {
-      "abr": "mysteriouscrystal",
-      "category": "Mimikko: Beast Eared girls",
-      "defname": "AlphazeroCore",
-      "price": -10
     },
     {
       "abr": "cathoodie",
@@ -6079,12 +5941,6 @@
       "price": 168
     },
     {
-      "abr": "conversionchamber",
-      "category": "Production",
-      "defname": "DekConversionChamber",
-      "price": 10133
-    },
-    {
       "abr": "tentwall",
       "category": "Misc",
       "defname": "CAMakeshiftTentWall",
@@ -6185,12 +6041,6 @@
       "category": "Misc",
       "defname": "CASpacerBedrollDouble",
       "price": 290
-    },
-    {
-      "abr": "hotspring",
-      "category": "Misc",
-      "defname": "StandaloneHotSpring",
-      "price": 1775
     },
     {
       "abr": "kurinnanoedgepolearm",
@@ -13720,7 +13570,7 @@
       "abr": "steelconstruct",
       "category": "Animals",
       "defname": "VPE_SteelConstruct",
-      "price": 250
+      "price": -10
     },
     {
       "abr": "sugar",
@@ -13745,6 +13595,192 @@
       "category": "Animals",
       "defname": "AA_BlackSpelopede_Temporary",
       "price": 417
+    },
+    {
+      "abr": "moyoabyssarmour",
+      "category": "Moyo Apparel",
+      "defname": "RedMoyo_AbyssArmour",
+      "price": 4792
+    },
+    {
+      "abr": "moyoabysshelmet",
+      "category": "Moyo Headgear",
+      "defname": "RedMoyo_AbyssHelmet",
+      "price": 2617
+    },
+    {
+      "abr": "moyoassaultrifle",
+      "category": "Moyo ranged weapons",
+      "defname": "RedMoyo_MilitaryAR",
+      "price": 1908
+    },
+    {
+      "abr": "moyobodystrap",
+      "category": "Apparel",
+      "defname": "RedMoyo_BodyStrap",
+      "price": 275
+    },
+    {
+      "abr": "moyobodysuit",
+      "category": "Moyo Apparel",
+      "defname": "RedMoyo_BobySuit",
+      "price": 717
+    },
+    {
+      "abr": "moyochargeaccelerator",
+      "category": "Moyo ranged weapons",
+      "defname": "RedMoyo_MilitaryHeavyRifle",
+      "price": 3200
+    },
+    {
+      "abr": "moyocivilrifle",
+      "category": "Moyo ranged weapons",
+      "defname": "RedMoyo_CivilAR",
+      "price": 925
+    },
+    {
+      "abr": "moyodefensepistol",
+      "category": "Moyo ranged weapons",
+      "defname": "RedMoyo_Pistol",
+      "price": 367
+    },
+    {
+      "abr": "moyoexoskeleton",
+      "category": "Moyo Apparel",
+      "defname": "RedMoyo_ExoSkeleton",
+      "price": 1308
+    },
+    {
+      "abr": "moyogasmask",
+      "category": "Headgear",
+      "defname": "RedMoyo_GasMask",
+      "price": 246
+    },
+    {
+      "abr": "moyoharpoon",
+      "category": "Moyo melee weapons",
+      "defname": "RedMoyo_AlloyHarpoon",
+      "price": 858
+    },
+    {
+      "abr": "moyohelmet",
+      "category": "Moyo Headgear",
+      "defname": "RedMoyo_Helmet",
+      "price": 992
+    },
+    {
+      "abr": "moyoholocamisole",
+      "category": "Moyo Apparel",
+      "defname": "RedMoyo_HoloCamisole",
+      "price": 442
+    },
+    {
+      "abr": "moyokineticclamp",
+      "category": "Moyo melee weapons",
+      "defname": "RedMoyo_KineticClamp",
+      "price": 717
+    },
+    {
+      "abr": "moyomilitaryprecisionrifle",
+      "category": "Moyo ranged weapons",
+      "defname": "RedMoyo_MilitarySR",
+      "price": 1967
+    },
+    {
+      "abr": "moyoofficercape",
+      "category": "Moyo Apparel",
+      "defname": "RedMoyo_OfficerCape",
+      "price": 875
+    },
+    {
+      "abr": "moyoplasmaharpoon",
+      "category": "Moyo melee weapons",
+      "defname": "RedMoyo_PlasmaHarpoon",
+      "price": 1967
+    },
+    {
+      "abr": "moyoplasmatachi",
+      "category": "Moyo melee weapons",
+      "defname": "MeleeWeapon_PlasmaTachi",
+      "price": 2608
+    },
+    {
+      "abr": "moyopolicecap",
+      "category": "Moyo Headgear",
+      "defname": "RedMoyo_PanHat",
+      "price": 231
+    },
+    {
+      "abr": "moyopolicepistol",
+      "category": "Moyo ranged weapons",
+      "defname": "RedMoyo_PistolPolice",
+      "price": 783
+    },
+    {
+      "abr": "moyopolicesmg",
+      "category": "Moyo ranged weapons",
+      "defname": "RedMoyo_SMG",
+      "price": 1158
+    },
+    {
+      "abr": "moyopoliceuniform",
+      "category": "Moyo Apparel",
+      "defname": "RedMoyo_PoliceUniform",
+      "price": 558
+    },
+    {
+      "abr": "moyoriotmask",
+      "category": "Moyo Headgear",
+      "defname": "RedMoyo_MeleeMask",
+      "price": 375
+    },
+    {
+      "abr": "moyosniperassistantsystem",
+      "category": "Moyo Headgear",
+      "defname": "RedMoyo_SniperMask",
+      "price": 958
+    },
+    {
+      "abr": "moyotacticalgears",
+      "category": "Apparel",
+      "defname": "RedMoyo_TacticalGears",
+      "price": 1483
+    },
+    {
+      "abr": "moyotacticalstrap",
+      "category": "Moyo Apparel",
+      "defname": "RedMoyo_TacticalStrap",
+      "price": 717
+    },
+    {
+      "abr": "moyotaticalheadset",
+      "category": "Headgear",
+      "defname": "RedMoyo_TacticalHeadSet",
+      "price": 567
+    },
+    {
+      "abr": "moyotaticalknife",
+      "category": "Moyo melee weapons",
+      "defname": "RedMoyo_Knife",
+      "price": 475
+    },
+    {
+      "abr": "moyoworkersuit",
+      "category": "Moyo Apparel",
+      "defname": "RedMoyo_WorkSuit",
+      "price": 265
+    },
+    {
+      "abr": "redmoyo",
+      "category": "Animal",
+      "defname": "Alien_RedMoyo",
+      "price": -10
+    },
+    {
+      "abr": "redmoyomeat",
+      "category": "Meat",
+      "defname": "Meat_Alien_RedMoyo",
+      "price": 1
     },
     {
       "abr": "summonedblackspider",
@@ -13891,6 +13927,12 @@
       "price": 8333
     },
     {
+      "abr": "abysstechgeothermalgenerator",
+      "category": "Misc",
+      "defname": "RedMoyo_GeothermalGenerator",
+      "price": 6442
+    },
+    {
       "abr": "zombrella",
       "category": "Misc",
       "defname": "Zombrella",
@@ -13936,7 +13978,7 @@
       "abr": "guestancientbed",
       "category": "Misc",
       "defname": "AncientBedGuest",
-      "price": 5
+      "price": -10
     },
     {
       "abr": "guestslabbed",
@@ -13975,5 +14017,5 @@
       "price": 290
     }
   ],
-  "total": 2329
+  "total": 2336
 }
