@@ -50,7 +50,8 @@
                     <li class="list-group-item">!modsettings - gives user info on how many coins are being earned and global settings</li>
                     <li class="list-group-item">!giftcoins - Syntax: !giftcoins @username 100 - give another viewer your coins</li>
                     <li class="list-group-item">!toolkitcmds - shows all available commands to the user, this does not translate by default so it can be universally recognized.</li>
-                    <li class="list-group-item">!buy ticket - join the viewer name queue</li>
+                    <li class="list-group-item">!buy ticket - join the viewer name queue (or just ask me to give you a pawn)</li>
+		    <li class="list-group-item">!buy pawn *race* - join the colony with a new pawn and the race you chose</li>
                     <li class="list-group-item">!mypawnstory - view information about your pawns backstory</li>
                     <li class="list-group-item">!mypawnskills - view information about your pawns skills</li>
 		    <li class="list-group-item">!buy removetrait *traitname* - removes this trait from your pawn. by default 5500 coins</li>
@@ -75,6 +76,9 @@
                                     </button>
                                     <button class="btn btn-success" ng-class="{'active': (selected == '3')}" ng-click='selected=3'>
                                         Traits
+                                    </button>
+				    <button class="btn btn-success" ng-class="{'active': (selected == '4')}" ng-click='selected=4'>
+                                        Races
                                     </button>
                                 </div>
                                 <div class="form-group row">
@@ -180,6 +184,25 @@
                                 </tbody>
                             </table>
                         </div>
+                    </div>
+                </div>
+		<div class="row" ng-show='selected == 3'>
+                    <div class="col-md-12">
+                  	<ul class="list-races">
+          	        	<li class="list-races-item">Android - 2500</li>
+        	        	<li class="list-races-item">Dragonian - 9667</li>
+                   		<li class="list-races-item">Droid - 1417</li>
+          	        	<li class="list-races-item">Human - 2917</li>
+           	        	<li class="list-races-item">Kurin - 5833</li>
+                		<li class="list-races-item">Maru - 3667</li>
+                    		<li class="list-races-item">Miho - 6667</li>
+                    		<li class="list-races-item">Moyo - 5333</li>
+                    		<li class="list-races-item">Nearmare - 4167</li>
+                    		<li class="list-races-item">Nyaron - 5000</li>
+				<li class="list-races-item">Rabbie - 3333</li>
+			    	<li class="list-races-item">Red Moyo - 5333</li>
+               		        <li class="list-races-item">Revia - 5833</li>
+                </ul>
                     </div>
                 </div>
             </div>
