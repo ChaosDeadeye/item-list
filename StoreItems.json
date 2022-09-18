@@ -4072,7 +4072,7 @@
       "abr": "칼날나비포탈더미",
       "category": "Misc",
       "defname": "Miho_Butterfly_Portal_Dummy",
-      "price": 9
+      "price": -10
     },
     {
       "abr": "portal",
@@ -11050,7 +11050,7 @@
       "abr": "ニアメーア・ディバウトmeat",
       "category": "Meat",
       "defname": "Meat_HAR_Nearmaere_b",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "マシアフズロア",
