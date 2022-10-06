@@ -15,8 +15,6 @@
         const itemListURL = "https://raw.githubusercontent.com/ChaosDeadeye/item-list/master/StoreItems.json";
         const eventListURL = "https://raw.githubusercontent.com/ChaosDeadeye/item-list/master/StoreEvents.json";
 	const traitListURL = "https://raw.githubusercontent.com/ChaosDeadeye/item-list/master/StoreTraits(new).json";
-	const test1ListURL = "https://raw.githubusercontent.com/ChaosDeadeye/item-list/master/StoreItems(test1).json";
-	const test2ListURL = "https://raw.githubusercontent.com/ChaosDeadeye/item-list/master/StoreItems(test2).json";
     </script>
 </head>
 
@@ -406,36 +404,6 @@
 
             traitList = new List('traits', options, traitData);
         });
-	    
-	    
-	<!--    
-
-        let itemList = null;
-
-	$.when(
-    		$.getJSON(test1ListURL),
-    		$.getJSON(test2ListURL)
-	).done(function(data1, data2) {
-           var options = {
-               valueNames: ['abr', 'price', 'category','Mod'],
-                item: '<tr><td class="abr" scope="row"></td><td class="price"></td><td class="category"></td><td class="Mod"></td></tr>'
-	});
-
-            var itemData = [];
-	$.when(
-		$.each(data1.items),
-		$.each(data2.items)
-	).done(function(index,value) {
-               if (value["price"] > 0) {
-                   itemData.push(value);
-                }
-            });
-
-            itemList = new List('items', options, itemData);
-        });
-	    
-	  -->  
-	    
 
         $("#item-price-min").keyup(function() {
             updateItemFilter();
