@@ -1,0 +1,17 @@
+﻿{
+  "items": [
+    {
+      "abr": "beer",
+      "category": "Drugs",
+      "defname": "Beer",
+      "price": 20
+    },
+    {
+      "abr": "wort",
+      "category": "Manufactured",
+      "defname": "Wort",
+      "price": 4
+    }
+  ],
+  "total": 2
+}
