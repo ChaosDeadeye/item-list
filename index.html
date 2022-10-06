@@ -80,6 +80,9 @@
 				    <button class="btn btn-success" ng-class="{'active': (selected == '4')}" ng-click='selected=4'>
                                         Races
                                     </button>
+				    <button class="btn btn-success" ng-class="{'active': (selected == '5')}" ng-click='selected=4'>
+                                        Test
+                                    </button>
                                 </div>
                                 <div class="form-group row">
                                     <label class="col-sm-3 col-form-label" for="">Price Between:</label>
@@ -253,6 +256,36 @@
                 </div>
             </div>
         </div>
+                <div class="row" ng-show='selected == 5'>
+                    <div class="col-md-12">
+                        <div id="items">
+                            <div class="input-group input-group-sm mb-3">
+                                <div class="input-group-prepend">
+                                    <span class="input-group-text" id="inputGroup-sizing-sm">Search</span>
+                                </div>
+                                <input type="text" class="form-control search" aria-label="Search" aria-describedby="inputGroup-sizing-sm">
+                            </div>
+                            <p>
+                                <button type="button" class="btn btn-primary sort" data-sort="abr">
+                                    Sort
+                                </button>
+                                <button type="button" class="btn btn-primary sort" data-sort="price">
+                                    Sort by Price
+                                </button>
+                            </p>
+                            <table class="table items">
+                                <tr>
+                                    <th scope="col" class="sort" data-sort="abr">Name</th>
+                                    <th scope="col" class="sort" data-sort="price">Price</th>
+                                    <th scope="col" class="sort" data-sort="category">Category</th>
+                                    <th scope="col" class="sort" data-sort="category">Mod</th>
+                                </tr>
+                                <tbody class="list">
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>	    
 
         <div class="container">
             <!-- Example row of columns -->
