@@ -16255,102 +16255,109 @@
       "mod": "Miho, the celestial fox"
     },
     {
-      "abr": "zombrella",
-      "category": "Misc",
-      "defname": "Zombrella",
+      "abr": "dragoniancheese",
+      "category": "Meals",
+      "defname": "DragonianCheese",
+      "price": 20,
+      "mod": "n/a"
+    },
+    {
+      "abr": "necromancerspell:massconsumecorpse",
+      "category": "Scrolls",
+      "defname": "SpellOf_ConsumeCorpse_Mass",
+      "price": 833,
+      "mod": "A RimWorld of Magic"
+    },
+    {
+      "abr": "psytrainer(fanofknives)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Miho_Huntress_Ability_FanofKnives",
       "price": 3333,
-      "mod": "n/a"
+      "mod": "VPE Alien Patch"
     },
     {
-      "abr": "guestbed",
-      "category": "Furniture",
-      "defname": "BedGuest",
-      "price": 155,
-      "mod": "n/a"
+      "abr": "psytrainer(foxshield)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Miho_Temptress_Ability_Shield",
+      "price": 2833,
+      "mod": "VPE Alien Patch"
     },
     {
-      "abr": "guestdoublebed",
-      "category": "Furniture",
-      "defname": "DoubleBedGuest",
-      "price": 292,
-      "mod": "n/a"
+      "abr": "psytrainer(foxfirearrows)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Miho_Huntress_Ability_Fireball_Adept",
+      "price": 2833,
+      "mod": "VPE Alien Patch"
     },
     {
-      "abr": "guestroyalbed",
-      "category": "Furniture",
-      "defname": "RoyalBedGuest",
-      "price": 1467,
-      "mod": "n/a"
+      "abr": "psytrainer(foxfire)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Miho_Huntress_Ability_Fireball",
+      "price": 2333,
+      "mod": "VPE Alien Patch"
     },
     {
-      "abr": "guesthospitalbed",
-      "category": "Furniture",
-      "defname": "HospitalBedGuest",
-      "price": 667,
-      "mod": "n/a"
+      "abr": "psytrainer(foxfire)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Miho_Shamaness_Ability_Fireball",
+      "price": 2333,
+      "mod": "VPE Alien Patch"
     },
     {
-      "abr": "guestbedroll",
-      "category": "Furniture",
-      "defname": "BedrollGuest",
-      "price": 137,
-      "mod": "n/a"
+      "abr": "psytrainer(foxfire)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Miho_Temptress_Ability_Fireball",
+      "price": 2333,
+      "mod": "VPE Alien Patch"
     },
     {
-      "abr": "guestdoublebedroll",
-      "category": "Furniture",
-      "defname": "BedrollDoubleGuest",
-      "price": 290,
-      "mod": "n/a"
+      "abr": "psytrainer(foxskip)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Miho_Summoner_Ability_Skip",
+      "price": 2333,
+      "mod": "VPE Alien Patch"
     },
     {
-      "abr": "guestancientbed",
-      "category": "Misc",
-      "defname": "AncientBedGuest",
-      "price": 5,
-      "mod": "n/a"
+      "abr": "psytrainer(foxstorm)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Miho_Huntress_Ability_Thunder",
+      "price": 2833,
+      "mod": "VPE Alien Patch"
     },
     {
-      "abr": "guestslabbed",
-      "category": "Furniture",
-      "defname": "SlabBedGuest",
-      "price": 102,
-      "mod": "n/a"
+      "abr": "psytrainer(healingtouch)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Miho_Shamaness_Ability_Heal",
+      "price": 2833,
+      "mod": "VPE Alien Patch"
     },
     {
-      "abr": "guestslabdoublebed",
-      "category": "Furniture",
-      "defname": "SlabDoubleBedGuest",
-      "price": 288,
-      "mod": "n/a"
+      "abr": "psytrainer(huninghawk)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Miho_Huntress_Ability_Hawk",
+      "price": 1333,
+      "mod": "VPE Alien Patch"
     },
     {
-      "abr": "guestbedroll",
-      "category": "Misc",
-      "defname": "CAMakeshiftBedrollGuest",
-      "price": 137,
-      "mod": "n/a"
+      "abr": "psytrainer(pulseofdoom)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Miho_Temptress_Ability_BerserkPulse",
+      "price": 3333,
+      "mod": "VPE Alien Patch"
     },
     {
-      "abr": "guestdoublebedroll",
-      "category": "Misc",
-      "defname": "CAMakeshiftBedrollDoubleGuest",
-      "price": 290,
-      "mod": "n/a"
+      "abr": "psytrainer(smallfoxfire)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Miho_Huntress_Ability_Fireball_Small",
+      "price": 1833,
+      "mod": "VPE Alien Patch"
     },
     {
-      "abr": "guestspacerbedroll",
-      "category": "Misc",
-      "defname": "CASpacerBedrollGuest",
-      "price": 137,
-      "mod": "n/a"
-    },
-    {
-      "abr": "guestspacerdoublebedroll",
-      "category": "Misc",
-      "defname": "CASpacerBedrollDoubleGuest",
-      "price": 290,
-      "mod": "n/a"
+      "abr": "psytrainer(smallfoxfire)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Miho_Shamaness_Ability_Fireball_Small",
+      "price": 1833,
+      "mod": "VPE Alien Patch"
     }
   ]
 }
