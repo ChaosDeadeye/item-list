@@ -240,14 +240,14 @@
     },
     {
       "abr": "ancientconcretebarrier",
-      "category": "Misc",
+      "category": "",
       "defname": "AncientConcreteBarrier",
       "price": 51,
       "mod": "RimWorld"
     },
     {
       "abr": "ancientlamppost",
-      "category": "Misc",
+      "category": "",
       "defname": "AncientLamppost",
       "price": 50,
       "mod": "RimWorld"
@@ -401,7 +401,7 @@
     },
     {
       "abr": "torchlamp",
-      "category": "Misc",
+      "category": "",
       "defname": "TorchLamp",
       "price": 41,
       "mod": "RimWorld"
@@ -541,7 +541,7 @@
     },
     {
       "abr": "commsconsole",
-      "category": "Misc",
+      "category": "",
       "defname": "CommsConsole",
       "price": 608,
       "mod": "RimWorld"
@@ -555,35 +555,35 @@
     },
     {
       "abr": "moisturepump",
-      "category": "Misc",
+      "category": "",
       "defname": "MoisturePump",
       "price": 458,
       "mod": "RimWorld"
     },
     {
       "abr": "ground-penetratingscanner",
-      "category": "Misc",
+      "category": "",
       "defname": "GroundPenetratingScanner",
       "price": 1092,
       "mod": "RimWorld"
     },
     {
       "abr": "long-rangemineralscanner",
-      "category": "Misc",
+      "category": "",
       "defname": "LongRangeMineralScanner",
       "price": 1683,
       "mod": "RimWorld"
     },
     {
       "abr": "podlauncher",
-      "category": "Misc",
+      "category": "",
       "defname": "PodLauncher",
       "price": 230,
       "mod": "RimWorld"
     },
     {
       "abr": "transportpod",
-      "category": "Misc",
+      "category": "",
       "defname": "TransportPod",
       "price": 253,
       "mod": "RimWorld"
@@ -611,42 +611,42 @@
     },
     {
       "abr": "grave",
-      "category": "Misc",
+      "category": "",
       "defname": "Grave",
       "price": 5,
       "mod": "RimWorld"
     },
     {
       "abr": "sarcophagus",
-      "category": "Misc",
+      "category": "",
       "defname": "Sarcophagus",
       "price": 214,
       "mod": "RimWorld"
     },
     {
       "abr": "cryptosleepcasket",
-      "category": "Misc",
+      "category": "",
       "defname": "CryptosleepCasket",
       "price": 1183,
       "mod": "RimWorld"
     },
     {
       "abr": "ancientcryptosleepcasket",
-      "category": "Misc",
+      "category": "",
       "defname": "AncientCryptosleepCasket",
       "price": 617,
       "mod": "RimWorld"
     },
     {
       "abr": "largestele",
-      "category": "Misc",
+      "category": "",
       "defname": "SteleLarge",
       "price": 467,
       "mod": "RimWorld"
     },
     {
       "abr": "grandstele",
-      "category": "Misc",
+      "category": "",
       "defname": "SteleGrand",
       "price": 933,
       "mod": "RimWorld"
@@ -667,35 +667,35 @@
     },
     {
       "abr": "powerconduit",
-      "category": "Misc",
+      "category": "",
       "defname": "PowerConduit",
       "price": 3,
       "mod": "RimWorld"
     },
     {
       "abr": "waterproofconduit",
-      "category": "Misc",
+      "category": "",
       "defname": "WaterproofConduit",
       "price": 32,
       "mod": "RimWorld"
     },
     {
       "abr": "powerswitch",
-      "category": "Misc",
+      "category": "",
       "defname": "PowerSwitch",
       "price": 102,
       "mod": "RimWorld"
     },
     {
       "abr": "wood-firedgenerator",
-      "category": "Misc",
+      "category": "",
       "defname": "WoodFiredGenerator",
       "price": 442,
       "mod": "RimWorld"
     },
     {
       "abr": "chemfuelpoweredgenerator",
-      "category": "Misc",
+      "category": "",
       "defname": "ChemfuelPoweredGenerator",
       "price": 492,
       "mod": "RimWorld"
@@ -709,21 +709,21 @@
     },
     {
       "abr": "solargenerator",
-      "category": "Misc",
+      "category": "",
       "defname": "SolarGenerator",
       "price": 492,
       "mod": "RimWorld"
     },
     {
       "abr": "geothermalgenerator",
-      "category": "Misc",
+      "category": "",
       "defname": "GeothermalGenerator",
       "price": 1575,
       "mod": "RimWorld"
     },
     {
       "abr": "watermillgenerator",
-      "category": "Misc",
+      "category": "",
       "defname": "WatermillGenerator",
       "price": 1000,
       "mod": "RimWorld"
@@ -828,14 +828,14 @@
     },
     {
       "abr": "electriccrematorium",
-      "category": "Misc",
+      "category": "",
       "defname": "ElectricCrematorium",
       "price": 700,
       "mod": "RimWorld"
     },
     {
       "abr": "hydroponicsbasin",
-      "category": "Misc",
+      "category": "",
       "defname": "HydroponicsBasin",
       "price": 383,
       "mod": "RimWorld"
@@ -856,28 +856,28 @@
     },
     {
       "abr": "nutrientpastedispenser",
-      "category": "Misc",
+      "category": "",
       "defname": "NutrientPasteDispenser",
       "price": 567,
       "mod": "RimWorld"
     },
     {
       "abr": "hopper",
-      "category": "Misc",
+      "category": "",
       "defname": "Hopper",
       "price": 49,
       "mod": "RimWorld"
     },
     {
       "abr": "sandbags",
-      "category": "Misc",
+      "category": "",
       "defname": "Sandbags",
       "price": 18,
       "mod": "RimWorld"
     },
     {
       "abr": "barricade",
-      "category": "Misc",
+      "category": "",
       "defname": "Barricade",
       "price": 19,
       "mod": "RimWorld"
@@ -940,14 +940,14 @@
     },
     {
       "abr": "autocannonturret",
-      "category": "Misc",
+      "category": "",
       "defname": "Turret_Autocannon",
       "price": 2117,
       "mod": "RimWorld"
     },
     {
       "abr": "uraniumslugturret",
-      "category": "Misc",
+      "category": "",
       "defname": "Turret_Sniper",
       "price": 2408,
       "mod": "RimWorld"
@@ -961,42 +961,42 @@
     },
     {
       "abr": "shipstructuralbeam",
-      "category": "Misc",
+      "category": "",
       "defname": "Ship_Beam",
       "price": 1775,
       "mod": "RimWorld"
     },
     {
       "abr": "shipcryptosleepcasket",
-      "category": "Misc",
+      "category": "",
       "defname": "Ship_CryptosleepCasket",
       "price": 1725,
       "mod": "RimWorld"
     },
     {
       "abr": "shipcomputercore",
-      "category": "Misc",
+      "category": "",
       "defname": "Ship_ComputerCore",
       "price": 9742,
       "mod": "RimWorld"
     },
     {
       "abr": "shipreactor",
-      "category": "Misc",
+      "category": "",
       "defname": "Ship_Reactor",
       "price": 9067,
       "mod": "RimWorld"
     },
     {
       "abr": "shipengine",
-      "category": "Misc",
+      "category": "",
       "defname": "Ship_Engine",
       "price": 5925,
       "mod": "RimWorld"
     },
     {
       "abr": "sensorcluster",
-      "category": "Misc",
+      "category": "",
       "defname": "Ship_SensorCluster",
       "price": 3008,
       "mod": "RimWorld"
@@ -1024,63 +1024,63 @@
     },
     {
       "abr": "door",
-      "category": "Misc",
+      "category": "",
       "defname": "Door",
       "price": 88,
       "mod": "RimWorld"
     },
     {
       "abr": "autodoor",
-      "category": "Misc",
+      "category": "",
       "defname": "Autodoor",
       "price": 323,
       "mod": "RimWorld"
     },
     {
       "abr": "animalflap",
-      "category": "Misc",
+      "category": "",
       "defname": "AnimalFlap",
       "price": 88,
       "mod": "RimWorld"
     },
     {
       "abr": "wall",
-      "category": "Misc",
+      "category": "",
       "defname": "Wall",
       "price": 17,
       "mod": "RimWorld"
     },
     {
       "abr": "fence",
-      "category": "Misc",
+      "category": "",
       "defname": "Fence",
       "price": 4,
       "mod": "RimWorld"
     },
     {
       "abr": "fencegate",
-      "category": "Misc",
+      "category": "",
       "defname": "FenceGate",
       "price": 86,
       "mod": "RimWorld"
     },
     {
       "abr": "column",
-      "category": "Misc",
+      "category": "",
       "defname": "Column",
       "price": 71,
       "mod": "RimWorld"
     },
     {
       "abr": "campfire",
-      "category": "Misc",
+      "category": "",
       "defname": "Campfire",
       "price": 41,
       "mod": "RimWorld"
     },
     {
       "abr": "passivecooler",
-      "category": "Misc",
+      "category": "",
       "defname": "PassiveCooler",
       "price": 101,
       "mod": "RimWorld"
@@ -1094,14 +1094,14 @@
     },
     {
       "abr": "cooler",
-      "category": "Misc",
+      "category": "",
       "defname": "Cooler",
       "price": 458,
       "mod": "RimWorld"
     },
     {
       "abr": "vent",
-      "category": "Misc",
+      "category": "",
       "defname": "Vent",
       "price": 97,
       "mod": "RimWorld"
@@ -2928,49 +2928,49 @@
     },
     {
       "abr": "count-downactivator",
-      "category": "Misc",
+      "category": "",
       "defname": "ActivatorCountdown",
       "price": 107,
       "mod": "Royalty"
     },
     {
       "abr": "proximityactivator",
-      "category": "Misc",
+      "category": "",
       "defname": "ActivatorProximity",
       "price": 107,
       "mod": "Royalty"
     },
     {
       "abr": "mechhigh-shield",
-      "category": "Misc",
+      "category": "",
       "defname": "ShieldGeneratorMortar",
       "price": 1667,
       "mod": "Royalty"
     },
     {
       "abr": "mechlow-shield",
-      "category": "Misc",
+      "category": "",
       "defname": "ShieldGeneratorBullets",
       "price": 1667,
       "mod": "Royalty"
     },
     {
       "abr": "mechcapsule",
-      "category": "Misc",
+      "category": "",
       "defname": "MechCapsule",
       "price": 467,
       "mod": "Royalty"
     },
     {
       "abr": "mechassembler",
-      "category": "Misc",
+      "category": "",
       "defname": "MechAssembler",
       "price": 467,
       "mod": "Royalty"
     },
     {
       "abr": "mechdropbeacon",
-      "category": "Misc",
+      "category": "",
       "defname": "MechDropBeacon",
       "price": 105,
       "mod": "Royalty"
@@ -3313,350 +3313,350 @@
     },
     {
       "abr": "ancientterminal",
-      "category": "Misc",
+      "category": "",
       "defname": "AncientTerminal_Worshipful",
       "price": 6,
       "mod": "Ideology"
     },
     {
       "abr": "ancientterminal",
-      "category": "Misc",
+      "category": "",
       "defname": "AncientTerminal",
       "price": 6,
       "mod": "Ideology"
     },
     {
       "abr": "ancientenemyterminal",
-      "category": "Misc",
+      "category": "",
       "defname": "AncientEnemyTerminal",
       "price": 6,
       "mod": "Ideology"
     },
     {
       "abr": "hermeticcrate",
-      "category": "Misc",
+      "category": "",
       "defname": "AncientHermeticCrate",
       "price": 6,
       "mod": "Ideology"
     },
     {
       "abr": "securitycrate",
-      "category": "Misc",
+      "category": "",
       "defname": "AncientSecurityCrate",
       "price": 12,
       "mod": "Ideology"
     },
     {
       "abr": "ancientcommsconsole",
-      "category": "Misc",
+      "category": "",
       "defname": "AncientCommsConsole",
       "price": 12,
       "mod": "Ideology"
     },
     {
       "abr": "ancientunstablefuelnode",
-      "category": "Misc",
+      "category": "",
       "defname": "AncientFuelNode",
       "price": 18,
       "mod": "Ideology"
     },
     {
       "abr": "ancientsystemrack",
-      "category": "Misc",
+      "category": "",
       "defname": "AncientSystemRack",
       "price": 9,
       "mod": "Ideology"
     },
     {
       "abr": "ancientequipmentblocks",
-      "category": "Misc",
+      "category": "",
       "defname": "AncientEquipmentBlocks",
       "price": 12,
       "mod": "Ideology"
     },
     {
       "abr": "ancientmachine",
-      "category": "Misc",
+      "category": "",
       "defname": "AncientMachine",
       "price": 18,
       "mod": "Ideology"
     },
     {
       "abr": "ancientstoragecylinder",
-      "category": "Misc",
+      "category": "",
       "defname": "AncientStorageCylinder",
       "price": 12,
       "mod": "Ideology"
     },
     {
       "abr": "ancientbed",
-      "category": "Misc",
+      "category": "",
       "defname": "AncientBed",
       "price": 5,
       "mod": "Ideology"
     },
     {
       "abr": "ancientdisplaybank",
-      "category": "Misc",
+      "category": "",
       "defname": "AncientDisplayBank",
       "price": 9,
       "mod": "Ideology"
     },
     {
       "abr": "ancientlockerbank",
-      "category": "Misc",
+      "category": "",
       "defname": "AncientLockerBank",
       "price": 5,
       "mod": "Ideology"
     },
     {
       "abr": "ancientcrate",
-      "category": "Misc",
+      "category": "",
       "defname": "AncientCrate",
       "price": 2,
       "mod": "Ideology"
     },
     {
       "abr": "ancientmilitarycrate",
-      "category": "Misc",
+      "category": "",
       "defname": "AncientMilitaryCrate",
       "price": 2,
       "mod": "Ideology"
     },
     {
       "abr": "ancientspacercrate",
-      "category": "Misc",
+      "category": "",
       "defname": "AncientSpacerCrate",
       "price": 2,
       "mod": "Ideology"
     },
     {
       "abr": "ancientbarrel",
-      "category": "Misc",
+      "category": "",
       "defname": "AncientBarrel",
       "price": 1,
       "mod": "Ideology"
     },
     {
       "abr": "ancientgenerator",
-      "category": "Misc",
+      "category": "",
       "defname": "AncientGenerator",
       "price": 1,
       "mod": "Ideology"
     },
     {
       "abr": "ancientoperatingtable",
-      "category": "Misc",
+      "category": "",
       "defname": "AncientOperatingTable",
       "price": 1,
       "mod": "Ideology"
     },
     {
       "abr": "ancientshoppingcart",
-      "category": "Misc",
+      "category": "",
       "defname": "AncientShoppingCart",
       "price": 1,
       "mod": "Ideology"
     },
     {
       "abr": "ancientpostbox",
-      "category": "Misc",
+      "category": "",
       "defname": "AncientPostbox",
       "price": 1,
       "mod": "Ideology"
     },
     {
       "abr": "ancientvendingmachine",
-      "category": "Misc",
+      "category": "",
       "defname": "AncientVendingMachine",
       "price": 1,
       "mod": "Ideology"
     },
     {
       "abr": "ancientairconditioner",
-      "category": "Misc",
+      "category": "",
       "defname": "AncientAirConditioner",
       "price": 1,
       "mod": "Ideology"
     },
     {
       "abr": "ancientkitchensink",
-      "category": "Misc",
+      "category": "",
       "defname": "AncientKitchenSink",
       "price": 1,
       "mod": "Ideology"
     },
     {
       "abr": "ancientstove",
-      "category": "Misc",
+      "category": "",
       "defname": "AncientStove",
       "price": 1,
       "mod": "Ideology"
     },
     {
       "abr": "ancientoven",
-      "category": "Misc",
+      "category": "",
       "defname": "AncientOven",
       "price": 1,
       "mod": "Ideology"
     },
     {
       "abr": "ancientatm",
-      "category": "Misc",
+      "category": "",
       "defname": "AncientATM",
       "price": 1,
       "mod": "Ideology"
     },
     {
       "abr": "ancientwashingmachine",
-      "category": "Misc",
+      "category": "",
       "defname": "AncientWashingMachine",
       "price": 1,
       "mod": "Ideology"
     },
     {
       "abr": "ancienthydrant",
-      "category": "Misc",
+      "category": "",
       "defname": "AncientHydrant",
       "price": 1,
       "mod": "Ideology"
     },
     {
       "abr": "ancientmicrowave",
-      "category": "Misc",
+      "category": "",
       "defname": "AncientMicrowave",
       "price": 1,
       "mod": "Ideology"
     },
     {
       "abr": "ancienttoilet",
-      "category": "Misc",
+      "category": "",
       "defname": "AncientToilet",
       "price": 1,
       "mod": "Ideology"
     },
     {
       "abr": "ancientrefrigerator",
-      "category": "Misc",
+      "category": "",
       "defname": "AncientRefrigerator",
       "price": 1,
       "mod": "Ideology"
     },
     {
       "abr": "ancientsmallcrate",
-      "category": "Misc",
+      "category": "",
       "defname": "AncientSmallCrate",
       "price": 1,
       "mod": "Ideology"
     },
     {
       "abr": "ancientlongcrate",
-      "category": "Misc",
+      "category": "",
       "defname": "AncientLongCrate",
       "price": 1,
       "mod": "Ideology"
     },
     {
       "abr": "ancientlargecrate",
-      "category": "Misc",
+      "category": "",
       "defname": "AncientLargeCrate",
       "price": 1,
       "mod": "Ideology"
     },
     {
       "abr": "ancientwheel",
-      "category": "Misc",
+      "category": "",
       "defname": "AncientWheel",
       "price": 1,
       "mod": "Ideology"
     },
     {
       "abr": "ancientgiantwheel",
-      "category": "Misc",
+      "category": "",
       "defname": "AncientGiantWheel",
       "price": 1,
       "mod": "Ideology"
     },
     {
       "abr": "ancientfence",
-      "category": "Misc",
+      "category": "",
       "defname": "AncientFence",
       "price": 1,
       "mod": "Ideology"
     },
     {
       "abr": "ancientrazorwire",
-      "category": "Misc",
+      "category": "",
       "defname": "AncientRazorWire",
       "price": 1,
       "mod": "Ideology"
     },
     {
       "abr": "ancientpipes",
-      "category": "Misc",
+      "category": "",
       "defname": "AncientPipes",
       "price": 1000,
       "mod": "Ideology"
     },
     {
       "abr": "ancientmega-cannonplatform",
-      "category": "Misc",
+      "category": "",
       "defname": "AncientMegaCannonTripod",
       "price": 1,
       "mod": "Ideology"
     },
     {
       "abr": "ancientmega-cannonbarrel",
-      "category": "Misc",
+      "category": "",
       "defname": "AncientMegaCannonBarrel",
       "price": 1,
       "mod": "Ideology"
     },
     {
       "abr": "ancientcontainer",
-      "category": "Misc",
+      "category": "",
       "defname": "AncientContainer",
       "price": 1,
       "mod": "Ideology"
     },
     {
       "abr": "ancientmechanoidshell",
-      "category": "Misc",
+      "category": "",
       "defname": "AncientMechanoidShell",
       "price": 1,
       "mod": "Ideology"
     },
     {
       "abr": "ancientcentipedeshell",
-      "category": "Misc",
+      "category": "",
       "defname": "AncientCentipedeShell",
       "price": 1,
       "mod": "Ideology"
     },
     {
       "abr": "ancientmechdropbeacon",
-      "category": "Misc",
+      "category": "",
       "defname": "AncientMechDropBeacon",
       "price": 1,
       "mod": "Ideology"
     },
     {
       "abr": "ancientsecurityturret",
-      "category": "Misc",
+      "category": "",
       "defname": "AncientSecurityTurret",
       "price": 1,
       "mod": "Ideology"
     },
     {
       "abr": "ancientengineblock",
-      "category": "Misc",
+      "category": "",
       "defname": "AncientRustedEngineBlock",
       "price": 1,
       "mod": "Ideology"
     },
     {
       "abr": "ancientnavbeacon",
-      "category": "Misc",
+      "category": "",
       "defname": "AncientShipBeacon",
       "price": 1,
       "mod": "Ideology"
@@ -3670,35 +3670,35 @@
     },
     {
       "abr": "smallaltar",
-      "category": "Misc",
+      "category": "",
       "defname": "Altar_Small",
       "price": 197,
       "mod": "Ideology"
     },
     {
       "abr": "mediumaltar",
-      "category": "Misc",
+      "category": "",
       "defname": "Altar_Medium",
       "price": 425,
       "mod": "Ideology"
     },
     {
       "abr": "largealtar",
-      "category": "Misc",
+      "category": "",
       "defname": "Altar_Large",
       "price": 783,
       "mod": "Ideology"
     },
     {
       "abr": "grandaltar",
-      "category": "Misc",
+      "category": "",
       "defname": "Altar_Grand",
       "price": 1183,
       "mod": "Ideology"
     },
     {
       "abr": "ideogram",
-      "category": "Misc",
+      "category": "",
       "defname": "Ideogram",
       "price": 308,
       "mod": "Ideology"
@@ -3712,14 +3712,14 @@
     },
     {
       "abr": "darktorch",
-      "category": "Misc",
+      "category": "",
       "defname": "Darktorch",
       "price": 41,
       "mod": "Ideology"
     },
     {
       "abr": "fungusdarktorch",
-      "category": "Misc",
+      "category": "",
       "defname": "DarktorchFungus",
       "price": 37,
       "mod": "Ideology"
@@ -3803,7 +3803,7 @@
     },
     {
       "abr": "reliquary",
-      "category": "Misc",
+      "category": "",
       "defname": "Reliquary",
       "price": 2492,
       "mod": "Ideology"
@@ -3894,7 +3894,7 @@
     },
     {
       "abr": "autobong",
-      "category": "Misc",
+      "category": "",
       "defname": "Autobong",
       "price": 567,
       "mod": "Ideology"
@@ -4142,14 +4142,14 @@
       "category": "Ranged weapons",
       "defname": "Gun_TripleRocket",
       "price": 1667,
-      "mod": "RimWorld"
+      "mod": "Vanilla Weapons Expanded"
     },
     {
       "abr": "doomsdayrocketlauncher",
       "category": "Ranged weapons",
       "defname": "Gun_DoomsdayRocket",
       "price": 1667,
-      "mod": "RimWorld"
+      "mod": "Vanilla Weapons Expanded"
     },
     {
       "abr": "emeritechunk",
@@ -4524,7 +4524,7 @@
     },
     {
       "abr": "kurinhwacha",
-      "category": "Misc",
+      "category": "",
       "defname": "Kurin_FireTurret",
       "price": 758,
       "mod": "Kurin HAR Edition"
@@ -4748,28 +4748,28 @@
     },
     {
       "abr": "칼날나비포탈더미",
-      "category": "Misc",
+      "category": "",
       "defname": "Miho_Butterfly_Portal_Dummy",
       "price": -10,
       "mod": "Miho, the celestial fox"
     },
     {
       "abr": "portal",
-      "category": "Misc",
+      "category": "",
       "defname": "Miho_Butterfly_Portal",
       "price": 9,
       "mod": "Miho, the celestial fox"
     },
     {
       "abr": "portal",
-      "category": "Misc",
+      "category": "",
       "defname": "Miho_Fox_Portal",
       "price": 9,
       "mod": "Miho, the celestial fox"
     },
     {
       "abr": "portal",
-      "category": "Misc",
+      "category": "",
       "defname": "Miho_Thrumbo_Portal",
       "price": 9,
       "mod": "Miho, the celestial fox"
@@ -5539,7 +5539,7 @@
     },
     {
       "abr": "planetariumwindfarm",
-      "category": "Misc",
+      "category": "",
       "defname": "Planetariumrefinery",
       "price": 967,
       "mod": "Rabbie The Moonrabbit race"
@@ -5952,7 +5952,7 @@
     },
     {
       "abr": "lighthouse",
-      "category": "Misc",
+      "category": "",
       "defname": "MR_Lenticularrentiq",
       "price": 1100,
       "mod": "Maru Race"
@@ -6736,7 +6736,7 @@
     },
     {
       "abr": "bloodsigil",
-      "category": "Misc",
+      "category": "",
       "defname": "ReviaBloodSigil",
       "price": 1167,
       "mod": "Revia Race"
@@ -6911,56 +6911,56 @@
     },
     {
       "abr": "quarry",
-      "category": "Misc",
+      "category": "",
       "defname": "QRY_Quarry",
       "price": 617,
       "mod": "Quarry"
     },
     {
       "abr": "miniquarry",
-      "category": "Misc",
+      "category": "",
       "defname": "QRY_MiniQuarry",
       "price": 260,
       "mod": "Quarry"
     },
     {
       "abr": "quarryplatform",
-      "category": "Misc",
+      "category": "",
       "defname": "QRY_Platform",
       "price": 168,
       "mod": "Quarry"
     },
     {
       "abr": "tentwall",
-      "category": "Misc",
+      "category": "",
       "defname": "CAMakeshiftTentWall",
       "price": 17,
       "mod": "Caravan Adventures"
     },
     {
       "abr": "bedroll",
-      "category": "Misc",
+      "category": "",
       "defname": "CAMakeshiftBedroll",
       "price": 137,
       "mod": "Caravan Adventures"
     },
     {
       "abr": "doublebedroll",
-      "category": "Misc",
+      "category": "",
       "defname": "CAMakeshiftBedrollDouble",
       "price": 290,
       "mod": "Caravan Adventures"
     },
     {
       "abr": "tentdoor",
-      "category": "Misc",
+      "category": "",
       "defname": "CATentDoor",
       "price": 88,
       "mod": "Caravan Adventures"
     },
     {
       "abr": "fencedoor",
-      "category": "Misc",
+      "category": "",
       "defname": "CATentFenceDoor",
       "price": 88,
       "mod": "Caravan Adventures"
@@ -6974,14 +6974,14 @@
     },
     {
       "abr": "minicommsconsole",
-      "category": "Misc",
+      "category": "",
       "defname": "CAMiniCommsConsole",
       "price": 608,
       "mod": "Caravan Adventures"
     },
     {
       "abr": "campfirewithroast",
-      "category": "Misc",
+      "category": "",
       "defname": "CACampfireRoast",
       "price": 1,
       "mod": "Caravan Adventures"
@@ -6995,56 +6995,56 @@
     },
     {
       "abr": "one-waya/candheater",
-      "category": "Misc",
+      "category": "",
       "defname": "CAAirConditioningHeater",
       "price": 6,
       "mod": "Caravan Adventures"
     },
     {
       "abr": "one-waycooler",
-      "category": "Misc",
+      "category": "",
       "defname": "CACooler",
       "price": 6,
       "mod": "Caravan Adventures"
     },
     {
       "abr": "orbitaltradebeacon",
-      "category": "Misc",
+      "category": "",
       "defname": "CAOrbitalTradeBeacon",
       "price": 185,
       "mod": "Caravan Adventures"
     },
     {
       "abr": "chemfuelpoweredgenerator",
-      "category": "Misc",
+      "category": "",
       "defname": "CAChemfuelPoweredGenerator",
       "price": 492,
       "mod": "Caravan Adventures"
     },
     {
       "abr": "tentwall",
-      "category": "Misc",
+      "category": "",
       "defname": "CATentWall",
       "price": 17,
       "mod": "Caravan Adventures"
     },
     {
       "abr": "animalfencepost",
-      "category": "Misc",
+      "category": "",
       "defname": "CAFencePost",
       "price": 11,
       "mod": "Caravan Adventures"
     },
     {
       "abr": "spacerbedroll",
-      "category": "Misc",
+      "category": "",
       "defname": "CASpacerBedroll",
       "price": 137,
       "mod": "Caravan Adventures"
     },
     {
       "abr": "spacerdoublebedroll",
-      "category": "Misc",
+      "category": "",
       "defname": "CASpacerBedrollDouble",
       "price": 290,
       "mod": "Caravan Adventures"
@@ -12721,14 +12721,14 @@
     },
     {
       "abr": "powerconduit",
-      "category": "Misc",
+      "category": "",
       "defname": "KCSG_PowerConduit",
       "price": 3,
       "mod": "Vanilla Expanded Framework"
     },
     {
       "abr": "hexagelcorereactor",
-      "category": "Misc",
+      "category": "",
       "defname": "AA_HexagelCoreReactor",
       "price": 3408,
       "mod": "Alpha Animals"
@@ -15969,63 +15969,63 @@
     },
     {
       "abr": "icewall",
-      "category": "Misc",
+      "category": "",
       "defname": "VPE_IceWall",
       "price": 17,
       "mod": "Vanilla Psycasts Expanded"
     },
     {
       "abr": "largedeepbluestation",
-      "category": "Misc",
+      "category": "",
       "defname": "Moyo_DBLS",
       "price": 8333,
       "mod": "Moyo-From the depth"
     },
     {
       "abr": "drugsynthesisstation:blueburst",
-      "category": "Misc",
+      "category": "",
       "defname": "Cartel_AutoSynthesys_BlueBurst",
       "price": 8333,
       "mod": "Moyo-The cartel arrives"
     },
     {
       "abr": "drugsynthesisstation:regene-blue",
-      "category": "Misc",
+      "category": "",
       "defname": "Cartel_AutoSynthesys_BlueMed",
       "price": 8333,
       "mod": "Moyo-The cartel arrives"
     },
     {
       "abr": "drugsynthesisstation:penoxy-blue",
-      "category": "Misc",
+      "category": "",
       "defname": "Cartel_AutoSynthesys_PenoxyBlue",
       "price": 8333,
       "mod": "Moyo-The cartel arrives"
     },
     {
       "abr": "drugsynthesisstation:clear-azure",
-      "category": "Misc",
+      "category": "",
       "defname": "Cartel_AutoSynthesys_Clensazure",
       "price": 8333,
       "mod": "Moyo-The cartel arrives"
     },
     {
       "abr": "drugsynthesisstation:sustainer-lapis",
-      "category": "Misc",
+      "category": "",
       "defname": "Cartel_AutoSynthesys_SustainerLapis",
       "price": 8333,
       "mod": "Moyo-The cartel arrives"
     },
     {
       "abr": "drugsynthesisstation:detoxer-cobalt",
-      "category": "Misc",
+      "category": "",
       "defname": "Cartel_AutoSynthesys_DetoxerCobalt",
       "price": 8333,
       "mod": "Moyo-The cartel arrives"
     },
     {
       "abr": "abysstechgeothermalgenerator",
-      "category": "Misc",
+      "category": "",
       "defname": "RedMoyo_GeothermalGenerator",
       "price": 6442,
       "mod": "Moyo-Light in the Abyss"
@@ -16267,97 +16267,6 @@
       "defname": "SpellOf_ConsumeCorpse_Mass",
       "price": 833,
       "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "psytrainer(fanofknives)",
-      "category": "Psytrainers",
-      "defname": "Psytrainer_VPE_Miho_Huntress_Ability_FanofKnives",
-      "price": 3333,
-      "mod": "VPE Alien Patch"
-    },
-    {
-      "abr": "psytrainer(foxshield)",
-      "category": "Psytrainers",
-      "defname": "Psytrainer_VPE_Miho_Temptress_Ability_Shield",
-      "price": 2833,
-      "mod": "VPE Alien Patch"
-    },
-    {
-      "abr": "psytrainer(foxfirearrows)",
-      "category": "Psytrainers",
-      "defname": "Psytrainer_VPE_Miho_Huntress_Ability_Fireball_Adept",
-      "price": 2833,
-      "mod": "VPE Alien Patch"
-    },
-    {
-      "abr": "psytrainer(foxfire)",
-      "category": "Psytrainers",
-      "defname": "Psytrainer_VPE_Miho_Huntress_Ability_Fireball",
-      "price": 2333,
-      "mod": "VPE Alien Patch"
-    },
-    {
-      "abr": "psytrainer(foxfire)",
-      "category": "Psytrainers",
-      "defname": "Psytrainer_VPE_Miho_Shamaness_Ability_Fireball",
-      "price": 2333,
-      "mod": "VPE Alien Patch"
-    },
-    {
-      "abr": "psytrainer(foxfire)",
-      "category": "Psytrainers",
-      "defname": "Psytrainer_VPE_Miho_Temptress_Ability_Fireball",
-      "price": 2333,
-      "mod": "VPE Alien Patch"
-    },
-    {
-      "abr": "psytrainer(foxskip)",
-      "category": "Psytrainers",
-      "defname": "Psytrainer_VPE_Miho_Summoner_Ability_Skip",
-      "price": 2333,
-      "mod": "VPE Alien Patch"
-    },
-    {
-      "abr": "psytrainer(foxstorm)",
-      "category": "Psytrainers",
-      "defname": "Psytrainer_VPE_Miho_Huntress_Ability_Thunder",
-      "price": 2833,
-      "mod": "VPE Alien Patch"
-    },
-    {
-      "abr": "psytrainer(healingtouch)",
-      "category": "Psytrainers",
-      "defname": "Psytrainer_VPE_Miho_Shamaness_Ability_Heal",
-      "price": 2833,
-      "mod": "VPE Alien Patch"
-    },
-    {
-      "abr": "psytrainer(huninghawk)",
-      "category": "Psytrainers",
-      "defname": "Psytrainer_VPE_Miho_Huntress_Ability_Hawk",
-      "price": 1333,
-      "mod": "VPE Alien Patch"
-    },
-    {
-      "abr": "psytrainer(pulseofdoom)",
-      "category": "Psytrainers",
-      "defname": "Psytrainer_VPE_Miho_Temptress_Ability_BerserkPulse",
-      "price": 3333,
-      "mod": "VPE Alien Patch"
-    },
-    {
-      "abr": "psytrainer(smallfoxfire)",
-      "category": "Psytrainers",
-      "defname": "Psytrainer_VPE_Miho_Huntress_Ability_Fireball_Small",
-      "price": 1833,
-      "mod": "VPE Alien Patch"
-    },
-    {
-      "abr": "psytrainer(smallfoxfire)",
-      "category": "Psytrainers",
-      "defname": "Psytrainer_VPE_Miho_Shamaness_Ability_Fireball_Small",
-      "price": 1833,
-      "mod": "VPE Alien Patch"
     }
   ]
 }
