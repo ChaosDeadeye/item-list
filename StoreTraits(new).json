@@ -2403,26 +2403,5 @@
       "-20% global learning factor"
     ],
     "description": "Timmy is a highly trained Soldier, specializing in pistol, shotgun, or rifle weapons. his weapon specialization is augmented by a standard set of combat training. Super Soldiers are trained to be aggressive and consider violence the natural solution to any argument."
-  },
-  {
-    "name": "possessed",
-    "addPrice": 3500,
-    "removePrice": 5500,
-    "stats": [],
-    "description": "The body of Timmy is inhabited by the spirit of another pawn. Possession in a living pawn creates an internal conflict as the functions of the body are shared between two souls. This conflict can be reduced if personalities align, but will become further aggravated if they contrast. Possession of a deceased pawn will not experience mental conflicts, but will slowly deplete the energy of the possessing spirit. Spirit can be recharged through meditation or absorption."
-  },
-  {
-    "name": "spirit",
-    "addPrice": 3500,
-    "removePrice": 5500,
-    "stats": [],
-    "description": "The body of Timmy is inhabited by the spirit of another pawn. Possession in a living pawn creates an internal conflict as the functions of the body are shared between two souls. This conflict can be reduced if personalities align, but will become further aggravated if they contrast. Possession of a deceased pawn will not experience mental conflicts, but will slowly deplete the energy of the possessing spirit. Spirit can be recharged through meditation or absorption."
-  },
-  {
-    "name": "thrall",
-    "addPrice": 3500,
-    "removePrice": 5500,
-    "stats": [],
-    "description": "Psychic enthrallment caused by incredibly strong mental influence. Thralls don't need to sleep or have recreation, but are unable to do skilled work and engage in social interactions."
   }
 ]
