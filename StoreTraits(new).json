@@ -1,164 +1,52 @@
-{
-  "traits": [
+[
+  {
+    "name": "thrall",
+    "addPrice": 0,
+    "removePrice": 0,
+    "stats": [],
+    "description": "Psychic enthrallment caused by incredibly strong mental influence. Thralls don't need to sleep or have recreation, but are unable to do skilled work and engage in social interactions."
+  },
+  {
+    "name": "delicate",
+    "addPrice": 0,
+    "removePrice": 0,
+    "stats": [
+      "x115% incoming damage multiplier"
+    ],
+    "description": "Timmy has fragile skin and bones. he takes more damage than other people from the same blows."
+  },
+  {
+    "name": "recluse",
+    "addPrice": 0,
+    "removePrice": 0,
+    "stats": [],
+    "description": "The fewer people in Timmy's faction, the happier he is. Being alone is best of all."
+  },
   {
     "name": "xenophobe",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [],
     "description": "Timmy hates and distrusts xenos. They see them as little more than animals."
   },
   {
     "name": "xenophile",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [],
     "description": "Timmy thinks aliens are exotic and interesting. They would love to get to know them more and wouldn't mind forming relationships with them."
   },
   {
-    "name": "likeflame",
-    "addPrice": 3500,
-    "removePrice": 5500,
-    "stats": [
-      "Flame meditation focus type allowed."
-    ],
-    "description": "It's not like pyromaniac, though. I like fire very much."
-  },
-  {
-    "name": "attuned",
-    "addPrice": 3500,
-    "removePrice": 5500,
-    "stats": [
-      "Artistic meditation focus type disabled.",
-      "Natural meditation focus type allowed.",
-      "+2 plants",
-      "+20% psychic sensitivity",
-      "-5% mental break threshold",
-      "x120% neural heat recovery rate",
-      "x110% neural heat limit",
-      "x90% neural heat gain"
-    ],
-    "description": "Timmy has spent time learning and practicing the tribal rituals required to link oneself to an Anima tree. he has long since been enamoured by the wonders of nature."
-  },
-  {
-    "name": "flameworship",
-    "addPrice": 3500,
-    "removePrice": 5500,
-    "stats": [
-      "Flame meditation focus type allowed."
-    ],
-    "description": "Timmy is the Maru. They feel the warmth, remind themselves that they are alive, and clear their minds."
-  },
-  {
-    "name": "sharpeye",
-    "addPrice": 3500,
-    "removePrice": 5500,
-    "stats": [
-      "+25% global learning factor",
-      "+20% sell price multiplier"
-    ],
-    "description": "Any object, event, or technology has cause and effect.\nTimmy is very skilled at identifying and learning such causal relationships."
-  },
-  {
-    "name": "flexible",
-    "addPrice": 3500,
-    "removePrice": 5500,
-    "stats": [
-      "+10.0 melee dodge chance",
-      "+0.20 move speed"
-    ],
-    "description": "Timmy's body is naturally flexible.\nStronger and more flexible than others, it has a significant advantage in hunting."
-  },
-  {
-    "name": "self-righteousness",
-    "addPrice": 3500,
-    "removePrice": 5500,
-    "stats": [
-      "-9% mental break threshold",
-      "+10% global work speed",
-      "+50% global certainty loss factor"
-    ],
-    "description": "Timmy believes that he is right.\nThe firm belief has a positive effect on his will, just like his piety, but he also tends to ignore the opinions of others."
-  },
-  {
-    "name": "leadership",
-    "addPrice": 3500,
-    "removePrice": 5500,
-    "stats": [
-      "-100% mental break threshold"
-    ],
-    "description": "A person with strong leadership always influences those around them, either positively or negatively.\nNo one knows what path such a person will choose or what kind of life he will lead. But one thing is certain, he won't be an ordinary person who comes and goes into the world without anyone knowing. /n/nTimmy was born with that gift."
-  },
-  {
-    "name": "sensitiveears",
-    "addPrice": 3500,
-    "removePrice": 5500,
-    "stats": [
-      "-20% rest rate multiplier",
-      "+8.0 melee dodge chance",
-      "+2.0 melee hit chance"
-    ],
-    "description": "Timmy has ears that are sensitive to even small sounds.\n Being sensitive to sounds is always an advantage in life outside of its nest, but it also has the disadvantage of not being able to fall asleep deeply."
-  },
-  {
-    "name": "prototype",
-    "addPrice": 3500,
-    "removePrice": 5500,
-    "stats": [
-      "-16% immunity gain speed",
-      "+15.0 melee dodge chance",
-      "+0.60 move speed"
-    ],
-    "description": "Timmy is an experimentally cultivated Maru.\nIt has significantly superior physical abilities than other floors, but its autoimmunity is very low due to its imperfect design."
-  },
-  {
-    "name": "inquisitivemind",
-    "addPrice": 3500,
-    "removePrice": 5500,
-    "stats": [
-      "+75% global learning factor"
-    ],
-    "description": "A fragment of a talent to accomplish a feat."
-  },
-  {
-    "name": "senseofduty",
-    "addPrice": 3500,
-    "removePrice": 5500,
-    "stats": [
-      "-14% mental break threshold",
-      "+40% global work speed"
-    ],
-    "description": "A fragment of a talent to accomplish a feat."
-  },
-  {
-    "name": "philosophy",
-    "addPrice": 3500,
-    "removePrice": 5500,
-    "stats": [
-      "+150.00% negotiation ability",
-      "+150.00% social impact"
-    ],
-    "description": "A fragment of a talent to accomplish a feat."
-  },
-  {
-    "name": "warp",
-    "addPrice": 3500,
-    "removePrice": 5500,
-    "stats": [
-      "-25% mental break threshold"
-    ],
-    "description": "A fragment of a talent to accomplish a feat."
-  },
-  {
     "name": "nudist",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [],
     "description": "Timmy enjoys the feeling of freedom that comes from being nude. he can handle clothing, but will be happier without it."
   },
   {
     "name": "bloodlust",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "Morbid meditation focus type allowed."
     ],
@@ -166,15 +54,15 @@
   },
   {
     "name": "kind",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [],
-    "description": "Timmy is an exceptionally agreeable and giving person. he never insults others and will sometimes offer kind words to brighten the moods of those around him. he also never judges people by their appearance. his agreeableness also makes him more likely to conform to prevailing opinions."
+    "description": "Timmy is an exceptionally agreeable and giving person. he rarely insults others and will sometimes offer kind words to brighten the moods of those around him. he also never judges people by their appearance. his agreeableness also makes him more likely to conform to prevailing opinions."
   },
   {
     "name": "psychopath",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "Morbid meditation focus type allowed."
     ],
@@ -182,36 +70,36 @@
   },
   {
     "name": "roomie",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [],
     "description": "Timmy has no care in the world for there room. they could care less if a room is cramped dirty or shared or uncomfortable, aslong as they have a place to sleep they are ok. they still get negative moodlets from hot or cold rooms."
   },
   {
     "name": "unsightly",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [],
     "description": "Timmy has a extreme liking to unsightly environments. they relish the sight of hideous things but hates anything thats brings beauty to a place."
   },
   {
     "name": "passionate",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [],
     "description": "Timmy has always had a extreme burning passion for there work. they have much stronger moodlets when doing a skill they love."
   },
   {
     "name": "rawism",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [],
     "description": "Timmy has always been eating rawfood ever since they was little. they dont get negative moodlets from eating raw or nasty food or eating without a table."
   },
   {
     "name": "cannibal",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "Morbid meditation focus type allowed."
     ],
@@ -219,15 +107,15 @@
   },
   {
     "name": "abrasive",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [],
     "description": "Timmy always says exactly what's on his mind, especially if it's bugging him. That tends to rub people the wrong way."
   },
   {
     "name": "toosmart",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "+75% global learning factor",
       "+12% mental break threshold"
@@ -236,29 +124,29 @@
   },
   {
     "name": "sicklyenjoyer",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [],
     "description": "Timmy is in love with getting sick. he loves the idea of getting sick and doing anything in there power to do it."
   },
   {
     "name": "pickyeater",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [],
     "description": "Timmy has always been a picky eater and despises eating anything below fine meal."
   },
   {
     "name": "lovesick",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [],
     "description": "Timmy is very passionate about having a partner. he will never get debuffs from being rejected or rejecting others etc but will have stronger moodlets in a relationship and stronger debuffs if there heart is betrayed."
   },
   {
     "name": "brawler",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "Shoot frenzy inspiration disabled.",
       "+4 melee",
@@ -269,8 +157,8 @@
   },
   {
     "name": "masochist",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "Morbid meditation focus type allowed."
     ],
@@ -278,29 +166,29 @@
   },
   {
     "name": "nightowl",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [],
     "description": "Timmy likes to be up during the night, and sleep during the day.\n\nhe gets a mood bonus if awake at night (23h-6h) and mood loss if awake during the day (11h-18h).\n\nhe doesn't get a mood penalty for being in the dark."
   },
   {
     "name": "earlybird",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [],
     "description": "Timmy enjoys to be up during the day, and sleep during the night.\n\nhe gets a mood bonus if awake at day (23h-6h) and mood loss if awake during the night (11h-18h).\n\nhe doesn't get a mood penalty for being in the light."
   },
   {
     "name": "greedy",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [],
     "description": "Timmy needs a really impressive bedroom. he gets a mood loss if he doesn't get what he wants."
   },
   {
     "name": "jealous",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "Morbid meditation focus type allowed."
     ],
@@ -308,8 +196,8 @@
   },
   {
     "name": "ascetic",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "Artistic meditation focus type disabled.",
       "Minimal meditation focus type allowed."
@@ -318,50 +206,50 @@
   },
   {
     "name": "gay",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [],
     "description": "Timmy is romantically attracted to people of his own gender."
   },
   {
     "name": "bisexual",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [],
     "description": "Timmy is romantically attracted to both men and women."
   },
   {
     "name": "asexual",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [],
     "description": "Timmy has no sexual attraction to anyone at all."
   },
   {
     "name": "annoyingvoice",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [],
     "description": "Timmy's voice has a particularly grating, nasal quality to it, and he tends to talk in barked, garbled phrases. This predisposes others to dislike him."
   },
   {
     "name": "soothingvoice",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [],
     "description": "Timmy's voice has a particularly magical, harmony quality to it, and he tends to talk in sweet, careful phrases. This predisposes others to like him."
   },
   {
     "name": "creepybreathing",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [],
     "description": "Timmy breathes heavily all the time, and sweats constantly. People find it creepy."
   },
   {
     "name": "pyromaniac",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "Flame meditation focus type allowed.",
       "Only mental break \"FireStartingSpree\" allowed."
@@ -370,8 +258,8 @@
   },
   {
     "name": "insane",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "Morbid meditation focus type allowed.",
       "Only mental break \"MurderousRage\" allowed."
@@ -380,8 +268,8 @@
   },
   {
     "name": "unhinged",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "Morbid meditation focus type allowed.",
       "Only mental break \"Tantrum\" allowed."
@@ -390,8 +278,8 @@
   },
   {
     "name": "wimp",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "-60% pain shock threshold"
     ],
@@ -399,8 +287,8 @@
   },
   {
     "name": "nimble",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "+15.0 melee dodge chance",
       "x10% trap spring chance"
@@ -409,8 +297,8 @@
   },
   {
     "name": "fastlearner",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "+75% global learning factor"
     ],
@@ -418,8 +306,8 @@
   },
   {
     "name": "slowlearner",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "-75% global learning factor"
     ],
@@ -427,8 +315,8 @@
   },
   {
     "name": "undergrounder",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "Morbid meditation focus type allowed."
     ],
@@ -436,8 +324,8 @@
   },
   {
     "name": "naturelover",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "Morbid meditation focus type allowed."
     ],
@@ -445,36 +333,36 @@
   },
   {
     "name": "transhumanist",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [],
     "description": "Timmy feels limited in his feeble human body. he often dreams of being enhanced by artificial body parts."
   },
   {
     "name": "bodypurist",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [],
     "description": "Timmy believes the human body is limited for a reason. To him, artificial body parts are unethical and disgusting."
   },
   {
     "name": "misandrist",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [],
     "description": "Timmy really dislikes and distrusts men."
   },
   {
     "name": "misogynist",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [],
     "description": "Timmy really dislikes and distrusts women."
   },
   {
     "name": "greatmemory",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "+25% global learning factor"
     ],
@@ -482,8 +370,8 @@
   },
   {
     "name": "tough",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "x50% incoming damage multiplier"
     ],
@@ -491,8 +379,8 @@
   },
   {
     "name": "witcher",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "x125% butchery speed",
       "x125% plant work speed"
@@ -501,18 +389,18 @@
   },
   {
     "name": "nyctophobic",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "x140% move speed",
-      "x110% mental break threshold"
+      "x10% mental break threshold"
     ],
     "description": "Timmy has always been Terrified of the dark and as a result they move faster and have a weakened mind and a higher dark penalty."
   },
   {
     "name": "merciless",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "x20% melee armor penetration",
       "x10% melee DPS"
@@ -521,8 +409,8 @@
   },
   {
     "name": "torturedartist",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "Morbid meditation focus type allowed."
     ],
@@ -530,8 +418,8 @@
   },
   {
     "name": "gourmand",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "Only mental break \"Binging_Food\" allowed.",
       "+4 cooking"
@@ -540,8 +428,8 @@
   },
   {
     "name": "quicksleeper",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "+50% rest rate multiplier"
     ],
@@ -549,8 +437,8 @@
   },
   {
     "name": "insomnia",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "-50% rest rate multiplier"
     ],
@@ -558,8 +446,8 @@
   },
   {
     "name": "slowpoke",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "Go frenzy inspiration disabled.",
       "-0.20 move speed"
@@ -568,8 +456,8 @@
   },
   {
     "name": "fastwalker",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "+0.20 move speed"
     ],
@@ -577,8 +465,8 @@
   },
   {
     "name": "fastcook",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "+25.0 cooking speed"
     ],
@@ -586,8 +474,8 @@
   },
   {
     "name": "cleanly",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "-1.5 filth rate"
     ],
@@ -595,8 +483,8 @@
   },
   {
     "name": "messy",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "+0.5 filth rate"
     ],
@@ -604,8 +492,8 @@
   },
   {
     "name": "talkative",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "+50.00% social impact"
     ],
@@ -613,8 +501,8 @@
   },
   {
     "name": "anti-social",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "-50.00% social impact"
     ],
@@ -622,8 +510,8 @@
   },
   {
     "name": "slowcook",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "-25.0 cooking speed"
     ],
@@ -631,8 +519,8 @@
   },
   {
     "name": "jogger",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "+0.40 move speed"
     ],
@@ -640,22 +528,22 @@
   },
   {
     "name": "chemicalfascination",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [],
     "description": "Timmy is utterly fascinated with chemical sources of enjoyment. Consuming recreational drugs will create a good mood, while abstaining will lead to increasing frustration over time and possibly drug binges. he will ignore directives to not use recreational drugs, and will consume more than a normal person."
   },
   {
     "name": "chemicalinterest",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [],
     "description": "Timmy has an unusual interest in chemical sources of enjoyment. Consuming recreational drugs will create a good mood, while abstaining will lead to increasing frustration over time and possible drug binges. he will ignore directives to not use recreational drugs, and will consume more than a normal person."
   },
   {
     "name": "teetotaler",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "Binging on drug mental state disabled.",
       "Binging on drug mental state disabled."
@@ -664,43 +552,43 @@
   },
   {
     "name": "sanguine",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [],
     "description": "Timmy is just naturally upbeat about his situation, pretty much all the time, no matter what it is."
   },
   {
     "name": "naturallyhappy",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [],
     "description": "Timmy is just naturally happy about his life and everything, pretty much all the time, no matter what it is."
   },
   {
     "name": "optimist",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [],
     "description": "Timmy is naturally optimistic about life. It's hard to get him down."
   },
   {
     "name": "pessimist",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [],
     "description": "Timmy tends to look on the bad side of life."
   },
   {
     "name": "depressive",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [],
     "description": "Timmy is perenially unhappy. he has trouble sustaining a good mood even when everything is fine."
   },
   {
     "name": "iron-willed",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "-18% mental break threshold"
     ],
@@ -708,8 +596,8 @@
   },
   {
     "name": "enhanced",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "+50 max hit points"
     ],
@@ -717,8 +605,8 @@
   },
   {
     "name": "packmule",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "+25 carrying capacity"
     ],
@@ -726,8 +614,8 @@
   },
   {
     "name": "lazylabor",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "-30 carrying capacity"
     ],
@@ -735,8 +623,8 @@
   },
   {
     "name": "weak-mind",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "+18% mental break threshold"
     ],
@@ -744,8 +632,8 @@
   },
   {
     "name": "steadfast",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "-9% mental break threshold"
     ],
@@ -753,8 +641,8 @@
   },
   {
     "name": "nervous",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "+8% mental break threshold"
     ],
@@ -762,8 +650,8 @@
   },
   {
     "name": "volatile",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "+15% mental break threshold"
     ],
@@ -771,8 +659,8 @@
   },
   {
     "name": "neurotic",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "+20% global work speed",
       "+8% mental break threshold"
@@ -781,8 +669,8 @@
   },
   {
     "name": "veryneurotic",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "+40% global work speed",
       "+14% mental break threshold"
@@ -791,8 +679,8 @@
   },
   {
     "name": "industrious",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "+35% global work speed"
     ],
@@ -800,8 +688,8 @@
   },
   {
     "name": "hardworker",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "+20% global work speed"
     ],
@@ -809,8 +697,8 @@
   },
   {
     "name": "lazy",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "-20% global work speed"
     ],
@@ -818,8 +706,8 @@
   },
   {
     "name": "slothful",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "-35% global work speed"
     ],
@@ -827,8 +715,8 @@
   },
   {
     "name": "psychicallyhypersensitive",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "+80% psychic sensitivity"
     ],
@@ -836,8 +724,8 @@
   },
   {
     "name": "psychicallysensitive",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "+40% psychic sensitivity"
     ],
@@ -845,8 +733,8 @@
   },
   {
     "name": "psychicallydull",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "-50% psychic sensitivity"
     ],
@@ -854,8 +742,8 @@
   },
   {
     "name": "psychicallydeaf",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "-100% psychic sensitivity"
     ],
@@ -863,8 +751,8 @@
   },
   {
     "name": "carefulshooter",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "+25% aiming time",
       "+5.0 shooting accuracy"
@@ -873,8 +761,8 @@
   },
   {
     "name": "trigger-happy",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "-50% aiming time",
       "-5.0 shooting accuracy"
@@ -883,8 +771,8 @@
   },
   {
     "name": "mastershooter",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "+50% aiming time",
       "+500.0 shooting accuracy"
@@ -893,8 +781,8 @@
   },
   {
     "name": "thinskin",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "+20% incoming damage multiplier",
       "-20 max hit points"
@@ -903,8 +791,8 @@
   },
   {
     "name": "trap-awareness",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "-100% trap spring chance"
     ],
@@ -912,8 +800,8 @@
   },
   {
     "name": "terriblefighter",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "-10.0 melee dodge chance",
       "-10.0 melee hit chance",
@@ -924,8 +812,8 @@
   },
   {
     "name": "baddodger",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "-50.0 melee dodge chance"
     ],
@@ -933,8 +821,8 @@
   },
   {
     "name": "forager",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "+10 foraged food amount"
     ],
@@ -942,8 +830,8 @@
   },
   {
     "name": "gunnut",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "+20.0 shooting accuracy",
       "+10% aiming time",
@@ -955,8 +843,8 @@
   },
   {
     "name": "gunner",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "-100% aiming time",
       "-10.0 shooting accuracy"
@@ -965,8 +853,8 @@
   },
   {
     "name": "naturalcounter",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "+50.0 melee dodge chance",
       "+20.0 melee hit chance"
@@ -975,8 +863,8 @@
   },
   {
     "name": "beautiful",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "+2.0 beauty"
     ],
@@ -984,8 +872,8 @@
   },
   {
     "name": "pretty",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "+1.0 beauty"
     ],
@@ -993,8 +881,8 @@
   },
   {
     "name": "ugly",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "-1.0 beauty"
     ],
@@ -1002,8 +890,8 @@
   },
   {
     "name": "irresistible",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "+4.0 beauty"
     ],
@@ -1011,8 +899,8 @@
   },
   {
     "name": "staggeringlyugly",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "-2.0 beauty"
     ],
@@ -1020,8 +908,8 @@
   },
   {
     "name": "super-immune",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "+30% immunity gain speed"
     ],
@@ -1029,8 +917,8 @@
   },
   {
     "name": "deathlyill",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "-70% immunity gain speed"
     ],
@@ -1038,8 +926,8 @@
   },
   {
     "name": "painsensitive",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "-50% pain shock threshold"
     ],
@@ -1047,8 +935,8 @@
   },
   {
     "name": "painimumunity",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "+100% pain shock threshold"
     ],
@@ -1056,8 +944,8 @@
   },
   {
     "name": "toxicsensitive",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "+50% toxic sensitivity"
     ],
@@ -1065,8 +953,8 @@
   },
   {
     "name": "toxicstrong",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "-50% toxic sensitivity"
     ],
@@ -1074,8 +962,8 @@
   },
   {
     "name": "toxicdeadly",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "+100% toxic sensitivity"
     ],
@@ -1083,8 +971,8 @@
   },
   {
     "name": "toxicimmunity",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "-100% toxic sensitivity"
     ],
@@ -1092,8 +980,8 @@
   },
   {
     "name": "heat-insulation",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "+25.0C Insulation - Heat"
     ],
@@ -1101,8 +989,8 @@
   },
   {
     "name": "cold-insulation",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "+25.0C Insulation - Cold"
     ],
@@ -1110,8 +998,8 @@
   },
   {
     "name": "sickly",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "+4 medical"
     ],
@@ -1119,8 +1007,8 @@
   },
   {
     "name": "nano-immune",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "+150% immunity gain speed"
     ],
@@ -1128,8 +1016,8 @@
   },
   {
     "name": "unbreakable",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "-100% mental break threshold"
     ],
@@ -1137,8 +1025,8 @@
   },
   {
     "name": "juggernaut",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "-90.0 melee dodge chance",
       "-80.0 melee hit chance",
@@ -1154,18 +1042,18 @@
   },
   {
     "name": "hyperactive",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "+15% mental break threshold",
       "+0.40 move speed"
     ],
-    "description": "Timmy has always had a hyper mind making them run all around - its not good for there mental health."
+    "description": "Timmy has always had a hyper mind making them run all around - its not good for their mental health."
   },
   {
     "name": "relaxed",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "Go frenzy inspiration disabled.",
       "+15% mental break threshold",
@@ -1176,8 +1064,8 @@
   },
   {
     "name": "reckless",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "+50% construction speed",
       "-60% construct success chance",
@@ -1191,8 +1079,8 @@
   },
   {
     "name": "drugdealer",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "+10% drug crop harvest yield",
       "+10% plant work speed",
@@ -1202,8 +1090,8 @@
   },
   {
     "name": "greenthumb",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "+20% plant harvest yield",
       "+50% plant work speed"
@@ -1212,8 +1100,8 @@
   },
   {
     "name": "redthumb",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "-20% plant harvest yield",
       "-50% plant work speed"
@@ -1222,8 +1110,8 @@
   },
   {
     "name": "abundent",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "+60% plant harvest yield",
       "-50% plant work speed"
@@ -1232,8 +1120,8 @@
   },
   {
     "name": "naturalbuilder",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "+30% construction speed",
       "+20% construct success chance"
@@ -1242,8 +1130,8 @@
   },
   {
     "name": "terriblebuilder",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "-30% construction speed",
       "-20% construct success chance"
@@ -1252,8 +1140,8 @@
   },
   {
     "name": "goodwarden",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "+30.00% negotiation ability",
       "+30.00% Arrest success chance"
@@ -1262,8 +1150,8 @@
   },
   {
     "name": "intimidating",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "+50.00% negotiation ability",
       "+20.00% trade price improvement",
@@ -1274,8 +1162,8 @@
   },
   {
     "name": "badwarden",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "-20.00% negotiation ability",
       "-20.00% Arrest success chance"
@@ -1284,8 +1172,8 @@
   },
   {
     "name": "scholar",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "+30% global learning factor",
       "+0.10 move speed",
@@ -1295,8 +1183,8 @@
   },
   {
     "name": "researcher",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "+30% research speed"
     ],
@@ -1304,8 +1192,8 @@
   },
   {
     "name": "terribleresearcher",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "-30% research speed"
     ],
@@ -1313,8 +1201,8 @@
   },
   {
     "name": "goodminer",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "+30% mining speed",
       "+20% mining yield"
@@ -1323,8 +1211,8 @@
   },
   {
     "name": "badminer",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "-30% mining speed",
       "-20% mining yield"
@@ -1333,8 +1221,8 @@
   },
   {
     "name": "goodsurgeon",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "+30% medical operation speed",
       "+20% medical surgery success chance"
@@ -1343,8 +1231,8 @@
   },
   {
     "name": "naturaldoctor",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "+30% medical tend speed",
       "+20% medical tend quality"
@@ -1353,8 +1241,8 @@
   },
   {
     "name": "terribledoctor",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "-30% medical tend speed",
       "-20% medical tend quality"
@@ -1363,8 +1251,8 @@
   },
   {
     "name": "badsurgeon",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "-30% medical operation speed",
       "-20% medical surgery success chance"
@@ -1373,8 +1261,8 @@
   },
   {
     "name": "goodmerchant",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "+30.00% trade price improvement"
     ],
@@ -1382,8 +1270,8 @@
   },
   {
     "name": "badmerchant",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "-20.00% trade price improvement"
     ],
@@ -1391,8 +1279,8 @@
   },
   {
     "name": "goodcrafter",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "0 work to make"
     ],
@@ -1400,8 +1288,8 @@
   },
   {
     "name": "badcrafter",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "+1 work to make"
     ],
@@ -1409,8 +1297,8 @@
   },
   {
     "name": "goodtamer",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "+30.00% tame animal chance"
     ],
@@ -1418,8 +1306,8 @@
   },
   {
     "name": "badtamer",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "-25.00% tame animal chance"
     ],
@@ -1427,8 +1315,8 @@
   },
   {
     "name": "fasteater",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "+30% eating speed"
     ],
@@ -1436,8 +1324,8 @@
   },
   {
     "name": "glutton",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "+100% hunger rate multiplier"
     ],
@@ -1445,8 +1333,8 @@
   },
   {
     "name": "preserver",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "-50% hunger rate multiplier"
     ],
@@ -1454,8 +1342,8 @@
   },
   {
     "name": "sloweater",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "-20% eating speed"
     ],
@@ -1463,8 +1351,8 @@
   },
   {
     "name": "hunter",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "+50% hunting stealth"
     ],
@@ -1472,8 +1360,8 @@
   },
   {
     "name": "badhunter",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "-50% hunting stealth"
     ],
@@ -1481,8 +1369,8 @@
   },
   {
     "name": "goodbutcher",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "+30% butchery speed",
       "+20% butchery efficiency"
@@ -1491,8 +1379,8 @@
   },
   {
     "name": "badbutcher",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "-30% butchery speed",
       "-20% butchery efficiency"
@@ -1501,43 +1389,43 @@
   },
   {
     "name": "arcaneconduit",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [],
     "description": "Timmy is abnormally receptive to the ebb and flow of mana, he will gain mana 40% faster than normal but his maximum mana capacity is reduced by 20."
   },
   {
     "name": "manawell",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [],
     "description": "Timmy has an increased resistance to the ebb and flow of mana which allows him to hold an additional 40 mana, but reduces his mana regeneration by 20%."
   },
   {
     "name": "boundless",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [],
     "description": "Timmy excels at combat arts and is able to execute combat maneuvers 40% more frequently, however, his talent has fostered an arrogant attitude that reduces his experience gain by 25% and causes other fighters to dislike him."
   },
   {
     "name": "faeblood",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [],
     "description": "Timmy is a descendant of fae folk and has a natural connection to the arcane. his arcane resistance is reduced by 40% but mana regeneration and maximum mana is increased by 20%. Spell costs are reduced by 10%."
   },
   {
     "name": "giantsblood",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [],
     "description": "Timmy is a descendant of giants - endowed with with great strength and stamina, though slow to recover. his max stamina is increased by 80%, but stamina regeneration is reduced by 40%. Any attack made while using a melee weapon, or unarmed, deals an additional 25% damage."
   },
   {
     "name": "enlightened",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "+50% psychic sensitivity"
     ],
@@ -1545,27 +1433,27 @@
   },
   {
     "name": "cursed",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [],
     "description": "Timmy is cursed by magic - tormented by the constant, burning rush of power through his being, and can only gain relief by expending arcane energy. Timmy will slowly accumulate arcane weakness up until he would become catatonic, and may become catatonic at any point while at this threshold. Using magical abilities that would normally incur arcane weakness will instead proportionally reduce arcane weakness, as well as the effects of the curse."
   },
   {
     "name": "unaffectedbydeath",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [],
     "description": "Timmy has accepted that death is another part of life and doesn't get upset when learning about a dead ally or seeing one of the undead."
   },
   {
     "name": "undead",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "-2.00 move speed",
       "-66.0C Minimum comfortable temperature",
       "+58.0C Maximum comfortable temperature",
-      "-100% toxic sensitivity",
+      "+100% toxic resistance",
       "+4900% immunity gain speed",
       "+90% pain shock threshold",
       "-70.00% negotiation ability",
@@ -1576,8 +1464,8 @@
   },
   {
     "name": "magicallygifted",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "+0.10 move speed",
       "+10% medical tend speed",
@@ -1589,8 +1477,8 @@
   },
   {
     "name": "empath",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "+100% psychic sensitivity",
       "+10% mental break threshold",
@@ -1604,8 +1492,8 @@
   },
   {
     "name": "wanderer",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "+0.20 move speed",
       "-10% global work speed",
@@ -1619,8 +1507,8 @@
   },
   {
     "name": "firemage",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "+0.20 move speed",
       "+10% global work speed",
@@ -1635,8 +1523,8 @@
   },
   {
     "name": "icemage",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "-10% mental break threshold",
       "+20% research speed",
@@ -1650,8 +1538,8 @@
   },
   {
     "name": "lightningmage",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "+0.20 move speed",
       "+10% global work speed",
@@ -1663,8 +1551,8 @@
   },
   {
     "name": "arcanemage",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "+10% research speed",
       "+20% global learning factor",
@@ -1680,11 +1568,11 @@
   },
   {
     "name": "druid",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "+15% immunity gain speed",
-      "-20% toxic sensitivity",
+      "+20% toxic resistance",
       "+25% plant work speed",
       "+25% plant harvest yield",
       "-10.00% social impact",
@@ -1696,8 +1584,8 @@
   },
   {
     "name": "paladin",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "+0.10 move speed",
       "+20% immunity gain speed",
@@ -1710,11 +1598,11 @@
   },
   {
     "name": "summoner",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "+0.10 move speed",
-      "+10% toxic sensitivity",
+      "-10% toxic resistance",
       "-8.0C Minimum comfortable temperature",
       "+8.0C Maximum comfortable temperature",
       "+10.00% social impact"
@@ -1723,13 +1611,13 @@
   },
   {
     "name": "necromancer",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "-0.30 move speed",
       "-20.0C Minimum comfortable temperature",
       "+40% immunity gain speed",
-      "-40% toxic sensitivity",
+      "+40% toxic resistance",
       "-10% mental break threshold",
       "+40% global learning factor",
       "-50.00% trade price improvement",
@@ -1739,8 +1627,8 @@
   },
   {
     "name": "lich",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "Confused wandering mental state disabled.",
       "Panic fleeing mental state disabled.",
@@ -1755,7 +1643,7 @@
       "-42.0C Minimum comfortable temperature",
       "+46.0C Maximum comfortable temperature",
       "+100% immunity gain speed",
-      "-100% toxic sensitivity",
+      "+100% toxic resistance",
       "-20% mental break threshold",
       "-40% global learning factor",
       "-50.00% trade price improvement",
@@ -1767,8 +1655,8 @@
   },
   {
     "name": "priest",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "+2 medical",
       "+0.15 move speed",
@@ -1783,8 +1671,8 @@
   },
   {
     "name": "entertainer",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "+10.00% social impact",
       "+20.00% negotiation ability",
@@ -1797,8 +1685,8 @@
   },
   {
     "name": "performer",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "+20.00% social impact",
       "+30.00% negotiation ability",
@@ -1811,8 +1699,8 @@
   },
   {
     "name": "minstrel",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "+30.00% social impact",
       "+35.00% negotiation ability",
@@ -1825,8 +1713,8 @@
   },
   {
     "name": "bard",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "+35.00% social impact",
       "+40.00% negotiation ability",
@@ -1839,8 +1727,8 @@
   },
   {
     "name": "succubus",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "+0.20 move speed",
       "-20% global work speed",
@@ -1860,8 +1748,8 @@
   },
   {
     "name": "warlock",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "-0.10 move speed",
       "-20% global work speed",
@@ -1881,11 +1769,11 @@
   },
   {
     "name": "geomancer",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "-0.10 move speed",
-      "-30% toxic sensitivity",
+      "+30% toxic resistance",
       "-12.0C Minimum comfortable temperature",
       "+12.0C Maximum comfortable temperature",
       "-5.0 melee dodge chance",
@@ -1900,8 +1788,8 @@
   },
   {
     "name": "technomancer",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "-30.00% social impact",
       "-20.00% negotiation ability",
@@ -1921,8 +1809,8 @@
   },
   {
     "name": "bloodmage",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "+20.00% social impact",
       "+15.00% negotiation ability",
@@ -1937,8 +1825,8 @@
   },
   {
     "name": "enchanter",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "-15.00% tame animal chance",
       "-15.00% train animal chance",
@@ -1946,7 +1834,7 @@
       "+10% global work speed",
       "+3.0C Minimum comfortable temperature",
       "-3.0C Maximum comfortable temperature",
-      "+10% toxic sensitivity",
+      "-10% toxic resistance",
       "-3% immunity gain speed",
       "-10% pain shock threshold"
     ],
@@ -1954,8 +1842,8 @@
   },
   {
     "name": "chronomancer",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "+25% global learning factor",
       "+40% research speed",
@@ -1967,8 +1855,8 @@
   },
   {
     "name": "chaosmage",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "+25% global learning factor",
       "-20% research speed",
@@ -1980,8 +1868,8 @@
   },
   {
     "name": "shadow",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "+25% psychic sensitivity",
       "+20% pain shock threshold",
@@ -1990,7 +1878,7 @@
       "+10.0 melee dodge chance",
       "-5.0 shooting accuracy",
       "-10% global work speed",
-      "-20% toxic sensitivity",
+      "+20% toxic resistance",
       "-20% research speed",
       "-20.00% social impact",
       "-10.00% negotiation ability"
@@ -1999,8 +1887,8 @@
   },
   {
     "name": "brightmage",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "+15% psychic sensitivity",
       "+0.20 move speed",
@@ -2009,7 +1897,7 @@
       "-25% aiming time",
       "-15.0 shooting accuracy",
       "+10.00% social impact",
-      "+30% toxic sensitivity",
+      "-30% toxic resistance",
       "-30 carrying capacity",
       "-20% pain shock threshold"
     ],
@@ -2017,11 +1905,11 @@
   },
   {
     "name": "shaman",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "+20% psychic sensitivity",
-      "+30% toxic sensitivity",
+      "-30% toxic resistance",
       "+10% immunity gain speed",
       "+30.00% tame animal chance",
       "+30.00% train animal chance",
@@ -2034,8 +1922,8 @@
   },
   {
     "name": "golemancer",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "+0.5 filth rate",
       "-20.00% social impact",
@@ -2048,9 +1936,23 @@
     "description": "Golemancers prefer to weave their magic through powerful runes and sigils that are able to transfer purpose into an object. Timmy is no exception; he can create runes that enhance basic mechanics, alter chemicals in biological matter, and animate mundane material into life-like, monstrous creatures. Golemancers are most effective when channeling their magic through symbols and find it more difficult to convert mana to energy directly but are also have higher arcane resistances. Most golemancers tend to find rocks more interesting than people and have little concern for cleanliness."
   },
   {
+    "name": "possessed",
+    "addPrice": 0,
+    "removePrice": 0,
+    "stats": [],
+    "description": "The body of Timmy is inhabited by the spirit of another pawn. Possession in a living pawn creates an internal conflict as the functions of the body are shared between two souls. This conflict can be reduced if personalities align, but will become further aggravated if they contrast. Possession of a deceased pawn will not experience mental conflicts, but will slowly deplete the energy of the possessing spirit. Spirit can be recharged through meditation or absorption."
+  },
+  {
+    "name": "spirit",
+    "addPrice": 0,
+    "removePrice": 0,
+    "stats": [],
+    "description": "The body of Timmy is inhabited by the spirit of another pawn. Possession in a living pawn creates an internal conflict as the functions of the body are shared between two souls. This conflict can be reduced if personalities align, but will become further aggravated if they contrast. Possession of a deceased pawn will not experience mental conflicts, but will slowly deplete the energy of the possessing spirit. Spirit can be recharged through meditation or absorption."
+  },
+  {
     "name": "physicallyadept",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "+0.20 move speed",
       "+20% global work speed",
@@ -2062,8 +1964,8 @@
   },
   {
     "name": "wayfarer",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "+0.20 move speed",
       "-10% global work speed",
@@ -2077,8 +1979,8 @@
   },
   {
     "name": "apothecary",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "+20% plant work speed",
       "-2.50% food poison chance",
@@ -2095,8 +1997,8 @@
   },
   {
     "name": "gladiator",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "+0.20 move speed",
       "+20% global work speed",
@@ -2116,15 +2018,15 @@
   },
   {
     "name": "woodsman",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "+0.15 move speed",
       "+20% immunity gain speed",
       "+10.0C Maximum comfortable temperature",
       "-10.0C Minimum comfortable temperature",
       "-15% aiming time",
-      "-10% toxic sensitivity",
+      "+10% toxic resistance",
       "+5% butchery speed",
       "-10% smelting speed",
       "-10% construction speed",
@@ -2136,15 +2038,15 @@
   },
   {
     "name": "hunter",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "+0.20 move speed",
       "+25% immunity gain speed",
       "+15.0C Maximum comfortable temperature",
       "-15.0C Minimum comfortable temperature",
       "-20% aiming time",
-      "-15% toxic sensitivity",
+      "+15% toxic resistance",
       "+10% butchery speed",
       "-15% smelting speed",
       "-15% construction speed",
@@ -2156,15 +2058,15 @@
   },
   {
     "name": "scout",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "+0.25 move speed",
       "+30% immunity gain speed",
       "+18.0C Maximum comfortable temperature",
       "-18.0C Minimum comfortable temperature",
       "-30% aiming time",
-      "-20% toxic sensitivity",
+      "+20% toxic resistance",
       "+15% butchery speed",
       "-18% smelting speed",
       "-18% construction speed",
@@ -2176,15 +2078,15 @@
   },
   {
     "name": "ranger",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "+0.30 move speed",
       "+35% immunity gain speed",
       "+20.0C Maximum comfortable temperature",
       "-20.0C Minimum comfortable temperature",
       "-40% aiming time",
-      "-25% toxic sensitivity",
+      "+25% toxic resistance",
       "+20% butchery speed",
       "-20% smelting speed",
       "-20% construction speed",
@@ -2196,8 +2098,8 @@
   },
   {
     "name": "sharpshooter",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "+0.10 move speed",
       "-10% aiming time",
@@ -2211,8 +2113,8 @@
   },
   {
     "name": "sniper",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "+0.15 move speed",
       "-15% aiming time",
@@ -2226,8 +2128,8 @@
   },
   {
     "name": "mastersniper",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "+0.20 move speed",
       "-22% aiming time",
@@ -2241,8 +2143,8 @@
   },
   {
     "name": "legendarysniper",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "+0.25 move speed",
       "-30% aiming time",
@@ -2256,8 +2158,8 @@
   },
   {
     "name": "bladesman",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "+0.15 move speed",
       "-3% mental break threshold",
@@ -2270,8 +2172,8 @@
   },
   {
     "name": "blademaster",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "+0.20 move speed",
       "-5% mental break threshold",
@@ -2284,8 +2186,8 @@
   },
   {
     "name": "bladedancer",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "+0.30 move speed",
       "-8% mental break threshold",
@@ -2299,8 +2201,8 @@
   },
   {
     "name": "legendarybladedancer",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "+0.40 move speed",
       "-10% mental break threshold",
@@ -2314,8 +2216,8 @@
   },
   {
     "name": "faceless",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "+0.15 move speed",
       "+10% global work speed",
@@ -2332,8 +2234,8 @@
   },
   {
     "name": "psionic",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "-25.00% social impact",
       "-20.00% negotiation ability",
@@ -2348,8 +2250,8 @@
   },
   {
     "name": "deathknight",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "-25.00% social impact",
       "-25.00% negotiation ability",
@@ -2361,8 +2263,8 @@
   },
   {
     "name": "monk",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "+5.0 melee dodge chance",
       "+5.0 melee hit chance",
@@ -2377,8 +2279,8 @@
   },
   {
     "name": "commander",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "+40.00% social impact",
       "+30.00% negotiation ability",
@@ -2390,8 +2292,8 @@
   },
   {
     "name": "supersoldier",
-    "addPrice": 3500,
-    "removePrice": 5500,
+    "addPrice": 0,
+    "removePrice": 0,
     "stats": [
       "+5% immunity gain speed",
       "+0.10 move speed",
@@ -2404,7 +2306,52 @@
       "-20% global learning factor"
     ],
     "description": "Timmy is a highly trained Soldier, specializing in pistol, shotgun, or rifle weapons. his weapon specialization is augmented by a standard set of combat training. Super Soldiers are trained to be aggressive and consider violence the natural solution to any argument."
+  },
+  {
+    "name": "attuned",
+    "addPrice": 0,
+    "removePrice": 0,
+    "stats": [
+      "Artistic meditation focus type disabled.",
+      "Natural meditation focus type allowed.",
+      "+2 plants",
+      "+20% psychic sensitivity",
+      "-5% mental break threshold",
+      "x120% neural heat recovery rate",
+      "x110% neural heat limit",
+      "x90% neural heat gain"
+    ],
+    "description": "Timmy has spent time learning and practicing the tribal rituals required to link oneself to an Anima tree. he has long since been enamoured by the wonders of nature."
+  },
+  {
+    "name": "shutin",
+    "addPrice": 3500,
+    "removePrice": 5500,
+    "stats": [
+      "Only mental break \"Wander_OwnRoom\" allowed.",
+      "+5% mental break threshold"
+    ],
+    "description": "Timmy has always had a preference for indoors and tends to suffer from anxiety the moment they leave a building and sometimes confine themselves to wonder their own room when mental pressure gets too high."
+  },
+  {
+    "name": "nomadic",
+    "addPrice": 3500,
+    "removePrice": 5500,
+    "stats": [
+      "Only mental break \"GiveUpExit\" allowed."
+    ],
+    "description": "Timmy likes the idea of moving homes periodically if things get too stressing, keep them sane or they might leave you."
+  },
+  {
+    "name": "efficientlybrawny",
+    "addPrice": 3500,
+    "removePrice": 5500,
+    "stats": [
+      "Only mental break \"Tantrum\" allowed.",
+      "+70% mining speed",
+      "-10% incoming damage multiplier",
+      "+35% mental break threshold"
+    ],
+    "description": "Timmy has always had a reputation for being more muscle then brain, and as a result they can Efficiently do work way faster and easier aswell as take a hit then a normal person but lack any control over their emotions, causing them to throw a tantrum randomly."
   }
-],
-  "total": 0
-}
+]
