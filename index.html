@@ -272,7 +272,7 @@
                                     Sort by Price
                                 </button>
                             </p>
-                            <table class="table items">
+                            <table class="table commands">
                                 <tr>
                                     <th scope="col" class="sort" data-sort="usage">Usage</th>
                                     <th scope="col" class="sort" data-sort="description">Description</th>
@@ -408,7 +408,7 @@
         $.getJSON(commandListURL, function(data) {
             var options = {
                 valueNames: ['usage', 'description', 'userLevel'],
-                item: '<tr><td class="name" scope="row"></td><td class="usage"></td><td class="description"></td></tr>'
+                item: '<tr><td class="usage"></td><td class="description"></td></tr>'
             };
 
             var commandData = [];
