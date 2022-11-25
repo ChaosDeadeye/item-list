@@ -405,7 +405,7 @@
         let commandList = null;
         $.getJSON(commandListURL, function(data) {
             var options = {
-                valueNames: ['usage', 'description'],
+                valueNames: ['usage', 'description', 'userLevel'],
                 item: '<tr><td class="name" scope="row"></td><td class="usage"></td><td class="description"></td></tr>'
             };
 
