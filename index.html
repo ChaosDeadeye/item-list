@@ -401,6 +401,23 @@
 
             traitList = new List('traits', options, traitData);
         });
+	    
+        let commandList = null;
+        $.getJSON(commandListURL, function(data) {
+            var options = {
+                valueNames: ['usage', 'description'],
+                item: '<tr><td class="name" scope="row"></td><td class="usage"></td><td class="description"></td></tr>'
+            };
+
+            var commandData = [];
+            $.each(data.commands, function(index, value) {
+               <!-- if (value["addPrice"] > 0) { -->
+                    commandData.push(value);
+               <!-- } -->
+            });
+
+            commandList = new List('commands', options, commandData);
+        });
 
         $("#item-price-min").keyup(function() {
             updateItemFilter();
