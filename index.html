@@ -411,9 +411,9 @@
 
             var commandData = [];
             $.each(data.commands, function(index, value) {
-               <!-- if (value["addPrice"] > 0) { -->
+                if (value["userLevel"] = "Anyone") {
                     commandData.push(value);
-               <!-- } -->
+                }
             });
 
             commandList = new List('commands', options, commandData);
