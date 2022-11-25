@@ -302,42 +302,6 @@
     "enabled": true,
     "name": "Miho",
     "price": 6667
-  },
-  {
-    "data": {
-      "customName": false,
-      "stats": [
-        "+65.00 Mass",
-        "+100% Flammability",
-        "+$3000 Market value",
-        "+5 Honor value",
-        "+75 Carrying capacity",
-        "+100% Global learning factor",
-        "+80% Psychic sensitivity",
-        "+80% Rest rate multiplier",
-        "+70% Global work speed",
-        "+0 Foraged food amount",
-        "+120.00% Negotiation ability",
-        "+120.00% Social impact",
-        "+120.00% Trade price improvement",
-        "+40 Leather amount",
-        "+82% Pain shock threshold",
-        "+30% Mental break threshold",
-        "+22.0C Minimum comfortable temperature",
-        "+40.0C Maximum comfortable temperature",
-        "+5.20 Move speed",
-        "+95% Aiming time",
-        "+10.0 Melee dodge chance",
-        "+1.2 Melee hit chance"
-      ],
-      "mod": "Unknown",
-      "karmaType": null
-    },
-    "description": "The Marvelous gift of glitterworld bionics. A humanoid with cat ears and a tail.",
-    "defName": "Alien_Nyaron",
-    "enabled": true,
-    "name": "Nyaron",
-    "price": 5000
   }
 ]
 }
