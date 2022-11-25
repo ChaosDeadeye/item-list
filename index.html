@@ -411,7 +411,7 @@
 
             var commandData = [];
             $.each(data.commands, function(index, value) {
-                if (value["userLevel"] = 'Anyone') {
+                if (value["userLevel"] === 'Anyone') {
                     commandData.push(value);
                 }
             });
