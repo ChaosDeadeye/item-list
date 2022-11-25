@@ -17,6 +17,7 @@
 	const traitListURL = "https://raw.githubusercontent.com/ChaosDeadeye/item-list/master/StoreTraits(new).json";
 	const item2ListURL = "https://raw.githubusercontent.com/ChaosDeadeye/item-list/master/StoreItemsWithMods.json";
 	const commandListURL = "https://raw.githubusercontent.com/ChaosDeadeye/item-list/master/commands.json";
+	const cpawnListURL = "https://raw.githubusercontent.com/ChaosDeadeye/item-list/master/pawnkinds.json";
     </script>
 </head>
 
@@ -195,7 +196,26 @@
                 </div>
 		<div class="row" ng-show='selected == 4'>
                     <div class="col-md-12">
-			    <p>
+                        <div id="pawns">
+                            <div class="input-group input-group-sm mb-3">
+                                <div class="input-group-prepend">
+                                    <span class="input-group-text" id="inputGroup-sizing-sm">Search</span>
+                                </div>
+                                <input type="text" class="form-control search" aria-label="Search" aria-describedby="inputGroup-sizing-sm">
+                            </div>
+                            <table class="table pawns">
+                                <tr>
+                                    <th scope="col" class="sort" data-sort="name">Name</th>
+                                    <th scope="col" class="sort" data-sort="price">Price</th>
+				    <th scope="col" class="sort" data-sort="stats">Stats</th>
+                                    <th scope="col" class="sort" data-sort="description">Description</th>
+                                </tr>
+                                <tbody class="list">
+                                </tbody>
+                            </table>
+                        </div>
+			    
+		<!--	<p>
 				    Here is a list of the races you can choose from when you use <strong>!buy pawn *race*</strong>
 			    </p>
                   	<table style="width:60%;height:500px">
@@ -251,7 +271,7 @@
 				<td>Hisa</td>
 				<td>5000</td>
 			</tr>
-			</table>
+			</table>  -->
                     </div>
                 </div>
 		    
@@ -416,6 +436,21 @@
                 if (value["userLevel"] === 'Anyone') {
                     commandData.push(value);
                 }
+            });
+
+            commandList = new List('commands', options, commandData);
+        });
+	    
+        let pawnList = null;
+        $.getJSON(pawnListURL, function(data) {
+            var options = {
+                valueNames: ['name', 'price', 'stats', 'description'],
+                item: '<tr><td class="name"></td><td class="price"></td><td class="stats"></td><td class="description"></td></tr>'
+            };
+
+            var pawnData = [];
+            $.each(data.pawns, function(index, value) {
+                    pawnData.push(value);
             });
 
             commandList = new List('commands', options, commandData);
