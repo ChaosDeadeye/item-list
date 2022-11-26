@@ -477,8 +477,8 @@
 	let materialList = null;
         $.getJSON(materialListURL, function(data) {
             var options = {
-                valueNames: ['name', 'maxHitPoints', 'armorSharp', 'armorBlunt', 'armorHeat'],
-                item: '<tr><td class="name"></td><td class="maxHitPoints"></td><td class="armorSharp"></td><td class="armorBlunt"></td><td class="armorHeat"></td></tr>'
+                valueNames: ['name', 'maxHitPoints', 'armorSharp', 'armorBlunt', 'armorHeat','bluntDamage'],
+                item: '<tr><td class="name"></td><td class="maxHitPoints"></td><td class="armorSharp"></td><td class="armorBlunt"></td><td class="armorHeat"></td><td class="bluntDamage"></td></tr>'
             };
 
             var materialData = [];
