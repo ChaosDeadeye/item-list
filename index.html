@@ -42,7 +42,7 @@
     <main role="main">
         <div class="jumbotron">
             <div class="container">
-		    <h2 class="display-3"><b>ChaosDeadeye's Purchase List testing</b></h2>
+		    <h2 class="display-3"><b>ChaosDeadeye's Purchase List testing123</b></h2>
                 <p>Here is a list of all available items, events, traits and pawns you can buy. Make sure to also check the command list.</p>
 		<p>To buy something simply type !buy "itemname" "amount" in chat. Example: <i>!buy beer 6</i></p>
 		<p>You can also buy certain items made out of a specific material and quality. Example: <i>!buy platearmor[plateel,excellent]</i></p>
@@ -287,12 +287,12 @@
                             <table class="table materials">
                                 <tr>
                                     <th scope="col" class="sort" data-sort="name">Name</th>
-                                    <th scope="col" class="sort" data-sort="maxHitPoints">Max Hit Points</th>
+                          <!--          <th scope="col" class="sort" data-sort="maxHitPoints">Max Hit Points</th>
                                     <th scope="col" class="sort" data-sort="armorSharp">Armor Sharp</th>
 				    <th scope="col" class="sort" data-sort="armorBlunt">Armor Blunt</th>
 				    <th scope="col" class="sort" data-sort="armorHeat">Armor Heat</th>
 				    <th scope="col" class="sort" data-sort="bluntDamage">Blunt Damage</th>
-				    <th scope="col" class="sort" data-sort="sharpDamage">Sharp Damage</th>
+				    <th scope="col" class="sort" data-sort="sharpDamage">Sharp Damage</th>	-->
                                 </tr>
                                 <tbody class="list">
                                 </tbody>
@@ -477,15 +477,13 @@
         let materialList = null;
         $.getJSON(materialListURL, function(data) {
             var options = {
-                valueNames: ['name', 'maxHitPoints', 'armorSharp', 'armorBlunt', 'armorHeat'. 'bluntDamage', 'sharpDamage', 'type'],
-                item: '<tr><td class="name"></td><td class="maxHitPoints"></td><td class="armorSharp"></td><td class="armorBlunt"></td><td class="armorHeat"></td><td class="bluntDamage"></td><td class="sharpDamage"></td></tr>'
+                valueNames: ['name'],
+                item: '<tr><td class="name"></td></tr>'
             };
 
             var materialData = [];
             $.each(data.materials, function(index, value) {
-                if (value["type"] === 'metal') {
                     materialData.push(value);
-                }
             });
 
             materialList = new List('materials', options, materialData);
