@@ -11,6 +11,116 @@
 		"type": "metal"
 	},
 	{
+		"name": "gold",
+		"maxHitPoints": "60%",
+		"armorSharp": "72%",
+		"armorBlunt": "36%",
+		"armorHeat": "36%",
+		"bluntDamage": "100",
+		"sharpDamage": 75",
+		"type": "metal"
+	},
+	{
+		"name": "steel",
+		"maxHitPoints": "100%",
+		"armorSharp": "90%",
+		"armorBlunt": "45%",
+		"armorHeat": "60%",
+		"bluntDamage": "100%",
+		"sharpDamage": "100%",
+		"type": "metal"
+	},
+	{
+		"name": "silver",
+		"maxHitPoints": "70%",
+		"armorSharp": "72%",
+		"armorBlunt": "36%",
+		"armorHeat": "36%",
+		"bluntDamage": "100%",
+		"sharpDamage": "85%",
+		"type": "metal"
+	},
+	{
+		"name": "plasteel",
+		"maxHitPoints": "280%",
+		"armorSharp": "114%",
+		"armorBlunt": "55%",
+		"armorHeat": "65%",
+		"bluntDamage": "90%",
+		"sharpDamage": "110%",
+		"type": "metal"
+	},
+	{
+		"name": "silver",
+		"maxHitPoints": "70%",
+		"armorSharp": "72%",
+		"armorBlunt": "36%",
+		"armorHeat": "36%",
+		"bluntDamage": "100%",
+		"sharpDamage": "85%",
+		"type": "metal"
+	},
+	{
+		"name": "uranium",
+		"maxHitPoints": "250%",
+		"armorSharp": "108%",
+		"armorBlunt": "54%",
+		"armorHeat": "65%",
+		"bluntDamage": "150%",
+		"sharpDamage": "110%",
+		"type": "metal"
+	},
+	{
+		"name": "sky steel",
+		"maxHitPoints": "150%",
+		"armorSharp": "100%",
+		"armorBlunt": "55%",
+		"armorHeat": "35%",
+		"bluntDamage": "110%",
+		"sharpDamage": "110%",
+		"type": "metal"
+	},
+	{
+		"name": "exotic dust",
+		"maxHitPoints": "300%",
+		"armorSharp": "115%",
+		"armorBlunt": "115%",
+		"armorHeat": "115%",
+		"bluntDamage": "115%",
+		"sharpDamage": "115%",
+		"type": "metal"
+	},
+	{
+		"name": "wood",
+		"maxHitPoints": "65%",
+		"armorSharp": "54%",
+		"armorBlunt": "54%",
+		"armorHeat": "40%",
+		"bluntDamage": "90%",
+		"sharpDamage": "40%",
+		"type": "wood"
+	},
+	{
+		"name": "red wood",
+		"maxHitPoints": "75%",
+		"armorSharp": "0%",
+		"armorBlunt": "0%",
+		"armorHeat": "0%",
+		"bluntDamage": "80%",
+		"sharpDamage": "60%",
+		"type": "wood"
+	},
+	{
+		"name": "choco stick",
+		"maxHitPoints": "52%",
+		"armorSharp": "43%",
+		"armorBlunt": "43%",
+		"armorHeat": "32%",
+		"bluntDamage": "72%",
+		"sharpDamage": "32%",
+		"type": "wood"
+	},
+	{
 		"name": "cloth",
 		"maxHitPoints": "100%",
 		"armorSharp": "36%",
@@ -19,6 +129,536 @@
 		"bluntDamage": "-",
 		"sharpDamage": "-",
 		"type": "fabric"
-	}
-]
+	},
+	{
+		"name": "synthread",
+		"maxHitPoints": "130%",
+		"armorSharp": "94%",
+		"armorBlunt": "26%",
+		"armorHeat": "90%",
+		"bluntDamage": "-",
+		"sharpDamage": "-",
+		"type": "fabric"
+	},
+	{
+		"name": "devilstrand",
+		"maxHitPoints": "130%",
+		"armorSharp": "140%",
+		"armorBlunt": "36%",
+		"armorHeat": "300%",
+		"bluntDamage": "-",
+		"sharpDamage": "-",
+		"type": "fabric"
+	},
+	{
+		"name": "hyperweave",
+		"maxHitPoints": "240%",
+		"armorSharp": "200%",
+		"armorBlunt": "54%",
+		"armorHeat": "288%",
+		"bluntDamage": "-",
+		"sharpDamage": "-",
+		"type": "fabric"
+	},
+	{
+		"name": "cindersilk",
+		"maxHitPoints": "130%",
+		"armorSharp": "94%",
+		"armorBlunt": "26%",
+		"armorHeat": "120%",
+		"bluntDamage": "-",
+		"sharpDamage": "-",
+		"type": "fabric"
+	},
+	{
+		"name": "moth silk",
+		"maxHitPoints": "130%",
+		"armorSharp": "140%",
+		"armorBlunt": "36%",
+		"armorHeat": "100%",
+		"bluntDamage": "-",
+		"sharpDamage": "-",
+		"type": "fabric"
+	},
+	{
+		"name": "giant crowned silkie silk",
+		"maxHitPoints": "120%",
+		"armorSharp": "36%",
+		"armorBlunt": "0%",
+		"armorHeat": "110%",
+		"bluntDamage": "-",
+		"sharpDamage": "-",
+		"type": "fabric"
+	},
+	{
+		"name": "spacer fabric",
+		"maxHitPoints": "200%",
+		"armorSharp": "0%",
+		"armorBlunt": "0%",
+		"armorHeat": "0%",
+		"bluntDamage": "-",
+		"sharpDamage": "-",
+		"type": "fabric"
+	},
+	{
+		"name": "sheep wool",
+		"maxHitPoints": "100%",
+		"armorSharp": "36%",
+		"armorBlunt": "0%",
+		"armorHeat": "110%",
+		"bluntDamage": "-",
+		"sharpDamage": "-",
+		"type": "wool"
+	},
+	{
+		"name": "alpaca wool",
+		"maxHitPoints": "100%",
+		"armorSharp": "36%",
+		"armorBlunt": "0%",
+		"armorHeat": "110%",
+		"bluntDamage": "-",
+		"sharpDamage": "-",
+		"type": "wool"
+	},
+	{
+		"name": "megasloth wool",
+		"maxHitPoints": "100%",
+		"armorSharp": "80%",
+		"armorBlunt": "0%",
+		"armorHeat": "110%",
+		"bluntDamage": "-",
+		"sharpDamage": "-",
+		"type": "wool"
+	},
+	{
+		"name": "muffalo wool",
+		"maxHitPoints": "100%",
+		"armorSharp": "36%",
+		"armorBlunt": "0%",
+		"armorHeat": "110%",
+		"bluntDamage": "-",
+		"sharpDamage": "-",
+		"type": "wool"
+	},
+	{
+		"name": "bison wool",
+		"maxHitPoints": "100%",
+		"armorSharp": "36%",
+		"armorBlunt": "0%",
+		"armorHeat": "110%",
+		"bluntDamage": "-",
+		"sharpDamage": "-",
+		"type": "wool"
+	},
+	{
+		"name": "chameleon yak wool, temperate",
+		"maxHitPoints": "100%",
+		"armorSharp": "80%",
+		"armorBlunt": "0%",
+		"armorHeat": "110%",
+		"bluntDamage": "-",
+		"sharpDamage": "-",
+		"type": "wool"
+	},
+	{
+		"name": "chameleon yak wool, winter",
+		"maxHitPoints": "100%",
+		"armorSharp": "50%",
+		"armorBlunt": "0%",
+		"armorHeat": "110%",
+		"bluntDamage": "-",
+		"sharpDamage": "-",
+		"type": "wool"
+	},
+	{
+		"name": "chameleon yak wool, jungle",
+		"maxHitPoints": "100%",
+		"armorSharp": "125%",
+		"armorBlunt": "0%",
+		"armorHeat": "110%",
+		"bluntDamage": "-",
+		"sharpDamage": "-",
+		"type": "wool"
+	},
+	{
+		"name": "chameleon yak wool, desert",
+		"maxHitPoints": "100%",
+		"armorSharp": "85%",
+		"armorBlunt": "0%",
+		"armorHeat": "110%",
+		"bluntDamage": "-",
+		"sharpDamage": "-",
+		"type": "wool"
+	},
+	{
+		"name": "grey-coated mouflon wool",
+		"maxHitPoints": "100%",
+		"armorSharp": "36%",
+		"armorBlunt": "0%",
+		"armorHeat": "110%",
+		"bluntDamage": "-",
+		"sharpDamage": "-",
+		"type": "wool"
+	},
+	{
+		"name": "night wool",
+		"maxHitPoints": "100%",
+		"armorSharp": "60%",
+		"armorBlunt": "25%",
+		"armorHeat": "120%",
+		"bluntDamage": "-",
+		"sharpDamage": "-",
+		"type": "wool"
+	},
+	{
+		"name": "dragonian wool",
+		"maxHitPoints": "175%",
+		"armorSharp": "180%",
+		"armorBlunt": "140%",
+		"armorHeat": "120%",
+		"bluntDamage": "-",
+		"sharpDamage": "-",
+		"type": "wool"
+	},
+	{
+		"name": "plainleather",
+		"maxHitPoints": "130%",
+		"armorSharp": "81%",
+		"armorBlunt": "24%",
+		"armorHeat": "150%",
+		"bluntDamage": "-",
+		"sharpDamage": "-",
+		"type": "leather"
+	},
+	{
+		"name": "dog leather",
+		"maxHitPoints": "130%",
+		"armorSharp": "81%",
+		"armorBlunt": "24%",
+		"armorHeat": "150%",
+		"bluntDamage": "-",
+		"sharpDamage": "-",
+		"type": "leather"
+	},
+	{
+		"name": "wolfskin",
+		"maxHitPoints": "130%",
+		"armorSharp": "102%",
+		"armorBlunt": "24%",
+		"armorHeat": "150%",
+		"bluntDamage": "-",
+		"sharpDamage": "-",
+		"type": "leather"
+	},
+	{
+		"name": "panthera fur",
+		"maxHitPoints": "130%",
+		"armorSharp": "93%",
+		"armorBlunt": "24%",
+		"armorHeat": "150%",
+		"bluntDamage": "-",
+		"sharpDamage": "-",
+		"type": "leather"
+	},
+	{
+		"name": "camelhide",
+		"maxHitPoints": "130%",
+		"armorSharp": "81%",
+		"armorBlunt": "24%",
+		"armorHeat": "150%",
+		"bluntDamage": "-",
+		"sharpDamage": "-",
+		"type": "leather"
+	},
+	{
+		"name": "bluefur",
+		"maxHitPoints": "130%",
+		"armorSharp": "81%",
+		"armorBlunt": "24%",
+		"armorHeat": "150%",
+		"bluntDamage": "-",
+		"sharpDamage": "-",
+		"type": "leather"
+	},
+	{
+		"name": "bearskin",
+		"maxHitPoints": "130%",
+		"armorSharp": "112%",
+		"armorBlunt": "24%",
+		"armorHeat": "150%",
+		"bluntDamage": "-",
+		"sharpDamage": "-",
+		"type": "leather"
+	},
+	{
+		"name": "guinea pig fur",
+		"maxHitPoints": "60%",
+		"armorSharp": "67%",
+		"armorBlunt": "14%",
+		"armorHeat": "150%",
+		"bluntDamage": "-",
+		"sharpDamage": "-",
+		"type": "leather"
+	},
+	{
+		"name": "human leather",
+		"maxHitPoints": "130%",
+		"armorSharp": "64%",
+		"armorBlunt": "24%",
+		"armorHeat": "150%",
+		"bluntDamage": "-",
+		"sharpDamage": "-",
+		"type": "leather"
+	},
+	{
+		"name": "pigskin",
+		"maxHitPoints": "130%",
+		"armorSharp": "64%",
+		"armorBlunt": "24%",
+		"armorHeat": "150%",
+		"bluntDamage": "-",
+		"sharpDamage": "-",
+		"type": "leather"
+	},
+	{
+		"name": "lightleather",
+		"maxHitPoints": "100%",
+		"armorSharp": "54%",
+		"armorBlunt": "14%",
+		"armorHeat": "150%",
+		"bluntDamage": "-",
+		"sharpDamage": "-",
+		"type": "leather"
+	},
+	{
+		"name": "birdskin",
+		"maxHitPoints": "100%",
+		"armorSharp": "67%",
+		"armorBlunt": "14%",
+		"armorHeat": "150%",
+		"bluntDamage": "-",
+		"sharpDamage": "-",
+		"type": "leather"
+	},
+	{
+		"name": "chinchilla fur",
+		"maxHitPoints": "100%",
+		"armorSharp": "67%",
+		"armorBlunt": "14%",
+		"armorHeat": "150%",
+		"bluntDamage": "-",
+		"sharpDamage": "-",
+		"type": "leather"
+	},
+	{
+		"name": "foxfur",
+		"maxHitPoints": "100%",
+		"armorSharp": "81%",
+		"armorBlunt": "21%",
+		"armorHeat": "150%",
+		"bluntDamage": "-",
+		"sharpDamage": "-",
+		"type": "leather"
+	},
+	{
+		"name": "lizardskin",
+		"maxHitPoints": "100%",
+		"armorSharp": "81%",
+		"armorBlunt": "27%",
+		"armorHeat": "150%",
+		"bluntDamage": "-",
+		"sharpDamage": "-",
+		"type": "leather"
+	},
+	{
+		"name": "elephant leather",
+		"maxHitPoints": "150%",
+		"armorSharp": "112%",
+		"armorBlunt": "24%",
+		"armorHeat": "150%",
+		"bluntDamage": "-",
+		"sharpDamage": "-",
+		"type": "leather"
+	},
+	{
+		"name": "heavy fur",
+		"maxHitPoints": "150%",
+		"armorSharp": "124%",
+		"armorBlunt": "24%",
+		"armorHeat": "150%",
+		"bluntDamage": "-",
+		"sharpDamage": "-",
+		"type": "leather"
+	},
+	{
+		"name": "rhinoceros leather",
+		"maxHitPoints": "150%",
+		"armorSharp": "129%",
+		"armorBlunt": "24%",
+		"armorHeat": "150%",
+		"bluntDamage": "-",
+		"sharpDamage": "-",
+		"type": "leather"
+	},
+	{
+		"name": "thrumbofur",
+		"maxHitPoints": "200%",
+		"armorSharp": "208%",
+		"armorBlunt": "36%",
+		"armorHeat": "150%",
+		"bluntDamage": "-",
+		"sharpDamage": "-",
+		"type": "leather"
+	},
+	{
+		"name": "patchleather",
+		"maxHitPoints": "100%",
+		"armorSharp": "45%",
+		"armorBlunt": "19%",
+		"armorHeat": "90%",
+		"bluntDamage": "-",
+		"sharpDamage": "-",
+		"type": "leather"
+	},
+	{
+		"name": "behemoth scales",
+		"maxHitPoints": "150",
+		"armorSharp": "155%",
+		"armorBlunt": "24%",
+		"armorHeat": "150%",
+		"bluntDamage": "-",
+		"sharpDamage": "-",
+		"type": "leather"
+	},
+	{
+		"name": "aerofleet fur",
+		"maxHitPoints": "150%",
+		"armorSharp": "54%",
+		"armorBlunt": "14%",
+		"armorHeat": "150%",
+		"bluntDamage": "-",
+		"sharpDamage": "-",
+		"type": "leather"
+	},
+	{
+		"name": "arctic lion fur",
+		"maxHitPoints": "150%",
+		"armorSharp": "124%",
+		"armorBlunt": "24%",
+		"armorHeat": "150%",
+		"bluntDamage": "-",
+		"sharpDamage": "-",
+		"type": "leather"
+	},
+	{
+		"name": "sand lion fur",
+		"maxHitPoints": "150%",
+		"armorSharp": "124%",
+		"armorBlunt": "24%",
+		"armorHeat": "150%",
+		"bluntDamage": "-",
+		"sharpDamage": "-",
+		"type": "leather"
+	},
+	{
+		"name": "insect chitin",
+		"maxHitPoints": "150%",
+		"armorSharp": "112%",
+		"armorBlunt": "24%",
+		"armorHeat": "150%",
+		"bluntDamage": "-",
+		"sharpDamage": "-",
+		"type": "leather"
+	},
+	{
+		"name": "black insect chitin",
+		"maxHitPoints": "150%",
+		"armorSharp": "175%",
+		"armorBlunt": "54%",
+		"armorHeat": "150%",
+		"bluntDamage": "-",
+		"sharpDamage": "-",
+		"type": "leather"
+	},
+	{
+		"name": "iron chitin",
+		"maxHitPoints": "150%",
+		"armorSharp": "145%",
+		"armorBlunt": "24%",
+		"armorHeat": "150%",
+		"bluntDamage": "-",
+		"sharpDamage": "-",
+		"type": "leather"
+	},
+	{
+		"name": "hardened chitin",
+		"maxHitPoints": "200%",
+		"armorSharp": "140%",
+		"armorBlunt": "24%",
+		"armorHeat": "150%",
+		"bluntDamage": "-",
+		"sharpDamage": "-",
+		"type": "leather"
+	},
+	{
+		"name": "sentient plant skin",
+		"maxHitPoints": "150%",
+		"armorSharp": "100%",
+		"armorBlunt": "24%",
+		"armorHeat": "150%",
+		"bluntDamage": "-",
+		"sharpDamage": "-",
+		"type": "leather"
+	},
+	{
+		"name": "gallatross leather",
+		"maxHitPoints": "220%",
+		"armorSharp": "250%",
+		"armorBlunt": "45%",
+		"armorHeat": "150%",
+		"bluntDamage": "-",
+		"sharpDamage": "-",
+		"type": "leather"
+	},
+	{
+		"name": "night leather",
+		"maxHitPoints": "155%",
+		"armorSharp": "130%",
+		"armorBlunt": "24%",
+		"armorHeat": "150%",
+		"bluntDamage": "-",
+		"sharpDamage": "-",
+		"type": "leather"
+	},
+	{
+		"name": "makeshift leather",
+		"maxHitPoints": "100%",
+		"armorSharp": "0%",
+		"armorBlunt": "0%",
+		"armorHeat": "0%",
+		"bluntDamage": "-",
+		"sharpDamage": "-",
+		"type": "leather"
+	},
+	{
+		"name": "dragonian leather",
+		"maxHitPoints": "200%",
+		"armorSharp": "180%",
+		"armorBlunt": "50%",
+		"armorHeat": "150%",
+		"bluntDamage": "-",
+		"sharpDamage": "-",
+		"type": "leather"
+	},
+	{
+		"name": "poppi fur",
+		"maxHitPoints": "100%",
+		"armorSharp": "45%",
+		"armorBlunt": "63%",
+		"armorHeat": "150%",
+		"bluntDamage": "-",
+		"sharpDamage": "-",
+		"type": "leather"
+	}		
+	]
 }
