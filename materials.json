@@ -16,8 +16,8 @@
 		"armorSharp": "72%",
 		"armorBlunt": "36%",
 		"armorHeat": "36%",
-		"bluntDamage": "100",
-		"sharpDamage": 75",
+		"bluntDamage": "100%",
+		"sharpDamage": "75%",
 		"type": "metal"
 	},
 	{
