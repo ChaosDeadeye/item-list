@@ -2,22 +2,22 @@
 	"materials" : [
 	{
 		"name": "silver",
-		"maxHitPoints": "70%",
-		"armorSharp": "72%",
-		"armorBlunt": "36%",
-		"armorHeat": "36%",
-		"bluntDamage": "100%",
-		"sharpDamage": "85%",
+		"maxHitPoints": "70",
+		"armorSharp": "72",
+		"armorBlunt": "36",
+		"armorHeat": "36",
+		"bluntDamage": "100",
+		"sharpDamage": "85",
 		"type": "metal"
 	},
 	{
 		"name": "cloth",
-		"maxHitPoints": "100%",
-		"armorSharp": "36%",
-		"armorBlunt": "0%",
-		"armorHeat": "18%",
-		"bluntDamage": "-",
-		"sharpDamage": "-",
+		"maxHitPoints": "100",
+		"armorSharp": "36",
+		"armorBlunt": "0",
+		"armorHeat": "18",
+		"bluntDamage": "1",
+		"sharpDamage": "1",
 		"type": "fabric"
 	}
 ]
