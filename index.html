@@ -42,7 +42,7 @@
     <main role="main">
         <div class="jumbotron">
             <div class="container">
-		    <h2 class="display-3"><b>ChaosDeadeye's Purchase List testing123</b></h2>
+		    <h2 class="display-3"><b>ChaosDeadeye's Purchase List testing</b></h2>
                 <p>Here is a list of all available items, events, traits and pawns you can buy. Make sure to also check the command list.</p>
 		<p>To buy something simply type !buy "itemname" "amount" in chat. Example: <i>!buy beer 6</i></p>
 		<p>You can also buy certain items made out of a specific material and quality. Example: <i>!buy platearmor[plateel,excellent]</i></p>
@@ -287,8 +287,8 @@
                             <table class="table materials">
                                 <tr>
                                     <th scope="col" class="sort" data-sort="name">Name</th>
-                          <!--          <th scope="col" class="sort" data-sort="maxHitPoints">Max Hit Points</th>
-                                    <th scope="col" class="sort" data-sort="armorSharp">Armor Sharp</th>
+                                    <th scope="col" class="sort" data-sort="maxHitPoints">Max Hit Points</th>
+                          <!--          <th scope="col" class="sort" data-sort="armorSharp">Armor Sharp</th>
 				    <th scope="col" class="sort" data-sort="armorBlunt">Armor Blunt</th>
 				    <th scope="col" class="sort" data-sort="armorHeat">Armor Heat</th>
 				    <th scope="col" class="sort" data-sort="bluntDamage">Blunt Damage</th>
@@ -477,8 +477,8 @@
         let materialList = null;
         $.getJSON(materialListURL, function(data) {
             var options = {
-                valueNames: ['name'],
-                item: '<tr><td class="name"></td></tr>'
+                valueNames: ['name', 'maxHitPoints'],
+                item: '<tr><td class="name"></td><td class="maxHitPoints"></td></tr>'
             };
 
             var materialData = [];
