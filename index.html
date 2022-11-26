@@ -76,19 +76,19 @@
                                         Items
                                     </button>
                                     <button class="btn btn-success" ng-class="{'active': (selected == '2')}" ng-click='selected=2'>
-                                        Events
+                                        Animals
                                     </button>
                                     <button class="btn btn-success" ng-class="{'active': (selected == '3')}" ng-click='selected=3'>
-                                        Traits
+                                        Events
                                     </button>
 				    <button class="btn btn-success" ng-class="{'active': (selected == '4')}" ng-click='selected=4'>
-                                        Races
+                                        Traits
                                     </button>
 				    <button class="btn btn-success" ng-class="{'active': (selected == '5')}" ng-click='selected=5'>
-                                        Commands
+                                        Races
                                     </button>
 				    <button class="btn btn-success" ng-class="{'active': (selected == '6')}" ng-click='selected=6'>
-                                        Animals
+                                        Commands
                                     </button>
                                 </div>
                                 <div class="form-group row">
@@ -134,7 +134,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="row" ng-show='selected == 2'>
+                <div class="row" ng-show='selected == 3'>
                     <div class="col-md-12">
                         <div id="events">
                             <div class="input-group input-group-sm mb-3">
@@ -166,7 +166,7 @@
                         </div>
                     </div>
                 </div>
-		<div class="row" ng-show='selected == 3'>
+		<div class="row" ng-show='selected == 4'>
                     <div class="col-md-12">
                         <div id="traits">
                             <div class="input-group input-group-sm mb-3">
@@ -197,7 +197,7 @@
                         </div>
                     </div>
                 </div>
-		<div class="row" ng-show='selected == 4'>
+		<div class="row" ng-show='selected == 5'>
                     <div class="col-md-12">
                         <div id="pawns">
                             <div class="input-group input-group-sm mb-3">
@@ -219,7 +219,7 @@
                     </div>
                 </div>
 		    
-                <div class="row" ng-show='selected == 5'>
+                <div class="row" ng-show='selected == 6'>
                     <div class="col-md-12">
                         <div id="commands">
                             <div class="input-group input-group-sm mb-3">
@@ -240,7 +240,7 @@
                     </div>
                 </div>
 		    
-		<div class="row" ng-show='selected == 6'>
+		<div class="row" ng-show='selected == 2'>
                     <div class="col-md-12">
                         <div id="animals">
                             <div class="input-group input-group-sm mb-3">
