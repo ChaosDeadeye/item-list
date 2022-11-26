@@ -293,6 +293,7 @@
 				    <th scope="col" class="sort" data-sort="armorHeat">Armor Heat</th>
 				    <th scope="col" class="sort" data-sort="bluntDamage">Blunt Damage</th>
 				    <th scope="col" class="sort" data-sort="sharpDamage">Sharp Damage</th>
+				    <th scope="col" class="sort" data-sort="type">Type</th>
                                 </tr>
                                 <tbody class="list">
                                 </tbody>
@@ -478,14 +479,12 @@
         $.getJSON(materialListURL, function(data) {
             var options = {
                 valueNames: ['name', 'maxHitPoints', 'armorSharp', 'armorBlunt', 'armorHeat','bluntDamage','sharpDamage','type'],
-                item: '<tr><td class="name"></td><td class="maxHitPoints"></td><td class="armorSharp"></td><td class="armorBlunt"></td><td class="armorHeat"></td><td class="bluntDamage"></td><td class="sharpDamage"></td></tr>'
+                item: '<tr><td class="name"></td><td class="maxHitPoints"></td><td class="armorSharp"></td><td class="armorBlunt"></td><td class="armorHeat"></td><td class="bluntDamage"></td><td class="sharpDamage"></td><td class="type"></td></tr>'
             };
 
             var materialData = [];
             $.each(data.materials, function(index, value) {
-		if (value["type"] === 'metal') {
                     materialData.push(value);
-		}
             });
 
             materialList = new List('materials', options, materialData);
