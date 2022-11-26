@@ -2,7 +2,7 @@
 	"materials": [
 	{
 		"name": "silver",
-		"maxHitPoints": 70,
+		"maxHitPoints": "70%",
 		"armorSharp": 72,
 		"armorBlunt": 36,
 		"armorHeat": 36,
@@ -12,7 +12,7 @@
 	},
 	{
 		"name": "cloth",
-		"maxHitPoints": 100,
+		"maxHitPoints": "100%",
 		"armorSharp": 36,
 		"armorBlunt": 0,
 		"armorHeat": 18,
