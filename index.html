@@ -87,6 +87,9 @@
 				    <button class="btn btn-success" ng-class="{'active': (selected == '5')}" ng-click='selected=5'>
                                         Commands
                                     </button>
+				    <button class="btn btn-success" ng-class="{'active': (selected == '6')}" ng-click='selected=6'>
+                                        Animals
+                                    </button>
                                 </div>
                                 <div class="form-group row">
                                     <label class="col-sm-3 col-form-label" for="">Price Between:</label>
@@ -237,6 +240,37 @@
                     </div>
                 </div>
 		    
+		<div class="row" ng-show='selected == 6'>
+                    <div class="col-md-12">
+                        <div id="animals">
+                            <div class="input-group input-group-sm mb-3">
+                                <div class="input-group-prepend">
+                                    <span class="input-group-text" id="inputGroup-sizing-sm">Search</span>
+                                </div>
+                                <input type="text" class="form-control search" aria-label="Search" aria-describedby="inputGroup-sizing-sm">
+                            </div>
+                            <p>
+                                <button type="button" class="btn btn-primary sort" data-sort="abr">
+                                    Sort
+                                </button>
+                                <button type="button" class="btn btn-primary sort" data-sort="price">
+                                    Sort by Price
+                                </button>
+                            </p>
+                            <table class="table animals">
+                                <tr>
+                                    <th scope="col" class="sort" data-sort="abr">Name</th>
+                                    <th scope="col" class="sort" data-sort="price">Price</th>
+                                    <th scope="col" class="sort" data-sort="category">Category</th>
+				    <th scope="col" class="sort" data-sort="mod">Mod</th>
+                                </tr>
+                                <tbody class="list">
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>  
+		    
 		    
             </div>
         </div>
@@ -323,6 +357,25 @@
             });
 
             itemList = new List('items', options, itemData);
+        });
+	    
+        let animalList = null;
+        $.getJSON(item2ListURL, function(data) {
+            var options = {
+                valueNames: ['abr', 'price', 'category','mod','category'],
+                item: '<tr><td class="abr" scope="row"></td><td class="price"></td><td class="category"></td><td class="mod"></td></tr>'
+            };
+
+            var animalData = [];
+            $.each(data.items, function(index, value) {
+                if (value["price"] > 0) {
+			if (value["category"] === 'Animals') {
+                    animalData.push(value);
+			}
+                }
+            });
+
+            animalList = new List('animals', options, animalData);
         });
 
         let eventList = null;
