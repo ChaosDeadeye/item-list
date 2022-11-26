@@ -288,11 +288,11 @@
                                 <tr>
                                     <th scope="col" class="sort" data-sort="name">Name</th>
                                     <th scope="col" class="sort" data-sort="maxHitPoints">Max Hit Points</th>
-                                    <th scope="col" class="sort" data-sort="armorSharp">Armor Sharp</th>
+                              <!--      <th scope="col" class="sort" data-sort="armorSharp">Armor Sharp</th>
 				    <th scope="col" class="sort" data-sort="armorBlunt">Armor Blunt</th>
 				    <th scope="col" class="sort" data-sort="armorHeat">Armor Heat</th>
 				    <th scope="col" class="sort" data-sort="bluntDamage">Blunt Damage</th>
-				    <th scope="col" class="sort" data-sort="sharpDamage">Sharp Damage</th>
+				    <th scope="col" class="sort" data-sort="sharpDamage">Sharp Damage</th>	-->
                                 </tr>
                                 <tbody class="list">
                                 </tbody>
@@ -477,8 +477,8 @@
 	let materialList = null;
         $.getJSON(materialListURL, function(data) {
             var options = {
-                valueNames: ['name', 'maxHitPoints', 'armorSharp', 'armorBlunt', 'armorHeat'. 'bluntDamage', 'sharpDamage'],
-                item: '<tr><td class="name"></td><td class="maxHitPoints"></td><td class="armorSharp"></td><td class="armorBlunt"></td><td class="armorHeat"></td><td class="bluntDamage"></td><td class="sharpDamage"></td></tr>'
+                valueNames: ['name', 'maxHitPoints'],
+                item: '<tr><td class="name"></td><td class="maxHitPoints"></td></tr>'
             };
 
             var materialData = [];
