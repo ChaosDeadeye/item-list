@@ -483,9 +483,7 @@
 
             var materialData = [];
             $.each(data.materials, function(index, value) {
-                if (value["type"] === 'metal') {
                     materialData.push(value);
-                }
             });
 
             materialList = new List('materials', options, materialData);
