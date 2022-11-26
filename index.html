@@ -472,24 +472,7 @@
 
             pawnList = new List('pawns', options, pawnData);
         });
-<!--
-        let materialList = null;
-        $.getJSON(materialListURL, function(data) {
-            var options = {
-                valueNames: ['name', 'maxHitPoints', 'armorSharp', 'armorBlunt', 'armorHeat'. 'bluntDamage', 'sharpDamage', 'type'],
-                item: '<tr><td class="name" scope="row"></td><td class="'maxHitPoints"></td><td class="armorSharp"></td><td class="armorBlunt"></td><td class="armorHeat"></td><td class="bluntDamage"></td><td class="sharpDamage"></td></tr>'
-            };
-
-            var materialData = [];
-            $.each(data.materials, function(index, value) {
-                if (value["type"] === 'metal') {
-                    materialData.push(value);
-                }
-            });
-
-            materialList = new List('materials', options, materialData);
-        });
--->	    
+	    
         $("#item-price-min").keyup(function() {
             updateItemFilter();
         });
