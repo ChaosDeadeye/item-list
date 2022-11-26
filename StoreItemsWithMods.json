@@ -13178,7 +13178,7 @@
       "abr": "lv2nightgaunt",
       "category": "Animals",
       "defname": "NM_M_NightGaunts_b",
-      "price": 2,
+      "price": -10,
       "mod": "[1.4]Nearmare Race"
     },
     {
@@ -13192,7 +13192,7 @@
       "abr": "lv2nightmare",
       "category": "Animals",
       "defname": "NM_M_Nightmare_b",
-      "price": 2,
+      "price": -10,
       "mod": "[1.4]Nearmare Race"
     },
     {
@@ -13206,7 +13206,7 @@
       "abr": "lv2nightstalker",
       "category": "Animals",
       "defname": "NM_M_NightStalker_b",
-      "price": 2,
+      "price": -10,
       "mod": "[1.4]Nearmare Race"
     },
     {
@@ -13220,7 +13220,7 @@
       "abr": "lv3nightgaunt",
       "category": "Animals",
       "defname": "NM_M_NightGaunts_c",
-      "price": 2,
+      "price": -10,
       "mod": "[1.4]Nearmare Race"
     },
     {
@@ -13234,7 +13234,7 @@
       "abr": "lv3nightmare",
       "category": "Animals",
       "defname": "NM_M_Nightmare_c",
-      "price": 2,
+      "price": -10,
       "mod": "[1.4]Nearmare Race"
     },
     {
@@ -13248,7 +13248,7 @@
       "abr": "lv3nightstalker",
       "category": "Animals",
       "defname": "NM_M_NightStalker_c",
-      "price": 2,
+      "price": -10,
       "mod": "[1.4]Nearmare Race"
     },
     {
@@ -13262,7 +13262,7 @@
       "abr": "lv4nightgaunt",
       "category": "Animals",
       "defname": "NM_M_NightGaunts_d",
-      "price": 2,
+      "price": -10,
       "mod": "[1.4]Nearmare Race"
     },
     {
@@ -13276,7 +13276,7 @@
       "abr": "lv4nightmare",
       "category": "Animals",
       "defname": "NM_M_Nightmare_d",
-      "price": 2,
+      "price": -10,
       "mod": "[1.4]Nearmare Race"
     },
     {
@@ -13290,7 +13290,7 @@
       "abr": "lv4nightstalker",
       "category": "Animals",
       "defname": "NM_M_NightStalker_d",
-      "price": 2,
+      "price": -10,
       "mod": "[1.4]Nearmare Race"
     },
     {
@@ -13304,7 +13304,7 @@
       "abr": "lv5nightgaunt",
       "category": "Animals",
       "defname": "NM_M_NightGaunts_e",
-      "price": 2,
+      "price": -10,
       "mod": "[1.4]Nearmare Race"
     },
     {
@@ -13318,7 +13318,7 @@
       "abr": "lv5nightmare",
       "category": "Animals",
       "defname": "NM_M_Nightmare_e",
-      "price": 2,
+      "price": -10,
       "mod": "[1.4]Nearmare Race"
     },
     {
@@ -13332,7 +13332,7 @@
       "abr": "lv5nightstalker",
       "category": "Animals",
       "defname": "NM_M_NightStalker_e",
-      "price": 2,
+      "price": -10,
       "mod": "[1.4]Nearmare Race"
     },
     {
@@ -14550,154 +14550,154 @@
       "abr": "guestbed",
       "category": "Furniture",
       "defname": "BedGuest",
-      "price": 155,
+      "price": -10,
       "mod": "n/a"
     },
     {
       "abr": "guestdoublebed",
       "category": "Furniture",
       "defname": "DoubleBedGuest",
-      "price": 292,
+      "price": -10,
       "mod": "n/a"
     },
     {
       "abr": "guestroyalbed",
       "category": "Furniture",
       "defname": "RoyalBedGuest",
-      "price": 1467,
+      "price": -10,
       "mod": "n/a"
     },
     {
       "abr": "guesthospitalbed",
       "category": "Furniture",
       "defname": "HospitalBedGuest",
-      "price": 667,
+      "price": -10,
       "mod": "n/a"
     },
     {
       "abr": "guestbedroll",
       "category": "Furniture",
       "defname": "BedrollGuest",
-      "price": 137,
+      "price": -10,
       "mod": "n/a"
     },
     {
       "abr": "guestdoublebedroll",
       "category": "Furniture",
       "defname": "BedrollDoubleGuest",
-      "price": 290,
+      "price": -10,
       "mod": "n/a"
     },
     {
       "abr": "guestancientbed",
       "category": "Misc",
       "defname": "AncientBedGuest",
-      "price": 5,
+      "price": -10,
       "mod": "n/a"
     },
     {
       "abr": "guestslabbed",
       "category": "Furniture",
       "defname": "SlabBedGuest",
-      "price": 102,
+      "price": -10,
       "mod": "n/a"
     },
     {
       "abr": "guestslabdoublebed",
       "category": "Furniture",
       "defname": "SlabDoubleBedGuest",
-      "price": 288,
+      "price": -10,
       "mod": "n/a"
     },
     {
       "abr": "guestdeathrestcasket",
       "category": "Misc",
       "defname": "DeathrestCasketGuest",
-      "price": 492,
+      "price": -10,
       "mod": "n/a"
     },
     {
       "abr": "guestcrib",
       "category": "Furniture",
       "defname": "CribGuest",
-      "price": 86,
+      "price": -10,
       "mod": "n/a"
     },
     {
       "abr": "guestbedroll",
       "category": "Misc",
       "defname": "CAMakeshiftBedrollGuest",
-      "price": 137,
+      "price": -10,
       "mod": "n/a"
     },
     {
       "abr": "guestdoublebedroll",
       "category": "Misc",
       "defname": "CAMakeshiftBedrollDoubleGuest",
-      "price": 290,
+      "price": -10,
       "mod": "n/a"
     },
     {
       "abr": "guestspacerbedroll",
       "category": "Misc",
       "defname": "CASpacerBedrollGuest",
-      "price": 137,
+      "price": -10,
       "mod": "n/a"
     },
     {
       "abr": "guestspacerdoublebedroll",
       "category": "Misc",
       "defname": "CASpacerBedrollDoubleGuest",
-      "price": 290,
+      "price": -10,
       "mod": "n/a"
     },
     {
       "abr": "guesthypersleepbed",
       "category": "Furniture",
       "defname": "HisaHyperSleepBedGuest",
-      "price": 1575,
+      "price": -10,
       "mod": "n/a"
     },
     {
       "abr": "guestdoublehypersleepbed",
       "category": "Furniture",
       "defname": "HisaHyperSleepBedBigGuest",
-      "price": 2992,
+      "price": -10,
       "mod": "n/a"
     },
     {
       "abr": "guestroyalhypersleepbed",
       "category": "Furniture",
       "defname": "HisaHyperSleepBedRoyalGuest",
-      "price": 3917,
+      "price": -10,
       "mod": "n/a"
     },
     {
       "abr": "guesthisamedicalbed",
       "category": "Furniture",
       "defname": "Hisa_MediBedGuest",
-      "price": 2958,
+      "price": -10,
       "mod": "n/a"
     },
     {
       "abr": "guestminchocrepebedroll",
       "category": "Furniture",
       "defname": "Mincho_Crepe_BedrollGuest",
-      "price": 68,
+      "price": -10,
       "mod": "n/a"
     },
     {
       "abr": "guestminchofullsizecakebed",
       "category": "Furniture",
       "defname": "Mincho_Full_Size_Cake_BedGuest",
-      "price": 1833,
+      "price": -10,
       "mod": "n/a"
     },
     {
       "abr": "guestminchosinglesizecakebed",
       "category": "Furniture",
       "defname": "Mincho_Single_Size_Cake_BedGuest",
-      "price": 917,
+      "price": -10,
       "mod": "n/a"
     }
   ]
