@@ -18,6 +18,7 @@
 	const item2ListURL = "https://raw.githubusercontent.com/ChaosDeadeye/item-list/master/StoreItemsWithMods.json";
 	const commandListURL = "https://raw.githubusercontent.com/ChaosDeadeye/item-list/master/commands.json";
 	const pawnListURL = "https://raw.githubusercontent.com/ChaosDeadeye/item-list/master/pawnkinds.json";
+	const materialListURL = "https://raw.githubusercontent.com/ChaosDeadeye/item-list/master/materials.json";
     </script>
 </head>
 
@@ -89,6 +90,9 @@
                                     </button>
 				    <button class="btn btn-success" ng-class="{'active': (selected == '6')}" ng-click='selected=6'>
                                         Commands
+                                    </button>
+				    <button class="btn btn-success" ng-class="{'active': (selected == '7')}" ng-click='selected=7'>
+                                        Materials
                                     </button>
                                 </div>
                                 <div class="form-group row">
@@ -270,7 +274,32 @@
                         </div>
                     </div>
                 </div>  
-		    
+		
+                <div class="row" ng-show='selected == 7'>
+                    <div class="col-md-12">
+                        <div id="materials">
+                            <div class="input-group input-group-sm mb-3">
+                                <div class="input-group-prepend">
+                                    <span class="input-group-text" id="inputGroup-sizing-sm">Search</span>
+                                </div>
+                                <input type="text" class="form-control search" aria-label="Search" aria-describedby="inputGroup-sizing-sm">
+                            </div>
+                            <table class="table materials">
+                                <tr>
+                                    <th scope="col" class="sort" data-sort="name">Name</th>
+                                    <th scope="col" class="sort" data-sort="max hit points">Max hit points</th>
+				    <th scope="col" class="sort" data-sort="armor sharp">Armor - Sharp</th>
+				    <th scope="col" class="sort" data-sort="armor blunt">Armor - Blunt</th>
+				    <th scope="col" class="sort" data-sort="armor heat">Armor - Heat</th>
+				    <th scope="col" class="sort" data-sort="blunt damage">Blunt damage</th>
+				    <th scope="col" class="sort" data-sort="sharp damage">Sharp damage</th>
+                                </tr>
+                                <tbody class="list">
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
 		    
             </div>
         </div>
@@ -444,6 +473,23 @@
             pawnList = new List('pawns', options, pawnData);
         });
 
+        let materialList = null;
+        $.getJSON(materialListURL, function(data) {
+            var options = {
+                valueNames: ['name', 'max hit points', 'armor sharp', 'armor blunt', 'armor heat'. 'blunt damage', 'sharp damage', 'type'],
+                item: '<tr><td class="name" scope="row"></td><td class="'max hit points"></td><td class="armor sharp"></td><td class="armor blunt"></td><td class="armor heat"></td><td class="blunt damage"></td><td class="sharp damage"></td></tr>'
+            };
+
+            var materialData = [];
+            $.each(data.materials, function(index, value) {
+                if (value["type"] === 'metal') {
+                    materialData.push(value);
+                }
+            });
+
+            materialList = new List('materials', options, itemData);
+        });
+	    
         $("#item-price-min").keyup(function() {
             updateItemFilter();
         });
