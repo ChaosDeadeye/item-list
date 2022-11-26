@@ -11985,125 +11985,6 @@
       "mod": "RimWorld"
     },
     {
-      "abr": "advancedbattery",
-      "category": "Power",
-      "defname": "VFE_AdvancedBattery",
-      "price": 750,
-      "mod": "Vanilla Furniture Expanded - Power"
-    },
-    {
-      "abr": "advancedgeothermalgenerator",
-      "category": "Misc",
-      "defname": "VPE_AdvancedGeothermalGenerator",
-      "price": 3058,
-      "mod": "Vanilla Furniture Expanded - Power"
-    },
-    {
-      "abr": "advancedsolargenerator",
-      "category": "Misc",
-      "defname": "VFE_AdvancedSolarGenerator",
-      "price": 1842,
-      "mod": "Vanilla Furniture Expanded - Power"
-    },
-    {
-      "abr": "advancedwatermillgenerator",
-      "category": "Misc",
-      "defname": "VFE_AdvancedWatermillGenerator",
-      "price": 1817,
-      "mod": "Vanilla Furniture Expanded - Power"
-    },
-    {
-      "abr": "advancedwindturbine",
-      "category": "Misc",
-      "defname": "VFE_AdvancedWindTurbine",
-      "price": 1850,
-      "mod": "Vanilla Furniture Expanded - Power"
-    },
-    {
-      "abr": "anchovy",
-      "category": "Raw fish",
-      "defname": "VCEF_RawAnchovy",
-      "price": -10,
-      "mod": "Vanilla Fishing Expanded"
-    },
-    {
-      "abr": "angelfish",
-      "category": "Raw fish",
-      "defname": "VCEF_RawAngelfish",
-      "price": 2,
-      "mod": "Vanilla Fishing Expanded"
-    },
-    {
-      "abr": "anglerfish",
-      "category": "Raw fish",
-      "defname": "VCEF_RawAnglerfish",
-      "price": 2,
-      "mod": "Vanilla Fishing Expanded"
-    },
-    {
-      "abr": "arcademachine",
-      "category": "Recreation",
-      "defname": "Joy_Arcade",
-      "price": 650,
-      "mod": "Vanilla Furniture Expanded"
-    },
-    {
-      "abr": "archotechviolencegenerator",
-      "category": "Special",
-      "defname": "VPE_ArchotechViolenceGenerator",
-      "price": 5667,
-      "mod": "Vanilla Furniture Expanded - Power"
-    },
-    {
-      "abr": "bass",
-      "category": "Raw fish",
-      "defname": "VCEF_RawBass",
-      "price": 2,
-      "mod": "Vanilla Fishing Expanded"
-    },
-    {
-      "abr": "bench",
-      "category": "Furniture",
-      "defname": "Seat_Bench",
-      "price": 86,
-      "mod": "Vanilla Furniture Expanded"
-    },
-    {
-      "abr": "catfish",
-      "category": "Raw fish",
-      "defname": "VCEF_RawCatfish",
-      "price": 4,
-      "mod": "Vanilla Fishing Expanded"
-    },
-    {
-      "abr": "clownfish",
-      "category": "Raw fish",
-      "defname": "VCEF_RawClownfish",
-      "price": 1,
-      "mod": "Vanilla Fishing Expanded"
-    },
-    {
-      "abr": "cod",
-      "category": "Raw fish",
-      "defname": "VCEF_RawCod",
-      "price": 3,
-      "mod": "Vanilla Fishing Expanded"
-    },
-    {
-      "abr": "countertop",
-      "category": "Furniture",
-      "defname": "Table_Counter",
-      "price": 53,
-      "mod": "Vanilla Furniture Expanded"
-    },
-    {
-      "abr": "dartsboard",
-      "category": "Furniture",
-      "defname": "Joy_DartsBoard",
-      "price": 174,
-      "mod": "Vanilla Furniture Expanded"
-    },
-    {
       "abr": "dragoniancheese",
       "category": "Meals",
       "defname": "DragonianCheese",
@@ -12111,165 +11992,11 @@
       "mod": "n/a"
     },
     {
-      "abr": "eel",
-      "category": "Raw fish",
-      "defname": "VCEF_RawEel",
-      "price": 2,
-      "mod": "Vanilla Fishing Expanded"
-    },
-    {
-      "abr": "ergonomicbed",
-      "category": "Furniture",
-      "defname": "Bed_Ergonomic",
-      "price": 450,
-      "mod": "Vanilla Furniture Expanded"
-    },
-    {
-      "abr": "ergonomicchair",
-      "category": "Furniture",
-      "defname": "Seat_ModernChair",
-      "price": 917,
-      "mod": "Vanilla Furniture Expanded"
-    },
-    {
-      "abr": "ergonomicdoublebed",
-      "category": "Furniture",
-      "defname": "Bed_DoubleErgonomic",
-      "price": 867,
-      "mod": "Vanilla Furniture Expanded"
-    },
-    {
-      "abr": "filecabinet",
-      "category": "Furniture",
-      "defname": "Misc_FileCabinet",
-      "price": 93,
-      "mod": "Vanilla Furniture Expanded"
-    },
-    {
-      "abr": "goldfish",
-      "category": "Raw fish",
-      "defname": "VCEF_RawGoldfish",
-      "price": 3,
-      "mod": "Vanilla Fishing Expanded"
-    },
-    {
-      "abr": "guppy",
-      "category": "Raw fish",
-      "defname": "VCEF_RawGuppy",
-      "price": -10,
-      "mod": "Vanilla Fishing Expanded"
-    },
-    {
-      "abr": "haddock",
-      "category": "Raw fish",
-      "defname": "VCEF_RawHaddock",
-      "price": 2,
-      "mod": "Vanilla Fishing Expanded"
-    },
-    {
-      "abr": "halibut",
-      "category": "Raw fish",
-      "defname": "VCEF_RawHalibut",
-      "price": 3,
-      "mod": "Vanilla Fishing Expanded"
-    },
-    {
-      "abr": "herring",
-      "category": "Raw fish",
-      "defname": "VCEF_RawHerring",
-      "price": 1,
-      "mod": "Vanilla Fishing Expanded"
-    },
-    {
-      "abr": "industrialchemfuelpoweredgenerator",
-      "category": "Misc",
-      "defname": "VFE_IndustrialChemfuelPoweredGenerator",
-      "price": 908,
-      "mod": "Vanilla Furniture Expanded - Power"
-    },
-    {
-      "abr": "industrialradio",
-      "category": "Recreation",
-      "defname": "Radio_Industrial",
-      "price": 433,
-      "mod": "Vanilla Furniture Expanded"
-    },
-    {
-      "abr": "industrialwood-firedgenerator",
-      "category": "Misc",
-      "defname": "VFE_IndustrialWoodFiredGenerator",
-      "price": 808,
-      "mod": "Vanilla Furniture Expanded - Power"
-    },
-    {
       "abr": "kidtribalwear",
       "category": "Misc",
       "defname": "Apparel_KidTribal",
       "price": 108,
       "mod": "Biotech"
-    },
-    {
-      "abr": "koi",
-      "category": "Raw fish",
-      "defname": "VCEF_RawKoi",
-      "price": 4,
-      "mod": "Vanilla Fishing Expanded"
-    },
-    {
-      "abr": "lampendtable",
-      "category": "Furniture",
-      "defname": "Table_LightEndTable",
-      "price": 169,
-      "mod": "Vanilla Furniture Expanded"
-    },
-    {
-      "abr": "largeadvancedbattery",
-      "category": "Power",
-      "defname": "VFE_LargeAdvancedBattery",
-      "price": 1467,
-      "mod": "Vanilla Furniture Expanded - Power"
-    },
-    {
-      "abr": "largebattery",
-      "category": "Power",
-      "defname": "VFE_LargeBattery",
-      "price": 667,
-      "mod": "Vanilla Furniture Expanded - Power"
-    },
-    {
-      "abr": "largebin",
-      "category": "Furniture",
-      "defname": "Bin_Large",
-      "price": 305,
-      "mod": "Vanilla Furniture Expanded"
-    },
-    {
-      "abr": "largevanometricpowercell",
-      "category": "Special",
-      "defname": "VFE_LargeVanometricPowerCell",
-      "price": 4000,
-      "mod": "Vanilla Furniture Expanded - Power"
-    },
-    {
-      "abr": "lobster",
-      "category": "Raw fish",
-      "defname": "VCEF_RawLobster",
-      "price": 9,
-      "mod": "Vanilla Fishing Expanded"
-    },
-    {
-      "abr": "longwaveradio",
-      "category": "Recreation",
-      "defname": "Radio_Spacer",
-      "price": 1033,
-      "mod": "Vanilla Furniture Expanded"
-    },
-    {
-      "abr": "mackerel",
-      "category": "Raw fish",
-      "defname": "VCEF_RawMackerel",
-      "price": 2,
-      "mod": "Vanilla Fishing Expanded"
     },
     {
       "abr": "adherent",
@@ -13395,7 +13122,7 @@
       "abr": "lv1nightgaunt",
       "category": "Animals",
       "defname": "NM_M_NightGaunts",
-      "price": 2,
+      "price": -10,
       "mod": "[1.4]Nearmare Race"
     },
     {
@@ -13409,7 +13136,7 @@
       "abr": "lv1nightmare",
       "category": "Animals",
       "defname": "NM_M_Nightmare",
-      "price": 2,
+      "price": -10,
       "mod": "[1.4]Nearmare Race"
     },
     {
@@ -13423,7 +13150,7 @@
       "abr": "lv1nightstalker",
       "category": "Animals",
       "defname": "NM_M_NightStalker",
-      "price": 2,
+      "price": -10,
       "mod": "[1.4]Nearmare Race"
     },
     {
@@ -13437,7 +13164,7 @@
       "abr": "lv1.ナイトメア",
       "category": "Animals",
       "defname": "NM_M_Nearmaere",
-      "price": 2,
+      "price": -10,
       "mod": "[1.4]Nearmare Race"
     },
     {
@@ -13931,13 +13658,6 @@
       "mod": "A RimWorld of Magic"
     },
     {
-      "abr": "minnow",
-      "category": "Raw fish",
-      "defname": "VCEF_RawMinnow",
-      "price": -10,
-      "mod": "Vanilla Fishing Expanded"
-    },
-    {
       "abr": "minorarcanegemofacceleration",
       "category": "Refined magicyte",
       "defname": "TM_EStone_coolDown_minor",
@@ -13992,13 +13712,6 @@
       "defname": "TM_EStone_wonder_minor",
       "price": 1983,
       "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "moderncomputer",
-      "category": "Recreation",
-      "defname": "Joy_ModernComputer",
-      "price": 1100,
-      "mod": "Vanilla Furniture Expanded"
     },
     {
       "abr": "mysterymeat",
@@ -14085,25 +13798,11 @@
       "mod": "[1.4]Nearmare Race"
     },
     {
-      "abr": "nuclearreactor",
-      "category": "Misc",
-      "defname": "VPE_NuclearGenerator",
-      "price": 4475,
-      "mod": "Vanilla Furniture Expanded - Power"
-    },
-    {
       "abr": "nurseattire(nearmare)",
       "category": "ニアメーアの衣服",
       "defname": "HAR_NM_NurseS",
       "price": 683,
       "mod": "[1.4]Nearmare Race"
-    },
-    {
-      "abr": "oldcomputer",
-      "category": "Recreation",
-      "defname": "Joy_InudstrialComputer",
-      "price": 517,
-      "mod": "Vanilla Furniture Expanded"
     },
     {
       "abr": "orbofconviction",
@@ -14134,13 +13833,6 @@
       "mod": "A RimWorld of Magic"
     },
     {
-      "abr": "outdoorlamp",
-      "category": "Furniture",
-      "defname": "Light_Streetlamp",
-      "price": 128,
-      "mod": "Vanilla Furniture Expanded"
-    },
-    {
       "abr": "paladinspell:holywrath",
       "category": "Scrolls",
       "defname": "SpellOf_HolyWrath",
@@ -14153,20 +13845,6 @@
       "defname": "ParagonHelm",
       "price": 1725,
       "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "perch",
-      "category": "Raw fish",
-      "defname": "VCEF_RawPerch",
-      "price": 2,
-      "mod": "Vanilla Fishing Expanded"
-    },
-    {
-      "abr": "piranha",
-      "category": "Raw fish",
-      "defname": "VCEF_RawPiranha",
-      "price": 2,
-      "mod": "Vanilla Fishing Expanded"
     },
     {
       "abr": "poluxseed",
@@ -14211,39 +13889,11 @@
       "mod": "A RimWorld of Magic"
     },
     {
-      "abr": "portablechemfuelpoweredgenerator",
-      "category": "Power",
-      "defname": "VFE_PortableChemfuelPoweredGenerator",
-      "price": 242,
-      "mod": "Vanilla Furniture Expanded - Power"
-    },
-    {
-      "abr": "portablewood-firedgenerator",
-      "category": "Power",
-      "defname": "VFE_PortableWoodFiredGenerator",
-      "price": 189,
-      "mod": "Vanilla Furniture Expanded - Power"
-    },
-    {
       "abr": "priestspell:resurrection",
       "category": "Scrolls",
       "defname": "SpellOf_Resurrection",
       "price": 6250,
       "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "pufferfish",
-      "category": "Raw fish",
-      "defname": "VCEF_RawPufferfish",
-      "price": 2,
-      "mod": "Vanilla Fishing Expanded"
-    },
-    {
-      "abr": "punchingbag",
-      "category": "Furniture",
-      "defname": "Joy_PunchingBag",
-      "price": 375,
-      "mod": "Vanilla Furniture Expanded"
     },
     {
       "abr": "ribbon(nearmare)",
@@ -14295,95 +13945,11 @@
       "mod": "A RimWorld of Magic"
     },
     {
-      "abr": "roulettetable",
-      "category": "Furniture",
-      "defname": "Joy_RouletteTable",
-      "price": 708,
-      "mod": "Vanilla Furniture Expanded"
-    },
-    {
-      "abr": "royalarmchair",
-      "category": "Furniture",
-      "defname": "Seat_RoyalArmchair",
-      "price": 1583,
-      "mod": "Vanilla Furniture Expanded"
-    },
-    {
-      "abr": "royalchair",
-      "category": "Furniture",
-      "defname": "Seat_RoyalChair",
-      "price": 908,
-      "mod": "Vanilla Furniture Expanded"
-    },
-    {
-      "abr": "royaldresser",
-      "category": "Furniture",
-      "defname": "Table_RoyalDresser",
-      "price": 1175,
-      "mod": "Vanilla Furniture Expanded"
-    },
-    {
-      "abr": "royalendtable",
-      "category": "Furniture",
-      "defname": "Table_RoyalEndTable",
-      "price": 742,
-      "mod": "Vanilla Furniture Expanded"
-    },
-    {
-      "abr": "royalposterbed",
-      "category": "Furniture",
-      "defname": "Bed_Kingsize",
-      "price": 2008,
-      "mod": "Vanilla Furniture Expanded"
-    },
-    {
-      "abr": "royaltable(1x1)",
-      "category": "Furniture",
-      "defname": "Table_Royal1x1c",
-      "price": 280,
-      "mod": "Vanilla Furniture Expanded"
-    },
-    {
-      "abr": "royaltable(1x2)",
-      "category": "Furniture",
-      "defname": "Table_Royal1x2c",
-      "price": 542,
-      "mod": "Vanilla Furniture Expanded"
-    },
-    {
-      "abr": "royaltable(2x2)",
-      "category": "Furniture",
-      "defname": "Table_Royal2x2c",
-      "price": 1092,
-      "mod": "Vanilla Furniture Expanded"
-    },
-    {
-      "abr": "royaltable(2x4)",
-      "category": "Furniture",
-      "defname": "Table_Royal2x4c",
-      "price": 1475,
-      "mod": "Vanilla Furniture Expanded"
-    },
-    {
-      "abr": "royaltable(3x3)",
-      "category": "Furniture",
-      "defname": "Table_Royal3x3c",
-      "price": 1617,
-      "mod": "Vanilla Furniture Expanded"
-    },
-    {
       "abr": "ruunbled",
       "category": "Melee",
       "defname": "TM_Ruunbled",
       "price": 13333,
       "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "salmon",
-      "category": "Raw fish",
-      "defname": "VCEF_RawSalmon",
-      "price": 9,
-      "mod": "Vanilla Fishing Expanded"
     },
     {
       "abr": "sandstonegolem",
@@ -14449,20 +14015,6 @@
       "mod": "[1.4]Nearmare Race"
     },
     {
-      "abr": "simplebed",
-      "category": "Furniture",
-      "defname": "Bed_Simple",
-      "price": 137,
-      "mod": "Vanilla Furniture Expanded"
-    },
-    {
-      "abr": "sittingcushion",
-      "category": "Furniture",
-      "defname": "Seat_Cushion",
-      "price": 86,
-      "mod": "Vanilla Furniture Expanded"
-    },
-    {
       "abr": "skeletonlichmeat",
       "category": "Meat",
       "defname": "Meat_TM_SkeletonLichR",
@@ -14477,39 +14029,11 @@
       "mod": "A RimWorld of Magic"
     },
     {
-      "abr": "slabbed",
-      "category": "Furniture",
-      "defname": "Bed_StoneSlab",
-      "price": 111,
-      "mod": "Vanilla Furniture Expanded"
-    },
-    {
       "abr": "slategolem",
       "category": "Animal",
       "defname": "TM_SlateGolem",
       "price": -10,
       "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "smallbattery",
-      "category": "Power",
-      "defname": "VFE_SmallBattery",
-      "price": 182,
-      "mod": "Vanilla Furniture Expanded - Power"
-    },
-    {
-      "abr": "smallbin",
-      "category": "Furniture",
-      "defname": "Bin_Small",
-      "price": 136,
-      "mod": "Vanilla Furniture Expanded"
-    },
-    {
-      "abr": "smallvanometricpowercell",
-      "category": "Special",
-      "defname": "VFE_SmallVanometricPowerCell",
-      "price": 667,
-      "mod": "Vanilla Furniture Expanded - Power"
     },
     {
       "abr": "spiritbearmeat",
@@ -14547,20 +14071,6 @@
       "mod": "[1.4]Nearmare Race"
     },
     {
-      "abr": "sprat",
-      "category": "Raw fish",
-      "defname": "VCEF_RawSprat",
-      "price": -10,
-      "mod": "Vanilla Fishing Expanded"
-    },
-    {
-      "abr": "squarechair",
-      "category": "Furniture",
-      "defname": "Seat_SquareChair",
-      "price": 198,
-      "mod": "Vanilla Furniture Expanded"
-    },
-    {
       "abr": "staffofblazingpower",
       "category": "Magic foci",
       "defname": "TM_BlazingPowerStaff",
@@ -14596,13 +14106,6 @@
       "mod": "A RimWorld of Magic"
     },
     {
-      "abr": "stonecampfire",
-      "category": "Misc",
-      "defname": "Stone_Campfire",
-      "price": 128,
-      "mod": "Vanilla Furniture Expanded"
-    },
-    {
       "abr": "stonegolem",
       "category": "Animal",
       "defname": "TM_StoneGolem",
@@ -14624,25 +14127,11 @@
       "mod": "A RimWorld of Magic"
     },
     {
-      "abr": "swordfish",
-      "category": "Raw fish",
-      "defname": "VCEF_RawSwordfish",
-      "price": 9,
-      "mod": "Vanilla Fishing Expanded"
-    },
-    {
       "abr": "syrrium",
       "category": "Drugs",
       "defname": "TM_Syrrium",
       "price": 75,
       "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "table(1x1)",
-      "category": "Furniture",
-      "defname": "Table_1x1c",
-      "price": 70,
-      "mod": "Vanilla Furniture Expanded"
     },
     {
       "abr": "technomancerspell:kineticshield",
@@ -14706,13 +14195,6 @@
       "defname": "HAR_NM_Tar",
       "price": 367,
       "mod": "[1.4]Nearmare Race"
-    },
-    {
-      "abr": "tidalgenerator",
-      "category": "Misc",
-      "defname": "VFE_TidalGenerator",
-      "price": 1500,
-      "mod": "Vanilla Furniture Expanded - Power"
     },
     {
       "abr": "tornscript:bard",
@@ -14862,25 +14344,11 @@
       "mod": "[1.4]Nearmare Race"
     },
     {
-      "abr": "trout",
-      "category": "Raw fish",
-      "defname": "VCEF_RawTrout",
-      "price": 2,
-      "mod": "Vanilla Fishing Expanded"
-    },
-    {
       "abr": "t-shirt(nearmare)",
       "category": "ニアメーアの衣服",
       "defname": "HAR_NM_Tshirt",
       "price": 160,
       "mod": "[1.4]Nearmare Race"
-    },
-    {
-      "abr": "tuna",
-      "category": "Raw fish",
-      "defname": "VCEF_RawTuna",
-      "price": 4,
-      "mod": "Vanilla Fishing Expanded"
     },
     {
       "abr": "undergarmenta(nearmare)",
@@ -14946,13 +14414,6 @@
       "mod": "A RimWorld of Magic"
     },
     {
-      "abr": "uprightpiano",
-      "category": "Furniture",
-      "defname": "Joy_Piano",
-      "price": 908,
-      "mod": "Vanilla Furniture Expanded"
-    },
-    {
       "abr": "wandoffire",
       "category": "Magic foci",
       "defname": "TM_FireWand",
@@ -14981,25 +14442,11 @@
       "mod": "A RimWorld of Magic"
     },
     {
-      "abr": "wardrobe",
-      "category": "Furniture",
-      "defname": "Table_Wardrobe",
-      "price": 285,
-      "mod": "Vanilla Furniture Expanded"
-    },
-    {
       "abr": "warlockspell:psychicshock",
       "category": "Scrolls",
       "defname": "SpellOf_PsychicShock",
       "price": 3000,
       "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "weaponrack",
-      "category": "Furniture",
-      "defname": "Shelf_WeaponRack",
-      "price": 137,
-      "mod": "Vanilla Furniture Expanded"
     },
     {
       "abr": "whiteeveninggown(nearmare)",
@@ -15145,7 +14592,7 @@
       "abr": "guestancientbed",
       "category": "Misc",
       "defname": "AncientBedGuest",
-      "price": -10,
+      "price": 5,
       "mod": "n/a"
     },
     {
@@ -15251,41 +14698,6 @@
       "category": "Furniture",
       "defname": "Mincho_Single_Size_Cake_BedGuest",
       "price": 917,
-      "mod": "n/a"
-    },
-    {
-      "abr": "guestslabbed",
-      "category": "Furniture",
-      "defname": "Bed_StoneSlabGuest",
-      "price": 111,
-      "mod": "n/a"
-    },
-    {
-      "abr": "guestsimplebed",
-      "category": "Furniture",
-      "defname": "Bed_SimpleGuest",
-      "price": 137,
-      "mod": "n/a"
-    },
-    {
-      "abr": "guestergonomicbed",
-      "category": "Furniture",
-      "defname": "Bed_ErgonomicGuest",
-      "price": 450,
-      "mod": "n/a"
-    },
-    {
-      "abr": "guestergonomicdoublebed",
-      "category": "Furniture",
-      "defname": "Bed_DoubleErgonomicGuest",
-      "price": 867,
-      "mod": "n/a"
-    },
-    {
-      "abr": "guestroyalposterbed",
-      "category": "Furniture",
-      "defname": "Bed_KingsizeGuest",
-      "price": 2008,
       "mod": "n/a"
     }
   ]
