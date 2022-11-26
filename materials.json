@@ -1,0 +1,24 @@
+{
+	"materials" : [
+	{
+		"name": "silver",
+		"max hit points": "70%",
+		"armor sharp": "72%",
+		"armor blunt": "36%",
+		"armor heat": "36%",
+		"blunt damage": "100%",
+		"sharp damage": "85%",
+		"type": "metal"
+	},
+	{
+		"name": "cloth",
+		"max hit points": "100%",
+		"armor sharp": "36%",
+		"armor blunt": "0%",
+		"armor heat": "18%",
+		"blunt damage": "-",
+		"sharp damage": "-",
+		"type": "fabric"
+	},
+],
+}
