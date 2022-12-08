@@ -91,6 +91,36 @@
 		"type": "metal"
 	},
 	{
+		"name": "miho ceramic",
+		"maxHitPoints": "80%",
+		"armorSharp": "75%",
+		"armorBlunt": "25%",
+		"armorHeat": "120%",
+		"bluntDamage": "50%",
+		"sharpDamage": "100%",
+		"type": "metal"
+	},
+	{
+		"name": "miho military grade ceramic",
+		"maxHitPoints": "320%",
+		"armorSharp": "120%",
+		"armorBlunt": "40%",
+		"armorHeat": "150%",
+		"bluntDamage": "60%",
+		"sharpDamage": "120%",
+		"type": "metal"
+	},
+	{
+		"name": "celestial scale",
+		"maxHitPoints": "1200%",
+		"armorSharp": "150%",
+		"armorBlunt": "100%",
+		"armorHeat": "200%",
+		"bluntDamage": "120%",
+		"sharpDamage": "200%",
+		"type": "metal"
+	},
+	{
 		"name": "wood",
 		"maxHitPoints": "65%",
 		"armorSharp": "54%",
@@ -196,6 +226,36 @@
 		"armorSharp": "0%",
 		"armorBlunt": "0%",
 		"armorHeat": "0%",
+		"bluntDamage": "-",
+		"sharpDamage": "-",
+		"type": "fabric"
+	},
+	{
+		"name": "moonthread",
+		"maxHitPoints": "130%",
+		"armorSharp": "94%",
+		"armorBlunt": "26%",
+		"armorHeat": "90%",
+		"bluntDamage": "-",
+		"sharpDamage": "-",
+		"type": "fabric"
+	},
+	{
+		"name": "moonsilk",
+		"maxHitPoints": "240%",
+		"armorSharp": "220%",
+		"armorBlunt": "72%",
+		"armorHeat": "368%",
+		"bluntDamage": "-",
+		"sharpDamage": "-",
+		"type": "fabric"
+	},
+	{
+		"name": "ebonsilk",
+		"maxHitPoints": "110%",
+		"armorSharp": "140%",
+		"armorBlunt": "24%",
+		"armorHeat": "400%",
 		"bluntDamage": "-",
 		"sharpDamage": "-",
 		"type": "fabric"
@@ -316,6 +376,16 @@
 		"armorSharp": "180%",
 		"armorBlunt": "140%",
 		"armorHeat": "120%",
+		"bluntDamage": "-",
+		"sharpDamage": "-",
+		"type": "wool"
+	},
+	{
+		"name": "lilin wool",
+		"maxHitPoints": "100%",
+		"armorSharp": "36%",
+		"armorBlunt": "0%",
+		"armorHeat": "110%",
 		"bluntDamage": "-",
 		"sharpDamage": "-",
 		"type": "wool"
