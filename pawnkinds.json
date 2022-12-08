@@ -16,7 +16,7 @@
       "mod": "Unknown",
       "karmaType": null
     },
-    "description": "[Can be turned into a Nyaron (cat girl/boy) on demand.] A baseline human, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Earth planets.",
+    "description": "$[Can be turned into a Nyaron (cat girl/boy) on demand.] A baseline human, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Earth planets.",
     "defName": "Human",
     "enabled": true,
     "name": "human",
