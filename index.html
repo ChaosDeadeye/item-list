@@ -214,6 +214,7 @@
                                 <tr>
                                     <th scope="col" class="sort" data-sort="name">Name</th>
                                     <th scope="col" class="sort" data-sort="price">Price</th>
+				    <th scope="col" class="sort" data-sort="stats">Price</th>
                                     <th scope="col" class="sort" data-sort="description">Description</th>
                                 </tr>
                                 <tbody class="list">
@@ -462,8 +463,8 @@
         let pawnList = null;
         $.getJSON(pawnListURL, function(data) {
             var options = {
-                valueNames: ['name', 'price', 'description'],
-                item: '<tr><td class="name"></td><td class="price"></td><td class="description"></td></tr>'
+                valueNames: ['name', 'price', 'stats', 'description'],
+                item: '<tr><td class="name"></td><td class="price"></td><td class="stats"></td><td class="description"></td></tr>'
             };
 
             var pawnData = [];
