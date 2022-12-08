@@ -898,7 +898,7 @@
     },
     {
       "abr": "basicdress",
-      "category": "Apparel",
+      "category": "Dragonian Apparel",
       "defname": "DR_BasicDress",
       "price": 992,
       "mod": "Dragonian Prime Race2.0 (Unofficial)"
@@ -912,17 +912,10 @@
     },
     {
       "abr": "basicwear",
-      "category": "Apparel",
+      "category": "Dragonian Apparel",
       "defname": "DR_BasicWear",
       "price": 958,
       "mod": "Dragonian Prime Race2.0 (Unofficial)"
-    },
-    {
-      "abr": "basicwear(child)",
-      "category": "Apparel",
-      "defname": "DR_BasicWearChild",
-      "price": 958,
-      "mod": "n/a"
     },
     {
       "abr": "baton",
@@ -954,7 +947,7 @@
     },
     {
       "abr": "battlehelm",
-      "category": "Headgear",
+      "category": "Dragonian Headgear",
       "defname": "DR_BattleHelm",
       "price": 320,
       "mod": "Dragonian Prime Race2.0 (Unofficial)"
@@ -1119,20 +1112,6 @@
       "defname": "BionicHeart",
       "price": 1717,
       "mod": "RimWorld"
-    },
-    {
-      "abr": "bionickurinear",
-      "category": "Bionic",
-      "defname": "Kurin_BionicEar",
-      "price": 1367,
-      "mod": "Kurin HAR Edition"
-    },
-    {
-      "abr": "bionickurintail",
-      "category": "Bionic",
-      "defname": "Kurin_BionicTail",
-      "price": 992,
-      "mod": "Kurin HAR Edition"
     },
     {
       "abr": "bionicleg",
@@ -2837,63 +2816,63 @@
     },
     {
       "abr": "dressa",
-      "category": "Apparel",
+      "category": "Dragonian Apparel",
       "defname": "DR_GreekDress",
       "price": 1658,
       "mod": "Dragonian Prime Race2.0 (Unofficial)"
     },
     {
       "abr": "dressb",
-      "category": "Apparel",
+      "category": "Dragonian Apparel",
       "defname": "DR_GreekHanZo",
       "price": 1658,
       "mod": "Dragonian Prime Race2.0 (Unofficial)"
     },
     {
       "abr": "dressc",
-      "category": "Apparel",
+      "category": "Dragonian Apparel",
       "defname": "DR_GreekPriest",
       "price": 1667,
       "mod": "Dragonian Prime Race2.0 (Unofficial)"
     },
     {
       "abr": "dressd",
-      "category": "Apparel",
+      "category": "Dragonian Apparel",
       "defname": "DR_GreekSexyDress",
       "price": 1667,
       "mod": "Dragonian Prime Race2.0 (Unofficial)"
     },
     {
       "abr": "dresse",
-      "category": "Apparel",
+      "category": "Dragonian Apparel",
       "defname": "DR_GreekString",
       "price": 1658,
       "mod": "Dragonian Prime Race2.0 (Unofficial)"
     },
     {
       "abr": "dressf",
-      "category": "Apparel",
+      "category": "Dragonian Apparel",
       "defname": "DR_JapaneseDress",
       "price": 1667,
       "mod": "Dragonian Prime Race2.0 (Unofficial)"
     },
     {
       "abr": "dressg",
-      "category": "Apparel",
+      "category": "Dragonian Apparel",
       "defname": "DR_Onepiece",
       "price": 1667,
       "mod": "Dragonian Prime Race2.0 (Unofficial)"
     },
     {
       "abr": "dressh",
-      "category": "Apparel",
+      "category": "Dragonian Apparel",
       "defname": "DR_EveningDress",
       "price": 1667,
       "mod": "Dragonian Prime Race2.0 (Unofficial)"
     },
     {
       "abr": "dressh",
-      "category": "Armor",
+      "category": "Dragonian Apparel",
       "defname": "DR_BattleDress",
       "price": 1950,
       "mod": "Dragonian Prime Race2.0 (Unofficial)"
@@ -3368,13 +3347,6 @@
       "mod": "Biotech"
     },
     {
-      "abr": "fakekurintail",
-      "category": "Prosthetic",
-      "defname": "Kurin_FakeTail",
-      "price": 282,
-      "mod": "Kurin HAR Edition"
-    },
-    {
       "abr": "faketail",
       "category": "Prosthetic",
       "defname": "DR_FakeTail",
@@ -3684,14 +3656,14 @@
     },
     {
       "abr": "flowerdeco",
-      "category": "Headgear",
+      "category": "Dragonian Headgear",
       "defname": "DR_Hat",
       "price": 558,
       "mod": "Dragonian Prime Race2.0 (Unofficial)"
     },
     {
       "abr": "flowerribon",
-      "category": "Headgear",
+      "category": "Dragonian Headgear",
       "defname": "DR_FlowerRibon",
       "price": 842,
       "mod": "Dragonian Prime Race2.0 (Unofficial)"
@@ -5252,7 +5224,7 @@
     },
     {
       "abr": "japanesestylehairacc",
-      "category": "Headgear",
+      "category": "Dragonian Headgear",
       "defname": "DR_JapanHairAcc",
       "price": 842,
       "mod": "Dragonian Prime Race2.0 (Unofficial)"
@@ -5391,13 +5363,6 @@
       "mod": "RimWorld"
     },
     {
-      "abr": "kurin",
-      "category": "Animal",
-      "defname": "Kurin_Race",
-      "price": -10,
-      "mod": "Kurin HAR Edition"
-    },
-    {
       "abr": "kurinarmoredgothicdress",
       "category": "Kurin onskin apparel",
       "defname": "Kurin_OnSkin_Armored_Gothic_Dress",
@@ -5434,16 +5399,9 @@
     },
     {
       "abr": "kurinbodyarmor",
-      "category": "Kurin onskin apparel",
+      "category": "Kurin military apparel",
       "defname": "Kurin_Middle_Body_Armor",
       "price": 358,
-      "mod": "Kurin HAR Edition"
-    },
-    {
-      "abr": "kurincarbine",
-      "category": "Ranged weapons",
-      "defname": "Kurin_Gun_Carbine",
-      "price": 792,
       "mod": "Kurin HAR Edition"
     },
     {
@@ -5468,13 +5426,6 @@
       "mod": "Kurin HAR Edition"
     },
     {
-      "abr": "kurinceremonialpolearm",
-      "category": "Melee weapons",
-      "defname": "Kurin_MeleeWeapon_Ceremonial_Polearm",
-      "price": 892,
-      "mod": "Kurin HAR Edition"
-    },
-    {
       "abr": "kurinceremonialsword",
       "category": "Melee weapons",
       "defname": "Kurin_MeleeWeapon_Ceremonial_Sword",
@@ -5490,7 +5441,7 @@
     },
     {
       "abr": "kurincutedress",
-      "category": "Kurin onskin apparel",
+      "category": "Kurin psychic apparel",
       "defname": "Kurin_OnSkin_Cute_Dress",
       "price": 525,
       "mod": "Kurin HAR Edition"
@@ -5552,39 +5503,11 @@
       "mod": "Kurin HAR Edition"
     },
     {
-      "abr": "kurinhwacha",
-      "category": "Misc",
-      "defname": "Kurin_FireTurret",
-      "price": 758,
-      "mod": "Kurin HAR Edition"
-    },
-    {
-      "abr": "kurinmeat",
-      "category": "Meat",
-      "defname": "Meat_Kurin_Race",
-      "price": 1,
-      "mod": "Kurin HAR Edition"
-    },
-    {
-      "abr": "kurinmilitaryhelmet",
-      "category": "Kurin overhead apparel",
-      "defname": "Kurin_Overhead_Military_Helmet",
-      "price": 492,
-      "mod": "Kurin HAR Edition"
-    },
-    {
       "abr": "kurinmilitaryuniform",
       "category": "Kurin onskin apparel",
       "defname": "Kurin_OnSkin_Military_Uniform",
       "price": 625,
       "mod": "Kurin HAR Edition"
-    },
-    {
-      "abr": "kurinnanoedgepolearm",
-      "category": "Melee weapons",
-      "defname": "Kurin_nanoedge",
-      "price": 7500,
-      "mod": "n/a"
     },
     {
       "abr": "kurinnundress",
@@ -5615,52 +5538,10 @@
       "mod": "Kurin HAR Edition"
     },
     {
-      "abr": "kurinpajamasa",
-      "category": "Kurin onskin apparel",
-      "defname": "Kurin_OnSkin_PajamasA",
-      "price": 265,
-      "mod": "Kurin HAR Edition"
-    },
-    {
-      "abr": "kurinpajamasb",
-      "category": "Kurin onskin apparel",
-      "defname": "Kurin_OnSkin_PajamasB",
-      "price": 265,
-      "mod": "Kurin HAR Edition"
-    },
-    {
-      "abr": "kurinpajamasc",
-      "category": "Kurin onskin apparel",
-      "defname": "Kurin_OnSkin_PajamasC",
-      "price": 265,
-      "mod": "Kurin HAR Edition"
-    },
-    {
-      "abr": "kurinprudeunderwear",
-      "category": "Kurin underwear apparel",
-      "defname": "Kurin_Underwear_Prude",
-      "price": 112,
-      "mod": "Kurin HAR Edition"
-    },
-    {
       "abr": "kurinredunderwear",
       "category": "Kurin underwear apparel",
       "defname": "Kurin_Underwear_Red",
       "price": 112,
-      "mod": "Kurin HAR Edition"
-    },
-    {
-      "abr": "kurinredfoxarmor",
-      "category": "Kurin shell apparel",
-      "defname": "Kurin_Redfox_Armor",
-      "price": 4308,
-      "mod": "Kurin HAR Edition"
-    },
-    {
-      "abr": "kurinredfoxhelmet",
-      "category": "Kurin overhead apparel",
-      "defname": "Kurin_Redfox_Helmet",
-      "price": 1958,
       "mod": "Kurin HAR Edition"
     },
     {
@@ -5699,13 +5580,6 @@
       "mod": "Kurin HAR Edition"
     },
     {
-      "abr": "kurinstripedunderwear",
-      "category": "Kurin underwear apparel",
-      "defname": "Kurin_Underwear_Striped_Stuffed",
-      "price": 112,
-      "mod": "Kurin HAR Edition"
-    },
-    {
       "abr": "kurinsummerhat",
       "category": "Kurin overhead apparel",
       "defname": "Kurin_Overhead_Summer_Hat",
@@ -5714,23 +5588,9 @@
     },
     {
       "abr": "kurinsurigum",
-      "category": "Ranged weapons",
+      "category": "Melee weapons",
       "defname": "Kurin_Gun_Surigum",
       "price": 206,
-      "mod": "Kurin HAR Edition"
-    },
-    {
-      "abr": "kurintailblade",
-      "category": "Bionic",
-      "defname": "KurinTailBlade",
-      "price": 2092,
-      "mod": "Kurin HAR Edition"
-    },
-    {
-      "abr": "kurintraditionalcoat",
-      "category": "Kurin shell apparel",
-      "defname": "Kurin_OnSkin_Traditional_Coat",
-      "price": 633,
       "mod": "Kurin HAR Edition"
     },
     {
@@ -5769,30 +5629,9 @@
       "mod": "Kurin HAR Edition"
     },
     {
-      "abr": "kurinunderwear",
-      "category": "Kurin underwear apparel",
-      "defname": "Kurin_Underwear_Stuffed",
-      "price": 112,
-      "mod": "Kurin HAR Edition"
-    },
-    {
-      "abr": "kurinwaterfoxskinsuit",
-      "category": "Kurin underwear apparel",
-      "defname": "Kurin_Waterfox_Armor",
-      "price": 2208,
-      "mod": "Kurin HAR Edition"
-    },
-    {
       "abr": "kurinwhitestripedbra",
       "category": "Kurin underwear apparel",
       "defname": "Kurin_Underwear_Striped",
-      "price": 112,
-      "mod": "Kurin HAR Edition"
-    },
-    {
-      "abr": "kurinwhiteunderwear",
-      "category": "Kurin underwear apparel",
-      "defname": "Kurin_Underwear",
       "price": 112,
       "mod": "Kurin HAR Edition"
     },
@@ -7303,7 +7142,7 @@
     },
     {
       "abr": "necklace",
-      "category": "Headgear",
+      "category": "Dragonian Headgear",
       "defname": "DR_Necklace",
       "price": 558,
       "mod": "Dragonian Prime Race2.0 (Unofficial)"
@@ -7426,13 +7265,6 @@
       "defname": "VWE_Gun_RubberBulletPistol",
       "price": 175,
       "mod": "Vanilla Weapons Expanded - Non-Lethal"
-    },
-    {
-      "abr": "noosetrap",
-      "category": "Security",
-      "defname": "DRNTF_NooseTrap",
-      "price": 84,
-      "mod": "Kurin HAR Edition"
     },
     {
       "abr": "nuclearstomach",
@@ -10943,7 +10775,7 @@
     },
     {
       "abr": "sunhat",
-      "category": "Headgear",
+      "category": "Dragonian Headgear",
       "defname": "DR_SunHat",
       "price": 558,
       "mod": "Dragonian Prime Race2.0 (Unofficial)"
@@ -11999,1866 +11831,11 @@
       "mod": "Biotech"
     },
     {
-      "abr": "adherent",
-      "category": "Animals",
-      "defname": "HAR_NM_M_KUT",
-      "price": 2,
-      "mod": "[1.4]Nearmare Race"
-    },
-    {
-      "abr": "adherent",
-      "category": "Animals",
-      "defname": "HAR_NM_M_KUT_b",
-      "price": 2,
-      "mod": "[1.4]Nearmare Race"
-    },
-    {
-      "abr": "adherentmeat",
-      "category": "Meat",
-      "defname": "Meat_HAR_NM_M_KUT",
-      "price": 3,
-      "mod": "[1.4]Nearmare Race"
-    },
-    {
-      "abr": "adherentmeat",
-      "category": "Meat",
-      "defname": "Meat_HAR_NM_M_KUT_b",
-      "price": -10,
-      "mod": "[1.4]Nearmare Race"
-    },
-    {
-      "abr": "ancientmail",
-      "category": "Magic apparel",
-      "defname": "AncientMail",
-      "price": 2742,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "apothecaryrecipe:bliss",
-      "category": "Scrolls",
-      "defname": "SkillOf_HerbalBliss",
-      "price": 950,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "apothecaryrecipe:clarity",
-      "category": "Scrolls",
-      "defname": "SkillOf_HerbalClarity",
-      "price": 1733,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "arcalleum",
-      "category": "Raw resources",
-      "defname": "TM_Arcalleum",
-      "price": 22,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "arcanegemofacceleration",
-      "category": "Refined magicyte",
-      "defname": "TM_EStone_coolDown",
-      "price": 650,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "arcanegemofconservation",
-      "category": "Refined magicyte",
-      "defname": "TM_EStone_mpCost",
-      "price": 650,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "arcanegemofforce",
-      "category": "Refined magicyte",
-      "defname": "TM_EStone_arcaneDmg",
-      "price": 650,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "arcanegemofholding",
-      "category": "Refined magicyte",
-      "defname": "TM_EStone_maxMP",
-      "price": 650,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "arcanegemoflearning",
-      "category": "Refined magicyte",
-      "defname": "TM_EStone_xpGain",
-      "price": 650,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "arcanegemofregeneration",
-      "category": "Refined magicyte",
-      "defname": "TM_EStone_mpRegenRate",
-      "price": 650,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "arcanegemofresistance",
-      "category": "Refined magicyte",
-      "defname": "TM_EStone_arcaneRes",
-      "price": 650,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "arcanegemofwonder",
-      "category": "Refined magicyte",
-      "defname": "TM_EStone_wonder",
-      "price": 4417,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "arcanehood",
-      "category": "Magic apparel",
-      "defname": "ArcaneHood",
-      "price": 817,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "arcanescript:???",
-      "category": "Skill books",
-      "defname": "BookOfQuestion",
-      "price": 2500,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "arcanespell:gateway",
-      "category": "Scrolls",
-      "defname": "SpellOf_FoldReality",
-      "price": 4767,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "arcanetome:bard",
-      "category": "Skill books",
-      "defname": "BookOfBard",
-      "price": 5500,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "arcanetome:brightmage",
-      "category": "Skill books",
-      "defname": "BookOfTheSun",
-      "price": 5500,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "arcanetome:chaosmage",
-      "category": "Skill books",
-      "defname": "BookOfChaos",
-      "price": 5500,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "arcanetome:chronomancer",
-      "category": "Skill books",
-      "defname": "BookOfChronomancer",
-      "price": 5500,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "arcanetome:demonology",
-      "category": "Skill books",
-      "defname": "BookOfDemons",
-      "price": 5500,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "arcanetome:earth",
-      "category": "Skill books",
-      "defname": "BookOfEarth",
-      "price": 5500,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "arcanetome:enchanter",
-      "category": "Skill books",
-      "defname": "BookOfEnchanter",
-      "price": 5500,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "arcanetome:fire",
-      "category": "Skill books",
-      "defname": "BookOfInnerFire",
-      "price": 5500,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "arcanetome:golemancer",
-      "category": "Skill books",
-      "defname": "BookOfGolemancy",
-      "price": 5500,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "arcanetome:hemomancy",
-      "category": "Skill books",
-      "defname": "BookOfHemomancy",
-      "price": 5500,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "arcanetome:ice",
-      "category": "Skill books",
-      "defname": "BookOfHeartOfFrost",
-      "price": 5500,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "arcanetome:lightning",
-      "category": "Skill books",
-      "defname": "BookOfStormBorn",
-      "price": 5500,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "arcanetome:nature",
-      "category": "Skill books",
-      "defname": "BookOfDruid",
-      "price": 5500,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "arcanetome:necromancer",
-      "category": "Skill books",
-      "defname": "BookOfNecromancer",
-      "price": 5500,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "arcanetome:power",
-      "category": "Skill books",
-      "defname": "BookOfArcanist",
-      "price": 5500,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "arcanetome:priest",
-      "category": "Skill books",
-      "defname": "BookOfPriest",
-      "price": 5500,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "arcanetome:shadow",
-      "category": "Skill books",
-      "defname": "BookOfShadow",
-      "price": 5500,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "arcanetome:shaman",
-      "category": "Skill books",
-      "defname": "BookOfShamanism",
-      "price": 5500,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "arcanetome:summoning",
-      "category": "Skill books",
-      "defname": "BookOfSummoner",
-      "price": 5500,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "arcanetome:technomancy",
-      "category": "Skill books",
-      "defname": "BookOfMagitech",
-      "price": 5500,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "armorofthevaliant",
-      "category": "Magic apparel",
-      "defname": "RoyalArmor",
-      "price": 2750,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "bardspell:battlehymn",
-      "category": "Scrolls",
-      "defname": "SpellOf_BattleHymn",
-      "price": 2750,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "bardspell:discord",
-      "category": "Scrolls",
-      "defname": "SpellOf_Discord",
-      "price": 1267,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "barriercoat(nearmare)",
-      "category": "ニアメーアの衣服",
-      "defname": "HAR_NM_Sh_BKo",
-      "price": 1575,
-      "mod": "[1.4]Nearmare Race"
-    },
-    {
-      "abr": "bindingblade『geist』",
-      "category": "Ranged weapons",
-      "defname": "Geist_Knife",
-      "price": 235,
-      "mod": "[1.4]Nearmare Race"
-    },
-    {
-      "abr": "blackeveninggown(nearmare)",
-      "category": "ニアメーアの衣服",
-      "defname": "HAR_NM_BDress",
-      "price": 675,
-      "mod": "[1.4]Nearmare Race"
-    },
-    {
-      "abr": "bloodmagespell:bloodmoon",
-      "category": "Scrolls",
-      "defname": "SpellOf_BloodMoon",
-      "price": 3750,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "blouse(nearmare)",
-      "category": "ニアメーアの衣服",
-      "defname": "HAR_NM_Blouse",
-      "price": 342,
-      "mod": "[1.4]Nearmare Race"
-    },
-    {
-      "abr": "bracersofdefense",
-      "category": "Magic artifacts",
-      "defname": "TM_Artifact_BracersOfDefense",
-      "price": 1483,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "bracersofdeflection",
-      "category": "Magic artifacts",
-      "defname": "TM_Artifact_BracersOfDeflection",
-      "price": 1558,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "bracersofthepacifist",
-      "category": "Magic artifacts",
-      "defname": "TM_Artifact_BracersOfThePacifist",
-      "price": 6375,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "brightmagespell:spiritoflight",
-      "category": "Scrolls",
-      "defname": "SpellOf_SpiritOfLight",
-      "price": 3767,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "cape(nearmare)",
-      "category": "ニアメーアの衣服",
-      "defname": "HAR_NM_Sh_Kb",
-      "price": 1050,
-      "mod": "[1.4]Nearmare Race"
-    },
-    {
-      "abr": "cheongsam(nearmare)",
-      "category": "ニアメーアの衣服",
-      "defname": "HAR_NM_China",
-      "price": 725,
-      "mod": "[1.4]Nearmare Race"
-    },
-    {
-      "abr": "child'sblouse",
-      "category": "人工種族の衣服",
-      "defname": "Aya_Race_Ap_C_T_b",
-      "price": 93,
-      "mod": "[1.4]Nearmare Race"
-    },
-    {
-      "abr": "child'sschooluniform",
-      "category": "人工種族の衣服",
-      "defname": "Aya_Race_Ap_C_T_d",
-      "price": 93,
-      "mod": "[1.4]Nearmare Race"
-    },
-    {
-      "abr": "child'sshirt",
-      "category": "人工種族の衣服",
-      "defname": "Aya_Race_Ap_C_T_a",
-      "price": 93,
-      "mod": "[1.4]Nearmare Race"
-    },
-    {
-      "abr": "child'swrapping",
-      "category": "人工種族の衣服",
-      "defname": "Aya_Race_Ap_C_T_c",
-      "price": 93,
-      "mod": "[1.4]Nearmare Race"
-    },
-    {
-      "abr": "chronomancerspell:recall",
-      "category": "Scrolls",
-      "defname": "SpellOf_Recall",
-      "price": 3333,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "cloak(nearmare)",
-      "category": "ニアメーアの衣服",
-      "defname": "HAR_NM_Sh_K",
-      "price": 1050,
-      "mod": "[1.4]Nearmare Race"
-    },
-    {
-      "abr": "cloakofsupremacy",
-      "category": "Magic apparel",
-      "defname": "DemonLordCloak",
-      "price": 4233,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "coat(nearmare)",
-      "category": "ニアメーアの衣服",
-      "defname": "HAR_NM_Sh_Kc",
-      "price": 1050,
-      "mod": "[1.4]Nearmare Race"
-    },
-    {
-      "abr": "combatform:faceless",
-      "category": "Skill books",
-      "defname": "BookOfFaceless",
-      "price": 4292,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "combatform:gladiator",
-      "category": "Skill books",
-      "defname": "BookOfGladiator",
-      "price": 4292,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "combatpower:psionic",
-      "category": "Skill books",
-      "defname": "BookOfPsionic",
-      "price": 4750,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "combatstyle:apothecary",
-      "category": "Skill books",
-      "defname": "BookOfApothecary",
-      "price": 4292,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "combatstyle:bladedancer",
-      "category": "Skill books",
-      "defname": "BookOfBladedancer",
-      "price": 4292,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "combatstyle:commander",
-      "category": "Skill books",
-      "defname": "BookOfCommander",
-      "price": 4292,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "combatstyle:deathknight",
-      "category": "Skill books",
-      "defname": "BookOfDeathKnight",
-      "price": 4292,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "combatstyle:monk",
-      "category": "Skill books",
-      "defname": "BookOfMonk",
-      "price": 4292,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "combatstyle:ranger",
-      "category": "Skill books",
-      "defname": "BookOfRanger",
-      "price": 4292,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "combatstyle:sniper",
-      "category": "Skill books",
-      "defname": "BookOfSniper",
-      "price": 4292,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "cursedhelmet(nearmare)",
-      "category": "ニアメーアの衣服",
-      "defname": "HAR_NM_HCArmor",
-      "price": 833,
-      "mod": "[1.4]Nearmare Race"
-    },
-    {
-      "abr": "decimation",
-      "category": "Melee",
-      "defname": "TM_Decimation",
-      "price": 6058,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "demonflesh",
-      "category": "Meat",
-      "defname": "Meat_TM_DemonR",
-      "price": 3,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "demonflesh",
-      "category": "Meat",
-      "defname": "Meat_TM_LesserDemonR",
-      "price": 3,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "demonspear『lugae』",
-      "category": "Ranged weapons",
-      "defname": "Rugeiyu_Pila",
-      "price": 2575,
-      "mod": "[1.4]Nearmare Race"
-    },
-    {
-      "abr": "demonhide",
-      "category": "Leathers",
-      "defname": "TM_Demonhide",
-      "price": 27,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "demon'sfang",
-      "category": "Melee",
-      "defname": "TM_DemonFang",
-      "price": 6150,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "demonscale",
-      "category": "Raw resources",
-      "defname": "TM_Demonscale",
-      "price": 30,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "direwolf",
-      "category": "Animals",
-      "defname": "TM_Dire_WolfR",
-      "price": 3667,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "divinetome:paladin",
-      "category": "Skill books",
-      "defname": "BookOfValiant",
-      "price": 5500,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "dreamwand『wildhunt』",
-      "category": "Ranged weapons",
-      "defname": "Nearmaere_WildHunt",
-      "price": 5200,
-      "mod": "[1.4]Nearmare Race"
-    },
-    {
-      "abr": "dreamcatcherbuckskin",
-      "category": "Magic apparel",
-      "defname": "TM_DreamcatcherBuckskin",
-      "price": 4242,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "dreamcatchercoronet",
-      "category": "Magic apparel",
-      "defname": "TM_DreamcatcherCoronet",
-      "price": 3008,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "druidspell:briarpatch",
-      "category": "Scrolls",
-      "defname": "SpellOf_BriarPatch",
-      "price": 950,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "druidspell:fertilelands",
-      "category": "Scrolls",
-      "defname": "SpellOf_FertileLands",
-      "price": 1233,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "druidspell:regrowlimb",
-      "category": "Scrolls",
-      "defname": "SpellOf_RegrowLimb",
-      "price": 3100,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "duffelcoat(nearmare)",
-      "category": "ニアメーアの衣服",
-      "defname": "HAR_NM_Sh_Ke",
-      "price": 1050,
-      "mod": "[1.4]Nearmare Race"
-    },
-    {
-      "abr": "duster(nearmare)",
-      "category": "ニアメーアの衣服",
-      "defname": "HAR_NM_Sh_Kd",
-      "price": 1050,
-      "mod": "[1.4]Nearmare Race"
-    },
-    {
-      "abr": "elementaldust",
-      "category": "Meat",
-      "defname": "Meat_TM_LesserEarth_ElementalR",
-      "price": 3,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "elementaldust",
-      "category": "Meat",
-      "defname": "Meat_TM_Earth_ElementalR",
-      "price": -10,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "elementaldust",
-      "category": "Meat",
-      "defname": "Meat_TM_GreaterEarth_ElementalR",
-      "price": -10,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "elementaldust",
-      "category": "Meat",
-      "defname": "Meat_TM_LesserFire_ElementalR",
-      "price": -10,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "elementaldust",
-      "category": "Meat",
-      "defname": "Meat_TM_Fire_ElementalR",
-      "price": -10,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "elementaldust",
-      "category": "Meat",
-      "defname": "Meat_TM_GreaterFire_ElementalR",
-      "price": -10,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "elementaldust",
-      "category": "Meat",
-      "defname": "Meat_TM_LesserWater_ElementalR",
-      "price": -10,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "elementaldust",
-      "category": "Meat",
-      "defname": "Meat_TM_Water_ElementalR",
-      "price": -10,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "elementaldust",
-      "category": "Meat",
-      "defname": "Meat_TM_GreaterWater_ElementalR",
-      "price": -10,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "elementaldust",
-      "category": "Meat",
-      "defname": "Meat_TM_LesserWind_ElementalR",
-      "price": -10,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "elementaldust",
-      "category": "Meat",
-      "defname": "Meat_TM_Wind_ElementalR",
-      "price": -10,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "elementaldust",
-      "category": "Meat",
-      "defname": "Meat_TM_GreaterWind_ElementalR",
-      "price": -10,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "elephantbow",
-      "category": "Ranged",
-      "defname": "TM_ElephantBow",
-      "price": 2083,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "elephantspear",
-      "category": "Melee",
-      "defname": "TM_ElephantSpear",
-      "price": 1333,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "elephanttusk",
-      "category": "Melee",
-      "defname": "TM_ElephantTusk",
-      "price": 200,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "empathability:fadeemotions",
-      "category": "Scrolls",
-      "defname": "SpellOf_FadeEmotions",
-      "price": 1267,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "enchanterspell:blankmind",
-      "category": "Scrolls",
-      "defname": "SpellOf_BlankMind",
-      "price": 1367,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "enchanterspell:shapeshift",
-      "category": "Scrolls",
-      "defname": "SpellOf_Shapeshift",
-      "price": 3333,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "essenceofmagic",
-      "category": "Magic artifacts",
-      "defname": "TM_MagicArtifact_MagicEssence",
-      "price": 833,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "essenceofmight",
-      "category": "Magic artifacts",
-      "defname": "TM_MagicArtifact_MightEssence",
-      "price": 833,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "fighterskill:burningfury",
-      "category": "Scrolls",
-      "defname": "SkillOf_BurningFury",
-      "price": 1583,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "fighterskill:fightersfocus",
-      "category": "Scrolls",
-      "defname": "SkillOf_FightersFocus",
-      "price": 1333,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "fighterskill:gearrepair",
-      "category": "Scrolls",
-      "defname": "SkillOf_GearRepair",
-      "price": 1167,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "fighterskill:heavyblow",
-      "category": "Scrolls",
-      "defname": "SkillOf_HeavyBlow",
-      "price": 1250,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "fighterskill:innerhealing",
-      "category": "Scrolls",
-      "defname": "SkillOf_InnerHealing",
-      "price": 833,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "fighterskill:legion",
-      "category": "Scrolls",
-      "defname": "SkillOf_Legion",
-      "price": 1333,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "fighterskill:pommelstrike",
-      "category": "Scrolls",
-      "defname": "SkillOf_PommelStrike",
-      "price": 1667,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "fighterskill:sprint",
-      "category": "Scrolls",
-      "defname": "SkillOf_Sprint",
-      "price": 833,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "fighterskill:strongback",
-      "category": "Scrolls",
-      "defname": "SkillOf_StrongBack",
-      "price": 1000,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "fighterskill:taunt",
-      "category": "Scrolls",
-      "defname": "SkillOf_Taunt",
-      "price": 1667,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "fighterskill:tempeststrike",
-      "category": "Scrolls",
-      "defname": "SkillOf_TempestStrike",
-      "price": 1000,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "fighterskill:thickskin",
-      "category": "Scrolls",
-      "defname": "SkillOf_ThickSkin",
-      "price": 667,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "fighterskill:throwingknife",
-      "category": "Scrolls",
-      "defname": "SkillOf_ThrowingKnife",
-      "price": 1583,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "firespell:cauterizewound",
-      "category": "Scrolls",
-      "defname": "SpellOf_CauterizeWound",
-      "price": 533,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "firespell:dryground",
-      "category": "Scrolls",
-      "defname": "SpellOf_DryGround",
-      "price": 900,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "firespell:firestorm",
-      "category": "Scrolls",
-      "defname": "SpellOf_Firestorm",
-      "price": 3583,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "firespell:heatshield",
-      "category": "Scrolls",
-      "defname": "SpellOf_HeatShield",
-      "price": 1000,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "fleshgolem",
-      "category": "Animal",
-      "defname": "TM_FleshGolem",
-      "price": -10,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "floralaccessory(nearmare)",
-      "category": "ニアメーアの衣服",
-      "defname": "HAR_NM_MHK",
-      "price": 367,
-      "mod": "[1.4]Nearmare Race"
-    },
-    {
-      "abr": "gemofarcaneinsight",
-      "category": "Magic artifacts",
-      "defname": "GemstoneOfInsight_Magic",
-      "price": 5000,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "gemofphysicalinsight",
-      "category": "Magic artifacts",
-      "defname": "GemstoneOfInsight_Might",
-      "price": 4000,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "geomancerspell:meteor",
-      "category": "Scrolls",
-      "defname": "SpellOf_Meteor",
-      "price": 2750,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "giantskeletonmeat",
-      "category": "Meat",
-      "defname": "Meat_TM_GiantSkeletonR",
-      "price": 3,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "glorymaul",
-      "category": "Melee",
-      "defname": "TM_GloryMaul",
-      "price": 2825,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "golemancerspell:awarenessbrand",
-      "category": "Scrolls",
-      "defname": "SpellOf_BrandAwareness",
-      "price": 1333,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "golemancerspell:emotionbrand",
-      "category": "Scrolls",
-      "defname": "SpellOf_BrandEmotion",
-      "price": 1567,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "golemancerspell:fitnessbrand",
-      "category": "Scrolls",
-      "defname": "SpellOf_BrandFitness",
-      "price": 1333,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "golemancerspell:livingwall",
-      "category": "Scrolls",
-      "defname": "SpellOf_LivingWall",
-      "price": 3667,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "golemancerspell:protectionbrand",
-      "category": "Scrolls",
-      "defname": "SpellOf_BrandProtection",
-      "price": 1567,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "golemancerspell:siphonbrand",
-      "category": "Scrolls",
-      "defname": "SpellOf_BrandSiphon",
-      "price": 1567,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "golemancerspell:vitalitybrand",
-      "category": "Scrolls",
-      "defname": "SpellOf_BrandVitality",
-      "price": 1333,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "granitegolem",
-      "category": "Animal",
-      "defname": "TM_GraniteGolem",
-      "price": -10,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "hairband(nearmare)",
-      "category": "ニアメーアの衣服",
-      "defname": "HAR_NM_Cts",
-      "price": 367,
-      "mod": "[1.4]Nearmare Race"
-    },
-    {
-      "abr": "haori(nearmare)",
-      "category": "ニアメーアの衣服",
-      "defname": "HAR_NM_Sh_Ho",
-      "price": 1050,
-      "mod": "[1.4]Nearmare Race"
-    },
-    {
-      "abr": "hauntedblade『larva』",
-      "category": "Ranged weapons",
-      "defname": "Larva_SKnife",
-      "price": 1300,
-      "mod": "[1.4]Nearmare Race"
-    },
-    {
-      "abr": "helmofthevaliant",
-      "category": "Magic apparel",
-      "defname": "RoyalHelm",
-      "price": 975,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "hollowgolem",
-      "category": "Animal",
-      "defname": "TM_HollowGolem",
-      "price": -10,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "hollowgolemmeat",
-      "category": "Meat",
-      "defname": "Meat_TM_HollowGolem",
-      "price": 3,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "holycasterspell:shieldother",
-      "category": "Scrolls",
-      "defname": "SpellOf_ShieldOther",
-      "price": 1267,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "hoodofmadness",
-      "category": "Magic apparel",
-      "defname": "HoodOfMadness",
-      "price": 1008,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "icespell:alterstorm",
-      "category": "Scrolls",
-      "defname": "SpellOf_AlterStorm",
-      "price": 1417,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "icespell:blizzard",
-      "category": "Scrolls",
-      "defname": "SpellOf_Blizzard",
-      "price": 3583,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "icespell:moisturizeground",
-      "category": "Scrolls",
-      "defname": "SpellOf_WetGround",
-      "price": 900,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "kimono(nearmare)",
-      "category": "ニアメーアの衣服",
-      "defname": "HAR_NM_Kimono",
-      "price": 1058,
-      "mod": "[1.4]Nearmare Race"
-    },
-    {
-      "abr": "lailatunica",
-      "category": "ニアメーアの衣服",
-      "defname": "HAR_NM_A_b",
-      "price": 13350,
-      "mod": "[1.4]Nearmare Race"
-    },
-    {
-      "abr": "lailawimple",
-      "category": "ニアメーアの衣服",
-      "defname": "HAR_NM_AH_g",
-      "price": 10350,
-      "mod": "[1.4]Nearmare Race"
-    },
-    {
-      "abr": "lighthelm(nearmare)",
-      "category": "ニアメーアの衣服",
-      "defname": "HAR_NM_HArmor",
-      "price": 533,
-      "mod": "[1.4]Nearmare Race"
-    },
-    {
-      "abr": "lightningspell:chargebattery",
-      "category": "Scrolls",
-      "defname": "SpellOf_ChargeBattery",
-      "price": 833,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "lightningspell:eyeofthestorm",
-      "category": "Scrolls",
-      "defname": "SpellOf_EyeOfTheStorm",
-      "price": 3583,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "limestonegolem",
-      "category": "Animal",
-      "defname": "TM_LimestoneGolem",
-      "price": -10,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "longsleevedshirt(nearmare)",
-      "category": "ニアメーアの衣服",
-      "defname": "HAR_NM_SShirts",
-      "price": 183,
-      "mod": "[1.4]Nearmare Race"
-    },
-    {
-      "abr": "lv1nightgaunt",
-      "category": "Animals",
-      "defname": "NM_M_NightGaunts",
-      "price": -10,
-      "mod": "[1.4]Nearmare Race"
-    },
-    {
-      "abr": "lv1nightgauntmeat",
-      "category": "Meat",
-      "defname": "Meat_NM_M_NightGaunts",
-      "price": -10,
-      "mod": "[1.4]Nearmare Race"
-    },
-    {
-      "abr": "lv1nightmare",
-      "category": "Animals",
-      "defname": "NM_M_Nightmare",
-      "price": -10,
-      "mod": "[1.4]Nearmare Race"
-    },
-    {
-      "abr": "lv1nightmaremeat",
-      "category": "Meat",
-      "defname": "Meat_NM_M_Nightmare",
-      "price": -10,
-      "mod": "[1.4]Nearmare Race"
-    },
-    {
-      "abr": "lv1nightstalker",
-      "category": "Animals",
-      "defname": "NM_M_NightStalker",
-      "price": -10,
-      "mod": "[1.4]Nearmare Race"
-    },
-    {
-      "abr": "lv1nightstalkermeat",
-      "category": "Meat",
-      "defname": "Meat_NM_M_NightStalker",
-      "price": -10,
-      "mod": "[1.4]Nearmare Race"
-    },
-    {
-      "abr": "lv1.ナイトメア",
-      "category": "Animals",
-      "defname": "NM_M_Nearmaere",
-      "price": -10,
-      "mod": "[1.4]Nearmare Race"
-    },
-    {
-      "abr": "lv1.ナイトメアmeat",
-      "category": "Meat",
-      "defname": "Meat_NM_M_Nearmaere",
-      "price": -10,
-      "mod": "[1.4]Nearmare Race"
-    },
-    {
-      "abr": "lv2nightgaunt",
-      "category": "Animals",
-      "defname": "NM_M_NightGaunts_b",
-      "price": -10,
-      "mod": "[1.4]Nearmare Race"
-    },
-    {
-      "abr": "lv2nightgauntmeat",
-      "category": "Meat",
-      "defname": "Meat_NM_M_NightGaunts_b",
-      "price": -10,
-      "mod": "[1.4]Nearmare Race"
-    },
-    {
-      "abr": "lv2nightmare",
-      "category": "Animals",
-      "defname": "NM_M_Nightmare_b",
-      "price": -10,
-      "mod": "[1.4]Nearmare Race"
-    },
-    {
-      "abr": "lv2nightmaremeat",
-      "category": "Meat",
-      "defname": "Meat_NM_M_Nightmare_b",
-      "price": -10,
-      "mod": "[1.4]Nearmare Race"
-    },
-    {
-      "abr": "lv2nightstalker",
-      "category": "Animals",
-      "defname": "NM_M_NightStalker_b",
-      "price": -10,
-      "mod": "[1.4]Nearmare Race"
-    },
-    {
-      "abr": "lv2nightstalkermeat",
-      "category": "Meat",
-      "defname": "Meat_NM_M_NightStalker_b",
-      "price": -10,
-      "mod": "[1.4]Nearmare Race"
-    },
-    {
-      "abr": "lv3nightgaunt",
-      "category": "Animals",
-      "defname": "NM_M_NightGaunts_c",
-      "price": -10,
-      "mod": "[1.4]Nearmare Race"
-    },
-    {
-      "abr": "lv3nightgauntmeat",
-      "category": "Meat",
-      "defname": "Meat_NM_M_NightGaunts_c",
-      "price": -10,
-      "mod": "[1.4]Nearmare Race"
-    },
-    {
-      "abr": "lv3nightmare",
-      "category": "Animals",
-      "defname": "NM_M_Nightmare_c",
-      "price": -10,
-      "mod": "[1.4]Nearmare Race"
-    },
-    {
-      "abr": "lv3nightmaremeat",
-      "category": "Meat",
-      "defname": "Meat_NM_M_Nightmare_c",
-      "price": -10,
-      "mod": "[1.4]Nearmare Race"
-    },
-    {
-      "abr": "lv3nightstalker",
-      "category": "Animals",
-      "defname": "NM_M_NightStalker_c",
-      "price": -10,
-      "mod": "[1.4]Nearmare Race"
-    },
-    {
-      "abr": "lv3nightstalkermeat",
-      "category": "Meat",
-      "defname": "Meat_NM_M_NightStalker_c",
-      "price": -10,
-      "mod": "[1.4]Nearmare Race"
-    },
-    {
-      "abr": "lv4nightgaunt",
-      "category": "Animals",
-      "defname": "NM_M_NightGaunts_d",
-      "price": -10,
-      "mod": "[1.4]Nearmare Race"
-    },
-    {
-      "abr": "lv4nightgauntmeat",
-      "category": "Meat",
-      "defname": "Meat_NM_M_NightGaunts_d",
-      "price": -10,
-      "mod": "[1.4]Nearmare Race"
-    },
-    {
-      "abr": "lv4nightmare",
-      "category": "Animals",
-      "defname": "NM_M_Nightmare_d",
-      "price": -10,
-      "mod": "[1.4]Nearmare Race"
-    },
-    {
-      "abr": "lv4nightmaremeat",
-      "category": "Meat",
-      "defname": "Meat_NM_M_Nightmare_d",
-      "price": -10,
-      "mod": "[1.4]Nearmare Race"
-    },
-    {
-      "abr": "lv4nightstalker",
-      "category": "Animals",
-      "defname": "NM_M_NightStalker_d",
-      "price": -10,
-      "mod": "[1.4]Nearmare Race"
-    },
-    {
-      "abr": "lv4nightstalkermeat",
-      "category": "Meat",
-      "defname": "Meat_NM_M_NightStalker_d",
-      "price": -10,
-      "mod": "[1.4]Nearmare Race"
-    },
-    {
-      "abr": "lv5nightgaunt",
-      "category": "Animals",
-      "defname": "NM_M_NightGaunts_e",
-      "price": -10,
-      "mod": "[1.4]Nearmare Race"
-    },
-    {
-      "abr": "lv5nightgauntmeat",
-      "category": "Meat",
-      "defname": "Meat_NM_M_NightGaunts_e",
-      "price": -10,
-      "mod": "[1.4]Nearmare Race"
-    },
-    {
-      "abr": "lv5nightmare",
-      "category": "Animals",
-      "defname": "NM_M_Nightmare_e",
-      "price": -10,
-      "mod": "[1.4]Nearmare Race"
-    },
-    {
-      "abr": "lv5nightmaremeat",
-      "category": "Meat",
-      "defname": "Meat_NM_M_Nightmare_e",
-      "price": -10,
-      "mod": "[1.4]Nearmare Race"
-    },
-    {
-      "abr": "lv5nightstalker",
-      "category": "Animals",
-      "defname": "NM_M_NightStalker_e",
-      "price": -10,
-      "mod": "[1.4]Nearmare Race"
-    },
-    {
-      "abr": "lv5nightstalkermeat",
-      "category": "Meat",
-      "defname": "Meat_NM_M_NightStalker_e",
-      "price": -10,
-      "mod": "[1.4]Nearmare Race"
-    },
-    {
-      "abr": "magerobe",
-      "category": "Magic apparel",
-      "defname": "DarkRobe",
-      "price": 3767,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "magespell:arcanebolt",
-      "category": "Scrolls",
-      "defname": "SpellOf_ArcaneBolt",
-      "price": 950,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "magespell:blink",
-      "category": "Scrolls",
-      "defname": "SpellOf_Blink",
-      "price": 833,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "magespell:blur",
-      "category": "Scrolls",
-      "defname": "SpellOf_Blur",
-      "price": 967,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "magespell:dirtdevil",
-      "category": "Scrolls",
-      "defname": "SpellOf_DirtDevil",
-      "price": 967,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "magespell:emp",
-      "category": "Scrolls",
-      "defname": "SpellOf_EMP",
-      "price": 967,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "magespell:extinguish",
-      "category": "Scrolls",
-      "defname": "SpellOf_Extinguish",
-      "price": 567,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "magespell:heal",
-      "category": "Scrolls",
-      "defname": "SpellOf_Heal",
-      "price": 767,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "magespell:ignite",
-      "category": "Scrolls",
-      "defname": "SpellOf_Ignite",
-      "price": 950,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "magespell:invisibility",
-      "category": "Scrolls",
-      "defname": "SpellOf_Invisibility",
-      "price": 2000,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "magespell:lightningtrap",
-      "category": "Scrolls",
-      "defname": "SpellOf_LightningTrap",
-      "price": 2000,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "magespell:magelight",
-      "category": "Scrolls",
-      "defname": "SpellOf_MageLight",
-      "price": 633,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "magespell:magiccooler",
-      "category": "Scrolls",
-      "defname": "SpellOf_Cooler",
-      "price": 633,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "magespell:magicheater",
-      "category": "Scrolls",
-      "defname": "SpellOf_Heater",
-      "price": 633,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "magespell:magicwardrobe",
-      "category": "Scrolls",
-      "defname": "SpellOf_MagicWardrobe",
-      "price": 2333,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "magespell:manashield",
-      "category": "Scrolls",
-      "defname": "SpellOf_ManaShield",
-      "price": 1600,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "magespell:powernode",
-      "category": "Scrolls",
-      "defname": "SpellOf_PowerNode",
-      "price": 1017,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "magespell:rain",
-      "category": "Scrolls",
-      "defname": "SpellOf_Rain",
-      "price": 433,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "magespell:siphonmana",
-      "category": "Scrolls",
-      "defname": "SpellOf_SiphonMana",
-      "price": 1267,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "magespell:smokecloud",
-      "category": "Scrolls",
-      "defname": "SpellOf_SmokeCloud",
-      "price": 700,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "magespell:snapfreeze",
-      "category": "Scrolls",
-      "defname": "SpellOf_SnapFreeze",
-      "price": 950,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "magespell:spellmending",
-      "category": "Scrolls",
-      "defname": "SpellOf_SpellMending",
-      "price": 1792,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "magespell:summonminion",
-      "category": "Scrolls",
-      "defname": "SpellOf_SummonMinion",
-      "price": 1750,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "magespell:sunlight",
-      "category": "Scrolls",
-      "defname": "SpellOf_Sunlight",
-      "price": 1117,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "magespell:teleport",
-      "category": "Scrolls",
-      "defname": "SpellOf_Teleport",
-      "price": 2200,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "magespell:transfermana",
-      "category": "Scrolls",
-      "defname": "SpellOf_TransferMana",
-      "price": 1267,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "maharalgolem",
-      "category": "Animal",
-      "defname": "TM_MaharalGolem",
-      "price": -10,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "maidclothes(nearmare)",
-      "category": "ニアメーアの衣服",
-      "defname": "HAR_NM_Maid",
-      "price": 725,
-      "mod": "[1.4]Nearmare Race"
-    },
-    {
-      "abr": "maidhairband(nearmare)",
-      "category": "ニアメーアの衣服",
-      "defname": "HAR_NM_MCt",
-      "price": 367,
-      "mod": "[1.4]Nearmare Race"
-    },
-    {
-      "abr": "majorarcanegemofacceleration",
-      "category": "Refined magicyte",
-      "defname": "TM_EStone_coolDown_major",
-      "price": 1592,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "majorarcanegemofconservation",
-      "category": "Refined magicyte",
-      "defname": "TM_EStone_mpCost_major",
-      "price": 1592,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "majorarcanegemofforce",
-      "category": "Refined magicyte",
-      "defname": "TM_EStone_arcaneDmg_major",
-      "price": 1592,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "majorarcanegemofholding",
-      "category": "Refined magicyte",
-      "defname": "TM_EStone_maxMP_major",
-      "price": 1592,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "majorarcanegemoflearning",
-      "category": "Refined magicyte",
-      "defname": "TM_EStone_xpGain_major",
-      "price": 1592,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "majorarcanegemofregeneration",
-      "category": "Refined magicyte",
-      "defname": "TM_EStone_mpRegenRate_major",
-      "price": 1592,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "majorarcanegemofresistance",
-      "category": "Refined magicyte",
-      "defname": "TM_EStone_arcaneRes_major",
-      "price": 1592,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "majorarcanegemofwonder",
-      "category": "Refined magicyte",
-      "defname": "TM_EStone_wonder_major",
-      "price": 10917,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "manapotion",
-      "category": "Drugs",
-      "defname": "ManaPotion",
-      "price": 150,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "manaweave",
-      "category": "Textiles",
-      "defname": "TM_Manaweave",
-      "price": 15,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "mantle(nearmare)",
-      "category": "ニアメーアの衣服",
-      "defname": "HAR_NM_Sh_SKo",
-      "price": 1050,
-      "mod": "[1.4]Nearmare Race"
-    },
-    {
-      "abr": "marblegolem",
-      "category": "Animal",
-      "defname": "TM_MarbleGolem",
-      "price": -10,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "mashedpomana",
-      "category": "Vegetarian",
-      "defname": "TM_RawPomanaMash",
-      "price": -10,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "mashiaf'sroar",
-      "category": "ニアメーアの衣服",
-      "defname": "HAR_NM_A_Belt_a",
-      "price": 23017,
-      "mod": "[1.4]Nearmare Race"
-    },
-    {
-      "abr": "meat",
-      "category": "Meat",
-      "defname": "Meat_TM_SpiritWolfR",
-      "price": 3,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "mecha-golem",
-      "category": "Animal",
-      "defname": "TM_MechaGolem",
-      "price": -10,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "minorarcanegemofacceleration",
-      "category": "Refined magicyte",
-      "defname": "TM_EStone_coolDown_minor",
-      "price": 283,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "minorarcanegemofconservation",
-      "category": "Refined magicyte",
-      "defname": "TM_EStone_mpCost_minor",
-      "price": 283,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "minorarcanegemofforce",
-      "category": "Refined magicyte",
-      "defname": "TM_EStone_arcaneDmg_minor",
-      "price": 283,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "minorarcanegemofholding",
-      "category": "Refined magicyte",
-      "defname": "TM_EStone_maxMP_minor",
-      "price": 283,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "minorarcanegemoflearning",
-      "category": "Refined magicyte",
-      "defname": "TM_EStone_xpGain_minor",
-      "price": 283,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "minorarcanegemofregeneration",
-      "category": "Refined magicyte",
-      "defname": "TM_EStone_mpRegenRate_minor",
-      "price": 283,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "minorarcanegemofresistance",
-      "category": "Refined magicyte",
-      "defname": "TM_EStone_arcaneRes_minor",
-      "price": 283,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "minorarcanegemofwonder",
-      "category": "Refined magicyte",
-      "defname": "TM_EStone_wonder_minor",
-      "price": 1983,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "mysterymeat",
-      "category": "Meat",
-      "defname": "Meat_TM_MinionR",
-      "price": -10,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "mysterymeat",
-      "category": "Meat",
-      "defname": "Meat_TM_GreaterMinionR",
-      "price": 3,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "nearmare",
-      "category": "Animal",
-      "defname": "HAR_Nearmaere",
-      "price": -10,
-      "mod": "[1.4]Nearmare Race"
-    },
-    {
-      "abr": "nearmaredevotee",
-      "category": "Animal",
-      "defname": "HAR_Nearmaere_b",
-      "price": -10,
-      "mod": "[1.4]Nearmare Race"
-    },
-    {
-      "abr": "nearmaredevoteemeat",
-      "category": "Meat",
-      "defname": "Meat_HAR_Nearmaere_b",
-      "price": 3,
-      "mod": "[1.4]Nearmare Race"
-    },
-    {
-      "abr": "nearmaremeat",
-      "category": "Meat",
-      "defname": "Meat_HAR_Nearmaere",
-      "price": 3,
-      "mod": "[1.4]Nearmare Race"
-    },
-    {
-      "abr": "nearmaresewingmachine",
-      "category": "Production",
-      "defname": "HTBench_HAR",
-      "price": 508,
-      "mod": "[1.4]Nearmare Race"
-    },
-    {
-      "abr": "necromancerspell:lichform",
-      "category": "Scrolls",
-      "defname": "SpellOf_LichForm",
-      "price": 4292,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "necromancerspell:massconsumecorpse",
-      "category": "Scrolls",
-      "defname": "SpellOf_ConsumeCorpse_Mass",
-      "price": 833,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "necroticorb",
-      "category": "Magic artifacts",
-      "defname": "TM_Artifact_NecroticOrb",
-      "price": 3000,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "nightdemon'scursedarmor(nearmare)",
-      "category": "ニアメーアの衣服",
-      "defname": "HAR_NM_KArmor",
-      "price": 1083,
-      "mod": "[1.4]Nearmare Race"
-    },
-    {
-      "abr": "nightdemon'slightarmor(nearmare)",
-      "category": "ニアメーアの衣服",
-      "defname": "HAR_NM_DLArmor",
-      "price": 1083,
-      "mod": "[1.4]Nearmare Race"
-    },
-    {
-      "abr": "nurseattire(nearmare)",
-      "category": "ニアメーアの衣服",
-      "defname": "HAR_NM_NurseS",
-      "price": 683,
-      "mod": "[1.4]Nearmare Race"
-    },
-    {
-      "abr": "orbofconviction",
-      "category": "Magic artifacts",
-      "defname": "TM_Artifact_OrbOfConviction",
-      "price": 2500,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "orbofsouls(empty)",
-      "category": "Magic artifacts",
-      "defname": "TM_Artifact_OrbOfSouls",
-      "price": 2500,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "orbofsouls(filled)",
-      "category": "Magic artifacts",
-      "defname": "TM_Artifact_OrbOfSouls_Full",
-      "price": 2500,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "orboftheeternal",
-      "category": "Magic artifacts",
-      "defname": "TM_Artifact_OrbOfEternal",
-      "price": 2500,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "paladinspell:holywrath",
-      "category": "Scrolls",
-      "defname": "SpellOf_HolyWrath",
-      "price": 3167,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "paragon'shelm",
-      "category": "Magic apparel",
-      "defname": "ParagonHelm",
-      "price": 1725,
-      "mod": "A RimWorld of Magic"
-    },
-    {
       "abr": "poluxseed",
       "category": "Misc",
       "defname": "PoluxSeed",
       "price": 2000,
       "mod": "Biotech"
-    },
-    {
-      "abr": "pomanafruit",
-      "category": "Vegetarian",
-      "defname": "TM_RawPomanasyrrium",
-      "price": 4,
-      "mod": "A RimWorld of Magic"
     },
     {
       "abr": "poppi",
@@ -13880,608 +11857,6 @@
       "defname": "Meat_Poppi",
       "price": 3,
       "mod": "Poppi (Continued)"
-    },
-    {
-      "abr": "poppimeat",
-      "category": "Meat",
-      "defname": "Meat_TM_Poppi",
-      "price": 3,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "priestspell:resurrection",
-      "category": "Scrolls",
-      "defname": "SpellOf_Resurrection",
-      "price": 6250,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "ribbon(nearmare)",
-      "category": "ニアメーアの衣服",
-      "defname": "HAR_NM_MRbn",
-      "price": 367,
-      "mod": "[1.4]Nearmare Race"
-    },
-    {
-      "abr": "ridingsuit(nearmare)",
-      "category": "ニアメーアの衣服",
-      "defname": "HAR_NM_RiderS",
-      "price": 683,
-      "mod": "[1.4]Nearmare Race"
-    },
-    {
-      "abr": "ringofblood",
-      "category": "Magic artifacts",
-      "defname": "TM_Artifact_RingOfBlood",
-      "price": 3167,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "ringofkeenintellect",
-      "category": "Magic artifacts",
-      "defname": "TM_Artifact_RingOfKeenIntellect",
-      "price": 3500,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "ringofmalice",
-      "category": "Magic artifacts",
-      "defname": "TM_Artifact_RingOfMalice",
-      "price": 3167,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "ringoftheeternalblue",
-      "category": "Magic artifacts",
-      "defname": "TM_Artifact_RingOfEternalBlue",
-      "price": 3333,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "robesofthearchmage",
-      "category": "Magic apparel",
-      "defname": "ArchMageRobe",
-      "price": 5525,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "ruunbled",
-      "category": "Melee",
-      "defname": "TM_Ruunbled",
-      "price": 13333,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "sandstonegolem",
-      "category": "Animal",
-      "defname": "TM_SandstoneGolem",
-      "price": -10,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "schooluniform(nearmare)",
-      "category": "ニアメーアの衣服",
-      "defname": "HAR_NM_Sc_Uniform",
-      "price": 176,
-      "mod": "[1.4]Nearmare Race"
-    },
-    {
-      "abr": "scrollofspiritbinding",
-      "category": "Magic artifacts",
-      "defname": "MagicArtifact_RerollSpiritBond",
-      "price": 417,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "seedofregrowth",
-      "category": "Magic Items",
-      "defname": "SeedofRegrowth",
-      "price": 2,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "serum:supersoldier",
-      "category": "Skill books",
-      "defname": "BookOfSuperSoldier",
-      "price": 5500,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "shamanspell:guardianspirit",
-      "category": "Scrolls",
-      "defname": "SpellOf_GuardianSpirit",
-      "price": 3767,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "shardofspiritextraction",
-      "category": "Magic artifacts",
-      "defname": "TM_Artifact_ClassExtraction",
-      "price": 1167,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "shefettrailgun",
-      "category": "Ranged weapons",
-      "defname": "Gun_AssaultRifle_NM",
-      "price": 17717,
-      "mod": "[1.4]Nearmare Race"
-    },
-    {
-      "abr": "shrinemaidendress(nearmare)",
-      "category": "ニアメーアの衣服",
-      "defname": "HAR_NM_Miko",
-      "price": 1058,
-      "mod": "[1.4]Nearmare Race"
-    },
-    {
-      "abr": "skeletonlichmeat",
-      "category": "Meat",
-      "defname": "Meat_TM_SkeletonLichR",
-      "price": 3,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "skeletonmeat",
-      "category": "Meat",
-      "defname": "Meat_TM_SkeletonR",
-      "price": 3,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "slategolem",
-      "category": "Animal",
-      "defname": "TM_SlateGolem",
-      "price": -10,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "spiritbearmeat",
-      "category": "Meat",
-      "defname": "Meat_TM_SpiritBearR",
-      "price": 3,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "spiritcrowmeat",
-      "category": "Meat",
-      "defname": "Meat_TM_SpiritCrowR",
-      "price": 3,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "spiritmongoosemeat",
-      "category": "Meat",
-      "defname": "Meat_TM_SpiritMongooseR",
-      "price": 3,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "spiritualarmor",
-      "category": "ニアメーアの衣服",
-      "defname": "HAR_NM_A_a",
-      "price": 7825,
-      "mod": "[1.4]Nearmare Race"
-    },
-    {
-      "abr": "spiritualhelmet",
-      "category": "ニアメーアの衣服",
-      "defname": "HAR_NM_AH_f",
-      "price": 3217,
-      "mod": "[1.4]Nearmare Race"
-    },
-    {
-      "abr": "staffofblazingpower",
-      "category": "Magic foci",
-      "defname": "TM_BlazingPowerStaff",
-      "price": 6250,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "staffofthedefender",
-      "category": "Magic foci",
-      "defname": "TM_DefenderStaff",
-      "price": 5583,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "stone",
-      "category": "Meat",
-      "defname": "Meat_TM_Lesser_SentinelR",
-      "price": -10,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "stone",
-      "category": "Meat",
-      "defname": "Meat_TM_SentinelR",
-      "price": -10,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "stone",
-      "category": "Meat",
-      "defname": "Meat_TM_Greater_SentinelR",
-      "price": -10,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "stonegolem",
-      "category": "Animal",
-      "defname": "TM_StoneGolem",
-      "price": -10,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "succubusspell:scorn",
-      "category": "Scrolls",
-      "defname": "SpellOf_Scorn",
-      "price": 2750,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "summonerspell:summonpoppi",
-      "category": "Scrolls",
-      "defname": "SpellOf_SummonPoppi",
-      "price": 3767,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "syrrium",
-      "category": "Drugs",
-      "defname": "TM_Syrrium",
-      "price": 75,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "technomancerspell:kineticshield",
-      "category": "Scrolls",
-      "defname": "SpellOf_TechnoShield",
-      "price": 833,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "technomancerspell:mechanitereprogramming",
-      "category": "Scrolls",
-      "defname": "SpellOf_MechaniteReprogramming",
-      "price": 1417,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "technomancerspell:orbitalstrike",
-      "category": "Scrolls",
-      "defname": "SpellOf_OrbitalStrike",
-      "price": 2833,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "technomancerspell:overdrive",
-      "category": "Scrolls",
-      "defname": "SpellOf_Overdrive",
-      "price": 800,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "technomancerspell:sabotage",
-      "category": "Scrolls",
-      "defname": "SpellOf_Sabotage",
-      "price": 667,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "thrumbow",
-      "category": "Ranged",
-      "defname": "TM_ThrumBow",
-      "price": 7467,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "thrumboaxe",
-      "category": "Melee",
-      "defname": "TM_ThrumboAxe",
-      "price": 7750,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "thrumbosaber",
-      "category": "Melee",
-      "defname": "TM_ThrumboSaber",
-      "price": 5833,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "tiara(nearmare)",
-      "category": "ニアメーアの衣服",
-      "defname": "HAR_NM_Tar",
-      "price": 367,
-      "mod": "[1.4]Nearmare Race"
-    },
-    {
-      "abr": "tornscript:bard",
-      "category": "Skill books",
-      "defname": "Torn_BookOfBard",
-      "price": 2917,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "tornscript:brightmage",
-      "category": "Skill books",
-      "defname": "Torn_BookOfTheSun",
-      "price": 2917,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "tornscript:chaos",
-      "category": "Skill books",
-      "defname": "Torn_BookOfChaos",
-      "price": 2917,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "tornscript:chronomancy",
-      "category": "Skill books",
-      "defname": "Torn_BookOfChronomancer",
-      "price": 2917,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "tornscript:demonology",
-      "category": "Skill books",
-      "defname": "Torn_BookOfDemons",
-      "price": 2917,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "tornscript:enchanter",
-      "category": "Skill books",
-      "defname": "Torn_BookOfEnchanter",
-      "price": 2917,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "tornscript:fire",
-      "category": "Skill books",
-      "defname": "Torn_BookOfInnerFire",
-      "price": 2917,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "tornscript:geomancy",
-      "category": "Skill books",
-      "defname": "Torn_BookOfEarth",
-      "price": 2917,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "tornscript:golemancer",
-      "category": "Skill books",
-      "defname": "Torn_BookOfGolemancy",
-      "price": 2917,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "tornscript:hemomancy",
-      "category": "Skill books",
-      "defname": "Torn_BookOfHemomancy",
-      "price": 2917,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "tornscript:ice",
-      "category": "Skill books",
-      "defname": "Torn_BookOfHeartOfFrost",
-      "price": 2917,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "tornscript:lightning",
-      "category": "Skill books",
-      "defname": "Torn_BookOfStormBorn",
-      "price": 2917,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "tornscript:nature",
-      "category": "Skill books",
-      "defname": "Torn_BookOfNature",
-      "price": 2917,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "tornscript:necromancy",
-      "category": "Skill books",
-      "defname": "Torn_BookOfUndead",
-      "price": 2917,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "tornscript:paladin",
-      "category": "Skill books",
-      "defname": "Torn_BookOfValiant",
-      "price": 2917,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "tornscript:power",
-      "category": "Skill books",
-      "defname": "Torn_BookOfArcanist",
-      "price": 2917,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "tornscript:priest",
-      "category": "Skill books",
-      "defname": "Torn_BookOfPriest",
-      "price": 2917,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "tornscript:shaman",
-      "category": "Skill books",
-      "defname": "Torn_BookOfShamanism",
-      "price": 2917,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "tornscript:summoning",
-      "category": "Skill books",
-      "defname": "Torn_BookOfSummoner",
-      "price": 2917,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "tornscript:technomancy",
-      "category": "Skill books",
-      "defname": "Torn_BookOfMagitech",
-      "price": 2917,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "trinityhalo",
-      "category": "ニアメーアの衣服",
-      "defname": "HAR_NM_A_EyeCover_a",
-      "price": 13958,
-      "mod": "[1.4]Nearmare Race"
-    },
-    {
-      "abr": "t-shirt(nearmare)",
-      "category": "ニアメーアの衣服",
-      "defname": "HAR_NM_Tshirt",
-      "price": 160,
-      "mod": "[1.4]Nearmare Race"
-    },
-    {
-      "abr": "undergarmenta(nearmare)",
-      "category": "ニアメーアの衣服",
-      "defname": "HAR_NM_Os_P",
-      "price": 342,
-      "mod": "[1.4]Nearmare Race"
-    },
-    {
-      "abr": "undergarmentb(nearmare)",
-      "category": "ニアメーアの衣服",
-      "defname": "HAR_NM_Os_Pb",
-      "price": 342,
-      "mod": "[1.4]Nearmare Race"
-    },
-    {
-      "abr": "undergarmentc(nearmare)",
-      "category": "ニアメーアの衣服",
-      "defname": "HAR_NM_Os_Pc",
-      "price": 342,
-      "mod": "[1.4]Nearmare Race"
-    },
-    {
-      "abr": "undergarmentd(nearmare)",
-      "category": "ニアメーアの衣服",
-      "defname": "HAR_NM_Os_Pd",
-      "price": 342,
-      "mod": "[1.4]Nearmare Race"
-    },
-    {
-      "abr": "undergarmente(nearmare)",
-      "category": "ニアメーアの衣服",
-      "defname": "HAR_NM_Os_Pe",
-      "price": 342,
-      "mod": "[1.4]Nearmare Race"
-    },
-    {
-      "abr": "unfinishedarcanebook",
-      "category": "Skill books",
-      "defname": "UnfinishedAdvArcane",
-      "price": 4392,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "unfinishedmartialbook",
-      "category": "Skill books",
-      "defname": "UnfinishedMartial",
-      "price": 3425,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "unfinishedtornscript",
-      "category": "Skill books",
-      "defname": "UnfinishedArcane",
-      "price": 2333,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "unrefinedmagicyte",
-      "category": "Refined magicyte",
-      "defname": "RawMagicyte",
-      "price": 8,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "wandoffire",
-      "category": "Magic foci",
-      "defname": "TM_FireWand",
-      "price": 800,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "wandofice",
-      "category": "Magic foci",
-      "defname": "TM_IceWand",
-      "price": 800,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "wandoflightning",
-      "category": "Magic foci",
-      "defname": "TM_LightningWand",
-      "price": 800,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "wanderer'scloak",
-      "category": "Magic apparel",
-      "defname": "TM_MaestersCloak",
-      "price": 1375,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "warlockspell:psychicshock",
-      "category": "Scrolls",
-      "defname": "SpellOf_PsychicShock",
-      "price": 3000,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "whiteeveninggown(nearmare)",
-      "category": "ニアメーアの衣服",
-      "defname": "HAR_NM_WDress",
-      "price": 725,
-      "mod": "[1.4]Nearmare Race"
-    },
-    {
-      "abr": "winter'sreign",
-      "category": "Magic foci",
-      "defname": "TM_WinterStaff",
-      "price": 7500,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "wizardhat",
-      "category": "Magic apparel",
-      "defname": "TM_WizardHat",
-      "price": 392,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "wolfmeat",
-      "category": "Meat",
-      "defname": "Meat_TM_Dire_WolfR",
-      "price": 3,
-      "mod": "A RimWorld of Magic"
-    },
-    {
-      "abr": "wrappedfabric(nearmare)",
-      "category": "ニアメーアの衣服",
-      "defname": "HAR_NM_Itimai",
-      "price": 193,
-      "mod": "[1.4]Nearmare Race"
     },
     {
       "abr": "xenogerm",
@@ -14540,6 +11915,2911 @@
       "mod": "Royalty"
     },
     {
+      "abr": "portal",
+      "category": "Misc",
+      "defname": "Miho_Thrumbo_Portal",
+      "price": 9,
+      "mod": "Miho, the celestial fox"
+    },
+    {
+      "abr": "advancedbattery",
+      "category": "Power",
+      "defname": "VFE_AdvancedBattery",
+      "price": 750,
+      "mod": "Vanilla Furniture Expanded - Power"
+    },
+    {
+      "abr": "advancedgeothermalgenerator",
+      "category": "Misc",
+      "defname": "VPE_AdvancedGeothermalGenerator",
+      "price": 3058,
+      "mod": "Vanilla Furniture Expanded - Power"
+    },
+    {
+      "abr": "advancedsolargenerator",
+      "category": "Misc",
+      "defname": "VFE_AdvancedSolarGenerator",
+      "price": 1842,
+      "mod": "Vanilla Furniture Expanded - Power"
+    },
+    {
+      "abr": "advancedwatermillgenerator",
+      "category": "Misc",
+      "defname": "VFE_AdvancedWatermillGenerator",
+      "price": 1817,
+      "mod": "Vanilla Furniture Expanded - Power"
+    },
+    {
+      "abr": "advancedwindturbine",
+      "category": "Misc",
+      "defname": "VFE_AdvancedWindTurbine",
+      "price": 1850,
+      "mod": "Vanilla Furniture Expanded - Power"
+    },
+    {
+      "abr": "analysisrecord",
+      "category": "Manufactured",
+      "defname": "MR_Record",
+      "price": 52,
+      "mod": "Maru Race"
+    },
+    {
+      "abr": "analysisworkbench",
+      "category": "Production",
+      "defname": "MR_AnalyzerS",
+      "price": 667,
+      "mod": "Maru Race"
+    },
+    {
+      "abr": "anchovy",
+      "category": "Raw fish",
+      "defname": "VCEF_RawAnchovy",
+      "price": -10,
+      "mod": "Vanilla Fishing Expanded"
+    },
+    {
+      "abr": "angelfish",
+      "category": "Raw fish",
+      "defname": "VCEF_RawAngelfish",
+      "price": 2,
+      "mod": "Vanilla Fishing Expanded"
+    },
+    {
+      "abr": "anglerfish",
+      "category": "Raw fish",
+      "defname": "VCEF_RawAnglerfish",
+      "price": 2,
+      "mod": "Vanilla Fishing Expanded"
+    },
+    {
+      "abr": "arcademachine",
+      "category": "Recreation",
+      "defname": "Joy_Arcade",
+      "price": 650,
+      "mod": "Vanilla Furniture Expanded"
+    },
+    {
+      "abr": "arcanethrumbo",
+      "category": "Animals",
+      "defname": "Miho_Thrumbo",
+      "price": 833,
+      "mod": "Miho, the celestial fox"
+    },
+    {
+      "abr": "archotechviolencegenerator",
+      "category": "Special",
+      "defname": "VPE_ArchotechViolenceGenerator",
+      "price": 5667,
+      "mod": "Vanilla Furniture Expanded - Power"
+    },
+    {
+      "abr": "auxiliaryanalyzer",
+      "category": "Misc",
+      "defname": "MR_SubAnalyzer",
+      "price": 458,
+      "mod": "Maru Race"
+    },
+    {
+      "abr": "bass",
+      "category": "Raw fish",
+      "defname": "VCEF_RawBass",
+      "price": 2,
+      "mod": "Vanilla Fishing Expanded"
+    },
+    {
+      "abr": "beacon",
+      "category": "Security",
+      "defname": "MR_Turretbeacon",
+      "price": 783,
+      "mod": "Maru Race"
+    },
+    {
+      "abr": "bench",
+      "category": "Furniture",
+      "defname": "Seat_Bench",
+      "price": 86,
+      "mod": "Vanilla Furniture Expanded"
+    },
+    {
+      "abr": "bio-analyzer",
+      "category": "Misc",
+      "defname": "MR_BiometricAnalyzer",
+      "price": 2433,
+      "mod": "Maru Race"
+    },
+    {
+      "abr": "bionickimiriear",
+      "category": "Bionic",
+      "defname": "Kimiri_Bionic_Ear",
+      "price": 958,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "bionickimiritail",
+      "category": "Bionic",
+      "defname": "Kimiri_Bionic_Tail",
+      "price": 2108,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "bionickurinear",
+      "category": "Bionic",
+      "defname": "Kurin_Bionic_Ear",
+      "price": 1742,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "bionickurintail",
+      "category": "Bionic",
+      "defname": "Kurin_Bionic_Tail",
+      "price": 1925,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "bionictail",
+      "category": "Bionic",
+      "defname": "RB_BionicTail",
+      "price": 1717,
+      "mod": "Rabbie The Moonrabbit race"
+    },
+    {
+      "abr": "bladefly",
+      "category": "Animals",
+      "defname": "Miho_Butterfly",
+      "price": 833,
+      "mod": "Miho, the celestial fox"
+    },
+    {
+      "abr": "bluelens",
+      "category": "Manufactured",
+      "defname": "MR_rentiq",
+      "price": 1000,
+      "mod": "Maru Race"
+    },
+    {
+      "abr": "braincrystal",
+      "category": "Drugs",
+      "defname": "RB_Braincrystal",
+      "price": 33,
+      "mod": "Rabbie The Moonrabbit race"
+    },
+    {
+      "abr": "caltrop",
+      "category": "Security",
+      "defname": "Trap_MRBA",
+      "price": 19,
+      "mod": "Maru Race"
+    },
+    {
+      "abr": "caltropbox",
+      "category": "Maru Apparel",
+      "defname": "MR_Apparel_TrapA",
+      "price": 132,
+      "mod": "Maru Race"
+    },
+    {
+      "abr": "catfish",
+      "category": "Raw fish",
+      "defname": "VCEF_RawCatfish",
+      "price": 4,
+      "mod": "Vanilla Fishing Expanded"
+    },
+    {
+      "abr": "celestialscale",
+      "category": "Raw resources",
+      "defname": "Miho_CelestialScale",
+      "price": 51,
+      "mod": "Miho, the celestial fox"
+    },
+    {
+      "abr": "cleaver",
+      "category": "Melee weapons",
+      "defname": "MR_C_O",
+      "price": 194,
+      "mod": "Maru Race"
+    },
+    {
+      "abr": "cleaver:crystallization",
+      "category": "Melee weapons",
+      "defname": "MR_C_AT",
+      "price": 875,
+      "mod": "Maru Race"
+    },
+    {
+      "abr": "cleaver:crystallization",
+      "category": "Melee weapons",
+      "defname": "MR_C_ATT",
+      "price": 1442,
+      "mod": "Maru Race"
+    },
+    {
+      "abr": "cleaver:cutting",
+      "category": "Melee weapons",
+      "defname": "MR_C_BO",
+      "price": 425,
+      "mod": "Maru Race"
+    },
+    {
+      "abr": "cleaver:hardening",
+      "category": "Melee weapons",
+      "defname": "MR_C_AO",
+      "price": 492,
+      "mod": "Maru Race"
+    },
+    {
+      "abr": "cleaver:smoke",
+      "category": "Melee weapons",
+      "defname": "MR_C_BT",
+      "price": 1192,
+      "mod": "Maru Race"
+    },
+    {
+      "abr": "cleaver:smoke",
+      "category": "Ranged weapons",
+      "defname": "MR_C_BTT",
+      "price": 1550,
+      "mod": "Maru Race"
+    },
+    {
+      "abr": "clownfish",
+      "category": "Raw fish",
+      "defname": "VCEF_RawClownfish",
+      "price": 1,
+      "mod": "Vanilla Fishing Expanded"
+    },
+    {
+      "abr": "cod",
+      "category": "Raw fish",
+      "defname": "VCEF_RawCod",
+      "price": 3,
+      "mod": "Vanilla Fishing Expanded"
+    },
+    {
+      "abr": "compoundbow",
+      "category": "Ranged weapons",
+      "defname": "MR_CPB_O",
+      "price": 492,
+      "mod": "Maru Race"
+    },
+    {
+      "abr": "compoundbow",
+      "category": "Ranged weapons",
+      "defname": "MR_CPB_OT",
+      "price": 500,
+      "mod": "Maru Race"
+    },
+    {
+      "abr": "compoundbow:explosive",
+      "category": "Ranged weapons",
+      "defname": "MR_CPB_BO",
+      "price": 1058,
+      "mod": "Maru Race"
+    },
+    {
+      "abr": "compoundbow:explosive",
+      "category": "Ranged weapons",
+      "defname": "MR_CPB_BOT",
+      "price": 1058,
+      "mod": "Maru Race"
+    },
+    {
+      "abr": "compoundbow:haze",
+      "category": "Ranged weapons",
+      "defname": "MR_CPB_AT",
+      "price": 2775,
+      "mod": "Maru Race"
+    },
+    {
+      "abr": "compoundbow:haze",
+      "category": "Ranged weapons",
+      "defname": "MR_CPB_ATT",
+      "price": 2825,
+      "mod": "Maru Race"
+    },
+    {
+      "abr": "compoundbow:highmass",
+      "category": "Ranged weapons",
+      "defname": "MR_CPB_AO",
+      "price": 1025,
+      "mod": "Maru Race"
+    },
+    {
+      "abr": "compoundbow:highmass",
+      "category": "Ranged weapons",
+      "defname": "MR_CPB_AOT",
+      "price": 1058,
+      "mod": "Maru Race"
+    },
+    {
+      "abr": "compoundbow:propulsion",
+      "category": "Ranged weapons",
+      "defname": "MR_CPB_BT",
+      "price": 2858,
+      "mod": "Maru Race"
+    },
+    {
+      "abr": "compoundbow:propulsion",
+      "category": "Ranged weapons",
+      "defname": "MR_CPB_BTT",
+      "price": 2842,
+      "mod": "Maru Race"
+    },
+    {
+      "abr": "countertop",
+      "category": "Furniture",
+      "defname": "Table_Counter",
+      "price": 53,
+      "mod": "Vanilla Furniture Expanded"
+    },
+    {
+      "abr": "dartsboard",
+      "category": "Furniture",
+      "defname": "Joy_DartsBoard",
+      "price": 174,
+      "mod": "Vanilla Furniture Expanded"
+    },
+    {
+      "abr": "decipherslifecap",
+      "category": "Maru Headgear",
+      "defname": "MR_DeciphersLC",
+      "price": 163,
+      "mod": "Maru Race"
+    },
+    {
+      "abr": "dyedleather",
+      "category": "Manufactured",
+      "defname": "MR_dyedleather",
+      "price": 35,
+      "mod": "Maru Race"
+    },
+    {
+      "abr": "dyeingtable",
+      "category": "Production",
+      "defname": "MR_dyeingworkbench",
+      "price": 320,
+      "mod": "Maru Race"
+    },
+    {
+      "abr": "ebonsilk",
+      "category": "Textiles",
+      "defname": "Miho_Ebony_SilkCloth",
+      "price": 9,
+      "mod": "Miho, the celestial fox"
+    },
+    {
+      "abr": "eel",
+      "category": "Raw fish",
+      "defname": "VCEF_RawEel",
+      "price": 2,
+      "mod": "Vanilla Fishing Expanded"
+    },
+    {
+      "abr": "ergonomicbed",
+      "category": "Furniture",
+      "defname": "Bed_Ergonomic",
+      "price": 450,
+      "mod": "Vanilla Furniture Expanded"
+    },
+    {
+      "abr": "ergonomicchair",
+      "category": "Furniture",
+      "defname": "Seat_ModernChair",
+      "price": 917,
+      "mod": "Vanilla Furniture Expanded"
+    },
+    {
+      "abr": "ergonomicdoublebed",
+      "category": "Furniture",
+      "defname": "Bed_DoubleErgonomic",
+      "price": 867,
+      "mod": "Vanilla Furniture Expanded"
+    },
+    {
+      "abr": "exoticmatter",
+      "category": "Manufactured",
+      "defname": "Miho_ExoticMatter",
+      "price": 260,
+      "mod": "Miho, the celestial fox"
+    },
+    {
+      "abr": "externalbulletprooffibers",
+      "category": "Maru Apparel",
+      "defname": "MR_EBF",
+      "price": 425,
+      "mod": "Maru Race"
+    },
+    {
+      "abr": "fakekurinear",
+      "category": "Prosthetic",
+      "defname": "Kurin_Fake_Ear",
+      "price": 417,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "fakekurintail",
+      "category": "Prosthetic",
+      "defname": "Kurin_Fake_Tail",
+      "price": 442,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "filecabinet",
+      "category": "Furniture",
+      "defname": "Misc_FileCabinet",
+      "price": 93,
+      "mod": "Vanilla Furniture Expanded"
+    },
+    {
+      "abr": "foxfirebrazier",
+      "category": "Security",
+      "defname": "Miho_Turret_Flame",
+      "price": 62,
+      "mod": "Miho, the celestial fox"
+    },
+    {
+      "abr": "goldfish",
+      "category": "Raw fish",
+      "defname": "VCEF_RawGoldfish",
+      "price": 3,
+      "mod": "Vanilla Fishing Expanded"
+    },
+    {
+      "abr": "grendel",
+      "category": "Melee weapons",
+      "defname": "MeleeWeapon_DR_Grendel",
+      "price": 5000,
+      "mod": "Dragonian Prime Race2.0"
+    },
+    {
+      "abr": "guppy",
+      "category": "Raw fish",
+      "defname": "VCEF_RawGuppy",
+      "price": -10,
+      "mod": "Vanilla Fishing Expanded"
+    },
+    {
+      "abr": "haddock",
+      "category": "Raw fish",
+      "defname": "VCEF_RawHaddock",
+      "price": 2,
+      "mod": "Vanilla Fishing Expanded"
+    },
+    {
+      "abr": "halibut",
+      "category": "Raw fish",
+      "defname": "VCEF_RawHalibut",
+      "price": 3,
+      "mod": "Vanilla Fishing Expanded"
+    },
+    {
+      "abr": "handaxe",
+      "category": "Ranged weapons",
+      "defname": "MR_HA_O",
+      "price": 264,
+      "mod": "Maru Race"
+    },
+    {
+      "abr": "handaxe:delay",
+      "category": "Ranged weapons",
+      "defname": "MR_HA_AO",
+      "price": 617,
+      "mod": "Maru Race"
+    },
+    {
+      "abr": "handaxe:hunting",
+      "category": "Ranged weapons",
+      "defname": "MR_HA_BT",
+      "price": 1900,
+      "mod": "Maru Race"
+    },
+    {
+      "abr": "handaxe:throwing",
+      "category": "Ranged weapons",
+      "defname": "MR_HA_AT",
+      "price": 1767,
+      "mod": "Maru Race"
+    },
+    {
+      "abr": "handaxe:tracking",
+      "category": "Ranged weapons",
+      "defname": "MR_HA_BO",
+      "price": 558,
+      "mod": "Maru Race"
+    },
+    {
+      "abr": "heliantopetal",
+      "category": "Plant matter",
+      "defname": "RawPosFlower",
+      "price": 2,
+      "mod": "Miho, the celestial fox"
+    },
+    {
+      "abr": "helperfox",
+      "category": "Animals",
+      "defname": "Miho_Fox",
+      "price": 167,
+      "mod": "Miho, the celestial fox"
+    },
+    {
+      "abr": "herring",
+      "category": "Raw fish",
+      "defname": "VCEF_RawHerring",
+      "price": 1,
+      "mod": "Vanilla Fishing Expanded"
+    },
+    {
+      "abr": "industrialchemfuelpoweredgenerator",
+      "category": "Misc",
+      "defname": "VFE_IndustrialChemfuelPoweredGenerator",
+      "price": 908,
+      "mod": "Vanilla Furniture Expanded - Power"
+    },
+    {
+      "abr": "industrialradio",
+      "category": "Recreation",
+      "defname": "Radio_Industrial",
+      "price": 433,
+      "mod": "Vanilla Furniture Expanded"
+    },
+    {
+      "abr": "industrialwood-firedgenerator",
+      "category": "Misc",
+      "defname": "VFE_IndustrialWoodFiredGenerator",
+      "price": 808,
+      "mod": "Vanilla Furniture Expanded - Power"
+    },
+    {
+      "abr": "kimiri",
+      "category": "Animal",
+      "defname": "Kimiri",
+      "price": -10,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kimirilongsword",
+      "category": "Melee weapons",
+      "defname": "Kimiri_MeleeWeapon_Katana",
+      "price": 633,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kimirishortjumpsuit",
+      "category": "Kurin onskin apparel",
+      "defname": "Kimiri_OnSkin_Short_Jumpsuit",
+      "price": 269,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kimiriswimsuitarmor",
+      "category": "Kurin onskin apparel",
+      "defname": "Kimiri_OnSkin_Swimsuit_Armor",
+      "price": 650,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "koi",
+      "category": "Raw fish",
+      "defname": "VCEF_RawKoi",
+      "price": 4,
+      "mod": "Vanilla Fishing Expanded"
+    },
+    {
+      "abr": "kurin",
+      "category": "Animal",
+      "defname": "Kurin",
+      "price": -10,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kurinadvancedfabricator",
+      "category": "Production",
+      "defname": "Kurin_Fabricator_Advanced",
+      "price": 4442,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kurinbrownstockings",
+      "category": "Kurin stocking apparel",
+      "defname": "Kurin_Stockings_Brown",
+      "price": 101,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kurincake",
+      "category": "Meals",
+      "defname": "Kurin_Cake",
+      "price": 50,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kurincap",
+      "category": "Kurin overhead apparel",
+      "defname": "Kurin_Overhead_Cap",
+      "price": 107,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kurincarnage",
+      "category": "Ranged weapons",
+      "defname": "Kurin_Special_Heavy_Rocket_Launcher",
+      "price": 1858,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kurincivilbackpack",
+      "category": "Kurin backpacks",
+      "defname": "Kurin_Backpack_Civil",
+      "price": 203,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kurindamnation",
+      "category": "Ranged weapons",
+      "defname": "Kurin_Special_Rocket_Launcher",
+      "price": 1267,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kurinfriendship",
+      "category": "Ranged weapons",
+      "defname": "Kurin_Gun_Auto_Shotgun",
+      "price": 742,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kuringarterbeltstockings",
+      "category": "Kurin stocking apparel",
+      "defname": "Kurin_Stockings_Garterbelt",
+      "price": 101,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kurinheavybodyarmor",
+      "category": "Kurin psychic apparel",
+      "defname": "Kurin_Middle_Heavy_Body_Armor",
+      "price": 1250,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kurinheavypowerarmor",
+      "category": "Kurin military apparel",
+      "defname": "Kurin_Heavy_Power_Armor",
+      "price": 6683,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kurinheavypowerarmor'shelmet",
+      "category": "Kurin military apparel",
+      "defname": "Kurin_Heavy_Power_Armor_Helmet",
+      "price": 2225,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kurinhopper",
+      "category": "Production",
+      "defname": "Kurin_Fabricator_Hopper",
+      "price": 49,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kurinhuntingshotgun",
+      "category": "Ranged weapons",
+      "defname": "Kurin_Gun_Hunting_Shotgun",
+      "price": 508,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kurinkidblackunderwear",
+      "category": "Kurin kid underwear apparel",
+      "defname": "Kurin_Underwear_Black_Child",
+      "price": 61,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kurinkidbodyarmor",
+      "category": "Kurin kid military apparel",
+      "defname": "Kurin_Middle_Body_Armor_Child",
+      "price": 245,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kurinkidbrownsocks",
+      "category": "Kurin kid stocking apparel",
+      "defname": "Kurin_Stockings_Brown_Child",
+      "price": 61,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kurinkidcap",
+      "category": "Kurin kid overhead apparel",
+      "defname": "Kurin_Overhead_Cap_Child",
+      "price": 65,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kurinkidcardigan",
+      "category": "Kurin kid shell apparel",
+      "defname": "Kurin_Shell_Cardigan_Child",
+      "price": 181,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kurinkidcasualhairpin",
+      "category": "Kurin kid overhead apparel",
+      "defname": "Kurin_Overhead_Casual_Hair_Pin_Child",
+      "price": 210,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kurinkidcutehairpin",
+      "category": "Kurin kid overhead apparel",
+      "defname": "Kurin_Overhead_Cute_Hair_Pin_Child",
+      "price": 218,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kurinkidduster",
+      "category": "Kurin kid shell apparel",
+      "defname": "Kurin_Shell_Duster_Child",
+      "price": 197,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kurinkidgothichairpin",
+      "category": "Kurin kid overhead apparel",
+      "defname": "Kurin_Overhead_Gothic_Hair_Pin_Child",
+      "price": 210,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kurinkidhoodie",
+      "category": "Kurin kid onskin apparel",
+      "defname": "Kurin_OnSkin_Hoodie_Child",
+      "price": 181,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kurinkidlongskirt",
+      "category": "Kurin kid legs apparel",
+      "defname": "Kurin_Legs_Long_Skirt_Child",
+      "price": 115,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kurinkidmilitaryhelmet",
+      "category": "Kurin kid overhead apparel",
+      "defname": "Kurin_Overhead_Military_Helmet_A_Child",
+      "price": 417,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kurinkidonepiecedress",
+      "category": "Kurin kid onskin apparel",
+      "defname": "Kurin_OnSkin_One_Piece_Dress_Child",
+      "price": 148,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kurinkidopenshoulderknit",
+      "category": "Kurin kid onskin apparel",
+      "defname": "Kurin_OnSkin_Open_Shoulder_Knit_Child",
+      "price": 148,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kurinkidpants",
+      "category": "Kurin kid legs apparel",
+      "defname": "Kurin_Legs_Pants_Child",
+      "price": 115,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kurinkidpantyhose",
+      "category": "Kurin kid stocking apparel",
+      "defname": "Kurin_Stockings_Pantyhose_Child",
+      "price": 61,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kurinkidredunderwear",
+      "category": "Kurin kid underwear apparel",
+      "defname": "Kurin_Underwear_Red_Child",
+      "price": 61,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kurinkidscarf",
+      "category": "Kurin kid middle apparel",
+      "defname": "Kurin_Middle_Scarf_Child",
+      "price": 65,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kurinkidshirt",
+      "category": "Kurin kid onskin apparel",
+      "defname": "Kurin_OnSkin_Shirt_Child",
+      "price": 110,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kurinkidshorts",
+      "category": "Kurin kid legs apparel",
+      "defname": "Kurin_Legs_Shorts_Child",
+      "price": 95,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kurinkidskirt",
+      "category": "Kurin kid legs apparel",
+      "defname": "Kurin_Legs_Skirt_Child",
+      "price": 95,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kurinkidstripedsocks",
+      "category": "Kurin kid stocking apparel",
+      "defname": "Kurin_Stockings_Striped_Child",
+      "price": 61,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kurinkidstripedunderwear",
+      "category": "Kurin kid underwear apparel",
+      "defname": "Kurin_Underwear_Striped_Child",
+      "price": 61,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kurinkidsummerhat",
+      "category": "Kurin kid overhead apparel",
+      "defname": "Kurin_Overhead_Summer_Hat_Child",
+      "price": 65,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kurinkidtraditionalhairpin",
+      "category": "Kurin kid overhead apparel",
+      "defname": "Kurin_Overhead_Traditional_Hair_Pin_Child",
+      "price": 218,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kurinkidtraditionnalsimpleclothes",
+      "category": "Kurin kid onskin apparel",
+      "defname": "Kurin_OnSkin_Traditional_Simple_Dress_Child",
+      "price": 273,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kurinkidt-shirt",
+      "category": "Kurin kid onskin apparel",
+      "defname": "Kurin_OnSkin_T_Shirt_Child",
+      "price": 110,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kurinkidwhitesocks",
+      "category": "Kurin kid stocking apparel",
+      "defname": "Kurin_Stockings_White_Child",
+      "price": 61,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kurinkidwhiteunderwear",
+      "category": "Kurin kid underwear apparel",
+      "defname": "Kurin_Underwear_White_Child",
+      "price": 61,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kurinkidwinterhat",
+      "category": "Kurin kid overhead apparel",
+      "defname": "Kurin_Overhead_Winter_Hat_Child",
+      "price": 65,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kurinkidwinterpadding",
+      "category": "Kurin kid shell apparel",
+      "defname": "Kurin_Shell_Winter_Padding_Child",
+      "price": 231,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kurinkidworkjumpsuit",
+      "category": "Kurin kid onskin apparel",
+      "defname": "Kurin_OnSkin_Work_Jumpsuit_Child",
+      "price": 323,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kurinlongskirt",
+      "category": "Kurin legs apparel",
+      "defname": "Kurin_Legs_Long_Skirt",
+      "price": 191,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kurinlongsword",
+      "category": "Melee weapons",
+      "defname": "Kurin_MeleeWeapon_Katana",
+      "price": 633,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kurinmatch",
+      "category": "Ranged weapons",
+      "defname": "Kurin_Gun_Flamethrower",
+      "price": 1117,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kurinmaterialfabricator",
+      "category": "Production",
+      "defname": "Kurin_Fabricator_Material",
+      "price": 2725,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kurinmeatconverter",
+      "category": "Production",
+      "defname": "Kurin_Fabricator_MeatConverter",
+      "price": 2183,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kurinmechmasterarmor",
+      "category": "Kurin military apparel",
+      "defname": "Kurin_Mechmaster_Armor",
+      "price": 12108,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kurinmechmasterarmor'shelmet",
+      "category": "Kurin military apparel",
+      "defname": "Kurin_Mechmaster_Armor_Helmet",
+      "price": 7100,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kurinmilitarybackpack",
+      "category": "Kurin backpacks",
+      "defname": "Kurin_Backpack_Military",
+      "price": 442,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kurinmilitaryhelmet(a)",
+      "category": "Kurin overhead apparel",
+      "defname": "Kurin_Overhead_Military_Helmet_A",
+      "price": 608,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kurinmilitaryhelmet(b)",
+      "category": "Kurin psychic apparel",
+      "defname": "Kurin_Overhead_Military_Helmet_B",
+      "price": 833,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kurinnegatingrifle",
+      "category": "Ranged weapons",
+      "defname": "Kurin_Gun_Heavy_Sniper_Charge_Rifle",
+      "price": 4833,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kurinnoosetrap",
+      "category": "Security",
+      "defname": "Kurin_Noose_Trap",
+      "price": 51,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kurinnunheadpiece",
+      "category": "Kurin overhead apparel",
+      "defname": "Kurin_Overhead_Nun_Headpiece",
+      "price": 350,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kurinopenfrontknit",
+      "category": "Kurin onskin apparel",
+      "defname": "Kurin_OnSkin_Open_Front_Knit",
+      "price": 203,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kurinpajama(a)",
+      "category": "Kurin onskin apparel",
+      "defname": "Kurin_OnSkin_Pajama_A",
+      "price": 236,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kurinpajama(b)",
+      "category": "Kurin onskin apparel",
+      "defname": "Kurin_OnSkin_Pajama_B",
+      "price": 236,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kurinpajama(c)",
+      "category": "Kurin onskin apparel",
+      "defname": "Kurin_OnSkin_Pajama_C",
+      "price": 236,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kurinpants",
+      "category": "Kurin legs apparel",
+      "defname": "Kurin_Legs_Pants",
+      "price": 191,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kurinpantyhose",
+      "category": "Kurin stocking apparel",
+      "defname": "Kurin_Stockings_Pantyhose",
+      "price": 101,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kurinpowerarmor",
+      "category": "Kurin military apparel",
+      "defname": "Kurin_Power_Armor",
+      "price": 5317,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kurinpowerarmorthermalunderwear",
+      "category": "Kurin military apparel",
+      "defname": "Kurin_Power_Armor_Thermal_Underwear",
+      "price": 600,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kurinpowerarmor'shelmet",
+      "category": "Kurin military apparel",
+      "defname": "Kurin_Power_Armor_Helmet",
+      "price": 1642,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kurinpredator",
+      "category": "Ranged weapons",
+      "defname": "Kurin_Gun_Gauss_Rifle",
+      "price": 2033,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kurinravager",
+      "category": "Ranged weapons",
+      "defname": "Kurin_Gun_Grenade_Launcher",
+      "price": 1083,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kurinravager(emp)",
+      "category": "Ranged weapons",
+      "defname": "Kurin_Gun_Grenade_Launcher_EMPM",
+      "price": 1083,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kurinravager(fireextinguisher)",
+      "category": "Ranged weapons",
+      "defname": "Kurin_Gun_Grenade_Launcher_FEM",
+      "price": 1083,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kurinravager(incendiary)",
+      "category": "Ranged weapons",
+      "defname": "Kurin_Gun_Grenade_Launcher_IM",
+      "price": 1083,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kurinravager(smoke)",
+      "category": "Ranged weapons",
+      "defname": "Kurin_Gun_Grenade_Launcher_SM",
+      "price": 1083,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kurinreconarmor",
+      "category": "Kurin onskin apparel",
+      "defname": "Kurin_Recon_Armor",
+      "price": 3308,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kurinreconarmor'shelmet",
+      "category": "Kurin overhead apparel",
+      "defname": "Kurin_Recon_Armor_Helmet",
+      "price": 1167,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kurinscarf",
+      "category": "Kurin middle apparel",
+      "defname": "Kurin_Middle_Scarf",
+      "price": 107,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kurinsentinel",
+      "category": "Ranged weapons",
+      "defname": "Kurin_Gun_Heavy_Assault_Rifle",
+      "price": 975,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kurinshorts",
+      "category": "Kurin legs apparel",
+      "defname": "Kurin_Legs_Shorts",
+      "price": 151,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kurinsimplefabricator",
+      "category": "Production",
+      "defname": "Kurin_Fabricator_Simple",
+      "price": 1600,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kurinsingletake",
+      "category": "Ranged weapons",
+      "defname": "Kurin_Gun_Sniper_Charge_Rifle",
+      "price": 2892,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kurinskirt",
+      "category": "Kurin legs apparel",
+      "defname": "Kurin_Legs_Skirt",
+      "price": 151,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kurinskullhacker(he)",
+      "category": "Ranged weapons",
+      "defname": "Kurin_Gun_Heavy_Sniper_Rifle_HE",
+      "price": 1417,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kurinskullhacker(pa)",
+      "category": "Ranged weapons",
+      "defname": "Kurin_Gun_Heavy_Sniper_Rifle",
+      "price": 1283,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kurinspaceshipapu",
+      "category": "Misc",
+      "defname": "Kurin_Ship_APU",
+      "price": 6633,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kurinspaceshipcapacitorarray",
+      "category": "Misc",
+      "defname": "Kurin_Ship_Capacitor_Array",
+      "price": 1700,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kurinspaceshipcommunicationmodule",
+      "category": "Misc",
+      "defname": "Kurin_Ship_Communication_Module",
+      "price": 3942,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kurinspaceshipcrewsuit",
+      "category": "Kurin psychic apparel",
+      "defname": "Kurin_OnSkin_Spaceship_Crew_Suit",
+      "price": 1250,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kurinspaceshipcryptosleepcasket",
+      "category": "Misc",
+      "defname": "Kurin_Ship_Cryptosleep_Casket",
+      "price": 1725,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kurinspaceshipmaincomputer",
+      "category": "Misc",
+      "defname": "Kurin_Ship_Computer",
+      "price": 12517,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kurinspaceshipmainengine",
+      "category": "Misc",
+      "defname": "Kurin_Ship_Engine",
+      "price": 5342,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kurinspaceshipmtm",
+      "category": "Misc",
+      "defname": "Kurin_Ship_MTM",
+      "price": 2825,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kurinspaceshipreactor",
+      "category": "Misc",
+      "defname": "Kurin_Ship_Reactor",
+      "price": 27942,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kurinspaceshipstoragemodule",
+      "category": "Misc",
+      "defname": "Kurin_Ship_Storage_Module",
+      "price": 1200,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kurinspaceshipstructuralbeam",
+      "category": "Misc",
+      "defname": "Kurin_Ship_Beam",
+      "price": 1775,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kurinspaceshipturret",
+      "category": "Misc",
+      "defname": "Kurin_Ship_Turret",
+      "price": 6817,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kurinsplitter",
+      "category": "Ranged weapons",
+      "defname": "Kurin_Special_Rocket_Launcher_Splitter",
+      "price": 2333,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kurinstripedstockings",
+      "category": "Kurin stocking apparel",
+      "defname": "Kurin_Stockings_Striped",
+      "price": 101,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kurinsunglasses",
+      "category": "Kurin overhead apparel",
+      "defname": "Kurin_Overhead_Sunglasses",
+      "price": 68,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kurinsuppressor",
+      "category": "Ranged weapons",
+      "defname": "Kurin_Gun_Charge_LMG",
+      "price": 2708,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kurintraditionalcoat",
+      "category": "Kurin shell apparel",
+      "defname": "Kurin_Shell_Traditional_Coat",
+      "price": 550,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kurintrickster",
+      "category": "Ranged weapons",
+      "defname": "Kurin_Gun_Heavy_SMG",
+      "price": 667,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kurintweaker",
+      "category": "Ranged weapons",
+      "defname": "Kurin_Gun_Pistol",
+      "price": 309,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kurintyphoon",
+      "category": "Ranged weapons",
+      "defname": "Kurin_Special_Rocket_Launcher_Typhoon",
+      "price": 1867,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kurinultracomponent",
+      "category": "Manufactured",
+      "defname": "Kurin_Ultra_Component",
+      "price": 1667,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kurinunmaker",
+      "category": "Ranged weapons",
+      "defname": "Kurin_Gun_Unmaker",
+      "price": 6067,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kurinwalkie-talkie(rainweather)",
+      "category": "Kurin walkie-talkies",
+      "defname": "Kurin_WalkieTalkie_Rain",
+      "price": 583,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kurinwalkie-talkie(snowweather)",
+      "category": "Kurin walkie-talkies",
+      "defname": "Kurin_WalkieTalkie_Snow",
+      "price": 583,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kurinwhitestockings",
+      "category": "Kurin stocking apparel",
+      "defname": "Kurin_Stockings_White",
+      "price": 101,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kurinwhiteunderwear",
+      "category": "Kurin underwear apparel",
+      "defname": "Kurin_Underwear_White",
+      "price": 101,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "kurinworkerbackpack",
+      "category": "Kurin backpacks",
+      "defname": "Kurin_Backpack_Worker",
+      "price": 500,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "lampendtable",
+      "category": "Furniture",
+      "defname": "Table_LightEndTable",
+      "price": 169,
+      "mod": "Vanilla Furniture Expanded"
+    },
+    {
+      "abr": "largeadvancedbattery",
+      "category": "Power",
+      "defname": "VFE_LargeAdvancedBattery",
+      "price": 1467,
+      "mod": "Vanilla Furniture Expanded - Power"
+    },
+    {
+      "abr": "largebattery",
+      "category": "Power",
+      "defname": "VFE_LargeBattery",
+      "price": 667,
+      "mod": "Vanilla Furniture Expanded - Power"
+    },
+    {
+      "abr": "largebin",
+      "category": "Furniture",
+      "defname": "Bin_Large",
+      "price": 305,
+      "mod": "Vanilla Furniture Expanded"
+    },
+    {
+      "abr": "largevanometricpowercell",
+      "category": "Special",
+      "defname": "VFE_LargeVanometricPowerCell",
+      "price": 4000,
+      "mod": "Vanilla Furniture Expanded - Power"
+    },
+    {
+      "abr": "lenticularanalyzer",
+      "category": "Misc",
+      "defname": "MR_LenticularAnalyzer",
+      "price": 833,
+      "mod": "Maru Race"
+    },
+    {
+      "abr": "lighthouse",
+      "category": "Misc",
+      "defname": "MR_Lenticularrentiq",
+      "price": 1100,
+      "mod": "Maru Race"
+    },
+    {
+      "abr": "lilin",
+      "category": "Animals",
+      "defname": "Lilin",
+      "price": 1250,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "lilinwool",
+      "category": "Wools",
+      "defname": "Lilin_Wool",
+      "price": 4,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]"
+    },
+    {
+      "abr": "lobster",
+      "category": "Raw fish",
+      "defname": "VCEF_RawLobster",
+      "price": 9,
+      "mod": "Vanilla Fishing Expanded"
+    },
+    {
+      "abr": "longwaveradio",
+      "category": "Recreation",
+      "defname": "Radio_Spacer",
+      "price": 1033,
+      "mod": "Vanilla Furniture Expanded"
+    },
+    {
+      "abr": "lunarmachiningtable",
+      "category": "Production",
+      "defname": "RB_MoonTableMachining",
+      "price": 758,
+      "mod": "Rabbie The Moonrabbit race"
+    },
+    {
+      "abr": "lunartailoringbench",
+      "category": "Production",
+      "defname": "RB_MoonTailoringBench",
+      "price": 517,
+      "mod": "Rabbie The Moonrabbit race"
+    },
+    {
+      "abr": "mackerel",
+      "category": "Raw fish",
+      "defname": "VCEF_RawMackerel",
+      "price": 2,
+      "mod": "Vanilla Fishing Expanded"
+    },
+    {
+      "abr": "maru",
+      "category": "Animal",
+      "defname": "Maru",
+      "price": -10,
+      "mod": "Maru Race"
+    },
+    {
+      "abr": "marucaravanclothes",
+      "category": "Maru Apparel",
+      "defname": "MR_merchantsclothes",
+      "price": 265,
+      "mod": "Maru Race"
+    },
+    {
+      "abr": "marucaravanhat",
+      "category": "Maru Headgear",
+      "defname": "MR_thermalhat",
+      "price": 247,
+      "mod": "Maru Race"
+    },
+    {
+      "abr": "marucookoutfit",
+      "category": "Maru Apparel",
+      "defname": "MR_cookclothes",
+      "price": 281,
+      "mod": "Maru Race"
+    },
+    {
+      "abr": "marudeciphersheaddress",
+      "category": "Maru Headgear",
+      "defname": "MR_DeciphersHD",
+      "price": 200,
+      "mod": "Maru Race"
+    },
+    {
+      "abr": "marudecipher'slifeclothes",
+      "category": "Maru Apparel",
+      "defname": "MR_Decipherslifeclothes",
+      "price": 247,
+      "mod": "Maru Race"
+    },
+    {
+      "abr": "marudecipher'slifecoat",
+      "category": "Maru Apparel",
+      "defname": "MR_Decipherslifecoat",
+      "price": 303,
+      "mod": "Maru Race"
+    },
+    {
+      "abr": "marudecipher'srobe",
+      "category": "Maru Apparel",
+      "defname": "MR_Deciphersrobes",
+      "price": 358,
+      "mod": "Maru Race"
+    },
+    {
+      "abr": "marudurumagi",
+      "category": "Maru Apparel",
+      "defname": "MR_durumagi",
+      "price": 327,
+      "mod": "Maru Race"
+    },
+    {
+      "abr": "maruengineeringoutfit",
+      "category": "Maru Apparel",
+      "defname": "MR_engineeringclothes",
+      "price": 265,
+      "mod": "Maru Race"
+    },
+    {
+      "abr": "maruforager'soutfit",
+      "category": "Maru Apparel",
+      "defname": "MR_farmclothes",
+      "price": 292,
+      "mod": "Maru Race"
+    },
+    {
+      "abr": "maruheavyreinforcementsuit",
+      "category": "Maru Apparel",
+      "defname": "MR_MeleeCombatSuit",
+      "price": 2467,
+      "mod": "Maru Race"
+    },
+    {
+      "abr": "maruhuntingcoat",
+      "category": "Maru Apparel",
+      "defname": "MR_HuntingCoat",
+      "price": 450,
+      "mod": "Maru Race"
+    },
+    {
+      "abr": "maruhuntingmask",
+      "category": "Maru Headgear",
+      "defname": "MR_huntingmask",
+      "price": 300,
+      "mod": "Maru Race"
+    },
+    {
+      "abr": "maruhuntingsuit",
+      "category": "Maru Apparel",
+      "defname": "MR_huntingsuit",
+      "price": 328,
+      "mod": "Maru Race"
+    },
+    {
+      "abr": "marulightweightreinforcementsuit",
+      "category": "Maru Apparel",
+      "defname": "MR_RangedCombatSuit",
+      "price": 2425,
+      "mod": "Maru Race"
+    },
+    {
+      "abr": "marumeat",
+      "category": "Meat",
+      "defname": "Meat_Maru",
+      "price": 3,
+      "mod": "Maru Race"
+    },
+    {
+      "abr": "marumodifiedhuntingmask",
+      "category": "Maru Headgear",
+      "defname": "MR_huntingmaskR",
+      "price": 675,
+      "mod": "Maru Race"
+    },
+    {
+      "abr": "marumountainranger'smask",
+      "category": "Maru Headgear",
+      "defname": "MR_huntingmaskM",
+      "price": 1775,
+      "mod": "Maru Race"
+    },
+    {
+      "abr": "marumusicianhat",
+      "category": "Maru Headgear",
+      "defname": "MR_Musicianhat",
+      "price": 247,
+      "mod": "Maru Race"
+    },
+    {
+      "abr": "marumusicianoutfit",
+      "category": "Maru Apparel",
+      "defname": "MR_Musicianclo",
+      "price": 281,
+      "mod": "Maru Race"
+    },
+    {
+      "abr": "marumusician'scoat",
+      "category": "Maru Apparel",
+      "defname": "MR_Musiciancoat",
+      "price": 303,
+      "mod": "Maru Race"
+    },
+    {
+      "abr": "marusanitaryclothing",
+      "category": "Maru Apparel",
+      "defname": "MR_sanitaryclothing",
+      "price": 300,
+      "mod": "Maru Race"
+    },
+    {
+      "abr": "marusanitarycoat",
+      "category": "Maru Apparel",
+      "defname": "MR_sanitarycoat",
+      "price": 383,
+      "mod": "Maru Race"
+    },
+    {
+      "abr": "maruwintercoat",
+      "category": "Maru Apparel",
+      "defname": "MR_wintercoat",
+      "price": 433,
+      "mod": "Maru Race"
+    },
+    {
+      "abr": "maruworkoutfit",
+      "category": "Maru Apparel",
+      "defname": "MR_workclothes",
+      "price": 265,
+      "mod": "Maru Race"
+    },
+    {
+      "abr": "mechanicaltrap",
+      "category": "Security",
+      "defname": "Trap_MRB",
+      "price": 19,
+      "mod": "Maru Race"
+    },
+    {
+      "abr": "miho",
+      "category": "Animal",
+      "defname": "Alien_Miho",
+      "price": -10,
+      "mod": "Miho, the celestial fox"
+    },
+    {
+      "abr": "mihobeanie",
+      "category": "Headgear",
+      "defname": "Miho_Apparel_Hat_Winter",
+      "price": 79,
+      "mod": "Miho, the celestial fox"
+    },
+    {
+      "abr": "mihoblackunderwear",
+      "category": "Miho Apparel",
+      "defname": "Miho_Apparel_Under_IndustrialBlack",
+      "price": 137,
+      "mod": "Miho, the celestial fox"
+    },
+    {
+      "abr": "mihoceramic",
+      "category": "Raw resources",
+      "defname": "Miho_Ceramics",
+      "price": 3,
+      "mod": "Miho, the celestial fox"
+    },
+    {
+      "abr": "mihoceramicdough",
+      "category": "Raw resources",
+      "defname": "Miho_CeramicsPaste",
+      "price": 1,
+      "mod": "Miho, the celestial fox"
+    },
+    {
+      "abr": "mihocommonclothe",
+      "category": "Miho Apparel",
+      "defname": "Miho_Apparel_OnSkin_Simple",
+      "price": 230,
+      "mod": "Miho, the celestial fox"
+    },
+    {
+      "abr": "mihoelitetrooperhelmet",
+      "category": "Miho Headgear",
+      "defname": "Miho_Apparel_Hat_PMC",
+      "price": 1158,
+      "mod": "Miho, the celestial fox"
+    },
+    {
+      "abr": "mihoeltexapparel",
+      "category": "Miho Apparel",
+      "defname": "Miho_Apparel_OnSkin_OrnatedOne",
+      "price": 1675,
+      "mod": "Miho, the celestial fox"
+    },
+    {
+      "abr": "mihoeltexmask",
+      "category": "Miho Headgear",
+      "defname": "Miho_Apparel_Mask_Eltex",
+      "price": 392,
+      "mod": "Miho, the celestial fox"
+    },
+    {
+      "abr": "mihoeltexunderwear",
+      "category": "Miho Apparel",
+      "defname": "Miho_Apparel_Under_EltexOne",
+      "price": 942,
+      "mod": "Miho, the celestial fox"
+    },
+    {
+      "abr": "mihoexoskeleton",
+      "category": "Miho Apparel",
+      "defname": "Miho_Apparel_Middle_PoweredWorker",
+      "price": 750,
+      "mod": "Miho, the celestial fox"
+    },
+    {
+      "abr": "mihoexoskeletonheavyarmor",
+      "category": "Miho Apparel",
+      "defname": "Miho_Apparel_Middle_Powered",
+      "price": 2967,
+      "mod": "Miho, the celestial fox"
+    },
+    {
+      "abr": "mihofireassistcomputer",
+      "category": "Miho Apparel",
+      "defname": "Miho_Apparel_Special_TacticalAssist",
+      "price": 1725,
+      "mod": "Miho, the celestial fox"
+    },
+    {
+      "abr": "mihogeneralworkbench",
+      "category": "Production",
+      "defname": "Miho_TableMachining",
+      "price": 1025,
+      "mod": "Miho, the celestial fox"
+    },
+    {
+      "abr": "mihoglasses",
+      "category": "Miho Apparel",
+      "defname": "Miho_Apparel_Special_Glasses",
+      "price": 238,
+      "mod": "Miho, the celestial fox"
+    },
+    {
+      "abr": "mihohardhat",
+      "category": "Miho Headgear",
+      "defname": "Miho_Apparel_Hat_Worker",
+      "price": 124,
+      "mod": "Miho, the celestial fox"
+    },
+    {
+      "abr": "mihohwando",
+      "category": "Melee weapons",
+      "defname": "Miho_Weapon_RingedBlade",
+      "price": 483,
+      "mod": "Miho, the celestial fox"
+    },
+    {
+      "abr": "mihoinfantryrifle",
+      "category": "Ranged weapons",
+      "defname": "Miho_Weapon_RifleDefence",
+      "price": 808,
+      "mod": "Miho, the celestial fox"
+    },
+    {
+      "abr": "mihomagnifier",
+      "category": "Miho Apparel",
+      "defname": "Miho_Apparel_Special_Magnifier",
+      "price": 617,
+      "mod": "Miho, the celestial fox"
+    },
+    {
+      "abr": "mihomeat",
+      "category": "Meat",
+      "defname": "Meat_Alien_Miho",
+      "price": 3,
+      "mod": "Miho, the celestial fox"
+    },
+    {
+      "abr": "mihomilitarygradeceramic",
+      "category": "Raw resources",
+      "defname": "Miho_MilitaryGradeBalisticCeramics",
+      "price": 12,
+      "mod": "Miho, the celestial fox"
+    },
+    {
+      "abr": "mihonodachi",
+      "category": "Melee weapons",
+      "defname": "Miho_Weapon_Tachi",
+      "price": 667,
+      "mod": "Miho, the celestial fox"
+    },
+    {
+      "abr": "mihopaddedparka",
+      "category": "Miho Apparel",
+      "defname": "Miho_Apparel_Shell_Padding",
+      "price": 342,
+      "mod": "Miho, the celestial fox"
+    },
+    {
+      "abr": "mihopariahbattlehelmet",
+      "category": "Miho Headgear",
+      "defname": "Miho_Apparel_Hat_Pariah",
+      "price": 1817,
+      "mod": "Miho, the celestial fox"
+    },
+    {
+      "abr": "mihopariahbattlesuit",
+      "category": "Miho Apparel",
+      "defname": "Miho_Apparel_OnSkin_Pariah",
+      "price": 5100,
+      "mod": "Miho, the celestial fox"
+    },
+    {
+      "abr": "mihoplasmanodachi",
+      "category": "Melee weapons",
+      "defname": "Miho_Weapon_PlasmaTachi",
+      "price": 2617,
+      "mod": "Miho, the celestial fox"
+    },
+    {
+      "abr": "mihoplasmarifle",
+      "category": "Ranged weapons",
+      "defname": "Miho_Weapon_RiflePlasma",
+      "price": 2633,
+      "mod": "Miho, the celestial fox"
+    },
+    {
+      "abr": "mihopowerclaw",
+      "category": "Melee weapons",
+      "defname": "Miho_Weapon_PowerClaw",
+      "price": 1258,
+      "mod": "Miho, the celestial fox"
+    },
+    {
+      "abr": "mihosapperhammer",
+      "category": "Melee weapons",
+      "defname": "Miho_Weapon_Sappertool",
+      "price": 592,
+      "mod": "Miho, the celestial fox"
+    },
+    {
+      "abr": "mihosecuritysuit",
+      "category": "Miho Apparel",
+      "defname": "Miho_Apparel_OnSkin_Militia",
+      "price": 358,
+      "mod": "Miho, the celestial fox"
+    },
+    {
+      "abr": "mihostandardsuit",
+      "category": "Miho Apparel",
+      "defname": "Miho_Apparel_OnSkin_Regular",
+      "price": 310,
+      "mod": "Miho, the celestial fox"
+    },
+    {
+      "abr": "mihosubmachinegun",
+      "category": "Ranged weapons",
+      "defname": "Miho_Weapon_RifleCQB",
+      "price": 492,
+      "mod": "Miho, the celestial fox"
+    },
+    {
+      "abr": "mihotacticalvest",
+      "category": "Miho Apparel",
+      "defname": "Miho_Apparel_Middle_MilitiaVest",
+      "price": 284,
+      "mod": "Miho, the celestial fox"
+    },
+    {
+      "abr": "mihotatami",
+      "category": "Furniture",
+      "defname": "Miho_Tatami",
+      "price": 10,
+      "mod": "Miho, the celestial fox"
+    },
+    {
+      "abr": "mihotribalunderwear",
+      "category": "Miho Apparel",
+      "defname": "Miho_Apparel_Under_Tribal",
+      "price": 79,
+      "mod": "Miho, the celestial fox"
+    },
+    {
+      "abr": "mihotrooperarmor",
+      "category": "Miho Apparel",
+      "defname": "Miho_Apparel_Middle_Militia",
+      "price": 408,
+      "mod": "Miho, the celestial fox"
+    },
+    {
+      "abr": "mihotrooperarmor(tan)",
+      "category": "Miho Apparel",
+      "defname": "Miho_Apparel_Middle_Militia_Tan",
+      "price": 408,
+      "mod": "Miho, the celestial fox"
+    },
+    {
+      "abr": "mihotrooperhelmet",
+      "category": "Miho Headgear",
+      "defname": "Miho_Apparel_Hat_Militia",
+      "price": 322,
+      "mod": "Miho, the celestial fox"
+    },
+    {
+      "abr": "mihotroopersuit",
+      "category": "Miho Apparel",
+      "defname": "Miho_Apparel_OnSkin_PMC",
+      "price": 1225,
+      "mod": "Miho, the celestial fox"
+    },
+    {
+      "abr": "mihounderwear",
+      "category": "Miho Apparel",
+      "defname": "Miho_Apparel_Under_Industrial",
+      "price": 73,
+      "mod": "Miho, the celestial fox"
+    },
+    {
+      "abr": "mihowinterponcho",
+      "category": "Miho Apparel",
+      "defname": "Miho_Apparel_Shell_Winter",
+      "price": 197,
+      "mod": "Miho, the celestial fox"
+    },
+    {
+      "abr": "minnow",
+      "category": "Raw fish",
+      "defname": "VCEF_RawMinnow",
+      "price": -10,
+      "mod": "Vanilla Fishing Expanded"
+    },
+    {
+      "abr": "moderncomputer",
+      "category": "Recreation",
+      "defname": "Joy_ModernComputer",
+      "price": 1100,
+      "mod": "Vanilla Furniture Expanded"
+    },
+    {
+      "abr": "moonsilk",
+      "category": "Textiles",
+      "defname": "Moonsilk",
+      "price": 20,
+      "mod": "Rabbie The Moonrabbit race"
+    },
+    {
+      "abr": "moonthread",
+      "category": "Textiles",
+      "defname": "Moonthread",
+      "price": 8,
+      "mod": "Rabbie The Moonrabbit race"
+    },
+    {
+      "abr": "negativefieldgenerator",
+      "category": "Maru Apparel",
+      "defname": "MR_NFG",
+      "price": 1975,
+      "mod": "Maru Race"
+    },
+    {
+      "abr": "nuclearreactor",
+      "category": "Misc",
+      "defname": "VPE_NuclearGenerator",
+      "price": 4475,
+      "mod": "Vanilla Furniture Expanded - Power"
+    },
+    {
+      "abr": "oldcomputer",
+      "category": "Recreation",
+      "defname": "Joy_InudstrialComputer",
+      "price": 517,
+      "mod": "Vanilla Furniture Expanded"
+    },
+    {
+      "abr": "outdoorlamp",
+      "category": "Furniture",
+      "defname": "Light_Streetlamp",
+      "price": 128,
+      "mod": "Vanilla Furniture Expanded"
+    },
+    {
+      "abr": "pdwsubmachinegun",
+      "category": "Ranged weapons",
+      "defname": "RB_F_PDW",
+      "price": 458,
+      "mod": "Rabbie The Moonrabbit race"
+    },
+    {
+      "abr": "perch",
+      "category": "Raw fish",
+      "defname": "VCEF_RawPerch",
+      "price": 2,
+      "mod": "Vanilla Fishing Expanded"
+    },
+    {
+      "abr": "piranha",
+      "category": "Raw fish",
+      "defname": "VCEF_RawPiranha",
+      "price": 2,
+      "mod": "Vanilla Fishing Expanded"
+    },
+    {
+      "abr": "planetariumtea",
+      "category": "Drugs",
+      "defname": "PlanetariumTea",
+      "price": 100,
+      "mod": "Rabbie The Moonrabbit race"
+    },
+    {
+      "abr": "planetariumwindfarm",
+      "category": "Misc",
+      "defname": "Planetariumrefinery",
+      "price": 967,
+      "mod": "Rabbie The Moonrabbit race"
+    },
+    {
+      "abr": "portablechemfuelpoweredgenerator",
+      "category": "Power",
+      "defname": "VFE_PortableChemfuelPoweredGenerator",
+      "price": 242,
+      "mod": "Vanilla Furniture Expanded - Power"
+    },
+    {
+      "abr": "portablewood-firedgenerator",
+      "category": "Power",
+      "defname": "VFE_PortableWoodFiredGenerator",
+      "price": 189,
+      "mod": "Vanilla Furniture Expanded - Power"
+    },
+    {
+      "abr": "portal",
+      "category": "Misc",
+      "defname": "Miho_Butterfly_Portal",
+      "price": 9,
+      "mod": "Miho, the celestial fox"
+    },
+    {
+      "abr": "portal",
+      "category": "Misc",
+      "defname": "Miho_Fox_Portal",
+      "price": 9,
+      "mod": "Miho, the celestial fox"
+    },
+    {
+      "abr": "pufferfish",
+      "category": "Raw fish",
+      "defname": "VCEF_RawPufferfish",
+      "price": 2,
+      "mod": "Vanilla Fishing Expanded"
+    },
+    {
+      "abr": "punchingbag",
+      "category": "Furniture",
+      "defname": "Joy_PunchingBag",
+      "price": 375,
+      "mod": "Vanilla Furniture Expanded"
+    },
+    {
+      "abr": "rabbie",
+      "category": "Animal",
+      "defname": "Rabbie",
+      "price": -10,
+      "mod": "Rabbie The Moonrabbit race"
+    },
+    {
+      "abr": "rabbieapron",
+      "category": "Rabbie Apparel",
+      "defname": "RB_Apron",
+      "price": 209,
+      "mod": "Rabbie The Moonrabbit race"
+    },
+    {
+      "abr": "rabbieberet",
+      "category": "Rabbie Apparel",
+      "defname": "RB_Fashionhat",
+      "price": 113,
+      "mod": "Rabbie The Moonrabbit race"
+    },
+    {
+      "abr": "rabbieblazer",
+      "category": "Rabbie Apparel",
+      "defname": "RB_Blazer",
+      "price": 330,
+      "mod": "Rabbie The Moonrabbit race"
+    },
+    {
+      "abr": "rabbiecamisole",
+      "category": "Rabbie Apparel",
+      "defname": "RB_Camisole",
+      "price": 39,
+      "mod": "Rabbie The Moonrabbit race"
+    },
+    {
+      "abr": "rabbiecasualt-shirt",
+      "category": "Rabbie Apparel",
+      "defname": "RB_CasualTshirt",
+      "price": 286,
+      "mod": "Rabbie The Moonrabbit race"
+    },
+    {
+      "abr": "rabbiechefapron",
+      "category": "Rabbie Apparel",
+      "defname": "RB_Cookwear",
+      "price": 750,
+      "mod": "Rabbie The Moonrabbit race"
+    },
+    {
+      "abr": "rabbiechefhat",
+      "category": "Rabbie Apparel",
+      "defname": "RB_Cookhat",
+      "price": 206,
+      "mod": "Rabbie The Moonrabbit race"
+    },
+    {
+      "abr": "rabbiedoctorcoat",
+      "category": "Rabbie Apparel",
+      "defname": "RB_Inteligown",
+      "price": 508,
+      "mod": "Rabbie The Moonrabbit race"
+    },
+    {
+      "abr": "rabbieformalshirt",
+      "category": "Rabbie Apparel",
+      "defname": "RB_Energymanager",
+      "price": 625,
+      "mod": "Rabbie The Moonrabbit race"
+    },
+    {
+      "abr": "rabbieglasses",
+      "category": "Rabbie Apparel",
+      "defname": "RB_Glasses",
+      "price": 105,
+      "mod": "Rabbie The Moonrabbit race"
+    },
+    {
+      "abr": "rabbiehardhat",
+      "category": "Rabbie Apparel",
+      "defname": "RB_Safehelmet",
+      "price": 152,
+      "mod": "Rabbie The Moonrabbit race"
+    },
+    {
+      "abr": "rabbiehood",
+      "category": "Rabbie Apparel",
+      "defname": "RB_Winterhat",
+      "price": 110,
+      "mod": "Rabbie The Moonrabbit race"
+    },
+    {
+      "abr": "rabbiehoodie",
+      "category": "Rabbie Apparel",
+      "defname": "RB_Earjacket",
+      "price": 392,
+      "mod": "Rabbie The Moonrabbit race"
+    },
+    {
+      "abr": "rabbieinfantryfatigues(cargo)",
+      "category": "Rabbie Apparel",
+      "defname": "RB_Infantryuniform",
+      "price": 1225,
+      "mod": "Rabbie The Moonrabbit race"
+    },
+    {
+      "abr": "rabbieinfantryfatigues(tights)",
+      "category": "Rabbie Apparel",
+      "defname": "RB_Infantrynewuniform",
+      "price": 1225,
+      "mod": "Rabbie The Moonrabbit race"
+    },
+    {
+      "abr": "rabbieinfantryhelmet",
+      "category": "Rabbie Apparel",
+      "defname": "RB_Infantryhelmet",
+      "price": 583,
+      "mod": "Rabbie The Moonrabbit race"
+    },
+    {
+      "abr": "rabbieinfantryvest",
+      "category": "Rabbie Apparel",
+      "defname": "RB_Infantryvest",
+      "price": 783,
+      "mod": "Rabbie The Moonrabbit race"
+    },
+    {
+      "abr": "rabbiejacket",
+      "category": "Rabbie Apparel",
+      "defname": "RB_Starjacket",
+      "price": 392,
+      "mod": "Rabbie The Moonrabbit race"
+    },
+    {
+      "abr": "rabbiejumpsuit",
+      "category": "Rabbie Apparel",
+      "defname": "RB_Technician",
+      "price": 533,
+      "mod": "Rabbie The Moonrabbit race"
+    },
+    {
+      "abr": "rabbielabcoat",
+      "category": "Rabbie Apparel",
+      "defname": "RB_Energygown",
+      "price": 500,
+      "mod": "Rabbie The Moonrabbit race"
+    },
+    {
+      "abr": "rabbiemeat",
+      "category": "Meat",
+      "defname": "Meat_Rabbie",
+      "price": 3,
+      "mod": "Rabbie The Moonrabbit race"
+    },
+    {
+      "abr": "rabbiemetalpot",
+      "category": "Rabbie Apparel",
+      "defname": "RB_Metalpot",
+      "price": 62,
+      "mod": "Rabbie The Moonrabbit race"
+    },
+    {
+      "abr": "rabbieofficerberet",
+      "category": "Rabbie Apparel",
+      "defname": "RB_Subofficerhat",
+      "price": 260,
+      "mod": "Rabbie The Moonrabbit race"
+    },
+    {
+      "abr": "rabbieofficercap",
+      "category": "Rabbie Apparel",
+      "defname": "RB_SeniorOfficerhat",
+      "price": 392,
+      "mod": "Rabbie The Moonrabbit race"
+    },
+    {
+      "abr": "rabbieofficercoat",
+      "category": "Rabbie Apparel",
+      "defname": "RB_Subofficer",
+      "price": 633,
+      "mod": "Rabbie The Moonrabbit race"
+    },
+    {
+      "abr": "rabbieofficerjacket",
+      "category": "Rabbie Apparel",
+      "defname": "RB_HighCloak",
+      "price": 508,
+      "mod": "Rabbie The Moonrabbit race"
+    },
+    {
+      "abr": "rabbieofficeruniform",
+      "category": "Rabbie Apparel",
+      "defname": "RB_SeniorOfficer",
+      "price": 900,
+      "mod": "Rabbie The Moonrabbit race"
+    },
+    {
+      "abr": "rabbieoveralls",
+      "category": "Rabbie Apparel",
+      "defname": "RB_Handygirl",
+      "price": 533,
+      "mod": "Rabbie The Moonrabbit race"
+    },
+    {
+      "abr": "rabbieparka",
+      "category": "Rabbie Apparel",
+      "defname": "RB_Winterouter",
+      "price": 425,
+      "mod": "Rabbie The Moonrabbit race"
+    },
+    {
+      "abr": "rabbiepowerarmor",
+      "category": "Rabbie Apparel",
+      "defname": "RB_RegularInfantrySuit",
+      "price": 4583,
+      "mod": "Rabbie The Moonrabbit race"
+    },
+    {
+      "abr": "rabbiepoweredhelmet",
+      "category": "Rabbie Apparel",
+      "defname": "RB_RegularInfantryhelmet",
+      "price": 1758,
+      "mod": "Rabbie The Moonrabbit race"
+    },
+    {
+      "abr": "rabbieribbon(head)",
+      "category": "Rabbie Apparel",
+      "defname": "RB_Headribbon",
+      "price": 59,
+      "mod": "Rabbie The Moonrabbit race"
+    },
+    {
+      "abr": "rabbieribbonedshirt",
+      "category": "Rabbie Apparel",
+      "defname": "RB_Casualribbonshirt",
+      "price": 342,
+      "mod": "Rabbie The Moonrabbit race"
+    },
+    {
+      "abr": "rabbiescarf",
+      "category": "Rabbie Apparel",
+      "defname": "RB_Neckscarf",
+      "price": 130,
+      "mod": "Rabbie The Moonrabbit race"
+    },
+    {
+      "abr": "rabbiesummercardigan",
+      "category": "Rabbie Apparel",
+      "defname": "RB_Summerouter",
+      "price": 683,
+      "mod": "Rabbie The Moonrabbit race"
+    },
+    {
+      "abr": "rabbiesummerclothes",
+      "category": "Rabbie Apparel",
+      "defname": "RB_Summerfit",
+      "price": 342,
+      "mod": "Rabbie The Moonrabbit race"
+    },
+    {
+      "abr": "rabbiesummerhat",
+      "category": "Rabbie Apparel",
+      "defname": "RB_Summerhat",
+      "price": 238,
+      "mod": "Rabbie The Moonrabbit race"
+    },
+    {
+      "abr": "rabbiesweater",
+      "category": "Rabbie Apparel",
+      "defname": "RB_Winterknit",
+      "price": 375,
+      "mod": "Rabbie The Moonrabbit race"
+    },
+    {
+      "abr": "rabbietieshirt",
+      "category": "Rabbie Apparel",
+      "defname": "RB_Casualtieshirt",
+      "price": 342,
+      "mod": "Rabbie The Moonrabbit race"
+    },
+    {
+      "abr": "refinedplanetarium",
+      "category": "Drugs",
+      "defname": "RefinedPlanetarium",
+      "price": 100,
+      "mod": "Rabbie The Moonrabbit race"
+    },
+    {
+      "abr": "researchtree",
+      "category": "Misc",
+      "defname": "MR_ResearchBench",
+      "price": 1158,
+      "mod": "Maru Race"
+    },
+    {
+      "abr": "retrofittable",
+      "category": "Production",
+      "defname": "MR_retrofittable",
+      "price": 900,
+      "mod": "Maru Race"
+    },
+    {
+      "abr": "roulettetable",
+      "category": "Furniture",
+      "defname": "Joy_RouletteTable",
+      "price": 708,
+      "mod": "Vanilla Furniture Expanded"
+    },
+    {
+      "abr": "royalarmchair",
+      "category": "Furniture",
+      "defname": "Seat_RoyalArmchair",
+      "price": 1583,
+      "mod": "Vanilla Furniture Expanded"
+    },
+    {
+      "abr": "royalchair",
+      "category": "Furniture",
+      "defname": "Seat_RoyalChair",
+      "price": 908,
+      "mod": "Vanilla Furniture Expanded"
+    },
+    {
+      "abr": "royaldresser",
+      "category": "Furniture",
+      "defname": "Table_RoyalDresser",
+      "price": 1175,
+      "mod": "Vanilla Furniture Expanded"
+    },
+    {
+      "abr": "royalendtable",
+      "category": "Furniture",
+      "defname": "Table_RoyalEndTable",
+      "price": 742,
+      "mod": "Vanilla Furniture Expanded"
+    },
+    {
+      "abr": "royalposterbed",
+      "category": "Furniture",
+      "defname": "Bed_Kingsize",
+      "price": 2008,
+      "mod": "Vanilla Furniture Expanded"
+    },
+    {
+      "abr": "royaltable(1x1)",
+      "category": "Furniture",
+      "defname": "Table_Royal1x1c",
+      "price": 280,
+      "mod": "Vanilla Furniture Expanded"
+    },
+    {
+      "abr": "royaltable(1x2)",
+      "category": "Furniture",
+      "defname": "Table_Royal1x2c",
+      "price": 542,
+      "mod": "Vanilla Furniture Expanded"
+    },
+    {
+      "abr": "royaltable(2x2)",
+      "category": "Furniture",
+      "defname": "Table_Royal2x2c",
+      "price": 1092,
+      "mod": "Vanilla Furniture Expanded"
+    },
+    {
+      "abr": "royaltable(2x4)",
+      "category": "Furniture",
+      "defname": "Table_Royal2x4c",
+      "price": 1475,
+      "mod": "Vanilla Furniture Expanded"
+    },
+    {
+      "abr": "royaltable(3x3)",
+      "category": "Furniture",
+      "defname": "Table_Royal3x3c",
+      "price": 1617,
+      "mod": "Vanilla Furniture Expanded"
+    },
+    {
+      "abr": "salmon",
+      "category": "Raw fish",
+      "defname": "VCEF_RawSalmon",
+      "price": 9,
+      "mod": "Vanilla Fishing Expanded"
+    },
+    {
+      "abr": "sarira",
+      "category": "Manufactured",
+      "defname": "MR_Sarira",
+      "price": 35,
+      "mod": "Maru Race"
+    },
+    {
+      "abr": "simplebed",
+      "category": "Furniture",
+      "defname": "Bed_Simple",
+      "price": 137,
+      "mod": "Vanilla Furniture Expanded"
+    },
+    {
+      "abr": "sittingcushion",
+      "category": "Furniture",
+      "defname": "Seat_Cushion",
+      "price": 86,
+      "mod": "Vanilla Furniture Expanded"
+    },
+    {
+      "abr": "slabbed",
+      "category": "Furniture",
+      "defname": "Bed_StoneSlab",
+      "price": 111,
+      "mod": "Vanilla Furniture Expanded"
+    },
+    {
+      "abr": "smallbattery",
+      "category": "Power",
+      "defname": "VFE_SmallBattery",
+      "price": 182,
+      "mod": "Vanilla Furniture Expanded - Power"
+    },
+    {
+      "abr": "smallbin",
+      "category": "Furniture",
+      "defname": "Bin_Small",
+      "price": 136,
+      "mod": "Vanilla Furniture Expanded"
+    },
+    {
+      "abr": "smallvanometricpowercell",
+      "category": "Special",
+      "defname": "VFE_SmallVanometricPowerCell",
+      "price": 667,
+      "mod": "Vanilla Furniture Expanded - Power"
+    },
+    {
+      "abr": "solarcigalette",
+      "category": "Drugs",
+      "defname": "Miho_PositiveFlower_Pipe",
+      "price": 40,
+      "mod": "Miho, the celestial fox"
+    },
+    {
+      "abr": "solartea",
+      "category": "Drugs",
+      "defname": "Miho_PositiveFlower_Tea",
+      "price": 35,
+      "mod": "Miho, the celestial fox"
+    },
+    {
+      "abr": "sprat",
+      "category": "Raw fish",
+      "defname": "VCEF_RawSprat",
+      "price": -10,
+      "mod": "Vanilla Fishing Expanded"
+    },
+    {
+      "abr": "squarechair",
+      "category": "Furniture",
+      "defname": "Seat_SquareChair",
+      "price": 198,
+      "mod": "Vanilla Furniture Expanded"
+    },
+    {
+      "abr": "stonecampfire",
+      "category": "Misc",
+      "defname": "Stone_Campfire",
+      "price": 128,
+      "mod": "Vanilla Furniture Expanded"
+    },
+    {
+      "abr": "swordfish",
+      "category": "Raw fish",
+      "defname": "VCEF_RawSwordfish",
+      "price": 9,
+      "mod": "Vanilla Fishing Expanded"
+    },
+    {
+      "abr": "table(1x1)",
+      "category": "Furniture",
+      "defname": "Table_1x1c",
+      "price": 70,
+      "mod": "Vanilla Furniture Expanded"
+    },
+    {
+      "abr": "technicalexchangebook",
+      "category": "Manufactured",
+      "defname": "MR_Theory",
+      "price": 42,
+      "mod": "Maru Race"
+    },
+    {
+      "abr": "techprint(appliedresearch-bulletprooffiber)",
+      "category": "Techprints",
+      "defname": "Techprint_MaruRB",
+      "price": 1333,
+      "mod": "Maru Race"
+    },
+    {
+      "abr": "techprint(appliedresearch-negativefield)",
+      "category": "Techprints",
+      "defname": "Techprint_MaruRC",
+      "price": 2000,
+      "mod": "Maru Race"
+    },
+    {
+      "abr": "tidalgenerator",
+      "category": "Misc",
+      "defname": "VFE_TidalGenerator",
+      "price": 1500,
+      "mod": "Vanilla Furniture Expanded - Power"
+    },
+    {
+      "abr": "trapholder",
+      "category": "Maru Apparel",
+      "defname": "MR_Apparel_Trap",
+      "price": 183,
+      "mod": "Maru Race"
+    },
+    {
+      "abr": "trout",
+      "category": "Raw fish",
+      "defname": "VCEF_RawTrout",
+      "price": 2,
+      "mod": "Vanilla Fishing Expanded"
+    },
+    {
+      "abr": "tuna",
+      "category": "Raw fish",
+      "defname": "VCEF_RawTuna",
+      "price": 4,
+      "mod": "Vanilla Fishing Expanded"
+    },
+    {
+      "abr": "uprightpiano",
+      "category": "Furniture",
+      "defname": "Joy_Piano",
+      "price": 908,
+      "mod": "Vanilla Furniture Expanded"
+    },
+    {
+      "abr": "wardrobe",
+      "category": "Furniture",
+      "defname": "Table_Wardrobe",
+      "price": 285,
+      "mod": "Vanilla Furniture Expanded"
+    },
+    {
+      "abr": "weaponrack",
+      "category": "Furniture",
+      "defname": "Shelf_WeaponRack",
+      "price": 137,
+      "mod": "Vanilla Furniture Expanded"
+    },
+    {
+      "abr": "weaponrebuildworkbench",
+      "category": "Production",
+      "defname": "MR_Rebuildtable",
+      "price": 1508,
+      "mod": "Maru Race"
+    },
+    {
+      "abr": "whalingharpoon",
+      "category": "Ranged weapons",
+      "defname": "MR_WH_O",
+      "price": 261,
+      "mod": "Maru Race"
+    },
+    {
+      "abr": "whalingharpoon:abduct",
+      "category": "Ranged weapons",
+      "defname": "MR_WH_AT",
+      "price": 1567,
+      "mod": "Maru Race"
+    },
+    {
+      "abr": "whalingharpoon:abduct",
+      "category": "Ranged weapons",
+      "defname": "MR_WH_ATT",
+      "price": 1567,
+      "mod": "Maru Race"
+    },
+    {
+      "abr": "whalingharpoon:externalanti-gravity",
+      "category": "Ranged weapons",
+      "defname": "MR_WH_BT",
+      "price": 1567,
+      "mod": "Maru Race"
+    },
+    {
+      "abr": "whalingharpoon:externalanti-gravity",
+      "category": "Ranged weapons",
+      "defname": "MR_WH_BTT",
+      "price": 1258,
+      "mod": "Maru Race"
+    },
+    {
+      "abr": "whalingharpoon:improvement",
+      "category": "Ranged weapons",
+      "defname": "MR_WH_AO",
+      "price": 592,
+      "mod": "Maru Race"
+    },
+    {
+      "abr": "whalingharpoon:internalanti-gravity",
+      "category": "Ranged weapons",
+      "defname": "MR_WH_BO",
+      "price": 617,
+      "mod": "Maru Race"
+    },
+    {
+      "abr": "whitetwigs",
+      "category": "Manufactured",
+      "defname": "MR_whitetwigs",
+      "price": 500,
+      "mod": "Maru Race"
+    },
+    {
+      "abr": "미호경기관총",
+      "category": "Ranged weapons",
+      "defname": "Miho_Weapon_RifleMachinegun",
+      "price": 808,
+      "mod": "Miho, the celestial fox"
+    },
+    {
+      "abr": "미호고로",
+      "category": "Production",
+      "defname": "Miho_ShaftFurnace",
+      "price": 1525,
+      "mod": "Miho, the celestial fox"
+    },
+    {
+      "abr": "미호구식보총",
+      "category": "Ranged weapons",
+      "defname": "Miho_Weapon_RifleOld",
+      "price": 1000,
+      "mod": "Miho, the celestial fox"
+    },
+    {
+      "abr": "미호메카나이트가속소총",
+      "category": "Ranged weapons",
+      "defname": "Miho_Weapon_ShotgunPsychic",
+      "price": 5783,
+      "mod": "Miho, the celestial fox"
+    },
+    {
+      "abr": "미호메카닉공장",
+      "category": "Misc",
+      "defname": "Miho_MechFactory",
+      "price": 1892,
+      "mod": "Miho, the celestial fox"
+    },
+    {
+      "abr": "미호바이저",
+      "category": "Miho Apparel",
+      "defname": "Miho_Apparel_Special_Visor",
+      "price": 800,
+      "mod": "Miho, the celestial fox"
+    },
+    {
+      "abr": "미호보호내의",
+      "category": "Miho Apparel",
+      "defname": "Miho_Apparel_Under_Armor",
+      "price": 1292,
+      "mod": "Miho, the celestial fox"
+    },
+    {
+      "abr": "미호부족엘텍스속옷",
+      "category": "Miho Apparel",
+      "defname": "Miho_Apparel_Under_TribalEltex",
+      "price": 1092,
+      "mod": "Miho, the celestial fox"
+    },
+    {
+      "abr": "미호부족민속옷(b)",
+      "category": "Miho Apparel",
+      "defname": "Miho_Apparel_Under_TribalTwo",
+      "price": 59,
+      "mod": "Miho, the celestial fox"
+    },
+    {
+      "abr": "미호사냥총",
+      "category": "Ranged weapons",
+      "defname": "Miho_Weapon_Shotgun",
+      "price": 1000,
+      "mod": "Miho, the celestial fox"
+    },
+    {
+      "abr": "미호소서리스망토",
+      "category": "Miho Apparel",
+      "defname": "Miho_Apparel_Shell_Sorceress",
+      "price": 3650,
+      "mod": "Miho, the celestial fox"
+    },
+    {
+      "abr": "미호엘텍스의복(아케인실드)",
+      "category": "Miho Apparel",
+      "defname": "Miho_Apparel_OnSkin_OrnatedTwo",
+      "price": 1683,
+      "mod": "Miho, the celestial fox"
+    },
+    {
+      "abr": "미호중기관권총",
+      "category": "Ranged weapons",
+      "defname": "Miho_Weapon_HeavyPistol",
+      "price": 3408,
+      "mod": "Miho, the celestial fox"
+    },
+    {
+      "abr": "미호천상의용광로",
+      "category": "Production",
+      "defname": "Miho_CelestialForge",
+      "price": 22933,
+      "mod": "Miho, the celestial fox"
+    },
+    {
+      "abr": "미호총류탄보총",
+      "category": "Ranged weapons",
+      "defname": "Miho_Weapon_RifleGrenade",
+      "price": 1400,
+      "mod": "Miho, the celestial fox"
+    },
+    {
+      "abr": "미호택티컬캡",
+      "category": "Miho Headgear",
+      "defname": "Miho_Apparel_Hat_ShooterCap",
+      "price": 417,
+      "mod": "Miho, the celestial fox"
+    },
+    {
+      "abr": "미호트루퍼헬멧",
+      "category": "Miho Headgear",
+      "defname": "Miho_Apparel_Hat_MilitiaShoot",
+      "price": 322,
+      "mod": "Miho, the celestial fox"
+    },
+    {
+      "abr": "미호후드",
+      "category": "Miho Apparel",
+      "defname": "Miho_Apparel_OnSkin_Hoodie",
+      "price": 236,
+      "mod": "Miho, the celestial fox"
+    },
+    {
+      "abr": "빌려온발전기",
+      "category": "Special",
+      "defname": "Miho_UnstablePowerCell",
+      "price": 667,
+      "mod": "Miho, the celestial fox"
+    },
+    {
+      "abr": "엘텍스대부월",
+      "category": "Melee weapons",
+      "defname": "Miho_Weapon_EltexAxe",
+      "price": 4833,
+      "mod": "Miho, the celestial fox"
+    },
+    {
+      "abr": "엘텍스법봉(a)",
+      "category": "Melee weapons",
+      "defname": "Miho_Weapon_EltexA",
+      "price": 725,
+      "mod": "Miho, the celestial fox"
+    },
+    {
+      "abr": "엘텍스법봉(b)",
+      "category": "Melee weapons",
+      "defname": "Miho_Weapon_EltexB",
+      "price": 725,
+      "mod": "Miho, the celestial fox"
+    },
+    {
+      "abr": "칼날나비포탈",
+      "category": "Misc",
+      "defname": "Miho_ButterflyHaze_Portal",
+      "price": 9,
+      "mod": "Miho, the celestial fox"
+    },
+    {
+      "abr": "칼날나비포탈더미",
+      "category": "Misc",
+      "defname": "Miho_Butterfly_Portal_Dummy",
+      "price": 9,
+      "mod": "Miho, the celestial fox"
+    },
+    {
+      "abr": "태양화가루",
+      "category": "Plant matter",
+      "defname": "RawPosFlower_Dust",
+      "price": 2,
+      "mod": "Miho, the celestial fox"
+    },
+    {
+      "abr": "태양화탕약",
+      "category": "Drugs",
+      "defname": "Miho_PositiveFlower_Juice",
+      "price": 88,
+      "mod": "Miho, the celestial fox"
+    },
+    {
+      "abr": "화현오디",
+      "category": "Vegetarian",
+      "defname": "Miho_Ebony_Mulberry",
+      "price": 2,
+      "mod": "Miho, the celestial fox"
+    },
+    {
       "abr": "zombrella",
       "category": "Misc",
       "defname": "Zombrella",
@@ -14550,154 +14830,189 @@
       "abr": "guestbed",
       "category": "Furniture",
       "defname": "BedGuest",
-      "price": -10,
+      "price": 155,
       "mod": "n/a"
     },
     {
       "abr": "guestdoublebed",
       "category": "Furniture",
       "defname": "DoubleBedGuest",
-      "price": -10,
+      "price": 292,
       "mod": "n/a"
     },
     {
       "abr": "guestroyalbed",
       "category": "Furniture",
       "defname": "RoyalBedGuest",
-      "price": -10,
+      "price": 1467,
       "mod": "n/a"
     },
     {
       "abr": "guesthospitalbed",
       "category": "Furniture",
       "defname": "HospitalBedGuest",
-      "price": -10,
+      "price": 667,
       "mod": "n/a"
     },
     {
       "abr": "guestbedroll",
       "category": "Furniture",
       "defname": "BedrollGuest",
-      "price": -10,
+      "price": 137,
       "mod": "n/a"
     },
     {
       "abr": "guestdoublebedroll",
       "category": "Furniture",
       "defname": "BedrollDoubleGuest",
-      "price": -10,
+      "price": 290,
       "mod": "n/a"
     },
     {
       "abr": "guestancientbed",
       "category": "Misc",
       "defname": "AncientBedGuest",
-      "price": -10,
+      "price": 5,
       "mod": "n/a"
     },
     {
       "abr": "guestslabbed",
       "category": "Furniture",
       "defname": "SlabBedGuest",
-      "price": -10,
+      "price": 102,
       "mod": "n/a"
     },
     {
       "abr": "guestslabdoublebed",
       "category": "Furniture",
       "defname": "SlabDoubleBedGuest",
-      "price": -10,
+      "price": 288,
       "mod": "n/a"
     },
     {
       "abr": "guestdeathrestcasket",
       "category": "Misc",
       "defname": "DeathrestCasketGuest",
-      "price": -10,
+      "price": 492,
       "mod": "n/a"
     },
     {
       "abr": "guestcrib",
       "category": "Furniture",
       "defname": "CribGuest",
-      "price": -10,
+      "price": 86,
       "mod": "n/a"
     },
     {
       "abr": "guestbedroll",
       "category": "Misc",
       "defname": "CAMakeshiftBedrollGuest",
-      "price": -10,
+      "price": 137,
       "mod": "n/a"
     },
     {
       "abr": "guestdoublebedroll",
       "category": "Misc",
       "defname": "CAMakeshiftBedrollDoubleGuest",
-      "price": -10,
+      "price": 290,
       "mod": "n/a"
     },
     {
       "abr": "guestspacerbedroll",
       "category": "Misc",
       "defname": "CASpacerBedrollGuest",
-      "price": -10,
+      "price": 137,
       "mod": "n/a"
     },
     {
       "abr": "guestspacerdoublebedroll",
       "category": "Misc",
       "defname": "CASpacerBedrollDoubleGuest",
-      "price": -10,
+      "price": 290,
       "mod": "n/a"
     },
     {
       "abr": "guesthypersleepbed",
       "category": "Furniture",
       "defname": "HisaHyperSleepBedGuest",
-      "price": -10,
+      "price": 1575,
       "mod": "n/a"
     },
     {
       "abr": "guestdoublehypersleepbed",
       "category": "Furniture",
       "defname": "HisaHyperSleepBedBigGuest",
-      "price": -10,
+      "price": 2992,
       "mod": "n/a"
     },
     {
       "abr": "guestroyalhypersleepbed",
       "category": "Furniture",
       "defname": "HisaHyperSleepBedRoyalGuest",
-      "price": -10,
+      "price": 3917,
       "mod": "n/a"
     },
     {
       "abr": "guesthisamedicalbed",
       "category": "Furniture",
       "defname": "Hisa_MediBedGuest",
-      "price": -10,
+      "price": 2958,
       "mod": "n/a"
     },
     {
       "abr": "guestminchocrepebedroll",
       "category": "Furniture",
       "defname": "Mincho_Crepe_BedrollGuest",
-      "price": -10,
+      "price": 68,
       "mod": "n/a"
     },
     {
       "abr": "guestminchofullsizecakebed",
       "category": "Furniture",
       "defname": "Mincho_Full_Size_Cake_BedGuest",
-      "price": -10,
+      "price": 1833,
       "mod": "n/a"
     },
     {
       "abr": "guestminchosinglesizecakebed",
       "category": "Furniture",
       "defname": "Mincho_Single_Size_Cake_BedGuest",
-      "price": -10,
+      "price": 917,
+      "mod": "n/a"
+    },
+    {
+      "abr": "guestslabbed",
+      "category": "Furniture",
+      "defname": "Bed_StoneSlabGuest",
+      "price": 111,
+      "mod": "n/a"
+    },
+    {
+      "abr": "guestsimplebed",
+      "category": "Furniture",
+      "defname": "Bed_SimpleGuest",
+      "price": 137,
+      "mod": "n/a"
+    },
+    {
+      "abr": "guestergonomicbed",
+      "category": "Furniture",
+      "defname": "Bed_ErgonomicGuest",
+      "price": 450,
+      "mod": "n/a"
+    },
+    {
+      "abr": "guestergonomicdoublebed",
+      "category": "Furniture",
+      "defname": "Bed_DoubleErgonomicGuest",
+      "price": 867,
+      "mod": "n/a"
+    },
+    {
+      "abr": "guestroyalposterbed",
+      "category": "Furniture",
+      "defname": "Bed_KingsizeGuest",
+      "price": 2008,
       "mod": "n/a"
     }
   ]
