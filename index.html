@@ -128,6 +128,7 @@
                             <table class="table items">
                                 <tr>
                                     <th scope="col" class="sort" data-sort="abr">Name</th>
+                                    <th scope="col" class="sort" data-sort="customname">Translation</th>
                                     <th scope="col" class="sort" data-sort="price">Price</th>
                                     <th scope="col" class="sort" data-sort="category">Category</th>
 				    <th scope="col" class="sort" data-sort="mod">Mod</th>
@@ -373,8 +374,8 @@
         let itemList = null;
         $.getJSON(item2ListURL, function(data) {
             var options = {
-                valueNames: ['abr', 'price', 'category','mod','category'],
-                item: '<tr><td class="abr" scope="row"></td><td class="price"></td><td class="category"></td><td class="mod"></td></tr>'
+                valueNames: ['abr', 'customname', 'price', 'category','mod','category'],
+                item: '<tr><td class="abr" scope="row"><td class="customname" scope="row"></td><td class="price"></td><td class="category"></td><td class="mod"></td></tr>'
             };
 
             var itemData = [];
