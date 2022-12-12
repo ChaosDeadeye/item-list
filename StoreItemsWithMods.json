@@ -16750,7 +16750,7 @@
       "defname": "Miho_Weapon_ShotgunPsychic",
       "price": 5783,
       "mod": "Miho, the celestial fox",
-      "customname": ""
+      "customname": "mihomechaniteacceleratedrifle"
     },
     {
       "abr": "미호메카닉공장",
@@ -16758,7 +16758,7 @@
       "defname": "Miho_MechFactory",
       "price": 1892,
       "mod": "Miho, the celestial fox",
-      "customname": ""
+      "customname": "mihomechfactory"
     },
     {
       "abr": "미호바이저",
@@ -16766,7 +16766,7 @@
       "defname": "Miho_Apparel_Special_Visor",
       "price": 800,
       "mod": "Miho, the celestial fox",
-      "customname": ""
+      "customname": "mihovisor"
     },
     {
       "abr": "미호보호내의",
@@ -16774,7 +16774,7 @@
       "defname": "Miho_Apparel_Under_Armor",
       "price": 1292,
       "mod": "Miho, the celestial fox",
-      "customname": ""
+      "customname": "mihoprotectiveunderwear"
     },
     {
       "abr": "미호부족엘텍스속옷",
@@ -16782,7 +16782,7 @@
       "defname": "Miho_Apparel_Under_TribalEltex",
       "price": 1092,
       "mod": "Miho, the celestial fox",
-      "customname": ""
+      "customname": "mihotribeeltexunderwear"
     },
     {
       "abr": "미호부족민속옷(b)",
@@ -16790,7 +16790,7 @@
       "defname": "Miho_Apparel_Under_TribalTwo",
       "price": 59,
       "mod": "Miho, the celestial fox",
-      "customname": ""
+      "customname": "mihotribeunderwear(b)"
     },
     {
       "abr": "미호사냥총",
@@ -16798,7 +16798,7 @@
       "defname": "Miho_Weapon_Shotgun",
       "price": 1000,
       "mod": "Miho, the celestial fox",
-      "customname": ""
+      "customname": "mihohuntingrifle"
     },
     {
       "abr": "미호소서리스망토",
@@ -16806,7 +16806,7 @@
       "defname": "Miho_Apparel_Shell_Sorceress",
       "price": 3650,
       "mod": "Miho, the celestial fox",
-      "customname": ""
+      "customname": "mihosorceresscloak"
     },
     {
       "abr": "미호엘텍스의복(아케인실드)",
@@ -16814,7 +16814,7 @@
       "defname": "Miho_Apparel_OnSkin_OrnatedTwo",
       "price": 1683,
       "mod": "Miho, the celestial fox",
-      "customname": ""
+      "customname": "mihoeltexoutfit(arcaneshield)"
     },
     {
       "abr": "미호중기관권총",
@@ -16822,7 +16822,7 @@
       "defname": "Miho_Weapon_HeavyPistol",
       "price": 3408,
       "mod": "Miho, the celestial fox",
-      "customname": ""
+      "customname": "mihoheavymachinepistol"
     },
     {
       "abr": "미호천상의용광로",
@@ -16830,7 +16830,7 @@
       "defname": "Miho_CelestialForge",
       "price": 22933,
       "mod": "Miho, the celestial fox",
-      "customname": ""
+      "customname": "mihocelestialforge"
     },
     {
       "abr": "미호총류탄보총",
@@ -16838,7 +16838,7 @@
       "defname": "Miho_Weapon_RifleGrenade",
       "price": 1400,
       "mod": "Miho, the celestial fox",
-      "customname": ""
+      "customname": "mihogrenaderifle"
     },
     {
       "abr": "미호택티컬캡",
@@ -16846,7 +16846,7 @@
       "defname": "Miho_Apparel_Hat_ShooterCap",
       "price": 417,
       "mod": "Miho, the celestial fox",
-      "customname": ""
+      "customname": "mihotacticalcap"
     },
     {
       "abr": "미호트루퍼헬멧",
@@ -16854,7 +16854,7 @@
       "defname": "Miho_Apparel_Hat_MilitiaShoot",
       "price": 322,
       "mod": "Miho, the celestial fox",
-      "customname": ""
+      "customname": "mihotrooperhelmet"
     },
     {
       "abr": "미호후드",
@@ -16862,7 +16862,7 @@
       "defname": "Miho_Apparel_OnSkin_Hoodie",
       "price": 236,
       "mod": "Miho, the celestial fox",
-      "customname": ""
+      "customname": "mihohoodie"
     },
     {
       "abr": "빌려온발전기",
@@ -16878,7 +16878,7 @@
       "defname": "Miho_Weapon_EltexAxe",
       "price": 4833,
       "mod": "Miho, the celestial fox",
-      "customname": ""
+      "customname": "eltexbattleaxe"
     },
     {
       "abr": "엘텍스법봉(a)",
@@ -16886,7 +16886,7 @@
       "defname": "Miho_Weapon_EltexA",
       "price": 725,
       "mod": "Miho, the celestial fox",
-      "customname": ""
+      "customname": "eltexrod(a)"
     },
     {
       "abr": "엘텍스법봉(b)",
@@ -16894,7 +16894,7 @@
       "defname": "Miho_Weapon_EltexB",
       "price": 725,
       "mod": "Miho, the celestial fox",
-      "customname": ""
+      "customname": "eltexrod(b)"
     },
     {
       "abr": "칼날나비포탈",
@@ -17286,6 +17286,230 @@
       "defname": "Miho_PositiveFlower_ChildSummoner",
       "price": 165,
       "mod": "Miho, the celestial fox",
+      "customname": ""
+    },
+    {
+      "abr": "zombrella",
+      "category": "Misc",
+      "defname": "Zombrella",
+      "price": 3333,
+      "mod": "n/a",
+      "customname": ""
+    },
+    {
+      "abr": "guestbed",
+      "category": "Furniture",
+      "defname": "BedGuest",
+      "price": 155,
+      "mod": "n/a",
+      "customname": ""
+    },
+    {
+      "abr": "guestdoublebed",
+      "category": "Furniture",
+      "defname": "DoubleBedGuest",
+      "price": 292,
+      "mod": "n/a",
+      "customname": ""
+    },
+    {
+      "abr": "guestroyalbed",
+      "category": "Furniture",
+      "defname": "RoyalBedGuest",
+      "price": 1467,
+      "mod": "n/a",
+      "customname": ""
+    },
+    {
+      "abr": "guesthospitalbed",
+      "category": "Furniture",
+      "defname": "HospitalBedGuest",
+      "price": 667,
+      "mod": "n/a",
+      "customname": ""
+    },
+    {
+      "abr": "guestbedroll",
+      "category": "Furniture",
+      "defname": "BedrollGuest",
+      "price": 137,
+      "mod": "n/a",
+      "customname": ""
+    },
+    {
+      "abr": "guestdoublebedroll",
+      "category": "Furniture",
+      "defname": "BedrollDoubleGuest",
+      "price": 290,
+      "mod": "n/a",
+      "customname": ""
+    },
+    {
+      "abr": "guestancientbed",
+      "category": "Misc",
+      "defname": "AncientBedGuest",
+      "price": 5,
+      "mod": "n/a",
+      "customname": ""
+    },
+    {
+      "abr": "guestslabbed",
+      "category": "Furniture",
+      "defname": "SlabBedGuest",
+      "price": 102,
+      "mod": "n/a",
+      "customname": ""
+    },
+    {
+      "abr": "guestslabdoublebed",
+      "category": "Furniture",
+      "defname": "SlabDoubleBedGuest",
+      "price": 288,
+      "mod": "n/a",
+      "customname": ""
+    },
+    {
+      "abr": "guestdeathrestcasket",
+      "category": "Misc",
+      "defname": "DeathrestCasketGuest",
+      "price": 492,
+      "mod": "n/a",
+      "customname": ""
+    },
+    {
+      "abr": "guestcrib",
+      "category": "Furniture",
+      "defname": "CribGuest",
+      "price": 86,
+      "mod": "n/a",
+      "customname": ""
+    },
+    {
+      "abr": "guestbedroll",
+      "category": "Misc",
+      "defname": "CAMakeshiftBedrollGuest",
+      "price": 137,
+      "mod": "n/a",
+      "customname": ""
+    },
+    {
+      "abr": "guestdoublebedroll",
+      "category": "Misc",
+      "defname": "CAMakeshiftBedrollDoubleGuest",
+      "price": 290,
+      "mod": "n/a",
+      "customname": ""
+    },
+    {
+      "abr": "guestspacerbedroll",
+      "category": "Misc",
+      "defname": "CASpacerBedrollGuest",
+      "price": 137,
+      "mod": "n/a",
+      "customname": ""
+    },
+    {
+      "abr": "guestspacerdoublebedroll",
+      "category": "Misc",
+      "defname": "CASpacerBedrollDoubleGuest",
+      "price": 290,
+      "mod": "n/a",
+      "customname": ""
+    },
+    {
+      "abr": "guesthypersleepbed",
+      "category": "Furniture",
+      "defname": "HisaHyperSleepBedGuest",
+      "price": 1575,
+      "mod": "n/a",
+      "customname": ""
+    },
+    {
+      "abr": "guestdoublehypersleepbed",
+      "category": "Furniture",
+      "defname": "HisaHyperSleepBedBigGuest",
+      "price": 2992,
+      "mod": "n/a",
+      "customname": ""
+    },
+    {
+      "abr": "guestroyalhypersleepbed",
+      "category": "Furniture",
+      "defname": "HisaHyperSleepBedRoyalGuest",
+      "price": 3917,
+      "mod": "n/a",
+      "customname": ""
+    },
+    {
+      "abr": "guesthisamedicalbed",
+      "category": "Furniture",
+      "defname": "Hisa_MediBedGuest",
+      "price": 2958,
+      "mod": "n/a",
+      "customname": ""
+    },
+    {
+      "abr": "guestminchocrepebedroll",
+      "category": "Furniture",
+      "defname": "Mincho_Crepe_BedrollGuest",
+      "price": 68,
+      "mod": "n/a",
+      "customname": ""
+    },
+    {
+      "abr": "guestminchofullsizecakebed",
+      "category": "Furniture",
+      "defname": "Mincho_Full_Size_Cake_BedGuest",
+      "price": 1833,
+      "mod": "n/a",
+      "customname": ""
+    },
+    {
+      "abr": "guestminchosinglesizecakebed",
+      "category": "Furniture",
+      "defname": "Mincho_Single_Size_Cake_BedGuest",
+      "price": 917,
+      "mod": "n/a",
+      "customname": ""
+    },
+    {
+      "abr": "guestslabbed",
+      "category": "Furniture",
+      "defname": "Bed_StoneSlabGuest",
+      "price": 111,
+      "mod": "n/a",
+      "customname": ""
+    },
+    {
+      "abr": "guestsimplebed",
+      "category": "Furniture",
+      "defname": "Bed_SimpleGuest",
+      "price": 137,
+      "mod": "n/a",
+      "customname": ""
+    },
+    {
+      "abr": "guestergonomicbed",
+      "category": "Furniture",
+      "defname": "Bed_ErgonomicGuest",
+      "price": 450,
+      "mod": "n/a",
+      "customname": ""
+    },
+    {
+      "abr": "guestergonomicdoublebed",
+      "category": "Furniture",
+      "defname": "Bed_DoubleErgonomicGuest",
+      "price": 867,
+      "mod": "n/a",
+      "customname": ""
+    },
+    {
+      "abr": "guestroyalposterbed",
+      "category": "Furniture",
+      "defname": "Bed_KingsizeGuest",
+      "price": 2008,
+      "mod": "n/a",
       "customname": ""
     }
   ]
