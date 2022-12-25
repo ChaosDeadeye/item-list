@@ -1,5 +1,3 @@
-{
-  "pawns" : [
   {
     "data": {
       "customName": false,
@@ -20,152 +18,7 @@
     "defName": "Human",
     "enabled": true,
     "name": "human",
-    "price": 2917
-  },
-  {
-    "data": {
-      "customName": false,
-      "stats": [
-        "+60.00 Mass",
-        "+20% Flammability",
-        "+$3000 Market value",
-        "+5.00 Move speed",
-        "-5.0C Minimum comfortable temperature",
-        "+30.0C Maximum comfortable temperature",
-        "+40 Leather amount",
-        "+3 Honor value",
-        "+10% Mental break threshold",
-        "+100% Psychic sensitivity",
-        "+150.00% Social impact",
-        "+125% Immunity gain speed",
-        "+95% Pain shock threshold",
-        "+125% Medical tend speed",
-        "+75% Animal gather speed",
-        "+75% Plant work speed",
-        "+75% Research speed",
-        "+125% Mining speed",
-        "+125% Construction speed",
-        "+1.3 Melee dodge chance",
-        "+25% Melee armor penetration",
-        "+1.3 Melee hit chance",
-        "+1.3 Shooting accuracy",
-        "+75% Incoming damage multiplier"
-      ],
-      "mod": "Unknown",
-      "karmaType": null
-    },
-    "description": "Geneticaly-modified space-warrior foxgirls.",
-    "defName": "Alien_Hisa",
-    "enabled": true,
-    "name": "hisa",
-    "price": 5000
-  },
-  {
-    "data": {
-      "customName": false,
-      "stats": [
-        "+56.00 Mass",
-        "+200% Flammability",
-        "+40.0% Armor - Sharp",
-        "+20.0% Armor - Blunt",
-        "+0.0% Armor - Heat",
-        "+3% Mental break threshold",
-        "+0% Psychic sensitivity",
-        "+100% Toxic resistance",
-        "+100% Toxic environment resistance",
-        "+80% Global learning factor",
-        "+140% Rest rate multiplier",
-        "+200% Eating speed",
-        "+400% Immunity gain speed",
-        "+150 Carrying capacity",
-        "+40 Meat amount",
-        "+0 Leather amount",
-        "+0 Minimum handling skill",
-        "+100% Pain shock threshold",
-        "+1.4 Foraged food amount",
-        "+90.00% Negotiation ability",
-        "+90.00% Trade price improvement",
-        "+90.00% Social impact",
-        "+90% Global work speed",
-        "+100% General labor speed",
-        "+$2000 Market value",
-        "+4.00 Move speed",
-        "-300.0C Minimum comfortable temperature",
-        "+23.0C Maximum comfortable temperature",
-        "+3 Honor value"
-      ],
-      "mod": "Unknown",
-      "karmaType": null
-    },
-    "description": "Mincho is a slime-like race fully comprised of mintchoco ice cream.\n\nICEcRIM Co. created slime using mintchoco flavor ice cream with variant mechanite as an advertisement toy. However, due to an accidental mix-up during the final production stage, the wrong kind of variant, that was supposed to be disposed of due to critical defects, was used.\n\nMincho mimics human beings out of pure affection. They wish the humans to love them and \"consume\" them.\n\nDue to the simplicity of body composition, they are capable of regenerating even severed heads, resilient against diseases, and endures most fatal wounds.\n\nDifferences in the nerve system made them also immune to pain and psychic waves.\n\nHowever, Mincho is not capable of thinking, slow to learn and work, and weak against heat. \n\nWhen they are killed somehow (perhaps by having their core destroyed) they will turn into a lump of mintchoco ice cream.",
-    "defName": "Mincho_ThingDef",
-    "enabled": true,
-    "name": "mincho",
-    "price": 3333
-  },
-  {
-    "data": {
-      "customName": false,
-      "stats": [
-        "+60.00 Mass",
-        "+100% Flammability",
-        "+$3500 Market value",
-        "+5.25 Move speed",
-        "+0.0C Minimum comfortable temperature",
-        "+36.0C Maximum comfortable temperature",
-        "+45 Leather amount",
-        "+3 Honor value",
-        "+90% Research speed",
-        "+125% Mining speed",
-        "+95.00% Social impact",
-        "+1.3 Melee dodge chance"
-      ],
-      "mod": "Unknown",
-      "karmaType": null
-    },
-    "description": "A bloodthirsty vulpine near-human.",
-    "defName": "ReviaRaceAlien",
-    "enabled": true,
-    "name": "revia",
-    "price": 5833
-  },
-  {
-    "data": {
-      "customName": false,
-      "stats": [
-        "+60.00 Mass",
-        "+50% Flammability",
-        "+$5800 Market value",
-        "+5.20 Move speed",
-        "-45.0C Minimum comfortable temperature",
-        "+45.0C Maximum comfortable temperature",
-        "+150% Immunity gain speed",
-        "+150 Carrying capacity",
-        "+35.0% Armor - Sharp",
-        "+35.0% Armor - Blunt",
-        "+35.0% Armor - Heat",
-        "+60% Toxic resistance",
-        "+110% Eating speed",
-        "+45 Meat amount",
-        "+80% Plant work speed",
-        "+120% Plant harvest yield",
-        "+75 Leather amount",
-        "+80% Mining speed",
-        "+120% Mining yield",
-        "+1.0 Melee dodge chance",
-        "+100% Aiming time",
-        "+80.00% Negotiation ability",
-        "+90% Construction speed",
-        "+125.00% Social impact"
-      ],
-      "mod": "Unknown",
-      "karmaType": null
-    },
-    "description": "A beautiful xenohuman with characteristics reminiscent of dragons, this particular strain seems to have evolved recently either due to poaching from human slavetraders or some other interference. Originally created as a powerful farm animal or perhaps targets for body confiscation by transhumanists, these long-lived people are beginning to use every scrap of technology they can and albeit slowly, forming large and complex social groups. They are naturally in a good mood, but this has been shown to quickly deteriorate if attacked, and despite their small stature their bones and muscles are much denser compared to genome typical humans. While they could hardly be considered greedy, they have been seen showing a fondness for rare metals and gems.",
-    "defName": "Dragonian_Prime",
-    "enabled": true,
-    "name": "dragonian",
-    "price": 9667
+    "price": 3000
   },
   {
     "data": {
@@ -218,6 +71,82 @@
     "enabled": true,
     "name": "Rabbie",
     "price": 3333
+  },
+  {
+    "data": {
+      "customName": false,
+      "stats": [
+        "+60.00 Mass",
+        "+50% Flammability",
+        "+$5800 Market value",
+        "+5.20 Move speed",
+        "-45.0C Minimum comfortable temperature",
+        "+45.0C Maximum comfortable temperature",
+        "+150% Immunity gain speed",
+        "+150 Carrying capacity",
+        "+35.0% Armor - Sharp",
+        "+35.0% Armor - Blunt",
+        "+35.0% Armor - Heat",
+        "+60% Toxic resistance",
+        "+110% Eating speed",
+        "+45 Meat amount",
+        "+80% Plant work speed",
+        "+120% Plant harvest yield",
+        "+75 Leather amount",
+        "+80% Mining speed",
+        "+120% Mining yield",
+        "+1.0 Melee dodge chance",
+        "+100% Aiming time",
+        "+80.00% Negotiation ability",
+        "+90% Construction speed",
+        "+125.00% Social impact"
+      ],
+      "mod": "Unknown",
+      "karmaType": null
+    },
+    "description": "A beautiful xenohuman with characteristics reminiscent of dragons, this particular strain seems to have evolved recently either due to poaching from human slavetraders or some other interference. Originally created as a powerful farm animal or perhaps targets for body confiscation by transhumanists, these long-lived people are beginning to use every scrap of technology they can and albeit slowly, forming large and complex social groups. They are naturally in a good mood, but this has been shown to quickly deteriorate if attacked, and despite their small stature their bones and muscles are much denser compared to genome typical humans. While they could hardly be considered greedy, they have been seen showing a fondness for rare metals and gems.",
+    "defName": "Dragonian_Prime",
+    "enabled": true,
+    "name": "Dragonian",
+    "price": 6000
+  },
+  {
+    "data": {
+      "customName": false,
+      "stats": [
+        "+60.00 Mass",
+        "+20% Flammability",
+        "+$3000 Market value",
+        "+5.00 Move speed",
+        "-5.0C Minimum comfortable temperature",
+        "+30.0C Maximum comfortable temperature",
+        "+40 Leather amount",
+        "+3 Honor value",
+        "+10% Mental break threshold",
+        "+100% Psychic sensitivity",
+        "+150.00% Social impact",
+        "+125% Immunity gain speed",
+        "+95% Pain shock threshold",
+        "+125% Medical tend speed",
+        "+75% Animal gather speed",
+        "+75% Plant work speed",
+        "+75% Research speed",
+        "+125% Mining speed",
+        "+125% Construction speed",
+        "+1.3 Melee dodge chance",
+        "+25% Melee armor penetration",
+        "+1.3 Melee hit chance",
+        "+1.3 Shooting accuracy",
+        "+75% Incoming damage multiplier"
+      ],
+      "mod": "Unknown",
+      "karmaType": null
+    },
+    "description": "[Why so expensive? Because Hisa join fully geared with high end equipment.] Geneticaly-modified space-warrior foxgirls.",
+    "defName": "Alien_Hisa",
+    "enabled": true,
+    "name": "hisa",
+    "price": 20000
   },
   {
     "data": {
@@ -357,7 +286,7 @@
         "+$4000 Market value",
         "+4 Honor value",
         "+30 Carrying capacity",
-        "+25% Global learning factor",
+        "+100% Global learning factor",
         "+100% Psychic sensitivity",
         "+98% Rest rate multiplier",
         "+98% Immunity gain speed",
@@ -372,7 +301,7 @@
         "+31.0C Maximum comfortable temperature",
         "-100% Toxic resistance",
         "-100% Toxic environment resistance",
-        "+5.00 Move speed",
+        "+4.20 Move speed",
         "+90% Aiming time",
         "+0.8 Shooting accuracy",
         "+2.0 Melee dodge chance",
@@ -390,6 +319,75 @@
     "enabled": true,
     "name": "Miho",
     "price": 6667
+  },
+  {
+    "data": {
+      "customName": false,
+      "stats": [
+        "+56.00 Mass",
+        "+200% Flammability",
+        "+40.0% Armor - Sharp",
+        "+20.0% Armor - Blunt",
+        "+0.0% Armor - Heat",
+        "+3% Mental break threshold",
+        "+0% Psychic sensitivity",
+        "+100% Toxic resistance",
+        "+100% Toxic environment resistance",
+        "+80% Global learning factor",
+        "+140% Rest rate multiplier",
+        "+200% Eating speed",
+        "+400% Immunity gain speed",
+        "+150 Carrying capacity",
+        "+40 Meat amount",
+        "+0 Leather amount",
+        "+0 Minimum handling skill",
+        "+100% Pain shock threshold",
+        "+1.4 Foraged food amount",
+        "+90.00% Negotiation ability",
+        "+90.00% Trade price improvement",
+        "+90.00% Social impact",
+        "+90% Global work speed",
+        "+100% General labor speed",
+        "+$2000 Market value",
+        "+4.00 Move speed",
+        "-300.0C Minimum comfortable temperature",
+        "+23.0C Maximum comfortable temperature",
+        "+3 Honor value"
+      ],
+      "mod": "Unknown",
+      "karmaType": null
+    },
+    "description": "Mincho is a slime-like race fully comprised of mintchoco ice cream.\n\nICEcRIM Co. created slime using mintchoco flavor ice cream with variant mechanite as an advertisement toy. However, due to an accidental mix-up during the final production stage, the wrong kind of variant, that was supposed to be disposed of due to critical defects, was used.\n\nMincho mimics human beings out of pure affection. They wish the humans to love them and \"consume\" them.\n\nDue to the simplicity of body composition, they are capable of regenerating even severed heads, resilient against diseases, and endures most fatal wounds.\n\nDifferences in the nerve system made them also immune to pain and psychic waves.\n\nHowever, Mincho is not capable of thinking, slow to learn and work, and weak against heat. \n\nWhen they are killed somehow (perhaps by having their core destroyed) they will turn into a lump of mintchoco ice cream.",
+    "defName": "Mincho_ThingDef",
+    "enabled": true,
+    "name": "mincho",
+    "price": 3333
+  },
+  {
+    "data": {
+      "customName": false,
+      "stats": [
+        "+60.00 Mass",
+        "+100% Flammability",
+        "+$3500 Market value",
+        "+5.25 Move speed",
+        "+0.0C Minimum comfortable temperature",
+        "+36.0C Maximum comfortable temperature",
+        "+45 Leather amount",
+        "+3 Honor value",
+        "+90% Research speed",
+        "+125% Mining speed",
+        "+95.00% Social impact",
+        "+1.3 Melee dodge chance"
+      ],
+      "mod": "Unknown",
+      "karmaType": null
+    },
+    "description": "A bloodthirsty vulpine near-human.",
+    "defName": "ReviaRaceAlien",
+    "enabled": true,
+    "name": "Revia",
+    "price": 5833
   }
 ]
 }
