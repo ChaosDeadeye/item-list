@@ -492,7 +492,7 @@
       "abr": "animalflap",
       "category": "Misc",
       "defname": "AnimalFlap",
-      "price": 88,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -508,7 +508,7 @@
       "abr": "animalistslab(broad)",
       "category": "Furniture",
       "defname": "AnimalistSlab_Broad",
-      "price": 508,
+      "price": -10,
       "mod": "Ideology",
       "customname": ""
     },
@@ -516,7 +516,7 @@
       "abr": "animalistslab(medium)",
       "category": "Furniture",
       "defname": "AnimalistSlab_Medium",
-      "price": 342,
+      "price": -10,
       "mod": "Ideology",
       "customname": ""
     },
@@ -588,7 +588,7 @@
       "abr": "ark",
       "category": "Inert relics",
       "defname": "RelicInertArk",
-      "price": 833,
+      "price": -10,
       "mod": "Ideology",
       "customname": ""
     },
@@ -644,7 +644,7 @@
       "abr": "autobong",
       "category": "Misc",
       "defname": "Autobong",
-      "price": 567,
+      "price": -10,
       "mod": "Ideology",
       "customname": ""
     },
@@ -652,7 +652,7 @@
       "abr": "autocannonturret",
       "category": "Misc",
       "defname": "Turret_Autocannon",
-      "price": 2117,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -660,7 +660,7 @@
       "abr": "autodoor",
       "category": "Misc",
       "defname": "Autodoor",
-      "price": 323,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -700,7 +700,7 @@
       "abr": "bandnode",
       "category": "Misc",
       "defname": "BandNode",
-      "price": 892,
+      "price": -10,
       "mod": "Biotech",
       "customname": ""
     },
@@ -716,7 +716,7 @@
       "abr": "barricade",
       "category": "Misc",
       "defname": "Barricade",
-      "price": 19,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -876,7 +876,7 @@
       "abr": "biosculpterpod",
       "category": "Misc",
       "defname": "BiosculpterPod",
-      "price": 758,
+      "price": -10,
       "mod": "Ideology",
       "customname": ""
     },
@@ -940,7 +940,7 @@
       "abr": "bloodtorch",
       "category": "Misc",
       "defname": "SanguphageMeetingTorch",
-      "price": 41,
+      "price": -10,
       "mod": "Biotech",
       "customname": ""
     },
@@ -1012,7 +1012,7 @@
       "abr": "box",
       "category": "Inert relics",
       "defname": "RelicInertBox",
-      "price": 833,
+      "price": -10,
       "mod": "Ideology",
       "customname": ""
     },
@@ -1060,7 +1060,7 @@
       "abr": "burnbong",
       "category": "Misc",
       "defname": "Burnbong",
-      "price": 517,
+      "price": -10,
       "mod": "Ideology",
       "customname": ""
     },
@@ -1092,7 +1092,7 @@
       "abr": "campfire",
       "category": "Misc",
       "defname": "Campfire",
-      "price": 41,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -1100,7 +1100,7 @@
       "abr": "cannibalplatter",
       "category": "Misc",
       "defname": "CannibalPlatter",
-      "price": 220,
+      "price": -10,
       "mod": "Ideology",
       "customname": ""
     },
@@ -1220,7 +1220,7 @@
       "abr": "chalice",
       "category": "Inert relics",
       "defname": "RelicInertCup",
-      "price": 833,
+      "price": -10,
       "mod": "Ideology",
       "customname": ""
     },
@@ -1252,7 +1252,7 @@
       "abr": "chemfuelpoweredgenerator",
       "category": "Misc",
       "defname": "ChemfuelPoweredGenerator",
-      "price": 492,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -1332,7 +1332,7 @@
       "abr": "christmastree",
       "category": "Misc",
       "defname": "ChristmasTree",
-      "price": 263,
+      "price": -10,
       "mod": "Ideology",
       "customname": ""
     },
@@ -1412,7 +1412,7 @@
       "abr": "column",
       "category": "Misc",
       "defname": "Column",
-      "price": 71,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -1420,7 +1420,7 @@
       "abr": "commsconsole",
       "category": "Misc",
       "defname": "CommsConsole",
-      "price": 608,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -1508,7 +1508,7 @@
       "abr": "count-downactivator",
       "category": "Misc",
       "defname": "ActivatorCountdown",
-      "price": 107,
+      "price": -10,
       "mod": "Royalty",
       "customname": ""
     },
@@ -1556,7 +1556,7 @@
       "abr": "cube",
       "category": "Inert relics",
       "defname": "RelicInertCube",
-      "price": 833,
+      "price": -10,
       "mod": "Ideology",
       "customname": ""
     },
@@ -1572,7 +1572,7 @@
       "abr": "darktorch",
       "category": "Misc",
       "defname": "Darktorch",
-      "price": 41,
+      "price": -10,
       "mod": "Ideology",
       "customname": ""
     },
@@ -1588,7 +1588,7 @@
       "abr": "deathrestaccelerator",
       "category": "Misc",
       "defname": "DeathrestAccelerator",
-      "price": 1183,
+      "price": -10,
       "mod": "Biotech",
       "customname": ""
     },
@@ -1596,7 +1596,7 @@
       "abr": "deathrestcapacityserum",
       "category": "Misc",
       "defname": "DeathrestCapacitySerum",
-      "price": 1667,
+      "price": -10,
       "mod": "Biotech",
       "customname": ""
     },
@@ -1604,7 +1604,7 @@
       "abr": "deathrestcasket",
       "category": "Misc",
       "defname": "DeathrestCasket",
-      "price": 492,
+      "price": -10,
       "mod": "Biotech",
       "customname": ""
     },
@@ -1844,7 +1844,7 @@
       "abr": "electriccrematorium",
       "category": "Misc",
       "defname": "ElectricCrematorium",
-      "price": 700,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -1900,7 +1900,7 @@
       "abr": "elephantmeat",
       "category": "Meat",
       "defname": "Meat_Elephant",
-      "price": -10,
+      "price": 3,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -2044,7 +2044,7 @@
       "abr": "fence",
       "category": "Misc",
       "defname": "Fence",
-      "price": 4,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -2052,7 +2052,7 @@
       "abr": "fencegate",
       "category": "Misc",
       "defname": "FenceGate",
-      "price": 86,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -2100,7 +2100,7 @@
       "abr": "firefoampopper",
       "category": "Misc",
       "defname": "FirefoamPopper",
-      "price": 300,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -2228,7 +2228,7 @@
       "abr": "fragment",
       "category": "Inert relics",
       "defname": "RelicInertFragment",
-      "price": 833,
+      "price": -10,
       "mod": "Ideology",
       "customname": ""
     },
@@ -2252,7 +2252,7 @@
       "abr": "fungusdarktorch",
       "category": "Misc",
       "defname": "DarktorchFungus",
-      "price": 37,
+      "price": -10,
       "mod": "Ideology",
       "customname": ""
     },
@@ -2308,7 +2308,7 @@
       "abr": "geneassembler",
       "category": "Misc",
       "defname": "GeneAssembler",
-      "price": 917,
+      "price": -10,
       "mod": "Biotech",
       "customname": ""
     },
@@ -2324,7 +2324,7 @@
       "abr": "geneextractor",
       "category": "Misc",
       "defname": "GeneExtractor",
-      "price": 1117,
+      "price": -10,
       "mod": "Biotech",
       "customname": ""
     },
@@ -2332,7 +2332,7 @@
       "abr": "geneprocessor",
       "category": "Misc",
       "defname": "GeneProcessor",
-      "price": 850,
+      "price": -10,
       "mod": "Biotech",
       "customname": ""
     },
@@ -2348,7 +2348,7 @@
       "abr": "geothermalgenerator",
       "category": "Misc",
       "defname": "GeothermalGenerator",
-      "price": 1575,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -2356,7 +2356,7 @@
       "abr": "gibbetcage",
       "category": "Misc",
       "defname": "GibbetCage",
-      "price": 210,
+      "price": -10,
       "mod": "Ideology",
       "customname": ""
     },
@@ -2388,7 +2388,7 @@
       "abr": "glucosoidpump",
       "category": "Misc",
       "defname": "GlucosoidPump",
-      "price": 858,
+      "price": -10,
       "mod": "Biotech",
       "customname": ""
     },
@@ -2452,7 +2452,7 @@
       "abr": "grandaltar",
       "category": "Misc",
       "defname": "Altar_Grand",
-      "price": 1183,
+      "price": -10,
       "mod": "Ideology",
       "customname": ""
     },
@@ -2476,7 +2476,7 @@
       "abr": "grandstele",
       "category": "Misc",
       "defname": "SteleGrand",
-      "price": 933,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -2524,7 +2524,7 @@
       "abr": "ground-penetratingscanner",
       "category": "Misc",
       "defname": "GroundPenetratingScanner",
-      "price": 1092,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -2532,7 +2532,7 @@
       "abr": "growthvat",
       "category": "Misc",
       "defname": "GrowthVat",
-      "price": 733,
+      "price": -10,
       "mod": "Biotech",
       "customname": ""
     },
@@ -2692,7 +2692,7 @@
       "abr": "hemogenamplifier",
       "category": "Misc",
       "defname": "HemogenAmplifier",
-      "price": 917,
+      "price": -10,
       "mod": "Biotech",
       "customname": ""
     },
@@ -2708,7 +2708,7 @@
       "abr": "hemopump",
       "category": "Misc",
       "defname": "Hemopump",
-      "price": 600,
+      "price": -10,
       "mod": "Biotech",
       "customname": ""
     },
@@ -2724,7 +2724,7 @@
       "abr": "hermeticcrate",
       "category": "Misc",
       "defname": "AncientHermeticCrate",
-      "price": 6,
+      "price": -10,
       "mod": "Ideology",
       "customname": ""
     },
@@ -2748,7 +2748,7 @@
       "abr": "hilt",
       "category": "Inert relics",
       "defname": "RelicInertSwordHandle",
-      "price": 833,
+      "price": -10,
       "mod": "Ideology",
       "customname": ""
     },
@@ -2772,7 +2772,7 @@
       "abr": "hopper",
       "category": "Misc",
       "defname": "Hopper",
-      "price": 49,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -2852,7 +2852,7 @@
       "abr": "hydroponicsbasin",
       "category": "Misc",
       "defname": "HydroponicsBasin",
-      "price": 383,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -2884,7 +2884,7 @@
       "abr": "ideogram",
       "category": "Misc",
       "defname": "Ideogram",
-      "price": 308,
+      "price": -10,
       "mod": "Ideology",
       "customname": ""
     },
@@ -3012,7 +3012,7 @@
       "abr": "incenseshrine",
       "category": "Misc",
       "defname": "IncenseShrine",
-      "price": 272,
+      "price": -10,
       "mod": "Ideology",
       "customname": ""
     },
@@ -3148,7 +3148,7 @@
       "abr": "kneelpillow",
       "category": "Furniture",
       "defname": "KneelPillow",
-      "price": 98,
+      "price": -10,
       "mod": "Ideology",
       "customname": ""
     },
@@ -3156,7 +3156,7 @@
       "abr": "kneelsheet",
       "category": "Furniture",
       "defname": "KneelSheet",
-      "price": 281,
+      "price": -10,
       "mod": "Ideology",
       "customname": ""
     },
@@ -3196,7 +3196,7 @@
       "abr": "largealtar",
       "category": "Misc",
       "defname": "Altar_Large",
-      "price": 783,
+      "price": -10,
       "mod": "Ideology",
       "customname": ""
     },
@@ -3204,7 +3204,7 @@
       "abr": "largemechgestator",
       "category": "Misc",
       "defname": "LargeMechGestator",
-      "price": 1367,
+      "price": -10,
       "mod": "Biotech",
       "customname": ""
     },
@@ -3212,7 +3212,7 @@
       "abr": "largemechrecharger",
       "category": "Misc",
       "defname": "StandardRecharger",
-      "price": 950,
+      "price": -10,
       "mod": "Biotech",
       "customname": ""
     },
@@ -3220,7 +3220,7 @@
       "abr": "largenatureshrine",
       "category": "Misc",
       "defname": "NatureShrine_Large",
-      "price": 1183,
+      "price": -10,
       "mod": "Royalty",
       "customname": ""
     },
@@ -3236,7 +3236,7 @@
       "abr": "largestele",
       "category": "Misc",
       "defname": "SteleLarge",
-      "price": 467,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -3260,7 +3260,7 @@
       "abr": "lectern",
       "category": "Misc",
       "defname": "Lectern",
-      "price": 197,
+      "price": -10,
       "mod": "Ideology",
       "customname": ""
     },
@@ -3268,7 +3268,7 @@
       "abr": "lightball",
       "category": "Misc",
       "defname": "LightBall",
-      "price": 154,
+      "price": -10,
       "mod": "Ideology",
       "customname": ""
     },
@@ -3324,7 +3324,7 @@
       "abr": "long-rangemineralscanner",
       "category": "Misc",
       "defname": "LongRangeMineralScanner",
-      "price": 1683,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -3340,7 +3340,7 @@
       "abr": "loudspeaker",
       "category": "Misc",
       "defname": "Loudspeaker",
-      "price": 367,
+      "price": -10,
       "mod": "Ideology",
       "customname": ""
     },
@@ -3444,7 +3444,7 @@
       "abr": "mechassembler",
       "category": "Misc",
       "defname": "MechAssembler",
-      "price": 467,
+      "price": -10,
       "mod": "Royalty",
       "customname": ""
     },
@@ -3452,7 +3452,7 @@
       "abr": "mechbooster",
       "category": "Misc",
       "defname": "MechBooster",
-      "price": 575,
+      "price": -10,
       "mod": "Biotech",
       "customname": ""
     },
@@ -3460,7 +3460,7 @@
       "abr": "mechcapsule",
       "category": "Misc",
       "defname": "MechCapsule",
-      "price": 467,
+      "price": -10,
       "mod": "Royalty",
       "customname": ""
     },
@@ -3468,7 +3468,7 @@
       "abr": "mechdropbeacon",
       "category": "Misc",
       "defname": "MechDropBeacon",
-      "price": 105,
+      "price": -10,
       "mod": "Royalty",
       "customname": ""
     },
@@ -3484,7 +3484,7 @@
       "abr": "mechgestator",
       "category": "Misc",
       "defname": "MechGestator",
-      "price": 683,
+      "price": -10,
       "mod": "Biotech",
       "customname": ""
     },
@@ -3492,7 +3492,7 @@
       "abr": "mechhigh-shield",
       "category": "Misc",
       "defname": "ShieldGeneratorMortar",
-      "price": 1667,
+      "price": -10,
       "mod": "Royalty",
       "customname": ""
     },
@@ -3500,7 +3500,7 @@
       "abr": "mechlow-shield",
       "category": "Misc",
       "defname": "ShieldGeneratorBullets",
-      "price": 1667,
+      "price": -10,
       "mod": "Royalty",
       "customname": ""
     },
@@ -3508,7 +3508,7 @@
       "abr": "mechnode",
       "category": "Special",
       "defname": "Gloomlight",
-      "price": 333,
+      "price": -10,
       "mod": "Royalty",
       "customname": ""
     },
@@ -3516,7 +3516,7 @@
       "abr": "mechrecharger",
       "category": "Misc",
       "defname": "BasicRecharger",
-      "price": 500,
+      "price": -10,
       "mod": "Biotech",
       "customname": ""
     },
@@ -3524,7 +3524,7 @@
       "abr": "mechanoiddetritus",
       "category": "Misc",
       "defname": "AncientMechDetritus",
-      "price": 5,
+      "price": -10,
       "mod": "Ideology",
       "customname": ""
     },
@@ -3532,7 +3532,7 @@
       "abr": "mechanoidtransponder",
       "category": "Misc",
       "defname": "MechanoidTransponder",
-      "price": 333,
+      "price": -10,
       "mod": "Biotech",
       "customname": ""
     },
@@ -3540,7 +3540,7 @@
       "abr": "mechbandantenna",
       "category": "Misc",
       "defname": "BurnoutMechlinkBooster",
-      "price": 417,
+      "price": -10,
       "mod": "Biotech",
       "customname": ""
     },
@@ -3548,7 +3548,7 @@
       "abr": "mechbanddish",
       "category": "Misc",
       "defname": "MechbandDish",
-      "price": 1325,
+      "price": -10,
       "mod": "Biotech",
       "customname": ""
     },
@@ -3596,7 +3596,7 @@
       "abr": "meditationthrone",
       "category": "Furniture",
       "defname": "Throne",
-      "price": 475,
+      "price": -10,
       "mod": "Royalty",
       "customname": ""
     },
@@ -3604,7 +3604,7 @@
       "abr": "mediumaltar",
       "category": "Misc",
       "defname": "Altar_Medium",
-      "price": 425,
+      "price": -10,
       "mod": "Ideology",
       "customname": ""
     },
@@ -3692,7 +3692,7 @@
       "abr": "moisturepump",
       "category": "Misc",
       "defname": "MoisturePump",
-      "price": 458,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -3732,7 +3732,7 @@
       "abr": "morbidslab(broad)",
       "category": "Furniture",
       "defname": "MorbidSlab_Broad",
-      "price": 508,
+      "price": -10,
       "mod": "Ideology",
       "customname": ""
     },
@@ -3740,7 +3740,7 @@
       "abr": "morbidslab(medium)",
       "category": "Furniture",
       "defname": "MorbidSlab_Medium",
-      "price": 342,
+      "price": -10,
       "mod": "Ideology",
       "customname": ""
     },
@@ -3780,7 +3780,7 @@
       "abr": "multi-analyzer",
       "category": "Misc",
       "defname": "MultiAnalyzer",
-      "price": 1700,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -3796,7 +3796,7 @@
       "abr": "neuralsupercharger",
       "category": "Misc",
       "defname": "NeuralSupercharger",
-      "price": 408,
+      "price": -10,
       "mod": "Ideology",
       "customname": ""
     },
@@ -3828,7 +3828,7 @@
       "abr": "nutrientpastedispenser",
       "category": "Misc",
       "defname": "NutrientPasteDispenser",
-      "price": 567,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -3868,7 +3868,7 @@
       "abr": "orbitaltradebeacon",
       "category": "Misc",
       "defname": "OrbitalTradeBeacon",
-      "price": 185,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -3980,7 +3980,7 @@
       "abr": "penmarker",
       "category": "Misc",
       "defname": "PenMarker",
-      "price": 104,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -3988,7 +3988,7 @@
       "abr": "pendant",
       "category": "Inert relics",
       "defname": "RelicInertPendant",
-      "price": 833,
+      "price": -10,
       "mod": "Ideology",
       "customname": ""
     },
@@ -4036,7 +4036,7 @@
       "abr": "pew",
       "category": "Furniture",
       "defname": "Pew",
-      "price": 350,
+      "price": -10,
       "mod": "Ideology",
       "customname": ""
     },
@@ -4124,7 +4124,7 @@
       "abr": "podlauncher",
       "category": "Misc",
       "defname": "PodLauncher",
-      "price": 230,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -4148,7 +4148,7 @@
       "abr": "pollutionpump",
       "category": "Misc",
       "defname": "PollutionPump",
-      "price": 315,
+      "price": -10,
       "mod": "Biotech",
       "customname": ""
     },
@@ -4188,7 +4188,7 @@
       "abr": "powerswitch",
       "category": "Misc",
       "defname": "PowerSwitch",
-      "price": 102,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -4284,7 +4284,7 @@
       "abr": "proximityactivator",
       "category": "Misc",
       "defname": "ActivatorProximity",
-      "price": 107,
+      "price": -10,
       "mod": "Royalty",
       "customname": ""
     },
@@ -4372,7 +4372,7 @@
       "abr": "psychofluidpump",
       "category": "Misc",
       "defname": "PsychofluidPump",
-      "price": 2042,
+      "price": -10,
       "mod": "Biotech",
       "customname": ""
     },
@@ -4404,7 +4404,7 @@
       "abr": "pyre",
       "category": "Misc",
       "defname": "Pyre",
-      "price": 230,
+      "price": -10,
       "mod": "Ideology",
       "customname": ""
     },
@@ -4492,7 +4492,7 @@
       "abr": "reliquary",
       "category": "Misc",
       "defname": "Reliquary",
-      "price": 2492,
+      "price": -10,
       "mod": "Ideology",
       "customname": ""
     },
@@ -4588,7 +4588,7 @@
       "abr": "rocketswarmlauncher",
       "category": "Misc",
       "defname": "Turret_RocketswarmLauncher",
-      "price": 1792,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -4604,7 +4604,7 @@
       "abr": "rusticrug(broad)",
       "category": "Furniture",
       "defname": "RusticRug_Broad",
-      "price": 383,
+      "price": -10,
       "mod": "Ideology",
       "customname": ""
     },
@@ -4612,7 +4612,7 @@
       "abr": "rusticrug(medium)",
       "category": "Furniture",
       "defname": "RusticRug_Medium",
-      "price": 256,
+      "price": -10,
       "mod": "Ideology",
       "customname": ""
     },
@@ -4668,7 +4668,7 @@
       "abr": "securitycrate",
       "category": "Misc",
       "defname": "AncientSecurityCrate",
-      "price": 12,
+      "price": -10,
       "mod": "Ideology",
       "customname": ""
     },
@@ -4676,7 +4676,7 @@
       "abr": "sensorcluster",
       "category": "Misc",
       "defname": "Ship_SensorCluster",
-      "price": 3008,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -4732,7 +4732,7 @@
       "abr": "shieldcore",
       "category": "Misc",
       "defname": "BroadshieldCore",
-      "price": 583,
+      "price": -10,
       "mod": "Royalty",
       "customname": ""
     },
@@ -4804,7 +4804,7 @@
       "abr": "advancedgeothermalgenerator",
       "category": "Misc",
       "defname": "VPE_AdvancedGeothermalGenerator",
-      "price": 3058,
+      "price": -10,
       "mod": "Vanilla Furniture Expanded - Power",
       "customname": ""
     },
@@ -4812,7 +4812,7 @@
       "abr": "advancedsolargenerator",
       "category": "Misc",
       "defname": "VFE_AdvancedSolarGenerator",
-      "price": 1842,
+      "price": -10,
       "mod": "Vanilla Furniture Expanded - Power",
       "customname": ""
     },
@@ -4820,7 +4820,7 @@
       "abr": "advancedwatermillgenerator",
       "category": "Misc",
       "defname": "VFE_AdvancedWatermillGenerator",
-      "price": 1817,
+      "price": -10,
       "mod": "Vanilla Furniture Expanded - Power",
       "customname": ""
     },
@@ -4828,7 +4828,7 @@
       "abr": "advancedwindturbine",
       "category": "Misc",
       "defname": "VFE_AdvancedWindTurbine",
-      "price": 1850,
+      "price": -10,
       "mod": "Vanilla Furniture Expanded - Power",
       "customname": ""
     },
@@ -4956,7 +4956,7 @@
       "abr": "anchovy",
       "category": "Raw fish",
       "defname": "VCEF_RawAnchovy",
-      "price": -10,
+      "price": 1,
       "mod": "Vanilla Fishing Expanded",
       "customname": ""
     },
@@ -5012,7 +5012,7 @@
       "abr": "animalfencepost",
       "category": "Misc",
       "defname": "CAFencePost",
-      "price": 11,
+      "price": -10,
       "mod": "Caravan Adventures",
       "customname": ""
     },
@@ -5164,7 +5164,7 @@
       "abr": "auxiliaryanalyzer",
       "category": "Misc",
       "defname": "MR_SubAnalyzer",
-      "price": 458,
+      "price": -10,
       "mod": "Maru Race",
       "customname": ""
     },
@@ -5396,7 +5396,7 @@
       "abr": "bio-analyzer",
       "category": "Misc",
       "defname": "MR_BiometricAnalyzer",
-      "price": 2433,
+      "price": -10,
       "mod": "Maru Race",
       "customname": ""
     },
@@ -5476,7 +5476,7 @@
       "abr": "blackgate",
       "category": "Misc",
       "defname": "HisaBlackGate",
-      "price": 58783,
+      "price": -10,
       "mod": "Hisa Faction",
       "customname": ""
     },
@@ -5580,7 +5580,7 @@
       "abr": "blocker",
       "category": "Misc",
       "defname": "Blocker",
-      "price": 126,
+      "price": -10,
       "mod": "Hisa Faction",
       "customname": ""
     },
@@ -5612,7 +5612,7 @@
       "abr": "bloodsigil",
       "category": "Misc",
       "defname": "ReviaBloodSigil",
-      "price": 1167,
+      "price": -10,
       "mod": "Revia Race",
       "customname": ""
     },
@@ -5780,7 +5780,7 @@
       "abr": "burnpit",
       "category": "Misc",
       "defname": "BurnPit",
-      "price": 65,
+      "price": -10,
       "mod": "Dubs Bad Hygiene",
       "customname": ""
     },
@@ -5828,7 +5828,7 @@
       "abr": "campfirewithimprovisedroast",
       "category": "Misc",
       "defname": "CACampfireTribalRoast",
-      "price": 1,
+      "price": -10,
       "mod": "Caravan Adventures",
       "customname": ""
     },
@@ -5836,7 +5836,7 @@
       "abr": "campfirewithroast",
       "category": "Misc",
       "defname": "CACampfireRoast",
-      "price": 1,
+      "price": -10,
       "mod": "Caravan Adventures",
       "customname": ""
     },
@@ -6156,7 +6156,7 @@
       "abr": "chemfuelpoweredcampgenerator",
       "category": "Misc",
       "defname": "CAChemfuelPoweredGenerator",
-      "price": 492,
+      "price": -10,
       "mod": "Caravan Adventures",
       "customname": ""
     },
@@ -6636,7 +6636,7 @@
       "abr": "deepwaterwell",
       "category": "Misc",
       "defname": "DeepWaterWellInlet",
-      "price": 492,
+      "price": -10,
       "mod": "Dubs Bad Hygiene",
       "customname": ""
     },
@@ -7164,7 +7164,7 @@
       "abr": "exodustauto-door",
       "category": "Misc",
       "defname": "HisaDoor",
-      "price": 383,
+      "price": -10,
       "mod": "Hisa Faction",
       "customname": ""
     },
@@ -7244,7 +7244,7 @@
       "abr": "fencedoor",
       "category": "Misc",
       "defname": "CATentFenceDoor",
-      "price": 88,
+      "price": -10,
       "mod": "Caravan Adventures",
       "customname": ""
     },
@@ -7620,7 +7620,7 @@
       "abr": "geothermalheater",
       "category": "Misc",
       "defname": "GeothermHeater",
-      "price": 1000,
+      "price": -10,
       "mod": "Dubs Bad Hygiene",
       "customname": ""
     },
@@ -7892,7 +7892,7 @@
       "abr": "guppy",
       "category": "Raw fish",
       "defname": "VCEF_RawGuppy",
-      "price": -10,
+      "price": 1,
       "mod": "Vanilla Fishing Expanded",
       "customname": ""
     },
@@ -8092,7 +8092,7 @@
       "abr": "hexagelcorereactor",
       "category": "Misc",
       "defname": "AA_HexagelCoreReactor",
-      "price": 3408,
+      "price": -10,
       "mod": "Alpha Animals",
       "customname": ""
     },
@@ -8140,7 +8140,7 @@
       "abr": "hisagenerator",
       "category": "Misc",
       "defname": "HisaGenerator",
-      "price": 28667,
+      "price": -10,
       "mod": "Hisa Faction",
       "customname": ""
     },
@@ -8396,7 +8396,7 @@
       "abr": "hisatoolstation",
       "category": "Misc",
       "defname": "HisaToolStation",
-      "price": 3600,
+      "price": -10,
       "mod": "Hisa Faction",
       "customname": ""
     },
@@ -8452,7 +8452,7 @@
       "abr": "hugewatertower",
       "category": "Misc",
       "defname": "WaterTowerL",
-      "price": 717,
+      "price": -10,
       "mod": "Dubs Bad Hygiene",
       "customname": ""
     },
@@ -8484,7 +8484,7 @@
       "abr": "industrialchemfuelpoweredgenerator",
       "category": "Misc",
       "defname": "VFE_IndustrialChemfuelPoweredGenerator",
-      "price": 908,
+      "price": -10,
       "mod": "Vanilla Furniture Expanded - Power",
       "customname": ""
     },
@@ -8500,7 +8500,7 @@
       "abr": "industrialwood-firedgenerator",
       "category": "Misc",
       "defname": "VFE_IndustrialWoodFiredGenerator",
-      "price": 808,
+      "price": -10,
       "mod": "Vanilla Furniture Expanded - Power",
       "customname": ""
     },
@@ -9612,7 +9612,7 @@
       "abr": "kurinspaceshipapu",
       "category": "Misc",
       "defname": "Kurin_Ship_APU",
-      "price": 7408,
+      "price": -10,
       "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]",
       "customname": ""
     },
@@ -9620,7 +9620,7 @@
       "abr": "kurinspaceshipcapacitorarray",
       "category": "Misc",
       "defname": "Kurin_Ship_Capacitor_Array",
-      "price": 2133,
+      "price": -10,
       "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]",
       "customname": ""
     },
@@ -9628,7 +9628,7 @@
       "abr": "kurinspaceshipcommunicationmodule",
       "category": "Misc",
       "defname": "Kurin_Ship_Communication_Module",
-      "price": 3275,
+      "price": -10,
       "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]",
       "customname": ""
     },
@@ -9644,7 +9644,7 @@
       "abr": "kurinspaceshipcryptosleepcasket",
       "category": "Misc",
       "defname": "Kurin_Ship_Cryptosleep_Casket",
-      "price": 1725,
+      "price": -10,
       "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]",
       "customname": ""
     },
@@ -9652,7 +9652,7 @@
       "abr": "kurinspaceshipmaincomputer",
       "category": "Misc",
       "defname": "Kurin_Ship_Computer",
-      "price": 11517,
+      "price": -10,
       "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]",
       "customname": ""
     },
@@ -9660,7 +9660,7 @@
       "abr": "kurinspaceshipmainengine",
       "category": "Misc",
       "defname": "Kurin_Ship_Engine",
-      "price": 4592,
+      "price": -10,
       "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]",
       "customname": ""
     },
@@ -9668,7 +9668,7 @@
       "abr": "kurinspaceshipmtm",
       "category": "Misc",
       "defname": "Kurin_Ship_MTM",
-      "price": 4050,
+      "price": -10,
       "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]",
       "customname": ""
     },
@@ -9676,7 +9676,7 @@
       "abr": "kurinspaceshipreactor",
       "category": "Misc",
       "defname": "Kurin_Ship_Reactor",
-      "price": 25967,
+      "price": -10,
       "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]",
       "customname": ""
     },
@@ -9684,7 +9684,7 @@
       "abr": "kurinspaceshipstoragemodule",
       "category": "Misc",
       "defname": "Kurin_Ship_Storage_Module",
-      "price": 1200,
+      "price": -10,
       "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]",
       "customname": ""
     },
@@ -9692,7 +9692,7 @@
       "abr": "kurinspaceshipstructuralbeam",
       "category": "Misc",
       "defname": "Kurin_Ship_Beam",
-      "price": 1775,
+      "price": -10,
       "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]",
       "customname": ""
     },
@@ -9700,7 +9700,7 @@
       "abr": "kurinspaceshipturret",
       "category": "Misc",
       "defname": "Kurin_Ship_Turret",
-      "price": 7483,
+      "price": -10,
       "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]",
       "customname": ""
     },
@@ -9972,7 +9972,7 @@
       "abr": "lampendtable",
       "category": "Furniture",
       "defname": "Table_LightEndTable",
-      "price": 169,
+      "price": -10,
       "mod": "Vanilla Furniture Expanded",
       "customname": ""
     },
@@ -10068,7 +10068,7 @@
       "abr": "lenticularanalyzer",
       "category": "Misc",
       "defname": "MR_LenticularAnalyzer",
-      "price": 833,
+      "price": -10,
       "mod": "Maru Race",
       "customname": ""
     },
@@ -10124,7 +10124,7 @@
       "abr": "lighthouse",
       "category": "Misc",
       "defname": "MR_Lenticularrentiq",
-      "price": 1100,
+      "price": -10,
       "mod": "Maru Race",
       "customname": ""
     },
@@ -10852,7 +10852,7 @@
       "abr": "mihomechfactory",
       "category": "Misc",
       "defname": "Miho_MechFactory",
-      "price": 1892,
+      "price": -10,
       "mod": "Miho, the celestial fox",
       "customname": ""
     },
@@ -11220,7 +11220,7 @@
       "abr": "minchocandel(left)",
       "category": "Furniture",
       "defname": "Mincho_MinchoCandle_Left",
-      "price": 44,
+      "price": -10,
       "mod": "Mincho, The Mint Choco Slime ~ HAR ver.",
       "customname": ""
     },
@@ -11228,7 +11228,7 @@
       "abr": "minchocandel(lower)",
       "category": "Furniture",
       "defname": "Mincho_MinchoCandle_Lower",
-      "price": 44,
+      "price": -10,
       "mod": "Mincho, The Mint Choco Slime ~ HAR ver.",
       "customname": ""
     },
@@ -11236,7 +11236,7 @@
       "abr": "minchocandel(middle)",
       "category": "Furniture",
       "defname": "Mincho_MinchoCandle_Middle",
-      "price": 44,
+      "price": -10,
       "mod": "Mincho, The Mint Choco Slime ~ HAR ver.",
       "customname": ""
     },
@@ -11244,7 +11244,7 @@
       "abr": "minchocandel(right)",
       "category": "Furniture",
       "defname": "Mincho_MinchoCandle_Right",
-      "price": 44,
+      "price": -10,
       "mod": "Mincho, The Mint Choco Slime ~ HAR ver.",
       "customname": ""
     },
@@ -11252,7 +11252,7 @@
       "abr": "minchocandel(upper)",
       "category": "Furniture",
       "defname": "Mincho_MinchoCandle_Upper",
-      "price": 44,
+      "price": -10,
       "mod": "Mincho, The Mint Choco Slime ~ HAR ver.",
       "customname": ""
     },
@@ -11300,7 +11300,7 @@
       "abr": "minchodessertthrone",
       "category": "Furniture",
       "defname": "Mincho_Dessert_Throne",
-      "price": 3667,
+      "price": -10,
       "mod": "Mincho, The Mint Choco Slime ~ HAR ver.",
       "customname": ""
     },
@@ -11308,7 +11308,7 @@
       "abr": "minchoelectriccandel(left)",
       "category": "Furniture",
       "defname": "Mincho_Electric_MinchoCandle_Left",
-      "price": 44,
+      "price": -10,
       "mod": "Mincho, The Mint Choco Slime ~ HAR ver.",
       "customname": ""
     },
@@ -11316,7 +11316,7 @@
       "abr": "minchoelectriccandel(lower)",
       "category": "Furniture",
       "defname": "Mincho_Electric_MinchoCandle_Lower",
-      "price": 44,
+      "price": -10,
       "mod": "Mincho, The Mint Choco Slime ~ HAR ver.",
       "customname": ""
     },
@@ -11324,7 +11324,7 @@
       "abr": "minchoelectriccandel(middle)",
       "category": "Furniture",
       "defname": "Mincho_Electric_MinchoCandle_Middle",
-      "price": 44,
+      "price": -10,
       "mod": "Mincho, The Mint Choco Slime ~ HAR ver.",
       "customname": ""
     },
@@ -11332,7 +11332,7 @@
       "abr": "minchoelectriccandel(right)",
       "category": "Furniture",
       "defname": "Mincho_Electric_MinchoCandle_Right",
-      "price": 44,
+      "price": -10,
       "mod": "Mincho, The Mint Choco Slime ~ HAR ver.",
       "customname": ""
     },
@@ -11340,7 +11340,7 @@
       "abr": "minchoelectriccandel(upper)",
       "category": "Furniture",
       "defname": "Mincho_Electric_MinchoCandle_Upper",
-      "price": 44,
+      "price": -10,
       "mod": "Mincho, The Mint Choco Slime ~ HAR ver.",
       "customname": ""
     },
@@ -11684,7 +11684,7 @@
       "abr": "minchoshroommold",
       "category": "Misc",
       "defname": "Mincho_MinchoshroomPlantMold",
-      "price": 67,
+      "price": -10,
       "mod": "Mincho, The Mint Choco Slime ~ HAR ver.",
       "customname": ""
     },
@@ -11692,7 +11692,7 @@
       "abr": "minchoshroommold(long)",
       "category": "Misc",
       "defname": "Mincho_MinchoshroomPlantMold_Long",
-      "price": 203,
+      "price": -10,
       "mod": "Mincho, The Mint Choco Slime ~ HAR ver.",
       "customname": ""
     },
@@ -11700,7 +11700,7 @@
       "abr": "minicommsconsole",
       "category": "Misc",
       "defname": "CAMiniCommsConsole",
-      "price": 608,
+      "price": -10,
       "mod": "Caravan Adventures",
       "customname": ""
     },
@@ -11708,7 +11708,7 @@
       "abr": "miniquarry",
       "category": "Misc",
       "defname": "QRY_MiniQuarry",
-      "price": 260,
+      "price": -10,
       "mod": "Quarry",
       "customname": ""
     },
@@ -11724,7 +11724,7 @@
       "abr": "minnow",
       "category": "Raw fish",
       "defname": "VCEF_RawMinnow",
-      "price": -10,
+      "price": 1,
       "mod": "Vanilla Fishing Expanded",
       "customname": ""
     },
@@ -12028,7 +12028,7 @@
       "abr": "nuclearreactor",
       "category": "Misc",
       "defname": "VPE_NuclearGenerator",
-      "price": 4475,
+      "price": -10,
       "mod": "Vanilla Furniture Expanded - Power",
       "customname": ""
     },
@@ -12100,7 +12100,7 @@
       "abr": "one-waya/candheater",
       "category": "Misc",
       "defname": "CAAirConditioningHeater",
-      "price": 6,
+      "price": -10,
       "mod": "Caravan Adventures",
       "customname": ""
     },
@@ -12108,7 +12108,7 @@
       "abr": "one-waycooler",
       "category": "Misc",
       "defname": "CACooler",
-      "price": 6,
+      "price": -10,
       "mod": "Caravan Adventures",
       "customname": ""
     },
@@ -12132,7 +12132,7 @@
       "abr": "orbitalcamptradebeacon",
       "category": "Misc",
       "defname": "CAOrbitalTradeBeacon",
-      "price": 185,
+      "price": -10,
       "mod": "Caravan Adventures",
       "customname": ""
     },
@@ -12316,7 +12316,7 @@
       "abr": "planetariumwindfarm",
       "category": "Misc",
       "defname": "Planetariumrefinery",
-      "price": 967,
+      "price": -10,
       "mod": "Rabbie The Moonrabbit race",
       "customname": ""
     },
@@ -12372,7 +12372,7 @@
       "abr": "plumbing",
       "category": "Misc",
       "defname": "sewagePipeStuff",
-      "price": 5,
+      "price": -10,
       "mod": "Dubs Bad Hygiene",
       "customname": ""
     },
@@ -12524,7 +12524,7 @@
       "abr": "primitivewell",
       "category": "Misc",
       "defname": "PrimitiveWell",
-      "price": 95,
+      "price": -10,
       "mod": "Dubs Bad Hygiene",
       "customname": ""
     },
@@ -14388,7 +14388,7 @@
       "abr": "pumpingstation",
       "category": "Misc",
       "defname": "PumpingStation",
-      "price": 567,
+      "price": -10,
       "mod": "Dubs Bad Hygiene",
       "customname": ""
     },
@@ -14412,7 +14412,7 @@
       "abr": "quarry",
       "category": "Misc",
       "defname": "QRY_Quarry",
-      "price": 617,
+      "price": -10,
       "mod": "Quarry",
       "customname": ""
     },
@@ -14420,7 +14420,7 @@
       "abr": "quarryplatform",
       "category": "Misc",
       "defname": "QRY_Platform",
-      "price": 168,
+      "price": -10,
       "mod": "Quarry",
       "customname": ""
     },
@@ -14828,7 +14828,7 @@
       "abr": "razorbutterflyportal",
       "category": "Misc",
       "defname": "Miho_Butterfly_Portal_Dummy",
-      "price": 9,
+      "price": -10,
       "mod": "Miho, the celestial fox",
       "customname": ""
     },
@@ -14916,7 +14916,7 @@
       "abr": "researchtree",
       "category": "Misc",
       "defname": "MR_ResearchBench",
-      "price": 1158,
+      "price": -10,
       "mod": "Maru Race",
       "customname": ""
     },
@@ -15268,7 +15268,7 @@
       "abr": "sewageoutlet",
       "category": "Misc",
       "defname": "SewageOutlet",
-      "price": 176,
+      "price": -10,
       "mod": "Dubs Bad Hygiene",
       "customname": ""
     },
@@ -15316,7 +15316,7 @@
       "abr": "shiplandingbeacon",
       "category": "Misc",
       "defname": "ShipLandingBeacon",
-      "price": 185,
+      "price": -10,
       "mod": "Royalty",
       "customname": ""
     },
@@ -15324,7 +15324,7 @@
       "abr": "shipreactor",
       "category": "Misc",
       "defname": "Ship_Reactor",
-      "price": 9067,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -15332,7 +15332,7 @@
       "abr": "shipstructuralbeam",
       "category": "Misc",
       "defname": "Ship_Beam",
-      "price": 1775,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -15740,7 +15740,7 @@
       "abr": "smallaltar",
       "category": "Misc",
       "defname": "Altar_Small",
-      "price": 197,
+      "price": -10,
       "mod": "Ideology",
       "customname": ""
     },
@@ -15764,7 +15764,7 @@
       "abr": "smallnatureshrine",
       "category": "Misc",
       "defname": "NatureShrine_Small",
-      "price": 592,
+      "price": -10,
       "mod": "Royalty",
       "customname": ""
     },
@@ -15900,7 +15900,7 @@
       "abr": "solarheater",
       "category": "Misc",
       "defname": "SolarHeater",
-      "price": 244,
+      "price": -10,
       "mod": "Dubs Bad Hygiene",
       "customname": ""
     },
@@ -15988,7 +15988,7 @@
       "abr": "spikecorefloor-star(broad)",
       "category": "Furniture",
       "defname": "SpikecoreFloorStar_Broad",
-      "price": 483,
+      "price": -10,
       "mod": "Ideology",
       "customname": ""
     },
@@ -15996,7 +15996,7 @@
       "abr": "spikecorefloor-star(medium)",
       "category": "Furniture",
       "defname": "SpikecoreFloorStar_Medium",
-      "price": 323,
+      "price": -10,
       "mod": "Ideology",
       "customname": ""
     },
@@ -16012,7 +16012,7 @@
       "abr": "sprat",
       "category": "Raw fish",
       "defname": "VCEF_RawSprat",
-      "price": -10,
+      "price": 1,
       "mod": "Vanilla Fishing Expanded",
       "customname": ""
     },
@@ -16060,7 +16060,7 @@
       "abr": "stalldoor",
       "category": "Misc",
       "defname": "ToiletStallDoor",
-      "price": 18,
+      "price": -10,
       "mod": "Dubs Bad Hygiene",
       "customname": ""
     },
@@ -16076,7 +16076,7 @@
       "abr": "standinglamp",
       "category": "Furniture",
       "defname": "StandingLamp",
-      "price": 65,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -16164,7 +16164,7 @@
       "abr": "stylingstation",
       "category": "Furniture",
       "defname": "StylingStation",
-      "price": 375,
+      "price": -10,
       "mod": "Ideology",
       "customname": ""
     },
@@ -16180,7 +16180,7 @@
       "abr": "subcoreripscanner",
       "category": "Misc",
       "defname": "SubcoreRipscanner",
-      "price": 3208,
+      "price": -10,
       "mod": "Biotech",
       "customname": ""
     },
@@ -16188,7 +16188,7 @@
       "abr": "subcoresoftscanner",
       "category": "Misc",
       "defname": "SubcoreSoftscanner",
-      "price": 1642,
+      "price": -10,
       "mod": "Biotech",
       "customname": ""
     },
@@ -16276,7 +16276,7 @@
       "abr": "sunlamp",
       "category": "Furniture",
       "defname": "SunLamp",
-      "price": 129,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -16324,7 +16324,7 @@
       "abr": "swimmingpool",
       "category": "Misc",
       "defname": "DBHSwimmingPool",
-      "price": 1617,
+      "price": -10,
       "mod": "Dubs Bad Hygiene",
       "customname": ""
     },
@@ -16388,7 +16388,7 @@
       "abr": "tablet",
       "category": "Inert relics",
       "defname": "RelicInertTablet",
-      "price": 833,
+      "price": -10,
       "mod": "Ideology",
       "customname": ""
     },
@@ -16588,7 +16588,7 @@
       "abr": "techprofsubpersonacore",
       "category": "Misc",
       "defname": "TechprofSubpersonaCore",
-      "price": 1667,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -16604,7 +16604,7 @@
       "abr": "tentdoor",
       "category": "Misc",
       "defname": "CATentDoor",
-      "price": 88,
+      "price": -10,
       "mod": "Caravan Adventures",
       "customname": ""
     },
@@ -16612,7 +16612,7 @@
       "abr": "tentwall",
       "category": "Misc",
       "defname": "CAMakeshiftTentWall",
-      "price": 17,
+      "price": -10,
       "mod": "Caravan Adventures",
       "customname": ""
     },
@@ -16620,7 +16620,7 @@
       "abr": "tentwall",
       "category": "Misc",
       "defname": "CATentWall",
-      "price": 17,
+      "price": -10,
       "mod": "Caravan Adventures",
       "customname": ""
     },
@@ -16804,7 +16804,7 @@
       "abr": "tidalgenerator",
       "category": "Misc",
       "defname": "VFE_TidalGenerator",
-      "price": 1500,
+      "price": -10,
       "mod": "Vanilla Furniture Expanded - Power",
       "customname": ""
     },
@@ -16836,7 +16836,7 @@
       "abr": "toolcabinet",
       "category": "Misc",
       "defname": "ToolCabinet",
-      "price": 642,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -16852,7 +16852,7 @@
       "abr": "torchlamp",
       "category": "Misc",
       "defname": "TorchLamp",
-      "price": 41,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -16900,7 +16900,7 @@
       "abr": "totemicslab(broad)",
       "category": "Furniture",
       "defname": "TotemicSlab_Broad",
-      "price": 508,
+      "price": -10,
       "mod": "Ideology",
       "customname": ""
     },
@@ -16908,7 +16908,7 @@
       "abr": "totemicslab(medium)",
       "category": "Furniture",
       "defname": "TotemicSlab_Medium",
-      "price": 342,
+      "price": -10,
       "mod": "Ideology",
       "customname": ""
     },
@@ -16980,7 +16980,7 @@
       "abr": "toxifiergenerator",
       "category": "Misc",
       "defname": "ToxifierGenerator",
-      "price": 600,
+      "price": -10,
       "mod": "Biotech",
       "customname": ""
     },
@@ -17004,7 +17004,7 @@
       "abr": "transportpod",
       "category": "Misc",
       "defname": "TransportPod",
-      "price": 253,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -17236,7 +17236,7 @@
       "abr": "uraniumslugturret",
       "category": "Misc",
       "defname": "Turret_Sniper",
-      "price": 2408,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -17244,7 +17244,7 @@
       "abr": "urn",
       "category": "Furniture",
       "defname": "Urn",
-      "price": 70,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -17316,7 +17316,7 @@
       "abr": "vent",
       "category": "Misc",
       "defname": "Vent",
-      "price": 97,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -17372,7 +17372,7 @@
       "abr": "walllight",
       "category": "Furniture",
       "defname": "Lighting_MURWallLight",
-      "price": 16,
+      "price": -10,
       "mod": "Wall Light",
       "customname": ""
     },
@@ -17380,7 +17380,7 @@
       "abr": "wallsunlight",
       "category": "Furniture",
       "defname": "Lighting_MURWallSunLight",
-      "price": 16,
+      "price": -10,
       "mod": "Wall Light",
       "customname": ""
     },
@@ -17452,7 +17452,7 @@
       "abr": "wastepackatomizer",
       "category": "Misc",
       "defname": "WastepackAtomizer",
-      "price": 4067,
+      "price": -10,
       "mod": "Biotech",
       "customname": ""
     },
@@ -17468,7 +17468,7 @@
       "abr": "watertower",
       "category": "Misc",
       "defname": "WaterTowerS",
-      "price": 258,
+      "price": -10,
       "mod": "Dubs Bad Hygiene",
       "customname": ""
     },
@@ -17476,7 +17476,7 @@
       "abr": "watertreatment",
       "category": "Misc",
       "defname": "WaterTreatment",
-      "price": 1075,
+      "price": -10,
       "mod": "Dubs Bad Hygiene",
       "customname": ""
     },
@@ -17492,7 +17492,7 @@
       "abr": "waterwell",
       "category": "Misc",
       "defname": "WaterWellInlet",
-      "price": 248,
+      "price": -10,
       "mod": "Dubs Bad Hygiene",
       "customname": ""
     },
@@ -17508,7 +17508,7 @@
       "abr": "watermillgenerator",
       "category": "Misc",
       "defname": "WatermillGenerator",
-      "price": 1000,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -17660,7 +17660,7 @@
       "abr": "windpump",
       "category": "Misc",
       "defname": "WindPump",
-      "price": 358,
+      "price": -10,
       "mod": "Dubs Bad Hygiene",
       "customname": ""
     },
@@ -17708,7 +17708,7 @@
       "abr": "wood-firedgenerator",
       "category": "Misc",
       "defname": "WoodFiredGenerator",
-      "price": 442,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -17804,7 +17804,7 @@
       "abr": "guestbed",
       "category": "Furniture",
       "defname": "BedGuest",
-      "price": 155,
+      "price": -10,
       "mod": "n/a",
       "customname": ""
     },
@@ -17812,7 +17812,7 @@
       "abr": "guestdoublebed",
       "category": "Furniture",
       "defname": "DoubleBedGuest",
-      "price": 292,
+      "price": -10,
       "mod": "n/a",
       "customname": ""
     },
@@ -17820,7 +17820,7 @@
       "abr": "guestroyalbed",
       "category": "Furniture",
       "defname": "RoyalBedGuest",
-      "price": 1467,
+      "price": -10,
       "mod": "n/a",
       "customname": ""
     },
@@ -17828,7 +17828,7 @@
       "abr": "guesthospitalbed",
       "category": "Furniture",
       "defname": "HospitalBedGuest",
-      "price": 667,
+      "price": -10,
       "mod": "n/a",
       "customname": ""
     },
@@ -17836,7 +17836,7 @@
       "abr": "guestbedroll",
       "category": "Furniture",
       "defname": "BedrollGuest",
-      "price": 137,
+      "price": -10,
       "mod": "n/a",
       "customname": ""
     },
@@ -17844,7 +17844,7 @@
       "abr": "guestdoublebedroll",
       "category": "Furniture",
       "defname": "BedrollDoubleGuest",
-      "price": 290,
+      "price": -10,
       "mod": "n/a",
       "customname": ""
     },
@@ -17860,7 +17860,7 @@
       "abr": "guestslabbed",
       "category": "Furniture",
       "defname": "SlabBedGuest",
-      "price": 102,
+      "price": -10,
       "mod": "n/a",
       "customname": ""
     },
@@ -17868,7 +17868,7 @@
       "abr": "guestslabdoublebed",
       "category": "Furniture",
       "defname": "SlabDoubleBedGuest",
-      "price": 288,
+      "price": -10,
       "mod": "n/a",
       "customname": ""
     },
@@ -17876,7 +17876,7 @@
       "abr": "guestdeathrestcasket",
       "category": "Misc",
       "defname": "DeathrestCasketGuest",
-      "price": 492,
+      "price": -10,
       "mod": "n/a",
       "customname": ""
     },
@@ -17884,7 +17884,7 @@
       "abr": "guestcrib",
       "category": "Furniture",
       "defname": "CribGuest",
-      "price": 86,
+      "price": -10,
       "mod": "n/a",
       "customname": ""
     },
@@ -17892,7 +17892,7 @@
       "abr": "guestbedroll",
       "category": "Misc",
       "defname": "CAMakeshiftBedrollGuest",
-      "price": 137,
+      "price": -10,
       "mod": "n/a",
       "customname": ""
     },
@@ -17900,7 +17900,7 @@
       "abr": "guestdoublebedroll",
       "category": "Misc",
       "defname": "CAMakeshiftBedrollDoubleGuest",
-      "price": 290,
+      "price": -10,
       "mod": "n/a",
       "customname": ""
     },
@@ -17908,7 +17908,7 @@
       "abr": "guestspacerbedroll",
       "category": "Misc",
       "defname": "CASpacerBedrollGuest",
-      "price": 137,
+      "price": -10,
       "mod": "n/a",
       "customname": ""
     },
@@ -17916,7 +17916,7 @@
       "abr": "guestspacerdoublebedroll",
       "category": "Misc",
       "defname": "CASpacerBedrollDoubleGuest",
-      "price": 290,
+      "price": -10,
       "mod": "n/a",
       "customname": ""
     },
@@ -17924,7 +17924,7 @@
       "abr": "guesthypersleepbed",
       "category": "Furniture",
       "defname": "HisaHyperSleepBedGuest",
-      "price": 1575,
+      "price": -10,
       "mod": "n/a",
       "customname": ""
     },
@@ -17932,7 +17932,7 @@
       "abr": "guestdoublehypersleepbed",
       "category": "Furniture",
       "defname": "HisaHyperSleepBedBigGuest",
-      "price": 2992,
+      "price": -10,
       "mod": "n/a",
       "customname": ""
     },
@@ -17940,7 +17940,7 @@
       "abr": "guestroyalhypersleepbed",
       "category": "Furniture",
       "defname": "HisaHyperSleepBedRoyalGuest",
-      "price": 3917,
+      "price": -10,
       "mod": "n/a",
       "customname": ""
     },
@@ -17948,7 +17948,7 @@
       "abr": "guesthisamedicalbed",
       "category": "Furniture",
       "defname": "Hisa_MediBedGuest",
-      "price": 2958,
+      "price": -10,
       "mod": "n/a",
       "customname": ""
     },
@@ -17956,7 +17956,7 @@
       "abr": "guestminchocrepebedroll",
       "category": "Furniture",
       "defname": "Mincho_Crepe_BedrollGuest",
-      "price": 68,
+      "price": -10,
       "mod": "n/a",
       "customname": ""
     },
@@ -17964,7 +17964,7 @@
       "abr": "guestminchofullsizecakebed",
       "category": "Furniture",
       "defname": "Mincho_Full_Size_Cake_BedGuest",
-      "price": 1833,
+      "price": -10,
       "mod": "n/a",
       "customname": ""
     },
@@ -17972,7 +17972,7 @@
       "abr": "guestminchosinglesizecakebed",
       "category": "Furniture",
       "defname": "Mincho_Single_Size_Cake_BedGuest",
-      "price": 917,
+      "price": -10,
       "mod": "n/a",
       "customname": ""
     },
@@ -17980,7 +17980,7 @@
       "abr": "guestslabbed",
       "category": "Furniture",
       "defname": "Bed_StoneSlabGuest",
-      "price": 111,
+      "price": -10,
       "mod": "n/a",
       "customname": ""
     },
@@ -17988,7 +17988,7 @@
       "abr": "guestsimplebed",
       "category": "Furniture",
       "defname": "Bed_SimpleGuest",
-      "price": 137,
+      "price": -10,
       "mod": "n/a",
       "customname": ""
     },
@@ -17996,7 +17996,7 @@
       "abr": "guestergonomicbed",
       "category": "Furniture",
       "defname": "Bed_ErgonomicGuest",
-      "price": 450,
+      "price": -10,
       "mod": "n/a",
       "customname": ""
     },
@@ -18004,7 +18004,7 @@
       "abr": "guestergonomicdoublebed",
       "category": "Furniture",
       "defname": "Bed_DoubleErgonomicGuest",
-      "price": 867,
+      "price": -10,
       "mod": "n/a",
       "customname": ""
     },
@@ -18012,7 +18012,7 @@
       "abr": "guestroyalposterbed",
       "category": "Furniture",
       "defname": "Bed_KingsizeGuest",
-      "price": 2008,
+      "price": -10,
       "mod": "n/a",
       "customname": ""
     }
