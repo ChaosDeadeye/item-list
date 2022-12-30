@@ -316,7 +316,7 @@
       "mod": "Unknown",
       "karmaType": null
     },
-    "description": "It is a race where foxes took on the mystical powers of the transcendent world and took on human form. Their body has an elegans organ in which the strength of their superpowers is determined by the amount of sunlight interlocked with the mechanite in their body. Thanks to this organ, foxes revere the sun and energy.",
+    "description": "A race of foxes who took on the mystical powers of the transcendent world and took on human form. Their body has an elegant organ in which the strength of their superpowers is determined by the amount of sunlight interlocked with the mechanites in their body. Because to this organ, foxes revere the sun and energy.",
     "defName": "Alien_Miho",
     "enabled": true,
     "name": "Miho",
@@ -390,6 +390,39 @@
     "enabled": true,
     "name": "Revia",
     "price": 5833
+  }
+      {
+    "data": {
+      "customName": false,
+      "stats": [
+        "+75.00 Mass",
+        "+50% Flammability",
+        "+$3200 Market value",
+        "+4.00 Move speed",
+        "+18.0C Maximum comfortable temperature",
+        "+2.0C Minimum comfortable temperature",
+        "+110% Immunity gain speed",
+        "+75 Carrying capacity",
+        "+80 Meat amount",
+        "+50 Leather amount",
+        "+120% Psychic sensitivity",
+        "+0.8 Melee dodge chance",
+        "+100.00% Social impact",
+        "+85% General labor speed",
+        "+130% Drug synthesis speed",
+        "+120% Medical tend speed",
+        "+115% Medical tend quality",
+        "+115% Medical surgery success chance",
+        "+4 Honor value"
+      ],
+      "mod": "Unknown",
+      "karmaType": null
+    },
+    "description": "A humanoid race living in cities under the sea. Having traits similar to sea creatures, their blood contains substances that can be used for various medical uses.\n\nDescendants of glitterworld explorers who settled in the deep sea, generations of body modifications has led to their current form. Spreading far and wide into the rim, they built many cities and prospered. Until now.",
+    "defName": "Alien_Moyo",
+    "enabled": true,
+    "name": "Moyo",
+    "price": 5333
   }
 ]
 }
