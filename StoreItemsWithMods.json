@@ -8874,7 +8874,7 @@
     },
     {
       "abr": "kuringoggles",
-      "category": "Kurin overhead apparel",
+      "category": "Kurin psychic apparel",
       "defname": "Kurin_Overhead_Goggles",
       "price": 190,
       "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]",
@@ -8898,7 +8898,7 @@
     },
     {
       "abr": "kurinheavybodyarmor",
-      "category": "Kurin psychic apparel",
+      "category": "Kurin military apparel",
       "defname": "Kurin_Middle_Heavy_Body_Armor",
       "price": 1250,
       "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]",
@@ -17793,227 +17793,723 @@
       "customname": ""
     },
     {
-      "abr": "zombrella",
+      "abr": "abyssalpearl",
+      "category": "Manufactured",
+      "defname": "Moyo_AbyssPearl",
+      "price": 1333,
+      "mod": "Moyo-From the depth",
+      "customname": ""
+    },
+    {
+      "abr": "abysstechhealermechserum",
+      "category": "Items",
+      "defname": "Moyo_HealerSerum",
+      "price": 4167,
+      "mod": "Moyo-From the depth",
+      "customname": ""
+    },
+    {
+      "abr": "abysstechheart",
+      "category": "Bionic",
+      "defname": "Moyo_AdvancedHeart",
+      "price": 3708,
+      "mod": "Moyo-From the depth",
+      "customname": ""
+    },
+    {
+      "abr": "abysstechneurotrainerserum(combat)",
+      "category": "Abysstech neurotrainer",
+      "defname": "Moyo_neuroSerum_combat",
+      "price": 4167,
+      "mod": "Moyo-From the depth",
+      "customname": ""
+    },
+    {
+      "abr": "abysstechneurotrainerserum(craftsmanship)",
+      "category": "Abysstech neurotrainer",
+      "defname": "Moyo_neuroSerum_craftsmanship",
+      "price": 4167,
+      "mod": "Moyo-From the depth",
+      "customname": ""
+    },
+    {
+      "abr": "abysstechneurotrainerserum(housekeeping)",
+      "category": "Abysstech neurotrainer",
+      "defname": "Moyo_neuroSerum_housekeeping",
+      "price": 4167,
+      "mod": "Moyo-From the depth",
+      "customname": ""
+    },
+    {
+      "abr": "abysstechneurotrainerserum(labor)",
+      "category": "Abysstech neurotrainer",
+      "defname": "Moyo_neuroSerum_labor",
+      "price": 4167,
+      "mod": "Moyo-From the depth",
+      "customname": ""
+    },
+    {
+      "abr": "abysstechpersonaadvisermodule",
       "category": "Misc",
-      "defname": "Zombrella",
+      "defname": "MoyoGRModule",
+      "price": 10567,
+      "mod": "Moyo-From the depth",
+      "customname": ""
+    },
+    {
+      "abr": "abyssteel",
+      "category": "Raw resources",
+      "defname": "Moyo_Abyssteel",
+      "price": 17,
+      "mod": "Moyo-From the depth",
+      "customname": ""
+    },
+    {
+      "abr": "belial-v",
+      "category": "Drugs",
+      "defname": "Moyo_BelialV",
+      "price": 833,
+      "mod": "Moyo-From the depth",
+      "customname": ""
+    },
+    {
+      "abr": "bionicmoyotail",
+      "category": "Bionic",
+      "defname": "Moyo_BionicTail",
+      "price": 1583,
+      "mod": "Moyo-From the depth",
+      "customname": ""
+    },
+    {
+      "abr": "bluehaze",
+      "category": "Drugs",
+      "defname": "BlueYo",
+      "price": 75,
+      "mod": "Moyo-From the depth",
+      "customname": ""
+    },
+    {
+      "abr": "blueburst",
+      "category": "Drugs",
+      "defname": "BlueBurst",
+      "price": 120,
+      "mod": "Moyo-From the depth",
+      "customname": ""
+    },
+    {
+      "abr": "bluemed",
+      "category": "Medicine",
+      "defname": "MoyoMedicine",
+      "price": 70,
+      "mod": "Moyo-From the depth",
+      "customname": ""
+    },
+    {
+      "abr": "cartelarbalest",
+      "category": "Moyo ranged weapons",
+      "defname": "Moyo_CartelLongRifle",
+      "price": 2842,
+      "mod": "Moyo-The cartel arrives",
+      "customname": ""
+    },
+    {
+      "abr": "cartelbalisticarmor",
+      "category": "Moyo Apparel",
+      "defname": "Moyo_CBsuit",
+      "price": 700,
+      "mod": "Moyo-The cartel arrives",
+      "customname": ""
+    },
+    {
+      "abr": "cartelbalistichelmet",
+      "category": "Moyo Headgear",
+      "defname": "Moyo_CBhelmet",
+      "price": 333,
+      "mod": "Moyo-The cartel arrives",
+      "customname": ""
+    },
+    {
+      "abr": "cartelcarbine",
+      "category": "Moyo ranged weapons",
+      "defname": "Moyo_CarteCarbine",
+      "price": 1892,
+      "mod": "Moyo-The cartel arrives",
+      "customname": ""
+    },
+    {
+      "abr": "cartelcombatknife",
+      "category": "Moyo melee weapons",
+      "defname": "Moyo_CombatKnife",
+      "price": 667,
+      "mod": "Moyo-The cartel arrives",
+      "customname": ""
+    },
+    {
+      "abr": "cartelcompositesuit",
+      "category": "Moyo Apparel",
+      "defname": "Moyo_Cartelsuit",
+      "price": 1050,
+      "mod": "Moyo-The cartel arrives",
+      "customname": ""
+    },
+    {
+      "abr": "cartelencryptedcomponent",
+      "category": "Manufactured",
+      "defname": "Cartel_AdvancedMachine",
+      "price": 833,
+      "mod": "Moyo-The cartel arrives",
+      "customname": ""
+    },
+    {
+      "abr": "cartelexecutionerhelmet",
+      "category": "Moyo Headgear",
+      "defname": "Moyo_CEhelmet",
+      "price": 1633,
+      "mod": "Moyo-The cartel arrives",
+      "customname": ""
+    },
+    {
+      "abr": "cartelexecutionersuit",
+      "category": "Moyo Apparel",
+      "defname": "Moyo_CEsuit",
+      "price": 5583,
+      "mod": "Moyo-The cartel arrives",
+      "customname": ""
+    },
+    {
+      "abr": "cartelexecutivecoata",
+      "category": "Moyo Apparel",
+      "defname": "Moyo_CartelRobeA",
+      "price": 1475,
+      "mod": "Moyo-The cartel arrives",
+      "customname": ""
+    },
+    {
+      "abr": "cartelexecutivecoatb",
+      "category": "Moyo Apparel",
+      "defname": "Moyo_CartelRobeB",
+      "price": 1475,
+      "mod": "Moyo-The cartel arrives",
+      "customname": ""
+    },
+    {
+      "abr": "cartelexecutivesuit",
+      "category": "Moyo Apparel",
+      "defname": "Moyo_CartelRoyalsuit",
+      "price": 1583,
+      "mod": "Moyo-The cartel arrives",
+      "customname": ""
+    },
+    {
+      "abr": "cartelhandcannon",
+      "category": "Moyo ranged weapons",
+      "defname": "Moyo_CartelRevolver",
+      "price": 1700,
+      "mod": "Moyo-The cartel arrives",
+      "customname": ""
+    },
+    {
+      "abr": "cartelhoodedcloak",
+      "category": "Moyo Apparel",
+      "defname": "Moyo_CartelStrikerHood",
+      "price": 1042,
+      "mod": "Moyo-The cartel arrives",
+      "customname": ""
+    },
+    {
+      "abr": "cartelpersonavibroedge",
+      "category": "Persona weapons",
+      "defname": "Moyo_PersonaKatana",
+      "price": 5000,
+      "mod": "Moyo-The cartel arrives",
+      "customname": ""
+    },
+    {
+      "abr": "cartelsidearm",
+      "category": "Moyo ranged weapons",
+      "defname": "Moyo_CartelPistol",
+      "price": 625,
+      "mod": "Moyo-The cartel arrives",
+      "customname": ""
+    },
+    {
+      "abr": "cartelsmg",
+      "category": "Moyo ranged weapons",
+      "defname": "Moyo_CartelSMGa",
+      "price": 1892,
+      "mod": "Moyo-The cartel arrives",
+      "customname": ""
+    },
+    {
+      "abr": "cartelstrikergear",
+      "category": "Moyo Apparel",
+      "defname": "Moyo_CSgear",
+      "price": 2917,
+      "mod": "Moyo-The cartel arrives",
+      "customname": ""
+    },
+    {
+      "abr": "cartelstrikerhelmet",
+      "category": "Moyo Headgear",
+      "defname": "Moyo_CShelmet",
+      "price": 1200,
+      "mod": "Moyo-The cartel arrives",
+      "customname": ""
+    },
+    {
+      "abr": "cartelvibroedge",
+      "category": "Moyo melee weapons",
+      "defname": "Moyo_Katana",
       "price": 3333,
-      "mod": "n/a",
+      "mod": "Moyo-The cartel arrives",
       "customname": ""
     },
     {
-      "abr": "guestbed",
-      "category": "Furniture",
-      "defname": "BedGuest",
-      "price": -10,
-      "mod": "n/a",
+      "abr": "clear-azure",
+      "category": "Drugs",
+      "defname": "Clensazure",
+      "price": 117,
+      "mod": "Moyo-From the depth",
       "customname": ""
     },
     {
-      "abr": "guestdoublebed",
-      "category": "Furniture",
-      "defname": "DoubleBedGuest",
-      "price": -10,
-      "mod": "n/a",
+      "abr": "deepblueserum",
+      "category": "Drugs",
+      "defname": "AbyssSerum",
+      "price": 53,
+      "mod": "Moyo-From the depth",
       "customname": ""
     },
     {
-      "abr": "guestroyalbed",
-      "category": "Furniture",
-      "defname": "RoyalBedGuest",
-      "price": -10,
-      "mod": "n/a",
+      "abr": "deepbluestation",
+      "category": "Production",
+      "defname": "Moyo_DBS",
+      "price": 2500,
+      "mod": "Moyo-From the depth",
       "customname": ""
     },
     {
-      "abr": "guesthospitalbed",
-      "category": "Furniture",
-      "defname": "HospitalBedGuest",
-      "price": -10,
-      "mod": "n/a",
+      "abr": "depthweave",
+      "category": "Textiles",
+      "defname": "Moyo_Depthweave",
+      "price": 7,
+      "mod": "Moyo-From the depth",
       "customname": ""
     },
     {
-      "abr": "guestbedroll",
-      "category": "Furniture",
-      "defname": "BedrollGuest",
-      "price": -10,
-      "mod": "n/a",
+      "abr": "detoxer-cobalt",
+      "category": "Drugs",
+      "defname": "DetoxerCobalt",
+      "price": 117,
+      "mod": "Moyo-From the depth",
       "customname": ""
     },
     {
-      "abr": "guestdoublebedroll",
-      "category": "Furniture",
-      "defname": "BedrollDoubleGuest",
-      "price": -10,
-      "mod": "n/a",
-      "customname": ""
-    },
-    {
-      "abr": "guestancientbed",
+      "abr": "drugsynthesisstation:blueburst",
       "category": "Misc",
-      "defname": "AncientBedGuest",
-      "price": -10,
-      "mod": "n/a",
+      "defname": "Cartel_AutoSynthesys_BlueBurst",
+      "price": 8333,
+      "mod": "Moyo-The cartel arrives",
       "customname": ""
     },
     {
-      "abr": "guestslabbed",
-      "category": "Furniture",
-      "defname": "SlabBedGuest",
-      "price": -10,
-      "mod": "n/a",
-      "customname": ""
-    },
-    {
-      "abr": "guestslabdoublebed",
-      "category": "Furniture",
-      "defname": "SlabDoubleBedGuest",
-      "price": -10,
-      "mod": "n/a",
-      "customname": ""
-    },
-    {
-      "abr": "guestdeathrestcasket",
+      "abr": "drugsynthesisstation:clear-azure",
       "category": "Misc",
-      "defname": "DeathrestCasketGuest",
-      "price": -10,
-      "mod": "n/a",
+      "defname": "Cartel_AutoSynthesys_Clensazure",
+      "price": 8333,
+      "mod": "Moyo-The cartel arrives",
       "customname": ""
     },
     {
-      "abr": "guestcrib",
-      "category": "Furniture",
-      "defname": "CribGuest",
-      "price": -10,
-      "mod": "n/a",
-      "customname": ""
-    },
-    {
-      "abr": "guestbedroll",
+      "abr": "drugsynthesisstation:detoxer-cobalt",
       "category": "Misc",
-      "defname": "CAMakeshiftBedrollGuest",
-      "price": -10,
-      "mod": "n/a",
+      "defname": "Cartel_AutoSynthesys_DetoxerCobalt",
+      "price": 8333,
+      "mod": "Moyo-The cartel arrives",
       "customname": ""
     },
     {
-      "abr": "guestdoublebedroll",
+      "abr": "drugsynthesisstation:penoxy-blue",
       "category": "Misc",
-      "defname": "CAMakeshiftBedrollDoubleGuest",
-      "price": -10,
-      "mod": "n/a",
+      "defname": "Cartel_AutoSynthesys_PenoxyBlue",
+      "price": 8333,
+      "mod": "Moyo-The cartel arrives",
       "customname": ""
     },
     {
-      "abr": "guestspacerbedroll",
+      "abr": "drugsynthesisstation:regene-blue",
       "category": "Misc",
-      "defname": "CASpacerBedrollGuest",
-      "price": -10,
-      "mod": "n/a",
+      "defname": "Cartel_AutoSynthesys_BlueMed",
+      "price": 8333,
+      "mod": "Moyo-The cartel arrives",
       "customname": ""
     },
     {
-      "abr": "guestspacerdoublebedroll",
+      "abr": "drugsynthesisstation:sustainer-lapis",
       "category": "Misc",
-      "defname": "CASpacerBedrollDoubleGuest",
-      "price": -10,
-      "mod": "n/a",
+      "defname": "Cartel_AutoSynthesys_SustainerLapis",
+      "price": 8333,
+      "mod": "Moyo-The cartel arrives",
       "customname": ""
     },
     {
-      "abr": "guesthypersleepbed",
-      "category": "Furniture",
-      "defname": "HisaHyperSleepBedGuest",
-      "price": -10,
-      "mod": "n/a",
+      "abr": "fakemoyotail",
+      "category": "Prosthetic",
+      "defname": "Moyo_FakeTail",
+      "price": 240,
+      "mod": "Moyo-From the depth",
       "customname": ""
     },
     {
-      "abr": "guestdoublehypersleepbed",
-      "category": "Furniture",
-      "defname": "HisaHyperSleepBedBigGuest",
-      "price": -10,
-      "mod": "n/a",
+      "abr": "grandabyssalpearlsculpture",
+      "category": "Art",
+      "defname": "PearlSculptureGrand",
+      "price": 65967,
+      "mod": "Moyo-From the depth",
       "customname": ""
     },
     {
-      "abr": "guestroyalhypersleepbed",
-      "category": "Furniture",
-      "defname": "HisaHyperSleepBedRoyalGuest",
-      "price": -10,
-      "mod": "n/a",
+      "abr": "kurinpsyfocusheadgear",
+      "category": "Kurin psychic apparel",
+      "defname": "Kurin_Overhead_Psyfocus_Headgear",
+      "price": 833,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]",
       "customname": ""
     },
     {
-      "abr": "guesthisamedicalbed",
-      "category": "Furniture",
-      "defname": "Hisa_MediBedGuest",
-      "price": -10,
-      "mod": "n/a",
+      "abr": "kurinpsyfocusrobe",
+      "category": "Kurin psychic apparel",
+      "defname": "Kurin_Shell_Psyfocus_Robe",
+      "price": 1000,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]",
       "customname": ""
     },
     {
-      "abr": "guestminchocrepebedroll",
-      "category": "Furniture",
-      "defname": "Mincho_Crepe_BedrollGuest",
-      "price": -10,
-      "mod": "n/a",
+      "abr": "largeabyssalpearlsculpture",
+      "category": "Art",
+      "defname": "PearlSculptureLarge",
+      "price": 16517,
+      "mod": "Moyo-From the depth",
       "customname": ""
     },
     {
-      "abr": "guestminchofullsizecakebed",
-      "category": "Furniture",
-      "defname": "Mincho_Full_Size_Cake_BedGuest",
-      "price": -10,
-      "mod": "n/a",
+      "abr": "largedeepbluestation",
+      "category": "Misc",
+      "defname": "Moyo_DBLS",
+      "price": 8333,
+      "mod": "Moyo-From the depth",
       "customname": ""
     },
     {
-      "abr": "guestminchosinglesizecakebed",
-      "category": "Furniture",
-      "defname": "Mincho_Single_Size_Cake_BedGuest",
-      "price": -10,
-      "mod": "n/a",
+      "abr": "morphi-blue",
+      "category": "Drugs",
+      "defname": "BlueGo",
+      "price": 120,
+      "mod": "Moyo-From the depth",
       "customname": ""
     },
     {
-      "abr": "guestslabbed",
-      "category": "Furniture",
-      "defname": "Bed_StoneSlabGuest",
-      "price": -10,
-      "mod": "n/a",
+      "abr": "moyo",
+      "category": "Animal",
+      "defname": "Alien_Moyo",
+      "price": 5333,
+      "mod": "Moyo-From the depth",
       "customname": ""
     },
     {
-      "abr": "guestsimplebed",
-      "category": "Furniture",
-      "defname": "Bed_SimpleGuest",
-      "price": -10,
-      "mod": "n/a",
+      "abr": "moyoautocannon",
+      "category": "Moyo ranged weapons",
+      "defname": "Moyo_AutoCannon",
+      "price": 2900,
+      "mod": "Moyo-From the depth",
       "customname": ""
     },
     {
-      "abr": "guestergonomicbed",
-      "category": "Furniture",
-      "defname": "Bed_ErgonomicGuest",
-      "price": -10,
-      "mod": "n/a",
+      "abr": "moyobalista",
+      "category": "Moyo ranged weapons",
+      "defname": "Moyo_BoltCaster",
+      "price": 2783,
+      "mod": "Moyo-From the depth",
       "customname": ""
     },
     {
-      "abr": "guestergonomicdoublebed",
-      "category": "Furniture",
-      "defname": "Bed_DoubleErgonomicGuest",
-      "price": -10,
-      "mod": "n/a",
+      "abr": "moyobattleaxe",
+      "category": "Moyo ranged weapons",
+      "defname": "Moyo_Spear",
+      "price": 2025,
+      "mod": "Moyo-From the depth",
       "customname": ""
     },
     {
-      "abr": "guestroyalposterbed",
-      "category": "Furniture",
-      "defname": "Bed_KingsizeGuest",
-      "price": -10,
-      "mod": "n/a",
+      "abr": "moyobloodbag",
+      "category": "Manufactured",
+      "defname": "Moyo_BloodBag",
+      "price": 33,
+      "mod": "Moyo-From the depth",
+      "customname": ""
+    },
+    {
+      "abr": "moyobodysuit",
+      "category": "Moyo Apparel",
+      "defname": "Moyo_Bodysuit",
+      "price": 542,
+      "mod": "Moyo-From the depth",
+      "customname": ""
+    },
+    {
+      "abr": "moyobodywrappings",
+      "category": "Moyo Apparel",
+      "defname": "Moyo_Tribal",
+      "price": 211,
+      "mod": "Moyo-From the depth",
+      "customname": ""
+    },
+    {
+      "abr": "moyobowlerhat",
+      "category": "Moyo Headgear",
+      "defname": "Moyo_BowlerHat",
+      "price": 77,
+      "mod": "Moyo-From the depth",
+      "customname": ""
+    },
+    {
+      "abr": "moyochargerifle",
+      "category": "Moyo ranged weapons",
+      "defname": "Moyo_ChargeRifle",
+      "price": 1883,
+      "mod": "Moyo-From the depth",
+      "customname": ""
+    },
+    {
+      "abr": "moyochargesmg",
+      "category": "Moyo ranged weapons",
+      "defname": "Moyo_ChargeSMG",
+      "price": 1500,
+      "mod": "Moyo-From the depth",
+      "customname": ""
+    },
+    {
+      "abr": "moyocompositebodysuit",
+      "category": "Moyo Apparel",
+      "defname": "Moyo_Evasuit",
+      "price": 1042,
+      "mod": "Moyo-From the depth",
+      "customname": ""
+    },
+    {
+      "abr": "moyocowboyhat",
+      "category": "Moyo Headgear",
+      "defname": "Moyo_CowboyHat",
+      "price": 94,
+      "mod": "Moyo-From the depth",
+      "customname": ""
+    },
+    {
+      "abr": "moyocryoblaster",
+      "category": "Moyo ranged weapons",
+      "defname": "Moyo_CryoBlaster",
+      "price": 2783,
+      "mod": "Moyo-From the depth",
+      "customname": ""
+    },
+    {
+      "abr": "moyodeepdivinggear",
+      "category": "Moyo Apparel",
+      "defname": "Moyo_DDgear",
+      "price": 3750,
+      "mod": "Moyo-From the depth",
+      "customname": ""
+    },
+    {
+      "abr": "moyodeepdivinghelmet",
+      "category": "Moyo Headgear",
+      "defname": "Moyo_DDhelmet",
+      "price": 1267,
+      "mod": "Moyo-From the depth",
+      "customname": ""
+    },
+    {
+      "abr": "moyodivinggear",
+      "category": "Moyo Apparel",
+      "defname": "Moyo_LDgear",
+      "price": 2900,
+      "mod": "Moyo-From the depth",
+      "customname": ""
+    },
+    {
+      "abr": "moyodivinghelmet",
+      "category": "Moyo Headgear",
+      "defname": "Moyo_LDhelmet",
+      "price": 950,
+      "mod": "Moyo-From the depth",
+      "customname": ""
+    },
+    {
+      "abr": "moyodivingknife",
+      "category": "Moyo melee weapons",
+      "defname": "Moyo_Knife",
+      "price": 475,
+      "mod": "Moyo-From the depth",
+      "customname": ""
+    },
+    {
+      "abr": "moyodragoncrownd",
+      "category": "Moyo Headgear",
+      "defname": "Moyo_DragonCrownD",
+      "price": 367,
+      "mod": "Moyo-From the depth",
+      "customname": ""
+    },
+    {
+      "abr": "moyoduster",
+      "category": "Moyo Apparel",
+      "defname": "Moyo_Duster",
+      "price": 327,
+      "mod": "Moyo-From the depth",
+      "customname": ""
+    },
+    {
+      "abr": "moyoengineeringgear",
+      "category": "Moyo Apparel",
+      "defname": "Moyo_EGsuit",
+      "price": 617,
+      "mod": "Moyo-From the depth",
+      "customname": ""
+    },
+    {
+      "abr": "moyoexoframeprototype",
+      "category": "Moyo Apparel",
+      "defname": "Moyo_Exoframeproto",
+      "price": 1525,
+      "mod": "Moyo-From the depth",
+      "customname": ""
+    },
+    {
+      "abr": "moyoexoticblackdress",
+      "category": "Moyo Apparel",
+      "defname": "Moyo_RoyalBlackDress",
+      "price": 1417,
+      "mod": "Moyo-From the depth",
+      "customname": ""
+    },
+    {
+      "abr": "moyoexoticdressa",
+      "category": "Moyo Apparel",
+      "defname": "Moyo_DragonDressA",
+      "price": 2375,
+      "mod": "Moyo-From the depth",
+      "customname": ""
+    },
+    {
+      "abr": "moyoexoticdressb",
+      "category": "Moyo Apparel",
+      "defname": "Moyo_DragonDressB",
+      "price": 2375,
+      "mod": "Moyo-From the depth",
+      "customname": ""
+    },
+    {
+      "abr": "moyoexoticdressc",
+      "category": "Moyo Apparel",
+      "defname": "Moyo_DragonDressC",
+      "price": 2375,
+      "mod": "Moyo-From the depth",
+      "customname": ""
+    },
+    {
+      "abr": "moyoexoticdressd",
+      "category": "Moyo Apparel",
+      "defname": "Moyo_DragonDressD",
+      "price": 2792,
+      "mod": "Moyo-From the depth",
+      "customname": ""
+    },
+    {
+      "abr": "moyoheart",
+      "category": "Natural",
+      "defname": "Moyo_Heart",
+      "price": 1083,
+      "mod": "Moyo-From the depth",
+      "customname": ""
+    },
+    {
+      "abr": "moyoholojacket",
+      "category": "Moyo Apparel",
+      "defname": "Moyo_HoloJacket",
+      "price": 1475,
+      "mod": "Moyo-From the depth",
+      "customname": ""
+    },
+    {
+      "abr": "moyoholosuit",
+      "category": "Moyo Apparel",
+      "defname": "Moyo_Holosuit",
+      "price": 1617,
+      "mod": "Moyo-From the depth",
+      "customname": ""
+    },
+    {
+      "abr": "moyojacket",
+      "category": "Moyo Apparel",
+      "defname": "Moyo_Jacket",
+      "price": 275,
+      "mod": "Moyo-From the depth",
+      "customname": ""
+    },
+    {
+      "abr": "moyomeat",
+      "category": "Meat",
+      "defname": "Meat_Alien_Moyo",
+      "price": 1,
+      "mod": "Moyo-From the depth",
+      "customname": ""
+    },
+    {
+      "abr": "moyominiholoprojectora",
+      "category": "Moyo Headgear",
+      "defname": "Moyo_RoyalHologramA",
+      "price": 367,
+      "mod": "Moyo-From the depth",
+      "customname": ""
+    },
+    {
+      "abr": "moyominiholoprojectorb",
+      "category": "Moyo Headgear",
+      "defname": "Moyo_RoyalHologramB",
+      "price": 367,
+      "mod": "Moyo-From the depth",
+      "customname": ""
+    },
+    {
+      "abr": "moyominiholoprojectorc",
+      "category": "Moyo Headgear",
+      "defname": "Moyo_RoyalHologramC",
+      "price": 367,
+      "mod": "Moyo-From the depth",
+      "customname": ""
+    },
+    {
+      "abr": "moyonailgun",
+      "category": "Moyo ranged weapons",
+      "defname": "Moyo_Pistol",
+      "price": 600,
+      "mod": "Moyo-From the depth",
+      "customname": ""
+    },
+    {
+      "abr": "moyoparka",
+      "category": "Moyo Apparel",
+      "defname": "Moyo_Parka",
+      "price": 315,
+      "mod": "Moyo-From the depth",
+      "customname": ""
+    },
+    {
+      "abr": "moyopiledriver",
+      "category": "Moyo melee weapons",
+      "defname": "Moyo_Piledriver",
+      "price": 717,
+      "mod": "Moyo-From the depth",
       "customname": ""
     }
   ]
