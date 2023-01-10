@@ -876,8 +876,8 @@
     "addPrice": 3500,
     "removePrice": 5500,
     "stats": [
-      "x25% butchery speed",
-      "x25% plant work speed"
+      "x125% butchery speed",
+      "x125% plant work speed"
     ],
     "description": "Timmy has always dabbled around with plants and human corpses and butchering them. he is great at planting and butchering."
   },
@@ -886,8 +886,8 @@
     "addPrice": 3500,
     "removePrice": 5500,
     "stats": [
-      "x40% move speed",
-      "x10% mental break threshold"
+      "x140% move speed",
+      "x110% mental break threshold"
     ],
     "description": "Timmy has always been Terrified of the dark and as a result they move faster and have a weakened mind and a higher dark penalty."
   },
