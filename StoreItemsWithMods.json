@@ -8788,7 +8788,7 @@
       "abr": "chickpeas",
       "category": "Vegetarian",
       "defname": "VCE_RawChickpeas",
-      "price": -10,
+      "price": 2,
       "mod": "Vanilla Plants Expanded - More Plants",
       "customname": ""
     },
@@ -10244,7 +10244,7 @@
       "abr": "anchovy",
       "category": "Raw fish",
       "defname": "VCEF_RawAnchovy",
-      "price": -10,
+      "price": 1,
       "mod": "Vanilla Fishing Expanded",
       "customname": ""
     },
@@ -11004,7 +11004,7 @@
       "abr": "guppy",
       "category": "Raw fish",
       "defname": "VCEF_RawGuppy",
-      "price": -10,
+      "price": 1,
       "mod": "Vanilla Fishing Expanded",
       "customname": ""
     },
@@ -13844,7 +13844,7 @@
       "abr": "minnow",
       "category": "Raw fish",
       "defname": "VCEF_RawMinnow",
-      "price": -10,
+      "price": 1,
       "mod": "Vanilla Fishing Expanded",
       "customname": ""
     },
@@ -16716,7 +16716,7 @@
       "abr": "sprat",
       "category": "Raw fish",
       "defname": "VCEF_RawSprat",
-      "price": -10,
+      "price": 1,
       "mod": "Vanilla Fishing Expanded",
       "customname": ""
     },
