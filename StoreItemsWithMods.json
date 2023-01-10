@@ -8788,7 +8788,7 @@
       "abr": "chickpeas",
       "category": "Vegetarian",
       "defname": "VCE_RawChickpeas",
-      "price": 0,
+      "price": -10,
       "mod": "Vanilla Plants Expanded - More Plants",
       "customname": ""
     },
@@ -10244,7 +10244,7 @@
       "abr": "anchovy",
       "category": "Raw fish",
       "defname": "VCEF_RawAnchovy",
-      "price": 0,
+      "price": -10,
       "mod": "Vanilla Fishing Expanded",
       "customname": ""
     },
@@ -10404,7 +10404,7 @@
       "abr": "biosolids",
       "category": "Waste",
       "defname": "Biosolids",
-      "price": 0,
+      "price": -10,
       "mod": "Dubs Bad Hygiene",
       "customname": ""
     },
@@ -11004,7 +11004,7 @@
       "abr": "guppy",
       "category": "Raw fish",
       "defname": "VCEF_RawGuppy",
-      "price": 0,
+      "price": -10,
       "mod": "Vanilla Fishing Expanded",
       "customname": ""
     },
@@ -11092,7 +11092,7 @@
       "abr": "hisa",
       "category": "Animal",
       "defname": "Alien_Hisa",
-      "price": 5000,
+      "price": -10,
       "mod": "Hisa Faction",
       "customname": ""
     },
@@ -11634,7 +11634,7 @@
     },
     {
       "abr": "basicdress",
-      "category": "Dragonian Apparel",
+      "category": "Apparel",
       "defname": "DR_BasicDress",
       "price": 992,
       "mod": "Dragonian Prime Race2.0",
@@ -11642,7 +11642,7 @@
     },
     {
       "abr": "basicwear",
-      "category": "Dragonian Apparel",
+      "category": "Apparel",
       "defname": "DR_BasicWear",
       "price": 958,
       "mod": "Dragonian Prime Race2.0",
@@ -11658,7 +11658,7 @@
     },
     {
       "abr": "battlehelm",
-      "category": "Dragonian Headgear",
+      "category": "Headgear",
       "defname": "DR_BattleHelm",
       "price": 320,
       "mod": "Dragonian Prime Race2.0",
@@ -11666,7 +11666,7 @@
     },
     {
       "abr": "battledress",
-      "category": "Dragonian Apparel",
+      "category": "Armor",
       "defname": "DR_BattleDress",
       "price": 1950,
       "mod": "Dragonian Prime Race2.0",
@@ -11697,14 +11697,6 @@
       "customname": ""
     },
     {
-      "abr": "bionictail",
-      "category": "Bionic",
-      "defname": "RB_BionicTail",
-      "price": 1717,
-      "mod": "Rabbie The Moonrabbit race",
-      "customname": ""
-    },
-    {
       "abr": "bluehaze",
       "category": "Drugs",
       "defname": "BlueYo",
@@ -11726,14 +11718,6 @@
       "defname": "MoyoMedicine",
       "price": 70,
       "mod": "Moyo-From the depth",
-      "customname": ""
-    },
-    {
-      "abr": "braincrystal",
-      "category": "Drugs",
-      "defname": "RB_Braincrystal",
-      "price": 33,
-      "mod": "Rabbie The Moonrabbit race",
       "customname": ""
     },
     {
@@ -11940,7 +11924,7 @@
       "abr": "dragonian",
       "category": "Animal",
       "defname": "Dragonian_Prime",
-      "price": 9667,
+      "price": -10,
       "mod": "Dragonian Prime Race2.0",
       "customname": ""
     },
@@ -12002,7 +11986,7 @@
     },
     {
       "abr": "dressa",
-      "category": "Dragonian Apparel",
+      "category": "Apparel",
       "defname": "DR_GreekDress",
       "price": 1658,
       "mod": "Dragonian Prime Race2.0",
@@ -12010,7 +11994,7 @@
     },
     {
       "abr": "dressb",
-      "category": "Dragonian Apparel",
+      "category": "Apparel",
       "defname": "DR_GreekHanZo",
       "price": 1658,
       "mod": "Dragonian Prime Race2.0",
@@ -12018,7 +12002,7 @@
     },
     {
       "abr": "dressc",
-      "category": "Dragonian Apparel",
+      "category": "Apparel",
       "defname": "DR_GreekPriest",
       "price": 1667,
       "mod": "Dragonian Prime Race2.0",
@@ -12026,7 +12010,7 @@
     },
     {
       "abr": "dressd",
-      "category": "Dragonian Apparel",
+      "category": "Apparel",
       "defname": "DR_GreekSexyDress",
       "price": 1667,
       "mod": "Dragonian Prime Race2.0",
@@ -12034,7 +12018,7 @@
     },
     {
       "abr": "dresse",
-      "category": "Dragonian Apparel",
+      "category": "Apparel",
       "defname": "DR_GreekString",
       "price": 1658,
       "mod": "Dragonian Prime Race2.0",
@@ -12042,7 +12026,7 @@
     },
     {
       "abr": "dressf",
-      "category": "Dragonian Apparel",
+      "category": "Apparel",
       "defname": "DR_JapaneseDress",
       "price": 1667,
       "mod": "Dragonian Prime Race2.0",
@@ -12050,7 +12034,7 @@
     },
     {
       "abr": "dressg",
-      "category": "Dragonian Apparel",
+      "category": "Apparel",
       "defname": "DR_Onepiece",
       "price": 1667,
       "mod": "Dragonian Prime Race2.0",
@@ -12058,7 +12042,7 @@
     },
     {
       "abr": "dressh",
-      "category": "Dragonian Apparel",
+      "category": "Apparel",
       "defname": "DR_EveningDress",
       "price": 1667,
       "mod": "Dragonian Prime Race2.0",
@@ -12130,7 +12114,7 @@
     },
     {
       "abr": "flowerdeco",
-      "category": "Dragonian Headgear",
+      "category": "Headgear",
       "defname": "DR_Hat",
       "price": 558,
       "mod": "Dragonian Prime Race2.0",
@@ -12138,7 +12122,7 @@
     },
     {
       "abr": "flowerribon",
-      "category": "Dragonian Headgear",
+      "category": "Headgear",
       "defname": "DR_FlowerRibon",
       "price": 842,
       "mod": "Dragonian Prime Race2.0",
@@ -12153,16 +12137,8 @@
       "customname": ""
     },
     {
-      "abr": "grendel",
-      "category": "Melee weapons",
-      "defname": "MeleeWeapon_DR_Grendel",
-      "price": 5000,
-      "mod": "Dragonian Prime Race2.0",
-      "customname": ""
-    },
-    {
       "abr": "japanesestylehairacc",
-      "category": "Dragonian Headgear",
+      "category": "Headgear",
       "defname": "DR_JapanHairAcc",
       "price": 842,
       "mod": "Dragonian Prime Race2.0",
@@ -12641,22 +12617,6 @@
       "customname": ""
     },
     {
-      "abr": "lunarmachiningtable",
-      "category": "Production",
-      "defname": "RB_MoonTableMachining",
-      "price": 758,
-      "mod": "Rabbie The Moonrabbit race",
-      "customname": ""
-    },
-    {
-      "abr": "lunartailoringbench",
-      "category": "Production",
-      "defname": "RB_MoonTailoringBench",
-      "price": 517,
-      "mod": "Rabbie The Moonrabbit race",
-      "customname": ""
-    },
-    {
       "abr": "mackerel",
       "category": "Raw fish",
       "defname": "VCEF_RawMackerel",
@@ -12774,6 +12734,6006 @@
       "defname": "DoorMatMediumGreen",
       "price": 13,
       "mod": "[SYR] Doormats",
+      "customname": ""
+    },
+    {
+      "abr": "kurinwalkie-talkie(kimiriprobationer)",
+      "category": "Kurin probationer walkie-talkies",
+      "defname": "Kurin_WalkieTalkie_Probationer_Kimiri",
+      "price": 2917,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]",
+      "customname": ""
+    },
+    {
+      "abr": "kurinwalkie-talkie(kurinarmysoldier)",
+      "category": "Kurin probationer walkie-talkies",
+      "defname": "Kurin_WalkieTalkie_Probationer_Kurin_Soldier",
+      "price": 9167,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]",
+      "customname": ""
+    },
+    {
+      "abr": "kurinwalkie-talkie(kurinprobationer)",
+      "category": "Kurin probationer walkie-talkies",
+      "defname": "Kurin_WalkieTalkie_Probationer_Kurin",
+      "price": 2917,
+      "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]",
+      "customname": ""
+    },
+    {
+      "abr": "mediumdoormat(orange)",
+      "category": "Furniture",
+      "defname": "DoorMatMediumOrange",
+      "price": 13,
+      "mod": "[SYR] Doormats",
+      "customname": ""
+    },
+    {
+      "abr": "mediumdoormat(red)",
+      "category": "Furniture",
+      "defname": "DoorMatMediumRed",
+      "price": 13,
+      "mod": "[SYR] Doormats",
+      "customname": ""
+    },
+    {
+      "abr": "mediumdoormat(teal)",
+      "category": "Furniture",
+      "defname": "DoorMatMediumTeal",
+      "price": 13,
+      "mod": "[SYR] Doormats",
+      "customname": ""
+    },
+    {
+      "abr": "mentalight",
+      "category": "Drugs",
+      "defname": "Mentalight",
+      "price": 45,
+      "mod": "Hisa Faction",
+      "customname": ""
+    },
+    {
+      "abr": "mentholsmokeleafjoint",
+      "category": "Drugs",
+      "defname": "Mincho_MentholSmokeleafJoint",
+      "price": 22,
+      "mod": "Mincho, The Mint Choco Slime ~ HAR ver.",
+      "customname": ""
+    },
+    {
+      "abr": "miho",
+      "category": "Animal",
+      "defname": "Alien_Miho",
+      "price": -10,
+      "mod": "Miho, the celestial fox",
+      "customname": ""
+    },
+    {
+      "abr": "mihobeanie",
+      "category": "Headgear",
+      "defname": "Miho_Apparel_Hat_Winter",
+      "price": 79,
+      "mod": "Miho, the celestial fox",
+      "customname": ""
+    },
+    {
+      "abr": "mihoblackunderwear",
+      "category": "Miho Apparel",
+      "defname": "Miho_Apparel_Under_IndustrialBlack",
+      "price": 137,
+      "mod": "Miho, the celestial fox",
+      "customname": ""
+    },
+    {
+      "abr": "mihocelestialforge",
+      "category": "Production",
+      "defname": "Miho_CelestialForge",
+      "price": 22933,
+      "mod": "Miho, the celestial fox",
+      "customname": ""
+    },
+    {
+      "abr": "mihoceramic",
+      "category": "Raw resources",
+      "defname": "Miho_Ceramics",
+      "price": 3,
+      "mod": "Miho, the celestial fox",
+      "customname": ""
+    },
+    {
+      "abr": "mihoceramicdough",
+      "category": "Raw resources",
+      "defname": "Miho_CeramicsPaste",
+      "price": 1,
+      "mod": "Miho, the celestial fox",
+      "customname": ""
+    },
+    {
+      "abr": "mihocommonclothe",
+      "category": "Miho Apparel",
+      "defname": "Miho_Apparel_OnSkin_Simple",
+      "price": 230,
+      "mod": "Miho, the celestial fox",
+      "customname": ""
+    },
+    {
+      "abr": "mihoelitetrooperhelmet",
+      "category": "Miho Headgear",
+      "defname": "Miho_Apparel_Hat_PMC",
+      "price": 1158,
+      "mod": "Miho, the celestial fox",
+      "customname": ""
+    },
+    {
+      "abr": "mihoeltexapparel",
+      "category": "Miho Apparel",
+      "defname": "Miho_Apparel_OnSkin_OrnatedOne",
+      "price": 1675,
+      "mod": "Miho, the celestial fox",
+      "customname": ""
+    },
+    {
+      "abr": "mihoeltexmask",
+      "category": "Miho Headgear",
+      "defname": "Miho_Apparel_Mask_Eltex",
+      "price": 392,
+      "mod": "Miho, the celestial fox",
+      "customname": ""
+    },
+    {
+      "abr": "mihoeltexoutfit(arcaneshield)",
+      "category": "Miho Apparel",
+      "defname": "Miho_Apparel_OnSkin_OrnatedTwo",
+      "price": 1683,
+      "mod": "Miho, the celestial fox",
+      "customname": ""
+    },
+    {
+      "abr": "mihoeltexunderwear",
+      "category": "Miho Apparel",
+      "defname": "Miho_Apparel_Under_EltexOne",
+      "price": 942,
+      "mod": "Miho, the celestial fox",
+      "customname": ""
+    },
+    {
+      "abr": "mihoexoskeleton",
+      "category": "Miho Apparel",
+      "defname": "Miho_Apparel_Middle_PoweredWorker",
+      "price": 750,
+      "mod": "Miho, the celestial fox",
+      "customname": ""
+    },
+    {
+      "abr": "mihoexoskeletonheavyarmor",
+      "category": "Miho Apparel",
+      "defname": "Miho_Apparel_Middle_Powered",
+      "price": 2967,
+      "mod": "Miho, the celestial fox",
+      "customname": ""
+    },
+    {
+      "abr": "mihofireassistcomputer",
+      "category": "Miho Apparel",
+      "defname": "Miho_Apparel_Special_TacticalAssist",
+      "price": 1725,
+      "mod": "Miho, the celestial fox",
+      "customname": ""
+    },
+    {
+      "abr": "mihogeneralworkbench",
+      "category": "Production",
+      "defname": "Miho_TableMachining",
+      "price": 1025,
+      "mod": "Miho, the celestial fox",
+      "customname": ""
+    },
+    {
+      "abr": "mihoglasses",
+      "category": "Miho Apparel",
+      "defname": "Miho_Apparel_Special_Glasses",
+      "price": 238,
+      "mod": "Miho, the celestial fox",
+      "customname": ""
+    },
+    {
+      "abr": "mihogrenaderifle",
+      "category": "Ranged weapons",
+      "defname": "Miho_Weapon_RifleGrenade",
+      "price": 1400,
+      "mod": "Miho, the celestial fox",
+      "customname": ""
+    },
+    {
+      "abr": "mihohardhat",
+      "category": "Miho Headgear",
+      "defname": "Miho_Apparel_Hat_Worker",
+      "price": 124,
+      "mod": "Miho, the celestial fox",
+      "customname": ""
+    },
+    {
+      "abr": "mihoheavymachinepistol",
+      "category": "Ranged weapons",
+      "defname": "Miho_Weapon_HeavyPistol",
+      "price": 3408,
+      "mod": "Miho, the celestial fox",
+      "customname": ""
+    },
+    {
+      "abr": "mihohoodie",
+      "category": "Miho Apparel",
+      "defname": "Miho_Apparel_OnSkin_Hoodie",
+      "price": 236,
+      "mod": "Miho, the celestial fox",
+      "customname": ""
+    },
+    {
+      "abr": "mihohuntingrifle",
+      "category": "Ranged weapons",
+      "defname": "Miho_Weapon_Shotgun",
+      "price": 1000,
+      "mod": "Miho, the celestial fox",
+      "customname": ""
+    },
+    {
+      "abr": "mihohwando",
+      "category": "Melee weapons",
+      "defname": "Miho_Weapon_RingedBlade",
+      "price": 483,
+      "mod": "Miho, the celestial fox",
+      "customname": ""
+    },
+    {
+      "abr": "mihoinfantryrifle",
+      "category": "Ranged weapons",
+      "defname": "Miho_Weapon_RifleDefence",
+      "price": 808,
+      "mod": "Miho, the celestial fox",
+      "customname": ""
+    },
+    {
+      "abr": "miholmg",
+      "category": "Ranged weapons",
+      "defname": "Miho_Weapon_RifleMachinegun",
+      "price": 808,
+      "mod": "Miho, the celestial fox",
+      "customname": ""
+    },
+    {
+      "abr": "mihomagnifier",
+      "category": "Miho Apparel",
+      "defname": "Miho_Apparel_Special_Magnifier",
+      "price": 617,
+      "mod": "Miho, the celestial fox",
+      "customname": ""
+    },
+    {
+      "abr": "mihomeat",
+      "category": "Meat",
+      "defname": "Meat_Alien_Miho",
+      "price": 3,
+      "mod": "Miho, the celestial fox",
+      "customname": ""
+    },
+    {
+      "abr": "mihomechfactory",
+      "category": "Misc",
+      "defname": "Miho_MechFactory",
+      "price": 1892,
+      "mod": "Miho, the celestial fox",
+      "customname": ""
+    },
+    {
+      "abr": "mihomechaniteacceleratedrifle",
+      "category": "Ranged weapons",
+      "defname": "Miho_Weapon_ShotgunPsychic",
+      "price": 5783,
+      "mod": "Miho, the celestial fox",
+      "customname": ""
+    },
+    {
+      "abr": "mihomilitarygradeceramic",
+      "category": "Raw resources",
+      "defname": "Miho_MilitaryGradeBalisticCeramics",
+      "price": 12,
+      "mod": "Miho, the celestial fox",
+      "customname": ""
+    },
+    {
+      "abr": "mihonodachi",
+      "category": "Melee weapons",
+      "defname": "Miho_Weapon_Tachi",
+      "price": 667,
+      "mod": "Miho, the celestial fox",
+      "customname": ""
+    },
+    {
+      "abr": "mihooldfashionedgun",
+      "category": "Ranged weapons",
+      "defname": "Miho_Weapon_RifleOld",
+      "price": 1000,
+      "mod": "Miho, the celestial fox",
+      "customname": ""
+    },
+    {
+      "abr": "mihopaddedparka",
+      "category": "Miho Apparel",
+      "defname": "Miho_Apparel_Shell_Padding",
+      "price": 342,
+      "mod": "Miho, the celestial fox",
+      "customname": ""
+    },
+    {
+      "abr": "mihopariahbattlehelmet",
+      "category": "Miho Headgear",
+      "defname": "Miho_Apparel_Hat_Pariah",
+      "price": 1817,
+      "mod": "Miho, the celestial fox",
+      "customname": ""
+    },
+    {
+      "abr": "mihopariahbattlesuit",
+      "category": "Miho Apparel",
+      "defname": "Miho_Apparel_OnSkin_Pariah",
+      "price": 5100,
+      "mod": "Miho, the celestial fox",
+      "customname": ""
+    },
+    {
+      "abr": "mihoplasmanodachi",
+      "category": "Melee weapons",
+      "defname": "Miho_Weapon_PlasmaTachi",
+      "price": 2617,
+      "mod": "Miho, the celestial fox",
+      "customname": ""
+    },
+    {
+      "abr": "mihoplasmarifle",
+      "category": "Ranged weapons",
+      "defname": "Miho_Weapon_RiflePlasma",
+      "price": 2633,
+      "mod": "Miho, the celestial fox",
+      "customname": ""
+    },
+    {
+      "abr": "mihopowerclaw",
+      "category": "Melee weapons",
+      "defname": "Miho_Weapon_PowerClaw",
+      "price": 1258,
+      "mod": "Miho, the celestial fox",
+      "customname": ""
+    },
+    {
+      "abr": "mihoprotectiveunderwear",
+      "category": "Miho Apparel",
+      "defname": "Miho_Apparel_Under_Armor",
+      "price": 1292,
+      "mod": "Miho, the celestial fox",
+      "customname": ""
+    },
+    {
+      "abr": "mihosapperhammer",
+      "category": "Melee weapons",
+      "defname": "Miho_Weapon_Sappertool",
+      "price": 592,
+      "mod": "Miho, the celestial fox",
+      "customname": ""
+    },
+    {
+      "abr": "mihosecuritysuit",
+      "category": "Miho Apparel",
+      "defname": "Miho_Apparel_OnSkin_Militia",
+      "price": 358,
+      "mod": "Miho, the celestial fox",
+      "customname": ""
+    },
+    {
+      "abr": "mihoshaftfurnace",
+      "category": "Production",
+      "defname": "Miho_ShaftFurnace",
+      "price": 1525,
+      "mod": "Miho, the celestial fox",
+      "customname": ""
+    },
+    {
+      "abr": "mihosorceresscloak",
+      "category": "Miho Apparel",
+      "defname": "Miho_Apparel_Shell_Sorceress",
+      "price": 3650,
+      "mod": "Miho, the celestial fox",
+      "customname": ""
+    },
+    {
+      "abr": "mihostandardsuit",
+      "category": "Miho Apparel",
+      "defname": "Miho_Apparel_OnSkin_Regular",
+      "price": 310,
+      "mod": "Miho, the celestial fox",
+      "customname": ""
+    },
+    {
+      "abr": "mihosubmachinegun",
+      "category": "Ranged weapons",
+      "defname": "Miho_Weapon_RifleCQB",
+      "price": 492,
+      "mod": "Miho, the celestial fox",
+      "customname": ""
+    },
+    {
+      "abr": "mihotacticalcap",
+      "category": "Miho Headgear",
+      "defname": "Miho_Apparel_Hat_ShooterCap",
+      "price": 417,
+      "mod": "Miho, the celestial fox",
+      "customname": ""
+    },
+    {
+      "abr": "mihotacticalvest",
+      "category": "Miho Apparel",
+      "defname": "Miho_Apparel_Middle_MilitiaVest",
+      "price": 284,
+      "mod": "Miho, the celestial fox",
+      "customname": ""
+    },
+    {
+      "abr": "mihotatami",
+      "category": "Furniture",
+      "defname": "Miho_Tatami",
+      "price": 10,
+      "mod": "Miho, the celestial fox",
+      "customname": ""
+    },
+    {
+      "abr": "mihotribalunderwear",
+      "category": "Miho Apparel",
+      "defname": "Miho_Apparel_Under_Tribal",
+      "price": 79,
+      "mod": "Miho, the celestial fox",
+      "customname": ""
+    },
+    {
+      "abr": "mihotribalunderwear(b)",
+      "category": "Miho Apparel",
+      "defname": "Miho_Apparel_Under_TribalTwo",
+      "price": 59,
+      "mod": "Miho, the celestial fox",
+      "customname": ""
+    },
+    {
+      "abr": "mihotribeeltexunderwear",
+      "category": "Miho Apparel",
+      "defname": "Miho_Apparel_Under_TribalEltex",
+      "price": 1092,
+      "mod": "Miho, the celestial fox",
+      "customname": ""
+    },
+    {
+      "abr": "mihotrooperarmor",
+      "category": "Miho Apparel",
+      "defname": "Miho_Apparel_Middle_Militia",
+      "price": 408,
+      "mod": "Miho, the celestial fox",
+      "customname": ""
+    },
+    {
+      "abr": "mihotrooperarmor(tan)",
+      "category": "Miho Apparel",
+      "defname": "Miho_Apparel_Middle_Militia_Tan",
+      "price": 408,
+      "mod": "Miho, the celestial fox",
+      "customname": ""
+    },
+    {
+      "abr": "mihotrooperhelmet",
+      "category": "Miho Headgear",
+      "defname": "Miho_Apparel_Hat_Militia",
+      "price": 322,
+      "mod": "Miho, the celestial fox",
+      "customname": ""
+    },
+    {
+      "abr": "mihotrooperhelmet",
+      "category": "Miho Headgear",
+      "defname": "Miho_Apparel_Hat_MilitiaShoot",
+      "price": 322,
+      "mod": "Miho, the celestial fox",
+      "customname": ""
+    },
+    {
+      "abr": "mihotroopersuit",
+      "category": "Miho Apparel",
+      "defname": "Miho_Apparel_OnSkin_PMC",
+      "price": 1225,
+      "mod": "Miho, the celestial fox",
+      "customname": ""
+    },
+    {
+      "abr": "mihounderwear",
+      "category": "Miho Apparel",
+      "defname": "Miho_Apparel_Under_Industrial",
+      "price": 73,
+      "mod": "Miho, the celestial fox",
+      "customname": ""
+    },
+    {
+      "abr": "mihovisor",
+      "category": "Miho Apparel",
+      "defname": "Miho_Apparel_Special_Visor",
+      "price": 800,
+      "mod": "Miho, the celestial fox",
+      "customname": ""
+    },
+    {
+      "abr": "mihowinterponcho",
+      "category": "Miho Apparel",
+      "defname": "Miho_Apparel_Shell_Winter",
+      "price": 197,
+      "mod": "Miho, the celestial fox",
+      "customname": ""
+    },
+    {
+      "abr": "mincho",
+      "category": "Animal",
+      "defname": "Mincho_ThingDef",
+      "price": -10,
+      "mod": "Mincho, The Mint Choco Slime ~ HAR ver.",
+      "customname": ""
+    },
+    {
+      "abr": "minchoarcanepotion",
+      "category": "Drugs",
+      "defname": "Mincho_ArcanePotion",
+      "price": 30,
+      "mod": "Mincho, The Mint Choco Slime ~ HAR ver.",
+      "customname": ""
+    },
+    {
+      "abr": "minchoarmchair",
+      "category": "Furniture",
+      "defname": "Mincho_Armchair",
+      "price": 350,
+      "mod": "Mincho, The Mint Choco Slime ~ HAR ver.",
+      "customname": ""
+    },
+    {
+      "abr": "minchobench",
+      "category": "Production",
+      "defname": "Mincho_MinchoBench",
+      "price": 229,
+      "mod": "Mincho, The Mint Choco Slime ~ HAR ver.",
+      "customname": ""
+    },
+    {
+      "abr": "minchoblouseandhighwaistskirt",
+      "category": "Mincho apparel",
+      "defname": "Mincho_BlouseHighWaistSkirt",
+      "price": 425,
+      "mod": "Mincho, The Mint Choco Slime ~ HAR ver.",
+      "customname": ""
+    },
+    {
+      "abr": "minchobluepolarbearcookie",
+      "category": "Drugs",
+      "defname": "Mincho_BluePolarBear_Cookie",
+      "price": 2,
+      "mod": "Mincho, The Mint Choco Slime ~ HAR ver.",
+      "customname": ""
+    },
+    {
+      "abr": "minchobluepolarbearhat",
+      "category": "Mincho apparel",
+      "defname": "Mincho_BluePolarBearHat",
+      "price": 112,
+      "mod": "Mincho, The Mint Choco Slime ~ HAR ver.",
+      "customname": ""
+    },
+    {
+      "abr": "minchobunnygirlapparel",
+      "category": "Mincho apparel",
+      "defname": "Mincho_BunnyGirlApparel",
+      "price": 600,
+      "mod": "Mincho, The Mint Choco Slime ~ HAR ver.",
+      "customname": ""
+    },
+    {
+      "abr": "minchobunnygirlear",
+      "category": "Mincho apparel",
+      "defname": "Mincho_BunnyGirlEar",
+      "price": 55,
+      "mod": "Mincho, The Mint Choco Slime ~ HAR ver.",
+      "customname": ""
+    },
+    {
+      "abr": "minchobunnygirltail",
+      "category": "Mincho apparel",
+      "defname": "Mincho_BunnyGirlTail",
+      "price": 162,
+      "mod": "Mincho, The Mint Choco Slime ~ HAR ver.",
+      "customname": ""
+    },
+    {
+      "abr": "minchocandel(left)",
+      "category": "Furniture",
+      "defname": "Mincho_MinchoCandle_Left",
+      "price": 44,
+      "mod": "Mincho, The Mint Choco Slime ~ HAR ver.",
+      "customname": ""
+    },
+    {
+      "abr": "minchocandel(lower)",
+      "category": "Furniture",
+      "defname": "Mincho_MinchoCandle_Lower",
+      "price": 44,
+      "mod": "Mincho, The Mint Choco Slime ~ HAR ver.",
+      "customname": ""
+    },
+    {
+      "abr": "minchocandel(middle)",
+      "category": "Furniture",
+      "defname": "Mincho_MinchoCandle_Middle",
+      "price": 44,
+      "mod": "Mincho, The Mint Choco Slime ~ HAR ver.",
+      "customname": ""
+    },
+    {
+      "abr": "minchocandel(right)",
+      "category": "Furniture",
+      "defname": "Mincho_MinchoCandle_Right",
+      "price": 44,
+      "mod": "Mincho, The Mint Choco Slime ~ HAR ver.",
+      "customname": ""
+    },
+    {
+      "abr": "minchocandel(upper)",
+      "category": "Furniture",
+      "defname": "Mincho_MinchoCandle_Upper",
+      "price": 44,
+      "mod": "Mincho, The Mint Choco Slime ~ HAR ver.",
+      "customname": ""
+    },
+    {
+      "abr": "minchochococrust",
+      "category": "Mincho apparel",
+      "defname": "Mincho_ChocoCrust",
+      "price": 433,
+      "mod": "Mincho, The Mint Choco Slime ~ HAR ver.",
+      "customname": ""
+    },
+    {
+      "abr": "minchochocolatecoatingdress",
+      "category": "Mincho apparel",
+      "defname": "Mincho_ChocolateCoatingDress",
+      "price": 400,
+      "mod": "Mincho, The Mint Choco Slime ~ HAR ver.",
+      "customname": ""
+    },
+    {
+      "abr": "minchochocolatehumancookie",
+      "category": "Drugs",
+      "defname": "Mincho_Humanlike_Cookie",
+      "price": 2,
+      "mod": "Mincho, The Mint Choco Slime ~ HAR ver.",
+      "customname": ""
+    },
+    {
+      "abr": "minchochocolatenegligee",
+      "category": "Mincho apparel",
+      "defname": "Mincho_ChocolateNegligee",
+      "price": 400,
+      "mod": "Mincho, The Mint Choco Slime ~ HAR ver.",
+      "customname": ""
+    },
+    {
+      "abr": "minchocrepebedroll",
+      "category": "Furniture",
+      "defname": "Mincho_Crepe_Bedroll",
+      "price": 68,
+      "mod": "Mincho, The Mint Choco Slime ~ HAR ver.",
+      "customname": ""
+    },
+    {
+      "abr": "minchodessertthrone",
+      "category": "Furniture",
+      "defname": "Mincho_Dessert_Throne",
+      "price": 3667,
+      "mod": "Mincho, The Mint Choco Slime ~ HAR ver.",
+      "customname": ""
+    },
+    {
+      "abr": "minchoelectriccandel(left)",
+      "category": "Furniture",
+      "defname": "Mincho_Electric_MinchoCandle_Left",
+      "price": 44,
+      "mod": "Mincho, The Mint Choco Slime ~ HAR ver.",
+      "customname": ""
+    },
+    {
+      "abr": "minchoelectriccandel(lower)",
+      "category": "Furniture",
+      "defname": "Mincho_Electric_MinchoCandle_Lower",
+      "price": 44,
+      "mod": "Mincho, The Mint Choco Slime ~ HAR ver.",
+      "customname": ""
+    },
+    {
+      "abr": "minchoelectriccandel(middle)",
+      "category": "Furniture",
+      "defname": "Mincho_Electric_MinchoCandle_Middle",
+      "price": 44,
+      "mod": "Mincho, The Mint Choco Slime ~ HAR ver.",
+      "customname": ""
+    },
+    {
+      "abr": "minchoelectriccandel(right)",
+      "category": "Furniture",
+      "defname": "Mincho_Electric_MinchoCandle_Right",
+      "price": 44,
+      "mod": "Mincho, The Mint Choco Slime ~ HAR ver.",
+      "customname": ""
+    },
+    {
+      "abr": "minchoelectriccandel(upper)",
+      "category": "Furniture",
+      "defname": "Mincho_Electric_MinchoCandle_Upper",
+      "price": 44,
+      "mod": "Mincho, The Mint Choco Slime ~ HAR ver.",
+      "customname": ""
+    },
+    {
+      "abr": "minchoflakvest",
+      "category": "Mincho apparel",
+      "defname": "Mincho_FlakVest",
+      "price": 333,
+      "mod": "Mincho, The Mint Choco Slime ~ HAR ver.",
+      "customname": ""
+    },
+    {
+      "abr": "minchofullsizecakebed",
+      "category": "Furniture",
+      "defname": "Mincho_Full_Size_Cake_Bed",
+      "price": 1833,
+      "mod": "Mincho, The Mint Choco Slime ~ HAR ver.",
+      "customname": ""
+    },
+    {
+      "abr": "minchogarterbelt",
+      "category": "Mincho apparel",
+      "defname": "Mincho_GarterBelt",
+      "price": 206,
+      "mod": "Mincho, The Mint Choco Slime ~ HAR ver.",
+      "customname": ""
+    },
+    {
+      "abr": "minchohighwaistshorts",
+      "category": "Mincho apparel",
+      "defname": "Mincho_BluePolarBearHighWaistShorts",
+      "price": 209,
+      "mod": "Mincho, The Mint Choco Slime ~ HAR ver.",
+      "customname": ""
+    },
+    {
+      "abr": "minchohood",
+      "category": "Mincho apparel",
+      "defname": "Mincho_PinkFallInLoveHood",
+      "price": 212,
+      "mod": "Mincho, The Mint Choco Slime ~ HAR ver.",
+      "customname": ""
+    },
+    {
+      "abr": "minchoicecreambuckethat",
+      "category": "Mincho apparel",
+      "defname": "Mincho_CupHat",
+      "price": 45,
+      "mod": "Mincho, The Mint Choco Slime ~ HAR ver.",
+      "customname": ""
+    },
+    {
+      "abr": "minchoknightlycloak",
+      "category": "Mincho apparel",
+      "defname": "Mincho_KnightlyCloak",
+      "price": 1033,
+      "mod": "Mincho, The Mint Choco Slime ~ HAR ver.",
+      "customname": ""
+    },
+    {
+      "abr": "minchoknightlydress",
+      "category": "Mincho apparel",
+      "defname": "Mincho_KnightlyDress",
+      "price": 783,
+      "mod": "Mincho, The Mint Choco Slime ~ HAR ver.",
+      "customname": ""
+    },
+    {
+      "abr": "minchoknightlytiara",
+      "category": "Mincho apparel",
+      "defname": "Mincho_KnightlyTiara",
+      "price": 327,
+      "mod": "Mincho, The Mint Choco Slime ~ HAR ver.",
+      "customname": ""
+    },
+    {
+      "abr": "minchoknitwear",
+      "category": "Mincho apparel",
+      "defname": "Mincho_Knitwear",
+      "price": 209,
+      "mod": "Mincho, The Mint Choco Slime ~ HAR ver.",
+      "customname": ""
+    },
+    {
+      "abr": "minchoknitwear(reverse)",
+      "category": "Mincho apparel",
+      "defname": "Mincho_Knitwear_Reverse",
+      "price": 209,
+      "mod": "Mincho, The Mint Choco Slime ~ HAR ver.",
+      "customname": ""
+    },
+    {
+      "abr": "mincholatteishorse",
+      "category": "Animals",
+      "defname": "Mincho_MinchoLatteIsHorse",
+      "price": 1283,
+      "mod": "Mincho, The Mint Choco Slime ~ HAR ver.",
+      "customname": ""
+    },
+    {
+      "abr": "minchomacaronbackrestchair",
+      "category": "Furniture",
+      "defname": "Mincho_Macaron_Backrest_Chair",
+      "price": 350,
+      "mod": "Mincho, The Mint Choco Slime ~ HAR ver.",
+      "customname": ""
+    },
+    {
+      "abr": "minchomacaronchair",
+      "category": "Furniture",
+      "defname": "Mincho_Macaron_Chair",
+      "price": 200,
+      "mod": "Mincho, The Mint Choco Slime ~ HAR ver.",
+      "customname": ""
+    },
+    {
+      "abr": "minchomercenaryarmor",
+      "category": "Mincho apparel",
+      "defname": "Mincho_MercenaryArmor",
+      "price": 708,
+      "mod": "Mincho, The Mint Choco Slime ~ HAR ver.",
+      "customname": ""
+    },
+    {
+      "abr": "minchomintslimecookie",
+      "category": "Drugs",
+      "defname": "Mincho_Slime_Cookie",
+      "price": 2,
+      "mod": "Mincho, The Mint Choco Slime ~ HAR ver.",
+      "customname": ""
+    },
+    {
+      "abr": "minchomintchococookie",
+      "category": "Drugs",
+      "defname": "Mincho_Mintchoco_Cookie",
+      "price": 2,
+      "mod": "Mincho, The Mint Choco Slime ~ HAR ver.",
+      "customname": ""
+    },
+    {
+      "abr": "minchomintchocodonuttiara",
+      "category": "Mincho apparel",
+      "defname": "Mincho_MintchocoDonutTiara",
+      "price": 492,
+      "mod": "Mincho, The Mint Choco Slime ~ HAR ver.",
+      "customname": ""
+    },
+    {
+      "abr": "minchopinkfallinlovecookie",
+      "category": "Drugs",
+      "defname": "Mincho_PinkFallInLove_Cookie",
+      "price": 2,
+      "mod": "Mincho, The Mint Choco Slime ~ HAR ver.",
+      "customname": ""
+    },
+    {
+      "abr": "minchopinkfallinlovehat",
+      "category": "Mincho apparel",
+      "defname": "Mincho_PinkFallInLoveHat",
+      "price": 112,
+      "mod": "Mincho, The Mint Choco Slime ~ HAR ver.",
+      "customname": ""
+    },
+    {
+      "abr": "minchopsylinkneuroformer",
+      "category": "Archotech",
+      "defname": "Mincho_MinchoPsychicAmplifier",
+      "price": 4333,
+      "mod": "n/a",
+      "customname": ""
+    },
+    {
+      "abr": "minchorat-earedcookie",
+      "category": "Mincho apparel",
+      "defname": "Mincho_RatEar",
+      "price": 99,
+      "mod": "Mincho, The Mint Choco Slime ~ HAR ver.",
+      "customname": ""
+    },
+    {
+      "abr": "minchorat-tailedsnack",
+      "category": "Mincho apparel",
+      "defname": "Mincho_RatTail",
+      "price": 197,
+      "mod": "Mincho, The Mint Choco Slime ~ HAR ver.",
+      "customname": ""
+    },
+    {
+      "abr": "minchosee-throughshawl",
+      "category": "Mincho apparel",
+      "defname": "Mincho_SeeThroughShawl",
+      "price": 206,
+      "mod": "Mincho, The Mint Choco Slime ~ HAR ver.",
+      "customname": ""
+    },
+    {
+      "abr": "minchosinglesizecakebed",
+      "category": "Furniture",
+      "defname": "Mincho_Single_Size_Cake_Bed",
+      "price": 917,
+      "mod": "Mincho, The Mint Choco Slime ~ HAR ver.",
+      "customname": ""
+    },
+    {
+      "abr": "minchospacebooster",
+      "category": "Mincho apparel",
+      "defname": "Mincho_SpaceBooster",
+      "price": 1758,
+      "mod": "Mincho, The Mint Choco Slime ~ HAR ver.",
+      "customname": ""
+    },
+    {
+      "abr": "minchospacehelmet(bluepolarbeat)",
+      "category": "Mincho apparel",
+      "defname": "Mincho_SpaceHelmet_BluePolarBear",
+      "price": 1517,
+      "mod": "Mincho, The Mint Choco Slime ~ HAR ver.",
+      "customname": ""
+    },
+    {
+      "abr": "minchospacehelmet(mintchoco)",
+      "category": "Mincho apparel",
+      "defname": "Mincho_SpaceHelmet_Mintchoco",
+      "price": 1517,
+      "mod": "Mincho, The Mint Choco Slime ~ HAR ver.",
+      "customname": ""
+    },
+    {
+      "abr": "minchospacehelmet(pinkfallinlove)",
+      "category": "Mincho apparel",
+      "defname": "Mincho_SpaceHelmet_PinkFallInLove",
+      "price": 1517,
+      "mod": "Mincho, The Mint Choco Slime ~ HAR ver.",
+      "customname": ""
+    },
+    {
+      "abr": "minchospacehelmet(white)",
+      "category": "Mincho apparel",
+      "defname": "Mincho_SpaceHelmet_White",
+      "price": 1517,
+      "mod": "Mincho, The Mint Choco Slime ~ HAR ver.",
+      "customname": ""
+    },
+    {
+      "abr": "minchospacesuit(bluepolarbear)",
+      "category": "Mincho apparel",
+      "defname": "Mincho_SpaceSuit_BluePolarBear",
+      "price": 3233,
+      "mod": "Mincho, The Mint Choco Slime ~ HAR ver.",
+      "customname": ""
+    },
+    {
+      "abr": "minchospacesuit(mintchoco)",
+      "category": "Mincho apparel",
+      "defname": "Mincho_SpaceSuit_Mintchoco",
+      "price": 3233,
+      "mod": "Mincho, The Mint Choco Slime ~ HAR ver.",
+      "customname": ""
+    },
+    {
+      "abr": "minchospacesuit(pinkfallinlove)",
+      "category": "Mincho apparel",
+      "defname": "Mincho_SpaceSuit_PinkFallInLove",
+      "price": 3233,
+      "mod": "Mincho, The Mint Choco Slime ~ HAR ver.",
+      "customname": ""
+    },
+    {
+      "abr": "minchospacesuit(white)",
+      "category": "Mincho apparel",
+      "defname": "Mincho_SpaceSuit_White",
+      "price": 3233,
+      "mod": "Mincho, The Mint Choco Slime ~ HAR ver.",
+      "customname": ""
+    },
+    {
+      "abr": "minchostocking",
+      "category": "Mincho apparel",
+      "defname": "Mincho_Stocking",
+      "price": 206,
+      "mod": "Mincho, The Mint Choco Slime ~ HAR ver.",
+      "customname": ""
+    },
+    {
+      "abr": "minchosupercandel",
+      "category": "Furniture",
+      "defname": "Mincho_Super_MinchoCandle",
+      "price": 383,
+      "mod": "Mincho, The Mint Choco Slime ~ HAR ver.",
+      "customname": ""
+    },
+    {
+      "abr": "minchosuperelectriccandel",
+      "category": "Furniture",
+      "defname": "Mincho_Super_Electric_MinchoCandle",
+      "price": 383,
+      "mod": "Mincho, The Mint Choco Slime ~ HAR ver.",
+      "customname": ""
+    },
+    {
+      "abr": "minchoweddingknightlycloak",
+      "category": "Mincho apparel",
+      "defname": "Mincho_WeddingKnightlyCloak",
+      "price": 2017,
+      "mod": "Mincho, The Mint Choco Slime ~ HAR ver.",
+      "customname": ""
+    },
+    {
+      "abr": "minchoweddingknightlydress",
+      "category": "Mincho apparel",
+      "defname": "Mincho_WeddingKnightlyDress",
+      "price": 1258,
+      "mod": "Mincho, The Mint Choco Slime ~ HAR ver.",
+      "customname": ""
+    },
+    {
+      "abr": "minchoweddingknightlyveil",
+      "category": "Mincho apparel",
+      "defname": "Mincho_WeddingKnightlyVeil",
+      "price": 1217,
+      "mod": "Mincho, The Mint Choco Slime ~ HAR ver.",
+      "customname": ""
+    },
+    {
+      "abr": "minchonyang",
+      "category": "Animals",
+      "defname": "Mincho_Minchonyang",
+      "price": 583,
+      "mod": "Mincho, The Mint Choco Slime ~ HAR ver.",
+      "customname": ""
+    },
+    {
+      "abr": "minchoshroom",
+      "category": "Mintchocos",
+      "defname": "Mincho_Minchoshroom",
+      "price": 5,
+      "mod": "Mincho, The Mint Choco Slime ~ HAR ver.",
+      "customname": ""
+    },
+    {
+      "abr": "minchoshroommold",
+      "category": "Misc",
+      "defname": "Mincho_MinchoshroomPlantMold",
+      "price": 67,
+      "mod": "Mincho, The Mint Choco Slime ~ HAR ver.",
+      "customname": ""
+    },
+    {
+      "abr": "minchoshroommold(long)",
+      "category": "Misc",
+      "defname": "Mincho_MinchoshroomPlantMold_Long",
+      "price": 203,
+      "mod": "Mincho, The Mint Choco Slime ~ HAR ver.",
+      "customname": ""
+    },
+    {
+      "abr": "minmoong",
+      "category": "Animals",
+      "defname": "Mincho_Minmoong",
+      "price": 583,
+      "mod": "Mincho, The Mint Choco Slime ~ HAR ver.",
+      "customname": ""
+    },
+    {
+      "abr": "minnow",
+      "category": "Raw fish",
+      "defname": "VCEF_RawMinnow",
+      "price": -10,
+      "mod": "Vanilla Fishing Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "mintcandy",
+      "category": "Mintchocos",
+      "defname": "Mincho_MintCandy",
+      "price": 150,
+      "mod": "Mincho, The Mint Choco Slime ~ HAR ver.",
+      "customname": ""
+    },
+    {
+      "abr": "mintleaves",
+      "category": "Plant matter",
+      "defname": "Mincho_MintLeaves",
+      "price": 1,
+      "mod": "Mincho, The Mint Choco Slime ~ HAR ver.",
+      "customname": ""
+    },
+    {
+      "abr": "mintchoco",
+      "category": "Mintchoco-like ice cream",
+      "defname": "Mincho_Mintchoco",
+      "price": 5,
+      "mod": "Mincho, The Mint Choco Slime ~ HAR ver.",
+      "customname": ""
+    },
+    {
+      "abr": "mintchocoblock",
+      "category": "Stone blocks",
+      "defname": "Mincho_BlocksMintchoco",
+      "price": 6,
+      "mod": "Mincho, The Mint Choco Slime ~ HAR ver.",
+      "customname": ""
+    },
+    {
+      "abr": "mintchococake",
+      "category": "Mintchocos",
+      "defname": "Mincho_MintchocoCake",
+      "price": 60,
+      "mod": "Mincho, The Mint Choco Slime ~ HAR ver.",
+      "customname": ""
+    },
+    {
+      "abr": "mintchocodonut",
+      "category": "Mintchocos",
+      "defname": "Mincho_MintchocoDonut",
+      "price": 32,
+      "mod": "Mincho, The Mint Choco Slime ~ HAR ver.",
+      "customname": ""
+    },
+    {
+      "abr": "mintchocohalfgallon",
+      "category": "Mintchocos",
+      "defname": "Mincho_MintchocoHalfGallon",
+      "price": 80,
+      "mod": "Mincho, The Mint Choco Slime ~ HAR ver.",
+      "customname": ""
+    },
+    {
+      "abr": "mintchocolatte",
+      "category": "Mintchocos",
+      "defname": "Mincho_MintchocoLatte",
+      "price": 32,
+      "mod": "Mincho, The Mint Choco Slime ~ HAR ver.",
+      "customname": ""
+    },
+    {
+      "abr": "mintchocowall",
+      "category": "Misc",
+      "defname": "Mincho_MintchocoWall",
+      "price": 39,
+      "mod": "Mincho, The Mint Choco Slime ~ HAR ver.",
+      "customname": ""
+    },
+    {
+      "abr": "moderncomputer",
+      "category": "Recreation",
+      "defname": "Joy_ModernComputer",
+      "price": 1100,
+      "mod": "Vanilla Furniture Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "morphi-blue",
+      "category": "Drugs",
+      "defname": "BlueGo",
+      "price": 120,
+      "mod": "Moyo-From the depth",
+      "customname": ""
+    },
+    {
+      "abr": "moyo",
+      "category": "Animal",
+      "defname": "Alien_Moyo",
+      "price": -10,
+      "mod": "Moyo-From the depth",
+      "customname": ""
+    },
+    {
+      "abr": "moyoautocannon",
+      "category": "Moyo ranged weapons",
+      "defname": "Moyo_AutoCannon",
+      "price": 2900,
+      "mod": "Moyo-From the depth",
+      "customname": ""
+    },
+    {
+      "abr": "moyobalista",
+      "category": "Moyo ranged weapons",
+      "defname": "Moyo_BoltCaster",
+      "price": 2783,
+      "mod": "Moyo-From the depth",
+      "customname": ""
+    },
+    {
+      "abr": "moyobattleaxe",
+      "category": "Moyo ranged weapons",
+      "defname": "Moyo_Spear",
+      "price": 2025,
+      "mod": "Moyo-From the depth",
+      "customname": ""
+    },
+    {
+      "abr": "moyobloodbag",
+      "category": "Manufactured",
+      "defname": "Moyo_BloodBag",
+      "price": 33,
+      "mod": "Moyo-From the depth",
+      "customname": ""
+    },
+    {
+      "abr": "moyobodysuit",
+      "category": "Moyo Apparel",
+      "defname": "Moyo_Bodysuit",
+      "price": 542,
+      "mod": "Moyo-From the depth",
+      "customname": ""
+    },
+    {
+      "abr": "moyobodywrappings",
+      "category": "Moyo Apparel",
+      "defname": "Moyo_Tribal",
+      "price": 211,
+      "mod": "Moyo-From the depth",
+      "customname": ""
+    },
+    {
+      "abr": "moyobowlerhat",
+      "category": "Moyo Headgear",
+      "defname": "Moyo_BowlerHat",
+      "price": 77,
+      "mod": "Moyo-From the depth",
+      "customname": ""
+    },
+    {
+      "abr": "moyochargerifle",
+      "category": "Moyo ranged weapons",
+      "defname": "Moyo_ChargeRifle",
+      "price": 1883,
+      "mod": "Moyo-From the depth",
+      "customname": ""
+    },
+    {
+      "abr": "moyochargesmg",
+      "category": "Moyo ranged weapons",
+      "defname": "Moyo_ChargeSMG",
+      "price": 1500,
+      "mod": "Moyo-From the depth",
+      "customname": ""
+    },
+    {
+      "abr": "moyocompositebodysuit",
+      "category": "Moyo Apparel",
+      "defname": "Moyo_Evasuit",
+      "price": 1042,
+      "mod": "Moyo-From the depth",
+      "customname": ""
+    },
+    {
+      "abr": "moyocowboyhat",
+      "category": "Moyo Headgear",
+      "defname": "Moyo_CowboyHat",
+      "price": 94,
+      "mod": "Moyo-From the depth",
+      "customname": ""
+    },
+    {
+      "abr": "moyocryoblaster",
+      "category": "Moyo ranged weapons",
+      "defname": "Moyo_CryoBlaster",
+      "price": 2783,
+      "mod": "Moyo-From the depth",
+      "customname": ""
+    },
+    {
+      "abr": "moyodeepdivinggear",
+      "category": "Moyo Apparel",
+      "defname": "Moyo_DDgear",
+      "price": 3750,
+      "mod": "Moyo-From the depth",
+      "customname": ""
+    },
+    {
+      "abr": "moyodeepdivinghelmet",
+      "category": "Moyo Headgear",
+      "defname": "Moyo_DDhelmet",
+      "price": 1267,
+      "mod": "Moyo-From the depth",
+      "customname": ""
+    },
+    {
+      "abr": "moyodivinggear",
+      "category": "Moyo Apparel",
+      "defname": "Moyo_LDgear",
+      "price": 2900,
+      "mod": "Moyo-From the depth",
+      "customname": ""
+    },
+    {
+      "abr": "moyodivinghelmet",
+      "category": "Moyo Headgear",
+      "defname": "Moyo_LDhelmet",
+      "price": 950,
+      "mod": "Moyo-From the depth",
+      "customname": ""
+    },
+    {
+      "abr": "moyodivingknife",
+      "category": "Moyo melee weapons",
+      "defname": "Moyo_Knife",
+      "price": 475,
+      "mod": "Moyo-From the depth",
+      "customname": ""
+    },
+    {
+      "abr": "moyoduster",
+      "category": "Moyo Apparel",
+      "defname": "Moyo_Duster",
+      "price": 327,
+      "mod": "Moyo-From the depth",
+      "customname": ""
+    },
+    {
+      "abr": "moyoengineeringgear",
+      "category": "Moyo Apparel",
+      "defname": "Moyo_EGsuit",
+      "price": 617,
+      "mod": "Moyo-From the depth",
+      "customname": ""
+    },
+    {
+      "abr": "moyoexoticblackdress",
+      "category": "Moyo Apparel",
+      "defname": "Moyo_RoyalBlackDress",
+      "price": 1417,
+      "mod": "Moyo-From the depth",
+      "customname": ""
+    },
+    {
+      "abr": "moyoheart",
+      "category": "Natural",
+      "defname": "Moyo_Heart",
+      "price": 1083,
+      "mod": "Moyo-From the depth",
+      "customname": ""
+    },
+    {
+      "abr": "moyoholojacket",
+      "category": "Moyo Apparel",
+      "defname": "Moyo_HoloJacket",
+      "price": 1475,
+      "mod": "Moyo-From the depth",
+      "customname": ""
+    },
+    {
+      "abr": "moyoholosuit",
+      "category": "Moyo Apparel",
+      "defname": "Moyo_Holosuit",
+      "price": 1617,
+      "mod": "Moyo-From the depth",
+      "customname": ""
+    },
+    {
+      "abr": "moyojacket",
+      "category": "Moyo Apparel",
+      "defname": "Moyo_Jacket",
+      "price": 275,
+      "mod": "Moyo-From the depth",
+      "customname": ""
+    },
+    {
+      "abr": "moyomeat",
+      "category": "Meat",
+      "defname": "Meat_Alien_Moyo",
+      "price": 1,
+      "mod": "Moyo-From the depth",
+      "customname": ""
+    },
+    {
+      "abr": "moyominiholoprojectora",
+      "category": "Moyo Headgear",
+      "defname": "Moyo_RoyalHologramA",
+      "price": 367,
+      "mod": "Moyo-From the depth",
+      "customname": ""
+    },
+    {
+      "abr": "moyominiholoprojectorb",
+      "category": "Moyo Headgear",
+      "defname": "Moyo_RoyalHologramB",
+      "price": 367,
+      "mod": "Moyo-From the depth",
+      "customname": ""
+    },
+    {
+      "abr": "moyominiholoprojectorc",
+      "category": "Moyo Headgear",
+      "defname": "Moyo_RoyalHologramC",
+      "price": 367,
+      "mod": "Moyo-From the depth",
+      "customname": ""
+    },
+    {
+      "abr": "moyonailgun",
+      "category": "Moyo ranged weapons",
+      "defname": "Moyo_Pistol",
+      "price": 600,
+      "mod": "Moyo-From the depth",
+      "customname": ""
+    },
+    {
+      "abr": "moyoparka",
+      "category": "Moyo Apparel",
+      "defname": "Moyo_Parka",
+      "price": 315,
+      "mod": "Moyo-From the depth",
+      "customname": ""
+    },
+    {
+      "abr": "moyopiledriver",
+      "category": "Moyo melee weapons",
+      "defname": "Moyo_Piledriver",
+      "price": 717,
+      "mod": "Moyo-From the depth",
+      "customname": ""
+    },
+    {
+      "abr": "moyopowerfist",
+      "category": "Moyo melee weapons",
+      "defname": "Moyo_PowerFist",
+      "price": 1750,
+      "mod": "Moyo-From the depth",
+      "customname": ""
+    },
+    {
+      "abr": "moyoprecisionrifle",
+      "category": "Moyo ranged weapons",
+      "defname": "Moyo_PrecisionRifle",
+      "price": 1800,
+      "mod": "Moyo-From the depth",
+      "customname": ""
+    },
+    {
+      "abr": "moyoroyalautocannon",
+      "category": "Moyo ranged weapons",
+      "defname": "Moyo_HeavyAutoCannon",
+      "price": 3717,
+      "mod": "Moyo-From the depth",
+      "customname": ""
+    },
+    {
+      "abr": "moyoroyalbalista",
+      "category": "Moyo ranged weapons",
+      "defname": "Moyo_HeavyBoltCaster",
+      "price": 3717,
+      "mod": "Moyo-From the depth",
+      "customname": ""
+    },
+    {
+      "abr": "moyoroyalbattleaxe",
+      "category": "Moyo ranged weapons",
+      "defname": "Moyo_GDSpear",
+      "price": 2867,
+      "mod": "Moyo-From the depth",
+      "customname": ""
+    },
+    {
+      "abr": "moyoroyalchargerifle",
+      "category": "Moyo ranged weapons",
+      "defname": "Moyo_HeavyChargeRifle",
+      "price": 2683,
+      "mod": "Moyo-From the depth",
+      "customname": ""
+    },
+    {
+      "abr": "moyoroyalpowerfist",
+      "category": "Moyo melee weapons",
+      "defname": "Moyo_GDPowerFist",
+      "price": 2867,
+      "mod": "Moyo-From the depth",
+      "customname": ""
+    },
+    {
+      "abr": "moyoroyalguardarmor",
+      "category": "Moyo Apparel",
+      "defname": "Moyo_GDsuit",
+      "price": 5058,
+      "mod": "Moyo-From the depth",
+      "customname": ""
+    },
+    {
+      "abr": "moyoroyalguardhelmet",
+      "category": "Moyo Headgear",
+      "defname": "Moyo_GDhelmet",
+      "price": 2008,
+      "mod": "Moyo-From the depth",
+      "customname": ""
+    },
+    {
+      "abr": "moyoroyalguardlightarmor",
+      "category": "Moyo Apparel",
+      "defname": "Moyo_GSsuit",
+      "price": 4142,
+      "mod": "Moyo-From the depth",
+      "customname": ""
+    },
+    {
+      "abr": "moyoroyalguardlighthelmet",
+      "category": "Moyo Headgear",
+      "defname": "Moyo_GShelmet",
+      "price": 1758,
+      "mod": "Moyo-From the depth",
+      "customname": ""
+    },
+    {
+      "abr": "moyoroyalrobea",
+      "category": "Moyo Apparel",
+      "defname": "Moyo_RoyalRobeA",
+      "price": 1475,
+      "mod": "Moyo-From the depth",
+      "customname": ""
+    },
+    {
+      "abr": "moyoroyalrobeb",
+      "category": "Moyo Apparel",
+      "defname": "Moyo_RoyalRobeB",
+      "price": 1475,
+      "mod": "Moyo-From the depth",
+      "customname": ""
+    },
+    {
+      "abr": "moyoroyalrobec",
+      "category": "Moyo Apparel",
+      "defname": "Moyo_RoyalRobeC",
+      "price": 1475,
+      "mod": "Moyo-From the depth",
+      "customname": ""
+    },
+    {
+      "abr": "moyoroyalsuit",
+      "category": "Moyo Apparel",
+      "defname": "Moyo_Royalsuit",
+      "price": 1583,
+      "mod": "Moyo-From the depth",
+      "customname": ""
+    },
+    {
+      "abr": "moyosensorycontrolhelmet(soothing)",
+      "category": "Moyo Headgear",
+      "defname": "Moyo_PShelmet",
+      "price": 1033,
+      "mod": "Moyo-From the depth",
+      "customname": ""
+    },
+    {
+      "abr": "moyosensorycontrolhelmet(supressing)",
+      "category": "Moyo Headgear",
+      "defname": "Moyo_SShelmet",
+      "price": 1033,
+      "mod": "Moyo-From the depth",
+      "customname": ""
+    },
+    {
+      "abr": "moyoshirtandboots",
+      "category": "Moyo Apparel",
+      "defname": "Moyo_SnB",
+      "price": 297,
+      "mod": "Moyo-From the depth",
+      "customname": ""
+    },
+    {
+      "abr": "moyoslaverestrainer",
+      "category": "Moyo Apparel",
+      "defname": "Moyo_BodyStrap",
+      "price": 275,
+      "mod": "Moyo-From the depth",
+      "customname": ""
+    },
+    {
+      "abr": "moyotuque",
+      "category": "Moyo Headgear",
+      "defname": "Moyo_Tuque",
+      "price": 91,
+      "mod": "Moyo-From the depth",
+      "customname": ""
+    },
+    {
+      "abr": "moyoweldingmask",
+      "category": "Moyo Headgear",
+      "defname": "Moyo_EGmask",
+      "price": 281,
+      "mod": "Moyo-From the depth",
+      "customname": ""
+    },
+    {
+      "abr": "moyowrench",
+      "category": "Moyo melee weapons",
+      "defname": "Moyo_Wrench",
+      "price": 251,
+      "mod": "Moyo-From the depth",
+      "customname": ""
+    },
+    {
+      "abr": "nanostructuringchip",
+      "category": "Manufactured",
+      "defname": "NanostructuringChip",
+      "price": 2500,
+      "mod": "Biotech",
+      "customname": ""
+    },
+    {
+      "abr": "necklace",
+      "category": "Headgear",
+      "defname": "DR_Necklace",
+      "price": 558,
+      "mod": "Dragonian Prime Race2.0",
+      "customname": ""
+    },
+    {
+      "abr": "nuclearreactor",
+      "category": "Misc",
+      "defname": "VPE_NuclearGenerator",
+      "price": 4475,
+      "mod": "Vanilla Furniture Expanded - Power",
+      "customname": ""
+    },
+    {
+      "abr": "nutritionpack",
+      "category": "Manufactured",
+      "defname": "Moyo_DBSF",
+      "price": 25,
+      "mod": "Moyo-From the depth",
+      "customname": ""
+    },
+    {
+      "abr": "oldcomputer",
+      "category": "Recreation",
+      "defname": "Joy_InudstrialComputer",
+      "price": 517,
+      "mod": "Vanilla Furniture Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "outdoorlamp",
+      "category": "Furniture",
+      "defname": "Light_Streetlamp",
+      "price": 128,
+      "mod": "Vanilla Furniture Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "ovum",
+      "category": "Misc",
+      "defname": "HumanOvum",
+      "price": 83,
+      "mod": "Biotech",
+      "customname": ""
+    },
+    {
+      "abr": "penoxy-blue",
+      "category": "Drugs",
+      "defname": "PenoxyBlue",
+      "price": 117,
+      "mod": "Moyo-From the depth",
+      "customname": ""
+    },
+    {
+      "abr": "perch",
+      "category": "Raw fish",
+      "defname": "VCEF_RawPerch",
+      "price": 2,
+      "mod": "Vanilla Fishing Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "pinkfallinlove",
+      "category": "Mintchoco-like ice cream",
+      "defname": "Mincho_PinkFallInLove",
+      "price": 5,
+      "mod": "Mincho, The Mint Choco Slime ~ HAR ver.",
+      "customname": ""
+    },
+    {
+      "abr": "pinkfallinlovehalfgallon",
+      "category": "Mintchocos",
+      "defname": "Mincho_PinkFallInLoveHalfGallon",
+      "price": 80,
+      "mod": "Mincho, The Mint Choco Slime ~ HAR ver.",
+      "customname": ""
+    },
+    {
+      "abr": "piranha",
+      "category": "Raw fish",
+      "defname": "VCEF_RawPiranha",
+      "price": 2,
+      "mod": "Vanilla Fishing Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "plumbing",
+      "category": "Misc",
+      "defname": "sewagePipeStuff",
+      "price": 5,
+      "mod": "Dubs Bad Hygiene",
+      "customname": ""
+    },
+    {
+      "abr": "plumbingvalve",
+      "category": "Hygiene",
+      "defname": "plumbingValve",
+      "price": 50,
+      "mod": "Dubs Bad Hygiene",
+      "customname": ""
+    },
+    {
+      "abr": "pollutionpump",
+      "category": "Misc",
+      "defname": "PollutionPump",
+      "price": 315,
+      "mod": "Biotech",
+      "customname": ""
+    },
+    {
+      "abr": "poluxseed",
+      "category": "Misc",
+      "defname": "PoluxSeed",
+      "price": 2000,
+      "mod": "Biotech",
+      "customname": ""
+    },
+    {
+      "abr": "portablechemfuelpoweredgenerator",
+      "category": "Power",
+      "defname": "VFE_PortableChemfuelPoweredGenerator",
+      "price": 242,
+      "mod": "Vanilla Furniture Expanded - Power",
+      "customname": ""
+    },
+    {
+      "abr": "portablewood-firedgenerator",
+      "category": "Power",
+      "defname": "VFE_PortableWoodFiredGenerator",
+      "price": 189,
+      "mod": "Vanilla Furniture Expanded - Power",
+      "customname": ""
+    },
+    {
+      "abr": "portal",
+      "category": "Misc",
+      "defname": "Miho_Butterfly_Portal",
+      "price": 9,
+      "mod": "Miho, the celestial fox",
+      "customname": ""
+    },
+    {
+      "abr": "portal",
+      "category": "Misc",
+      "defname": "Miho_Fox_Portal",
+      "price": 9,
+      "mod": "Miho, the celestial fox",
+      "customname": ""
+    },
+    {
+      "abr": "powershower",
+      "category": "Hygiene",
+      "defname": "ShowerAdvStuff",
+      "price": 170,
+      "mod": "Dubs Bad Hygiene",
+      "customname": ""
+    },
+    {
+      "abr": "powerfocuschip",
+      "category": "Manufactured",
+      "defname": "PowerfocusChip",
+      "price": 1667,
+      "mod": "Biotech",
+      "customname": ""
+    },
+    {
+      "abr": "primitivewell",
+      "category": "Misc",
+      "defname": "PrimitiveWell",
+      "price": 95,
+      "mod": "Dubs Bad Hygiene",
+      "customname": ""
+    },
+    {
+      "abr": "psychicpowerpill(hunter)",
+      "category": "Drugs",
+      "defname": "Miho_PositiveFlower_ChildHuntress",
+      "price": 165,
+      "mod": "Miho, the celestial fox",
+      "customname": ""
+    },
+    {
+      "abr": "psychicpowerpill(shaman)",
+      "category": "Drugs",
+      "defname": "Miho_PositiveFlower_ChildShamaness",
+      "price": 165,
+      "mod": "Miho, the celestial fox",
+      "customname": ""
+    },
+    {
+      "abr": "psychicpowerpill(summoner)",
+      "category": "Drugs",
+      "defname": "Miho_PositiveFlower_ChildSummoner",
+      "price": 165,
+      "mod": "Miho, the celestial fox",
+      "customname": ""
+    },
+    {
+      "abr": "psychicpowerpill(temptress)",
+      "category": "Drugs",
+      "defname": "Miho_PositiveFlower_ChildTemptress",
+      "price": 165,
+      "mod": "Miho, the celestial fox",
+      "customname": ""
+    },
+    {
+      "abr": "psychicpowerpill(tinkerer)",
+      "category": "Drugs",
+      "defname": "Miho_PositiveFlower_ChildTinker",
+      "price": 165,
+      "mod": "Miho, the celestial fox",
+      "customname": ""
+    },
+    {
+      "abr": "psychofluidpump",
+      "category": "Misc",
+      "defname": "PsychofluidPump",
+      "price": 2042,
+      "mod": "Biotech",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(bullethell)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Miho_Tinker_Ability_BulletHell",
+      "price": 2833,
+      "mod": "VPE Alien Patch",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(fanofknives)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Miho_Huntress_Ability_FanofKnives",
+      "price": 3333,
+      "mod": "VPE Alien Patch",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(farskip)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Farskip",
+      "price": 3333,
+      "mod": "Vanilla Psycasts Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(fatalblow)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_AAVPE_FatalBlow",
+      "price": 3333,
+      "mod": "Alpha Animals",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(firebeam)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_FireBeam",
+      "price": 3333,
+      "mod": "Vanilla Psycasts Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(fireshield)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_FireShield",
+      "price": 2333,
+      "mod": "Vanilla Psycasts Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(firetornado)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_FlameTornado",
+      "price": 3333,
+      "mod": "Vanilla Psycasts Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(firingfocus)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_FiringFocus",
+      "price": 1833,
+      "mod": "Vanilla Psycasts Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(flameball)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Flameball",
+      "price": 1333,
+      "mod": "Vanilla Psycasts Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(flashstorm)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Flashstorm",
+      "price": 3333,
+      "mod": "Vanilla Psycasts Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(focus)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Focus",
+      "price": 2333,
+      "mod": "Vanilla Psycasts Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(foxshield)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Miho_Summoner_Ability_Shield",
+      "price": 2833,
+      "mod": "VPE Alien Patch",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(foxfirearrows)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Miho_Huntress_Ability_Fireball_Adept",
+      "price": 2833,
+      "mod": "VPE Alien Patch",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(foxfire)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Miho_Huntress_Ability_Fireball",
+      "price": 2333,
+      "mod": "VPE Alien Patch",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(foxfire)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Miho_Shamaness_Ability_Fireball",
+      "price": 2333,
+      "mod": "VPE Alien Patch",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(foxstorm)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Miho_Huntress_Ability_Thunder",
+      "price": 2833,
+      "mod": "VPE Alien Patch",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(foxstorm)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Miho_Temptress_Ability_Thunder",
+      "price": 2833,
+      "mod": "VPE Alien Patch",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(frostray)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_FrostRay",
+      "price": 1833,
+      "mod": "Vanilla Psycasts Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(fungalskin)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_AAVPE_FungalSkin",
+      "price": 1833,
+      "mod": "Alpha Animals",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(ghostwalk)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Ghostwalk",
+      "price": 2333,
+      "mod": "Vanilla Psycasts Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(greaterocularsprout)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_AAVPE_GreaterOcularSprout",
+      "price": 2833,
+      "mod": "Alpha Animals",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(grouplink)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_GroupLink",
+      "price": 2333,
+      "mod": "Vanilla Psycasts Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(guardianskipbarrier)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_GuardianSkipbarrier",
+      "price": 3333,
+      "mod": "Vanilla Psycasts Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(guidedshot)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_GuidedShot",
+      "price": 2833,
+      "mod": "Vanilla Psycasts Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(hacking(kill))",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Miho_Tinker_Ability_HackingKill",
+      "price": 3333,
+      "mod": "VPE Alien Patch",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(haywire)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Haywire",
+      "price": 1833,
+      "mod": "Vanilla Psycasts Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(healingtouch)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Miho_Shamaness_Ability_Heal",
+      "price": 2833,
+      "mod": "VPE Alien Patch",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(healthswap)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_HealthSwap",
+      "price": 2833,
+      "mod": "Vanilla Psycasts Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(heatfocus)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_HeatFocus",
+      "price": 1833,
+      "mod": "Vanilla Psycasts Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(holographicsight)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Miho_Tinker_Ability_Accuracy",
+      "price": 1833,
+      "mod": "VPE Alien Patch",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(hover)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_AAVPE_Hover",
+      "price": 1333,
+      "mod": "Alpha Animals",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(huninghawk)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Miho_Huntress_Ability_Hawk",
+      "price": 1333,
+      "mod": "VPE Alien Patch",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(hurricane)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Hurricane",
+      "price": 3333,
+      "mod": "Vanilla Psycasts Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(iceblock)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_IceBlock",
+      "price": 2333,
+      "mod": "Vanilla Psycasts Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(icecrystal)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_IceCrystal",
+      "price": 1833,
+      "mod": "Vanilla Psycasts Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(iceshield)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_IceShield",
+      "price": 1333,
+      "mod": "Vanilla Psycasts Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(icespike)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_IceSpike",
+      "price": 1333,
+      "mod": "Vanilla Psycasts Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(icewall)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_IceWall",
+      "price": 2833,
+      "mod": "Vanilla Psycasts Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(intensifyshadows)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_IntensifyShadows",
+      "price": 2833,
+      "mod": "Vanilla Psycasts Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(invisibility)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Invisibility",
+      "price": 2833,
+      "mod": "Vanilla Psycasts Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(jump)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Miho_Temptress_Ability_Jump",
+      "price": 1833,
+      "mod": "VPE Alien Patch",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(killskip)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Killskip",
+      "price": 3333,
+      "mod": "Vanilla Psycasts Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(ko)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_AAVPE_KO",
+      "price": 3333,
+      "mod": "Alpha Animals",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(leapingcharge)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_AAVPE_Charge",
+      "price": 2333,
+      "mod": "Alpha Animals",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(legskip)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_AAVPE_LegSkip",
+      "price": 3333,
+      "mod": "Alpha Animals",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(liferot)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Liferot",
+      "price": 1833,
+      "mod": "Vanilla Psycasts Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(lightsustenance)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_AAVPE_LightSustenance",
+      "price": 2333,
+      "mod": "Alpha Animals",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(locationswap)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_LocationSwap",
+      "price": 2333,
+      "mod": "Vanilla Psycasts Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(lucktransfer)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_LuckTransfer",
+      "price": 1833,
+      "mod": "Vanilla Psycasts Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(manhunterpulse)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_ManhunterPulse",
+      "price": 2333,
+      "mod": "Vanilla Psycasts Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(massbeckon)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_MassBeckon",
+      "price": 3333,
+      "mod": "Vanilla Psycasts Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(masschaosskip)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_MassChaosSkip",
+      "price": 2833,
+      "mod": "Vanilla Psycasts Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(masshallucination)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_MassHallucination",
+      "price": 3333,
+      "mod": "Vanilla Psycasts Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(mechanoidrepair)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Miho_Tinker_Ability_Repair",
+      "price": 1333,
+      "mod": "VPE Alien Patch",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(mend)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Mend",
+      "price": 1333,
+      "mod": "Vanilla Psycasts Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(meteorshower)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_MeteorShower",
+      "price": 2833,
+      "mod": "Vanilla Psycasts Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(mindbreak)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_MindBreak",
+      "price": 2833,
+      "mod": "Vanilla Psycasts Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(mindcontrol)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Mindcontrol",
+      "price": 1333,
+      "mod": "Vanilla Psycasts Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(mindwipe)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_MindWipe",
+      "price": 2833,
+      "mod": "Vanilla Psycasts Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(neuralheatdetonation)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_NeuralHeatDetonation",
+      "price": 2833,
+      "mod": "Vanilla Psycasts Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(neuralheatdump)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_NeuralHeatDump",
+      "price": 1833,
+      "mod": "Vanilla Psycasts Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(neurohacking(slow))",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Miho_Tinker_Ability_HackingSlow",
+      "price": 2333,
+      "mod": "VPE Alien Patch",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(neuroquake)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Neuroquake",
+      "price": 3333,
+      "mod": "Vanilla Psycasts Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(nightstep)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Nightstep",
+      "price": 3333,
+      "mod": "Vanilla Psycasts Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(obscure)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Obscure",
+      "price": 1833,
+      "mod": "Vanilla Psycasts Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(oculareruption)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_AAVPE_EyeEruption",
+      "price": 1833,
+      "mod": "Alpha Animals",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(ocularsprout)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_AAVPE_OcularSprout",
+      "price": 1833,
+      "mod": "Alpha Animals",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(overclock)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Miho_Tinker_Ability_Overclock",
+      "price": 2333,
+      "mod": "VPE Alien Patch",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(overshield)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Overshield",
+      "price": 2333,
+      "mod": "Vanilla Psycasts Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(painblock)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Painblock",
+      "price": 1333,
+      "mod": "Vanilla Psycasts Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(paralysispulse)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_ParalysisPulse",
+      "price": 2333,
+      "mod": "Vanilla Psycasts Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(planttimeskip)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_PlantTimeskip",
+      "price": 1333,
+      "mod": "Vanilla Psycasts Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(powerleap)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_PowerLeap",
+      "price": 1833,
+      "mod": "Vanilla Psycasts Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(powerstrike)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Miho_Temptress_Ability_Powerstrike",
+      "price": 1333,
+      "mod": "VPE Alien Patch",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(power)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Power",
+      "price": 1833,
+      "mod": "Vanilla Psycasts Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(psychicdrone)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_PsychicDrone",
+      "price": 2833,
+      "mod": "Vanilla Psycasts Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(psychicguidance)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_PsychicGuidance",
+      "price": 1333,
+      "mod": "Vanilla Psycasts Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(psychicshock)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_PsychicShock",
+      "price": 1833,
+      "mod": "Vanilla Psycasts Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(psychicsooth(female))",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_SootheFemale",
+      "price": 2333,
+      "mod": "Vanilla Psycasts Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(psychicsooth(male))",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_SootheMale",
+      "price": 2333,
+      "mod": "Vanilla Psycasts Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(pulseofdoom)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Miho_Temptress_Ability_BerserkPulse",
+      "price": 3333,
+      "mod": "VPE Alien Patch",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(raidpause)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_RaidPause",
+      "price": 2833,
+      "mod": "Vanilla Psycasts Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(recharge)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Recharge",
+      "price": 2333,
+      "mod": "Vanilla Psycasts Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(regeneration)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_AAVPE_Regeneration",
+      "price": 2833,
+      "mod": "Alpha Animals",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(regrowlimbs)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_RegrowLimbs",
+      "price": 2833,
+      "mod": "Vanilla Psycasts Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(reinforcearmor)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Miho_Tinker_Ability_Armor",
+      "price": 1833,
+      "mod": "VPE Alien Patch",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(resurrect)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Resurrect",
+      "price": 3333,
+      "mod": "Vanilla Psycasts Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(reunionfarskip)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_ReunionFarskip",
+      "price": 3333,
+      "mod": "Vanilla Psycasts Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(reverseengineer)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_ReverseEngineer",
+      "price": 3333,
+      "mod": "Vanilla Psycasts Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(rockconstruct)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_RockConstruct",
+      "price": 2333,
+      "mod": "Vanilla Psycasts Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(savagepsychicslice)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_AAVPE_Slice",
+      "price": 1333,
+      "mod": "Alpha Animals",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(seasontimeskip)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_SeasonTimeskip",
+      "price": 2833,
+      "mod": "Vanilla Psycasts Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(selfexplosion)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_SelfExplosion",
+      "price": 1833,
+      "mod": "Vanilla Psycasts Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(shadowfocus)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_ShadowFocus",
+      "price": 2833,
+      "mod": "Vanilla Psycasts Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(shadowskip)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Shadowskip",
+      "price": 2333,
+      "mod": "Vanilla Psycasts Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(shieldanimals)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_ShieldAnimals",
+      "price": 2833,
+      "mod": "Vanilla Psycasts Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(shrineshield)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Shrineshield",
+      "price": 2833,
+      "mod": "Vanilla Psycasts Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(skewer)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_AAVPE_Skewer",
+      "price": 2333,
+      "mod": "Alpha Animals",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(skillroll)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_SkillRoll",
+      "price": 3333,
+      "mod": "Vanilla Psycasts Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(skip)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Skip",
+      "price": 1833,
+      "mod": "Vanilla Psycasts Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(skipdoor)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Skipdoor",
+      "price": 3333,
+      "mod": "Vanilla Psycasts Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(skipshield)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Skipshield",
+      "price": 2833,
+      "mod": "Vanilla Psycasts Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(smallfoxfire)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Miho_Huntress_Ability_Fireball_Small",
+      "price": 1833,
+      "mod": "VPE Alien Patch",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(smallfoxfire)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Miho_Shamaness_Ability_Fireball_Small",
+      "price": 1833,
+      "mod": "VPE Alien Patch",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(smokepop)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Smokepop",
+      "price": 2833,
+      "mod": "Vanilla Psycasts Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(snapfreeze)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_SnapFreeze",
+      "price": 2333,
+      "mod": "Vanilla Psycasts Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(solarpinhole)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_SolarPinhole",
+      "price": 1333,
+      "mod": "Vanilla Psycasts Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(spawngenerator)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Miho_Tinker_Ability_SpawnGenerator",
+      "price": 2833,
+      "mod": "VPE Alien Patch",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(speedboost)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_SpeedBoost",
+      "price": 1333,
+      "mod": "Vanilla Psycasts Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(spincut)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_AAVPE_SpinCut",
+      "price": 2833,
+      "mod": "Alpha Animals",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(spiritualize)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Miho_Shamaness_Ability_Spiritualize",
+      "price": 3333,
+      "mod": "VPE Alien Patch",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(stabilize)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Stabilize",
+      "price": 1833,
+      "mod": "Vanilla Psycasts Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(staticaura)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_StaticAura",
+      "price": 1833,
+      "mod": "Vanilla Psycasts Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(staticpulse)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_StaticPulse",
+      "price": 2333,
+      "mod": "Vanilla Psycasts Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(stealvitality)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_StealVitality",
+      "price": 1833,
+      "mod": "Vanilla Psycasts Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(steelconstruct)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_SteelConstruct",
+      "price": 2333,
+      "mod": "Vanilla Psycasts Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(strengtheninsect)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_AAVPE_StrengthenInsect",
+      "price": 2333,
+      "mod": "Alpha Animals",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(stuntalisman)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Miho_Huntress_Ability_StunTalisman",
+      "price": 1333,
+      "mod": "VPE Alien Patch",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(stuntalisman)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Miho_Shamaness_Ability_StunTalisman",
+      "price": 1333,
+      "mod": "VPE Alien Patch",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(stuntalisman)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Miho_Summoner_Ability_StunTalisman",
+      "price": 1333,
+      "mod": "VPE Alien Patch",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(stuntalisman)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Miho_Temptress_Ability_StunTalisman",
+      "price": 1333,
+      "mod": "VPE Alien Patch",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(stuntalisman)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Miho_Tinker_Ability_StunTalisman",
+      "price": 1333,
+      "mod": "VPE Alien Patch",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(stun)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Stun",
+      "price": 1333,
+      "mod": "Vanilla Psycasts Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(summonarcanethrumbo)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Miho_Summoner_Ability_Spawn_Thrumbo",
+      "price": 3333,
+      "mod": "VPE Alien Patch",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(summonblackqueen)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_AAVPE_SummonBlackQueen",
+      "price": 3333,
+      "mod": "Alpha Animals",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(summonblackscarab)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_AAVPE_SummonBlackScarab",
+      "price": 1833,
+      "mod": "Alpha Animals",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(summonblackspelopede)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_AAVPE_SummonBlackSpelopede",
+      "price": 2333,
+      "mod": "Alpha Animals",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(summonblackspider)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_AAVPE_SummonBlackSpider",
+      "price": 2833,
+      "mod": "Alpha Animals",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(summonbladeflyhost)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Miho_Summoner_Ability_Spawn_Butterfly",
+      "price": 1833,
+      "mod": "VPE Alien Patch",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(summonentrancetothehive)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_AAVPE_SummonHive",
+      "price": 3333,
+      "mod": "Alpha Animals",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(summoneyelinghorde)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_AAVPE_SummonEyelingHorde",
+      "price": 2833,
+      "mod": "Alpha Animals",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(summoneyeling)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_AAVPE_SummonEyeling",
+      "price": 1333,
+      "mod": "Alpha Animals",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(summonfoxfirebrazier)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Miho_Summoner_Ability_Spawn_Turret",
+      "price": 2833,
+      "mod": "VPE Alien Patch",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(summonhelperfox)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Miho_Summoner_Ability_Spawn_Fox",
+      "price": 1333,
+      "mod": "VPE Alien Patch",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(summonmammothworm)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_AAVPE_SummonMammothWorm",
+      "price": 2833,
+      "mod": "Alpha Animals",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(summonocularoriginator)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_AAVPE_SummonOcularOriginator",
+      "price": 2333,
+      "mod": "Alpha Animals",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(summonpack)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_SummonPack",
+      "price": 3333,
+      "mod": "Vanilla Psycasts Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(tailofhappy)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Miho_Huntress_Ability_Inspiration",
+      "price": 2333,
+      "mod": "VPE Alien Patch",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(tailofhappy)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Miho_Shamaness_Ability_Inspiration",
+      "price": 2333,
+      "mod": "VPE Alien Patch",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(tailofhappy)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Miho_Summoner_Ability_Inspiration",
+      "price": 2333,
+      "mod": "VPE Alien Patch",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(tailoflove)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Miho_Shamaness_Ability_Love",
+      "price": 1333,
+      "mod": "VPE Alien Patch",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(tailofserenity)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Miho_Shamaness_Ability_Serenity",
+      "price": 2833,
+      "mod": "VPE Alien Patch",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(tailofserenity)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Miho_Temptress_Ability_Serenity",
+      "price": 2833,
+      "mod": "VPE Alien Patch",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(thunderbolt)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Thunderbolt",
+      "price": 1833,
+      "mod": "Vanilla Psycasts Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(timereversal)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_TimeReversal",
+      "price": 3333,
+      "mod": "Vanilla Psycasts Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(timesphere)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_TimeSphere",
+      "price": 3333,
+      "mod": "Vanilla Psycasts Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(timequake)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Timequake",
+      "price": 3333,
+      "mod": "Vanilla Psycasts Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(timeskipmeditation)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_TimeskipMeditation",
+      "price": 1333,
+      "mod": "Vanilla Psycasts Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(totemofprotect)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Miho_Temptress_Ability_Defence",
+      "price": 2333,
+      "mod": "VPE Alien Patch",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(transmutation)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Transmutation",
+      "price": 2833,
+      "mod": "Vanilla Psycasts Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(transmutestone)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_TransmuteStone",
+      "price": 1333,
+      "mod": "Vanilla Psycasts Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(treesprout)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_TreeSprout",
+      "price": 2333,
+      "mod": "Vanilla Psycasts Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(venomspit)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_AAVPE_VenomSpit",
+      "price": 1333,
+      "mod": "Alpha Animals",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(vortex)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Vortex",
+      "price": 2833,
+      "mod": "Vanilla Psycasts Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(wallraise)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Wallraise",
+      "price": 2833,
+      "mod": "Vanilla Psycasts Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(waterskip)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Waterskip",
+      "price": 1833,
+      "mod": "Vanilla Psycasts Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(webslinging)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_AAVPE_WebSlinging",
+      "price": 1833,
+      "mod": "Alpha Animals",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(wordofalliance)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_WordofAlliance",
+      "price": 2333,
+      "mod": "Vanilla Psycasts Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(wordofanimals)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_WordofAnimals",
+      "price": 2333,
+      "mod": "Vanilla Psycasts Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(wordoffear)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_WordofFear",
+      "price": 1333,
+      "mod": "Vanilla Psycasts Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(wordofforetelling)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_WordofForetelling",
+      "price": 1333,
+      "mod": "Vanilla Psycasts Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(wordofhealing)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_WordofHealing",
+      "price": 1333,
+      "mod": "Vanilla Psycasts Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(wordofimmunity)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_WordofImmunity",
+      "price": 1833,
+      "mod": "Vanilla Psycasts Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(wordofinspiration)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_WordofInspiration",
+      "price": 1833,
+      "mod": "Vanilla Psycasts Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(wordofjoy)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_WordofJoy",
+      "price": 1333,
+      "mod": "Vanilla Psycasts Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(wordoflove)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_WordofLove",
+      "price": 1833,
+      "mod": "Vanilla Psycasts Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(wordofpain)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_WordofPain",
+      "price": 2333,
+      "mod": "Vanilla Psycasts Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(wordofproductivity)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_WordofProductivity",
+      "price": 1833,
+      "mod": "Vanilla Psycasts Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(wordofprogress)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_WordofProgress",
+      "price": 2833,
+      "mod": "Vanilla Psycasts Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(wordofprotection)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_WordofProtection",
+      "price": 2833,
+      "mod": "Vanilla Psycasts Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(wordofserenity)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_WordofSerenity",
+      "price": 1833,
+      "mod": "Vanilla Psycasts Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "psytrainer(wordoftrust)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_WordofTrust",
+      "price": 1333,
+      "mod": "Vanilla Psycasts Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "pufferfish",
+      "category": "Raw fish",
+      "defname": "VCEF_RawPufferfish",
+      "price": 2,
+      "mod": "Vanilla Fishing Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "pumpingstation",
+      "category": "Misc",
+      "defname": "PumpingStation",
+      "price": 567,
+      "mod": "Dubs Bad Hygiene",
+      "customname": ""
+    },
+    {
+      "abr": "pumpkins",
+      "category": "Vegetarian",
+      "defname": "VCE_RawPumpkin",
+      "price": 2,
+      "mod": "Vanilla Plants Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "punchingbag",
+      "category": "Furniture",
+      "defname": "Joy_PunchingBag",
+      "price": 375,
+      "mod": "Vanilla Furniture Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "quiltedvest",
+      "category": "Armor",
+      "defname": "VAE_Apparel_QuiltedVest",
+      "price": 210,
+      "mod": "Vanilla Armour Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "radiator",
+      "category": "Hygiene",
+      "defname": "RadiatorStuffed",
+      "price": 85,
+      "mod": "Dubs Bad Hygiene",
+      "customname": ""
+    },
+    {
+      "abr": "radishes",
+      "category": "Vegetarian",
+      "defname": "VCE_RawRadish",
+      "price": 2,
+      "mod": "Vanilla Plants Expanded - More Plants",
+      "customname": ""
+    },
+    {
+      "abr": "rageblade",
+      "category": "Melee weapons",
+      "defname": "MeleeWeapon_DR_Rageblade",
+      "price": 1667,
+      "mod": "Dragonian Prime Race2.0",
+      "customname": ""
+    },
+    {
+      "abr": "razorbutterflyportal",
+      "category": "Misc",
+      "defname": "Miho_Butterfly_Portal_Dummy",
+      "price": 9,
+      "mod": "Miho, the celestial fox",
+      "customname": ""
+    },
+    {
+      "abr": "redbellpeppers",
+      "category": "Vegetarian",
+      "defname": "VCE_RawBellPeppers",
+      "price": 2,
+      "mod": "Vanilla Plants Expanded - More Plants",
+      "customname": ""
+    },
+    {
+      "abr": "regene-blue",
+      "category": "Drugs",
+      "defname": "BlueMed",
+      "price": 167,
+      "mod": "Moyo-From the depth",
+      "customname": ""
+    },
+    {
+      "abr": "remoterepairer",
+      "category": "Mechtech",
+      "defname": "RemoteRepairer",
+      "price": 2000,
+      "mod": "Biotech",
+      "customname": ""
+    },
+    {
+      "abr": "remoteshielder",
+      "category": "Mechtech",
+      "defname": "RemoteShielder",
+      "price": 2000,
+      "mod": "Biotech",
+      "customname": ""
+    },
+    {
+      "abr": "repairprobe",
+      "category": "Mechtech",
+      "defname": "RepairProbe",
+      "price": 2000,
+      "mod": "Biotech",
+      "customname": ""
+    },
+    {
+      "abr": "rockconstruct",
+      "category": "Animals",
+      "defname": "VPE_RockConstruct",
+      "price": 250,
+      "mod": "Vanilla Psycasts Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "rocketlauncher",
+      "category": "Ranged weapons",
+      "defname": "VWE_Gun_RocketLauncher",
+      "price": 1667,
+      "mod": "Vanilla Weapons Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "roulettetable",
+      "category": "Furniture",
+      "defname": "Joy_RouletteTable",
+      "price": 708,
+      "mod": "Vanilla Furniture Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "royalarmchair",
+      "category": "Furniture",
+      "defname": "Seat_RoyalArmchair",
+      "price": 1583,
+      "mod": "Vanilla Furniture Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "royalchair",
+      "category": "Furniture",
+      "defname": "Seat_RoyalChair",
+      "price": 908,
+      "mod": "Vanilla Furniture Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "royaldresser",
+      "category": "Furniture",
+      "defname": "Table_RoyalDresser",
+      "price": 1175,
+      "mod": "Vanilla Furniture Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "royalendtable",
+      "category": "Furniture",
+      "defname": "Table_RoyalEndTable",
+      "price": 742,
+      "mod": "Vanilla Furniture Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "royalhypersleepbed",
+      "category": "Furniture",
+      "defname": "HisaHyperSleepBedRoyal",
+      "price": 3917,
+      "mod": "Hisa Faction",
+      "customname": ""
+    },
+    {
+      "abr": "royalposterbed",
+      "category": "Furniture",
+      "defname": "Bed_Kingsize",
+      "price": 2008,
+      "mod": "Vanilla Furniture Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "royaltable(1x1)",
+      "category": "Furniture",
+      "defname": "Table_Royal1x1c",
+      "price": 280,
+      "mod": "Vanilla Furniture Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "royaltable(1x2)",
+      "category": "Furniture",
+      "defname": "Table_Royal1x2c",
+      "price": 542,
+      "mod": "Vanilla Furniture Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "royaltable(2x2)",
+      "category": "Furniture",
+      "defname": "Table_Royal2x2c",
+      "price": 1092,
+      "mod": "Vanilla Furniture Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "royaltable(2x4)",
+      "category": "Furniture",
+      "defname": "Table_Royal2x4c",
+      "price": 1475,
+      "mod": "Vanilla Furniture Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "royaltable(3x3)",
+      "category": "Furniture",
+      "defname": "Table_Royal3x3c",
+      "price": 1617,
+      "mod": "Vanilla Furniture Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "ruinedfinegrill",
+      "category": "Meals",
+      "defname": "VCE_RuinedFineGrill",
+      "price": 30,
+      "mod": "Vanilla Cooking Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "ruinedgourmetgrill",
+      "category": "Meals",
+      "defname": "VCE_RuinedGourmetGrill",
+      "price": 100,
+      "mod": "Vanilla Cooking Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "ruinedlavishgrill",
+      "category": "Meals",
+      "defname": "VCE_RuinedLavishGrill",
+      "price": 58,
+      "mod": "Vanilla Cooking Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "ruinedsimplegrill",
+      "category": "Meals",
+      "defname": "VCE_RuinedSimpleGrill",
+      "price": 23,
+      "mod": "Vanilla Cooking Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "salmon",
+      "category": "Raw fish",
+      "defname": "VCEF_RawSalmon",
+      "price": 9,
+      "mod": "Vanilla Fishing Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "salt",
+      "category": "Condiments",
+      "defname": "VCE_Salt",
+      "price": 3,
+      "mod": "Vanilla Cooking Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "sapphiremeth",
+      "category": "Drugs",
+      "defname": "BlueUp",
+      "price": 58,
+      "mod": "Moyo-From the depth",
+      "customname": ""
+    },
+    {
+      "abr": "sash",
+      "category": "Misc",
+      "defname": "Apparel_Sash",
+      "price": 89,
+      "mod": "Biotech",
+      "customname": ""
+    },
+    {
+      "abr": "saunaseating",
+      "category": "Furniture",
+      "defname": "DBHSaunaSeating",
+      "price": 9,
+      "mod": "Dubs Bad Hygiene",
+      "customname": ""
+    },
+    {
+      "abr": "sawed-offshotgun",
+      "category": "Ranged weapons",
+      "defname": "VWE_SawedOffShotgun",
+      "price": 297,
+      "mod": "Vanilla Weapons Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "scarf",
+      "category": "Headgear",
+      "defname": "VAE_Headgear_Scarf",
+      "price": 91,
+      "mod": "Vanilla Apparel Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "schooldesk",
+      "category": "Furniture",
+      "defname": "SchoolDesk",
+      "price": 104,
+      "mod": "Biotech",
+      "customname": ""
+    },
+    {
+      "abr": "semi-automaticrifle",
+      "category": "Ranged weapons",
+      "defname": "VWE_Gun_SemiAutomaticRifle",
+      "price": 408,
+      "mod": "Vanilla Weapons Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "septictank",
+      "category": "Misc",
+      "defname": "SewageSepticTank",
+      "price": 658,
+      "mod": "Dubs Bad Hygiene",
+      "customname": ""
+    },
+    {
+      "abr": "servicerifle",
+      "category": "Ranged weapons",
+      "defname": "VWE_Gun_ServiceRifle",
+      "price": 800,
+      "mod": "Vanilla Weapons Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "sewageoutlet",
+      "category": "Misc",
+      "defname": "SewageOutlet",
+      "price": 176,
+      "mod": "Dubs Bad Hygiene",
+      "customname": ""
+    },
+    {
+      "abr": "sewagetreatment",
+      "category": "Misc",
+      "defname": "SewageTreatment",
+      "price": 1725,
+      "mod": "Dubs Bad Hygiene",
+      "customname": ""
+    },
+    {
+      "abr": "sheriffshirt",
+      "category": "Apparel",
+      "defname": "VAE_Apparel_SheriffShirt",
+      "price": 213,
+      "mod": "Vanilla Apparel Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "shirtandtie",
+      "category": "Apparel",
+      "defname": "VAE_Apparel_ShirtandTie",
+      "price": 151,
+      "mod": "Vanilla Apparel Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "shoes",
+      "category": "Handwear and footwear",
+      "defname": "VAE_Footwear_Shoes",
+      "price": 114,
+      "mod": "Vanilla Apparel Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "shorts",
+      "category": "Apparel",
+      "defname": "VAE_Apparel_Shorts",
+      "price": 141,
+      "mod": "Vanilla Apparel Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "shovel",
+      "category": "Melee weapons",
+      "defname": "VWE_MeleeWeapon_Shovel",
+      "price": 327,
+      "mod": "Vanilla Weapons Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "shower",
+      "category": "Hygiene",
+      "defname": "ShowerStuff",
+      "price": 90,
+      "mod": "Dubs Bad Hygiene",
+      "customname": ""
+    },
+    {
+      "abr": "siegebreakerarmor",
+      "category": "Armor",
+      "defname": "VAE_Apparel_HeavyMarineArmor",
+      "price": 5367,
+      "mod": "Vanilla Armour Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "siegebreakerhelmet",
+      "category": "Headgear",
+      "defname": "VAE_Headgear_HeavyMarineHelmet",
+      "price": 1233,
+      "mod": "Vanilla Armour Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "signalchip",
+      "category": "Manufactured",
+      "defname": "SignalChip",
+      "price": 833,
+      "mod": "Biotech",
+      "customname": ""
+    },
+    {
+      "abr": "simplebake",
+      "category": "Meals",
+      "defname": "VCE_SimpleBake",
+      "price": 25,
+      "mod": "Vanilla Cooking Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "simplebed",
+      "category": "Furniture",
+      "defname": "Bed_Simple",
+      "price": 137,
+      "mod": "Vanilla Furniture Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "simpledessert",
+      "category": "Meals",
+      "defname": "VCE_SimpleDessert",
+      "price": 25,
+      "mod": "Vanilla Cooking Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "simplegrill",
+      "category": "Meals",
+      "defname": "VCE_SimpleGrill",
+      "price": 25,
+      "mod": "Vanilla Cooking Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "simpleshower",
+      "category": "Hygiene",
+      "defname": "ShowerSimple",
+      "price": 52,
+      "mod": "Dubs Bad Hygiene",
+      "customname": ""
+    },
+    {
+      "abr": "simplesoup",
+      "category": "Meals",
+      "defname": "VCE_CookedSoupSimple",
+      "price": 20,
+      "mod": "Vanilla Cooking Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "sittingcushion",
+      "category": "Furniture",
+      "defname": "Seat_Cushion",
+      "price": 86,
+      "mod": "Vanilla Furniture Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "skeleton",
+      "category": "Animals",
+      "defname": "VPE_SummonedSkeleton",
+      "price": 250,
+      "mod": "Vanilla Psycasts Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "skirt",
+      "category": "Apparel",
+      "defname": "VAE_Apparel_Skirt",
+      "price": 142,
+      "mod": "Vanilla Apparel Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "slabbed",
+      "category": "Furniture",
+      "defname": "Bed_StoneSlab",
+      "price": 111,
+      "mod": "Vanilla Furniture Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "smallabyssalpearlsculpture",
+      "category": "Art",
+      "defname": "PearlSculptureSmall",
+      "price": 8275,
+      "mod": "Moyo-From the depth",
+      "customname": ""
+    },
+    {
+      "abr": "smallbattery",
+      "category": "Power",
+      "defname": "VFE_SmallBattery",
+      "price": 182,
+      "mod": "Vanilla Furniture Expanded - Power",
+      "customname": ""
+    },
+    {
+      "abr": "smallbin",
+      "category": "Furniture",
+      "defname": "Bin_Small",
+      "price": 136,
+      "mod": "Vanilla Furniture Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "smallvanometricpowercell",
+      "category": "Special",
+      "defname": "VFE_SmallVanometricPowerCell",
+      "price": 667,
+      "mod": "Vanilla Furniture Expanded - Power",
+      "customname": ""
+    },
+    {
+      "abr": "smarttoilet",
+      "category": "Hygiene",
+      "defname": "ToiletAdvStuff",
+      "price": 182,
+      "mod": "Dubs Bad Hygiene",
+      "customname": ""
+    },
+    {
+      "abr": "smg",
+      "category": "Ranged weapons",
+      "defname": "VWE_Gun_SMG",
+      "price": 558,
+      "mod": "Vanilla Weapons Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "smokegrenades",
+      "category": "Grenades",
+      "defname": "VWE_SmokeGrenade",
+      "price": 215,
+      "mod": "Vanilla Weapons Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "smokeleafbutter",
+      "category": "Condiments",
+      "defname": "VCE_SmokeleafButter",
+      "price": 12,
+      "mod": "Vanilla Cooking Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "smokeleafleaves",
+      "category": "Plant matter",
+      "defname": "SmokeleafLeaves",
+      "price": 3,
+      "mod": "RimWorld",
+      "customname": ""
+    },
+    {
+      "abr": "smokepoppack",
+      "category": "Utility",
+      "defname": "Apparel_SmokepopBelt",
+      "price": 277,
+      "mod": "RimWorld",
+      "customname": ""
+    },
+    {
+      "abr": "sniperrifle",
+      "category": "Ranged weapons",
+      "defname": "Gun_SniperRifle",
+      "price": 883,
+      "mod": "RimWorld",
+      "customname": ""
+    },
+    {
+      "abr": "snowhare",
+      "category": "Animals",
+      "defname": "Snowhare",
+      "price": 83,
+      "mod": "RimWorld",
+      "customname": ""
+    },
+    {
+      "abr": "solargenerator",
+      "category": "Misc",
+      "defname": "SolarGenerator",
+      "price": 492,
+      "mod": "RimWorld",
+      "customname": ""
+    },
+    {
+      "abr": "solarheater",
+      "category": "Misc",
+      "defname": "SolarHeater",
+      "price": 244,
+      "mod": "Dubs Bad Hygiene",
+      "customname": ""
+    },
+    {
+      "abr": "solarjuice",
+      "category": "Drugs",
+      "defname": "Miho_PositiveFlower_Juice",
+      "price": 88,
+      "mod": "Miho, the celestial fox",
+      "customname": ""
+    },
+    {
+      "abr": "solarpipe",
+      "category": "Drugs",
+      "defname": "Miho_PositiveFlower_Pipe",
+      "price": 40,
+      "mod": "Miho, the celestial fox",
+      "customname": ""
+    },
+    {
+      "abr": "solarpowder",
+      "category": "Plant matter",
+      "defname": "RawPosFlower_Dust",
+      "price": 2,
+      "mod": "Miho, the celestial fox",
+      "customname": ""
+    },
+    {
+      "abr": "solartea",
+      "category": "Drugs",
+      "defname": "Miho_PositiveFlower_Tea",
+      "price": 35,
+      "mod": "Miho, the celestial fox",
+      "customname": ""
+    },
+    {
+      "abr": "spacerbedroll",
+      "category": "Misc",
+      "defname": "CASpacerBedroll",
+      "price": 137,
+      "mod": "Caravan Adventures",
+      "customname": ""
+    },
+    {
+      "abr": "spacerdoublebedroll",
+      "category": "Misc",
+      "defname": "CASpacerBedrollDouble",
+      "price": 290,
+      "mod": "Caravan Adventures",
+      "customname": ""
+    },
+    {
+      "abr": "spacertentsupplies",
+      "category": "Manufactured",
+      "defname": "CASpacerTentSupplies",
+      "price": 17,
+      "mod": "Caravan Adventures",
+      "customname": ""
+    },
+    {
+      "abr": "spear",
+      "category": "Melee weapons",
+      "defname": "MeleeWeapon_Spear",
+      "price": 322,
+      "mod": "RimWorld",
+      "customname": ""
+    },
+    {
+      "abr": "spelopede",
+      "category": "Animals",
+      "defname": "Spelopede",
+      "price": 333,
+      "mod": "RimWorld",
+      "customname": ""
+    },
+    {
+      "abr": "spices",
+      "category": "Condiments",
+      "defname": "VCE_RawSpices",
+      "price": 11,
+      "mod": "Vanilla Cooking Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "spiketrap",
+      "category": "Security",
+      "defname": "TrapSpike",
+      "price": 169,
+      "mod": "RimWorld",
+      "customname": ""
+    },
+    {
+      "abr": "spikecorefloor-star(broad)",
+      "category": "Furniture",
+      "defname": "SpikecoreFloorStar_Broad",
+      "price": 483,
+      "mod": "Ideology",
+      "customname": ""
+    },
+    {
+      "abr": "spikecorefloor-star(medium)",
+      "category": "Furniture",
+      "defname": "SpikecoreFloorStar_Medium",
+      "price": 323,
+      "mod": "Ideology",
+      "customname": ""
+    },
+    {
+      "abr": "spinedgow",
+      "category": "Animals",
+      "defname": "AA_SpinedGow",
+      "price": 583,
+      "mod": "Alpha Animals",
+      "customname": ""
+    },
+    {
+      "abr": "sprat",
+      "category": "Raw fish",
+      "defname": "VCEF_RawSprat",
+      "price": -10,
+      "mod": "Vanilla Fishing Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "squarechair",
+      "category": "Furniture",
+      "defname": "Seat_SquareChair",
+      "price": 198,
+      "mod": "Vanilla Furniture Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "squidmeat",
+      "category": "Meat",
+      "defname": "Meat_AA_SandSquid",
+      "price": 3,
+      "mod": "Alpha Animals",
+      "customname": ""
+    },
+    {
+      "abr": "squirrel",
+      "category": "Animals",
+      "defname": "Squirrel",
+      "price": 58,
+      "mod": "RimWorld",
+      "customname": ""
+    },
+    {
+      "abr": "squirrelmeat",
+      "category": "Meat",
+      "defname": "Meat_Squirrel",
+      "price": 3,
+      "mod": "RimWorld",
+      "customname": ""
+    },
+    {
+      "abr": "staffofhomareplica",
+      "category": "Melee weapons",
+      "defname": "Staff_of_Homa",
+      "price": 8558,
+      "mod": "Weapon Feria",
+      "customname": ""
+    },
+    {
+      "abr": "stalldoor",
+      "category": "Misc",
+      "defname": "ToiletStallDoor",
+      "price": 18,
+      "mod": "Dubs Bad Hygiene",
+      "customname": ""
+    },
+    {
+      "abr": "standardsubcore",
+      "category": "Manufactured",
+      "defname": "SubcoreRegular",
+      "price": 500,
+      "mod": "Biotech",
+      "customname": ""
+    },
+    {
+      "abr": "standinglamp",
+      "category": "Furniture",
+      "defname": "StandingLamp",
+      "price": 65,
+      "mod": "RimWorld",
+      "customname": ""
+    },
+    {
+      "abr": "steel",
+      "category": "Raw resources",
+      "defname": "Steel",
+      "price": 3,
+      "mod": "RimWorld",
+      "customname": ""
+    },
+    {
+      "abr": "steelconstruct",
+      "category": "Animals",
+      "defname": "VPE_SteelConstruct",
+      "price": 250,
+      "mod": "Vanilla Psycasts Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "stelliccrown",
+      "category": "Headgear",
+      "defname": "Apparel_CrownStellic",
+      "price": 283,
+      "mod": "Royalty",
+      "customname": ""
+    },
+    {
+      "abr": "sterilizingstomach",
+      "category": "Bionic",
+      "defname": "DetoxifierStomach",
+      "price": 1717,
+      "mod": "Royalty",
+      "customname": ""
+    },
+    {
+      "abr": "stonecampfire",
+      "category": "Misc",
+      "defname": "Stone_Campfire",
+      "price": 128,
+      "mod": "Vanilla Furniture Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "stonewarmask",
+      "category": "Headgear",
+      "defname": "VAE_Headgear_StoneWarMask",
+      "price": 127,
+      "mod": "Vanilla Armour Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "stonecutter'stable",
+      "category": "Production",
+      "defname": "TableStonecutter",
+      "price": 358,
+      "mod": "RimWorld",
+      "customname": ""
+    },
+    {
+      "abr": "stoneskingland",
+      "category": "Bionic",
+      "defname": "StoneskinGland",
+      "price": 3200,
+      "mod": "Royalty",
+      "customname": ""
+    },
+    {
+      "abr": "stool",
+      "category": "Furniture",
+      "defname": "Stool",
+      "price": 86,
+      "mod": "RimWorld",
+      "customname": ""
+    },
+    {
+      "abr": "stunbaton",
+      "category": "Melee weapons",
+      "defname": "VWE_MeleeWeapon_StunBaton",
+      "price": 220,
+      "mod": "Vanilla Weapons Expanded - Non-Lethal",
+      "customname": ""
+    },
+    {
+      "abr": "stylingstation",
+      "category": "Furniture",
+      "defname": "StylingStation",
+      "price": 375,
+      "mod": "Ideology",
+      "customname": ""
+    },
+    {
+      "abr": "subcoreencoder",
+      "category": "Production",
+      "defname": "SubcoreEncoder",
+      "price": 525,
+      "mod": "Biotech",
+      "customname": ""
+    },
+    {
+      "abr": "subcoreripscanner",
+      "category": "Misc",
+      "defname": "SubcoreRipscanner",
+      "price": 3208,
+      "mod": "Biotech",
+      "customname": ""
+    },
+    {
+      "abr": "subcoresoftscanner",
+      "category": "Misc",
+      "defname": "SubcoreSoftscanner",
+      "price": 1642,
+      "mod": "Biotech",
+      "customname": ""
+    },
+    {
+      "abr": "sugar",
+      "category": "Condiments",
+      "defname": "VCE_RawSugar",
+      "price": 20,
+      "mod": "Vanilla Cooking Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "suitjacket",
+      "category": "Apparel",
+      "defname": "VAE_Apparel_SuitJacket",
+      "price": 327,
+      "mod": "Vanilla Apparel Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "summitcrab",
+      "category": "Animals",
+      "defname": "AA_SummitCrab",
+      "price": 2500,
+      "mod": "Alpha Animals",
+      "customname": ""
+    },
+    {
+      "abr": "summonedblackqueen",
+      "category": "Animals",
+      "defname": "AAVPE_BlackQueen",
+      "price": 2500,
+      "mod": "Alpha Animals",
+      "customname": ""
+    },
+    {
+      "abr": "summonedblackscarab",
+      "category": "Animals",
+      "defname": "AA_BlackScarab_Temporary",
+      "price": 250,
+      "mod": "Alpha Animals",
+      "customname": ""
+    },
+    {
+      "abr": "summonedblackspelopede",
+      "category": "Animals",
+      "defname": "AA_BlackSpelopede_Temporary",
+      "price": 417,
+      "mod": "Alpha Animals",
+      "customname": ""
+    },
+    {
+      "abr": "summonedblackspider",
+      "category": "Animals",
+      "defname": "AA_BlackSpider_Temporary",
+      "price": 917,
+      "mod": "Alpha Animals",
+      "customname": ""
+    },
+    {
+      "abr": "summonedeyeling",
+      "category": "Animals",
+      "defname": "AA_Summoned_Eyeling",
+      "price": 167,
+      "mod": "Alpha Animals",
+      "customname": ""
+    },
+    {
+      "abr": "summonedmammothworm",
+      "category": "Animals",
+      "defname": "AA_MammothWorm_Temporary",
+      "price": 1000,
+      "mod": "Alpha Animals",
+      "customname": ""
+    },
+    {
+      "abr": "sunhat",
+      "category": "Headgear",
+      "defname": "DR_SunHat",
+      "price": 558,
+      "mod": "Dragonian Prime Race2.0",
+      "customname": ""
+    },
+    {
+      "abr": "sunlamp",
+      "category": "Furniture",
+      "defname": "SunLamp",
+      "price": 129,
+      "mod": "RimWorld",
+      "customname": ""
+    },
+    {
+      "abr": "sunflowerseeds",
+      "category": "Vegetarian",
+      "defname": "VCE_RawSunflower",
+      "price": 2,
+      "mod": "Vanilla Plants Expanded - More Plants",
+      "customname": ""
+    },
+    {
+      "abr": "sunglasses",
+      "category": "Headgear",
+      "defname": "VAE_Headgear_Sunglasses",
+      "price": 156,
+      "mod": "Vanilla Apparel Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "surgicalmask",
+      "category": "Headgear",
+      "defname": "VAE_Headgear_SurgicalMask",
+      "price": 121,
+      "mod": "Vanilla Apparel Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "sustainer-lapis",
+      "category": "Drugs",
+      "defname": "SustainerLapis",
+      "price": 117,
+      "mod": "Moyo-From the depth",
+      "customname": ""
+    },
+    {
+      "abr": "swarmling",
+      "category": "Animals",
+      "defname": "AA_Swarmling",
+      "price": 58,
+      "mod": "Alpha Animals",
+      "customname": ""
+    },
+    {
+      "abr": "sweetpotatoes",
+      "category": "Vegetarian",
+      "defname": "VCE_RawSweetPotatoes",
+      "price": 2,
+      "mod": "Vanilla Plants Expanded - More Plants",
+      "customname": ""
+    },
+    {
+      "abr": "swimmingpool",
+      "category": "Misc",
+      "defname": "DBHSwimmingPool",
+      "price": 1617,
+      "mod": "Dubs Bad Hygiene",
+      "customname": ""
+    },
+    {
+      "abr": "swordfish",
+      "category": "Raw fish",
+      "defname": "VCEF_RawSwordfish",
+      "price": 9,
+      "mod": "Vanilla Fishing Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "synthread",
+      "category": "Textiles",
+      "defname": "Synthread",
+      "price": 7,
+      "mod": "RimWorld",
+      "customname": ""
+    },
+    {
+      "abr": "table(1x1)",
+      "category": "Furniture",
+      "defname": "Table_1x1c",
+      "price": 70,
+      "mod": "Vanilla Furniture Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "table(1x2)",
+      "category": "Furniture",
+      "defname": "Table1x2c",
+      "price": 98,
+      "mod": "RimWorld",
+      "customname": ""
+    },
+    {
+      "abr": "table(2x2)",
+      "category": "Furniture",
+      "defname": "Table2x2c",
+      "price": 176,
+      "mod": "RimWorld",
+      "customname": ""
+    },
+    {
+      "abr": "table(2x4)",
+      "category": "Furniture",
+      "defname": "Table2x4c",
+      "price": 333,
+      "mod": "RimWorld",
+      "customname": ""
+    },
+    {
+      "abr": "table(3x3)",
+      "category": "Furniture",
+      "defname": "Table3x3c",
+      "price": 350,
+      "mod": "RimWorld",
+      "customname": ""
+    },
+    {
+      "abr": "tablet",
+      "category": "Inert relics",
+      "defname": "RelicInertTablet",
+      "price": 833,
+      "mod": "Ideology",
+      "customname": ""
+    },
+    {
+      "abr": "tailcap",
+      "category": "Headgear",
+      "defname": "Apparel_Tailcap",
+      "price": 75,
+      "mod": "Ideology",
+      "customname": ""
+    },
+    {
+      "abr": "tanktop",
+      "category": "Apparel",
+      "defname": "VAE_Apparel_TankTop",
+      "price": 107,
+      "mod": "Vanilla Apparel Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "targuzzler",
+      "category": "Animals",
+      "defname": "AA_TarGuzzler",
+      "price": 250,
+      "mod": "Alpha Animals",
+      "customname": ""
+    },
+    {
+      "abr": "taroroots",
+      "category": "Vegetarian",
+      "defname": "VCE_RawTaro",
+      "price": 2,
+      "mod": "Vanilla Plants Expanded - More Plants",
+      "customname": ""
+    },
+    {
+      "abr": "tasergun",
+      "category": "Ranged weapons",
+      "defname": "VWE_Gun_Taser",
+      "price": 1333,
+      "mod": "Vanilla Weapons Expanded - Non-Lethal",
+      "customname": ""
+    },
+    {
+      "abr": "teargasgrenades",
+      "category": "Grenades",
+      "defname": "VWE_TearGasGrenade",
+      "price": 458,
+      "mod": "Vanilla Weapons Expanded - Non-Lethal",
+      "customname": ""
+    },
+    {
+      "abr": "teargaslauncher",
+      "category": "Ranged weapons",
+      "defname": "VWE_Gun_TearGasLauncher",
+      "price": 925,
+      "mod": "Vanilla Weapons Expanded - Non-Lethal",
+      "customname": ""
+    },
+    {
+      "abr": "technicalexchangebook",
+      "category": "Manufactured",
+      "defname": "MR_Theory",
+      "price": 42,
+      "mod": "Maru Race",
+      "customname": ""
+    },
+    {
+      "abr": "techprint(appliedresearch-bulletprooffiber)",
+      "category": "Techprints",
+      "defname": "Techprint_MaruRB",
+      "price": 1333,
+      "mod": "Maru Race",
+      "customname": ""
+    },
+    {
+      "abr": "techprint(appliedresearch-negativefield)",
+      "category": "Techprints",
+      "defname": "Techprint_MaruRC",
+      "price": 2000,
+      "mod": "Maru Race",
+      "customname": ""
+    },
+    {
+      "abr": "techprint(artificialmetabolism)",
+      "category": "Techprints",
+      "defname": "Techprint_ArtificialMetabolism",
+      "price": 3333,
+      "mod": "Royalty",
+      "customname": ""
+    },
+    {
+      "abr": "techprint(blackgates)",
+      "category": "Techprints",
+      "defname": "Techprint_BlackGateTech",
+      "price": 29033,
+      "mod": "Hisa Faction",
+      "customname": ""
+    },
+    {
+      "abr": "techprint(brainwiring)",
+      "category": "Techprints",
+      "defname": "Techprint_BrainWiring",
+      "price": 1667,
+      "mod": "Royalty",
+      "customname": ""
+    },
+    {
+      "abr": "techprint(cataphractarmor)",
+      "category": "Techprints",
+      "defname": "Techprint_CataphractArmor",
+      "price": 5000,
+      "mod": "Royalty",
+      "customname": ""
+    },
+    {
+      "abr": "techprint(circadianinfluence)",
+      "category": "Techprints",
+      "defname": "Techprint_CircadianInfluence",
+      "price": 3333,
+      "mod": "Royalty",
+      "customname": ""
+    },
+    {
+      "abr": "techprint(compactweaponry)",
+      "category": "Techprints",
+      "defname": "Techprint_CompactWeaponry",
+      "price": 1667,
+      "mod": "Royalty",
+      "customname": ""
+    },
+    {
+      "abr": "techprint(fleshshaping)",
+      "category": "Techprints",
+      "defname": "Techprint_FleshShaping",
+      "price": 3333,
+      "mod": "Royalty",
+      "customname": ""
+    },
+    {
+      "abr": "techprint(healingfactors)",
+      "category": "Techprints",
+      "defname": "Techprint_HealingFactors",
+      "price": 3333,
+      "mod": "Royalty",
+      "customname": ""
+    },
+    {
+      "abr": "techprint(jumppacks)",
+      "category": "Techprints",
+      "defname": "Techprint_JumpPack",
+      "price": 3333,
+      "mod": "Royalty",
+      "customname": ""
+    },
+    {
+      "abr": "techprint(molecularanalysis)",
+      "category": "Techprints",
+      "defname": "Techprint_MolecularAnalysis",
+      "price": 3333,
+      "mod": "Royalty",
+      "customname": ""
+    },
+    {
+      "abr": "techprint(neuralcomputation)",
+      "category": "Techprints",
+      "defname": "Techprint_NeuralComputation",
+      "price": 3333,
+      "mod": "Royalty",
+      "customname": ""
+    },
+    {
+      "abr": "techprint(poisonsynthesis)",
+      "category": "Techprints",
+      "defname": "Techprint_VenomSynthesis",
+      "price": 1667,
+      "mod": "Royalty",
+      "customname": ""
+    },
+    {
+      "abr": "techprint(skinhardening)",
+      "category": "Techprints",
+      "defname": "Techprint_SkinHardening",
+      "price": 3333,
+      "mod": "Royalty",
+      "customname": ""
+    },
+    {
+      "abr": "techprint(specializedlimbs)",
+      "category": "Techprints",
+      "defname": "Techprint_SpecializedLimbs",
+      "price": 1667,
+      "mod": "Royalty",
+      "customname": ""
+    },
+    {
+      "abr": "techprofsubpersonacore",
+      "category": "Misc",
+      "defname": "TechprofSubpersonaCore",
+      "price": 1667,
+      "mod": "RimWorld",
+      "customname": ""
+    },
+    {
+      "abr": "telescope",
+      "category": "Recreation",
+      "defname": "Telescope",
+      "price": 583,
+      "mod": "RimWorld",
+      "customname": ""
+    },
+    {
+      "abr": "tentdoor",
+      "category": "Misc",
+      "defname": "CATentDoor",
+      "price": 88,
+      "mod": "Caravan Adventures",
+      "customname": ""
+    },
+    {
+      "abr": "tentwall",
+      "category": "Misc",
+      "defname": "CAMakeshiftTentWall",
+      "price": 17,
+      "mod": "Caravan Adventures",
+      "customname": ""
+    },
+    {
+      "abr": "tentwall",
+      "category": "Misc",
+      "defname": "CATentWall",
+      "price": 17,
+      "mod": "Caravan Adventures",
+      "customname": ""
+    },
+    {
+      "abr": "teratogenicoriginator",
+      "category": "Animals",
+      "defname": "AA_TeratogenicOriginator",
+      "price": 1417,
+      "mod": "Alpha Animals",
+      "customname": ""
+    },
+    {
+      "abr": "terramorph",
+      "category": "Animals",
+      "defname": "AA_Terramorph",
+      "price": 417,
+      "mod": "Alpha Animals",
+      "customname": ""
+    },
+    {
+      "abr": "terrorsculpture",
+      "category": "Art",
+      "defname": "SculptureTerror",
+      "price": 517,
+      "mod": "Ideology",
+      "customname": ""
+    },
+    {
+      "abr": "tetraslug",
+      "category": "Animals",
+      "defname": "AA_TetraSlug",
+      "price": 6667,
+      "mod": "Alpha Animals",
+      "customname": ""
+    },
+    {
+      "abr": "theheuristiceye",
+      "category": "Teratogenic parts",
+      "defname": "AA_TheHeuristicEye",
+      "price": 167,
+      "mod": "Alpha Animals",
+      "customname": ""
+    },
+    {
+      "abr": "themeretriciouseye",
+      "category": "Teratogenic parts",
+      "defname": "AA_TheMeretriciousEye",
+      "price": 167,
+      "mod": "Alpha Animals",
+      "customname": ""
+    },
+    {
+      "abr": "thenumbingeye",
+      "category": "Teratogenic parts",
+      "defname": "AA_TheNumbingEye",
+      "price": 167,
+      "mod": "Alpha Animals",
+      "customname": ""
+    },
+    {
+      "abr": "theomniscienteye",
+      "category": "Teratogenic parts",
+      "defname": "AA_TheOmniscientEye",
+      "price": 167,
+      "mod": "Alpha Animals",
+      "customname": ""
+    },
+    {
+      "abr": "thequiescenteye",
+      "category": "Teratogenic parts",
+      "defname": "AA_TheQuiescentEye",
+      "price": 167,
+      "mod": "Alpha Animals",
+      "customname": ""
+    },
+    {
+      "abr": "therecalcitranteye",
+      "category": "Teratogenic parts",
+      "defname": "AA_TheRecalcitrantEye",
+      "price": 167,
+      "mod": "Alpha Animals",
+      "customname": ""
+    },
+    {
+      "abr": "thespasmodiceye",
+      "category": "Teratogenic parts",
+      "defname": "AA_TheSpasmodicEye",
+      "price": 167,
+      "mod": "Alpha Animals",
+      "customname": ""
+    },
+    {
+      "abr": "thermadon",
+      "category": "Animals",
+      "defname": "AA_Thermadon",
+      "price": 1083,
+      "mod": "Alpha Animals",
+      "customname": ""
+    },
+    {
+      "abr": "thermostat",
+      "category": "Hygiene",
+      "defname": "Thermostat",
+      "price": 86,
+      "mod": "Dubs Bad Hygiene",
+      "customname": ""
+    },
+    {
+      "abr": "throwingknife",
+      "category": "Ranged weapons",
+      "defname": "ReviaThrowingKnife",
+      "price": 141,
+      "mod": "Revia Race",
+      "customname": ""
+    },
+    {
+      "abr": "throwingknives",
+      "category": "Ranged weapons",
+      "defname": "VWE_Throwing_Knives",
+      "price": 161,
+      "mod": "Vanilla Weapons Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "throwingrocks",
+      "category": "Ranged weapons",
+      "defname": "VWE_Throwing_Rocks",
+      "price": 11,
+      "mod": "Vanilla Weapons Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "thrumbo",
+      "category": "Animals",
+      "defname": "Thrumbo",
+      "price": 6667,
+      "mod": "RimWorld",
+      "customname": ""
+    },
+    {
+      "abr": "thrumbohorn",
+      "category": "Misc",
+      "defname": "ThrumboHorn",
+      "price": 1333,
+      "mod": "RimWorld",
+      "customname": ""
+    },
+    {
+      "abr": "thrumbomeat",
+      "category": "Meat",
+      "defname": "Meat_Thrumbo",
+      "price": 3,
+      "mod": "RimWorld",
+      "customname": ""
+    },
+    {
+      "abr": "thrumbofur",
+      "category": "Leathers",
+      "defname": "Leather_Thrumbo",
+      "price": 23,
+      "mod": "RimWorld",
+      "customname": ""
+    },
+    {
+      "abr": "thunderbeast",
+      "category": "Animals",
+      "defname": "AA_Thunderbeast",
+      "price": 1250,
+      "mod": "Alpha Animals",
+      "customname": ""
+    },
+    {
+      "abr": "thunderox",
+      "category": "Animals",
+      "defname": "AA_Thunderox",
+      "price": 583,
+      "mod": "Alpha Animals",
+      "customname": ""
+    },
+    {
+      "abr": "tidalgenerator",
+      "category": "Misc",
+      "defname": "VFE_TidalGenerator",
+      "price": 1500,
+      "mod": "Vanilla Furniture Expanded - Power",
+      "customname": ""
+    },
+    {
+      "abr": "timberwolf",
+      "category": "Animals",
+      "defname": "Wolf_Timber",
+      "price": 583,
+      "mod": "RimWorld",
+      "customname": ""
+    },
+    {
+      "abr": "toilet",
+      "category": "Hygiene",
+      "defname": "ToiletStuff",
+      "price": 72,
+      "mod": "Dubs Bad Hygiene",
+      "customname": ""
+    },
+    {
+      "abr": "tomatoes",
+      "category": "Vegetarian",
+      "defname": "VCE_RawTomatoes",
+      "price": 2,
+      "mod": "Vanilla Plants Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "toolcabinet",
+      "category": "Misc",
+      "defname": "ToolCabinet",
+      "price": 642,
+      "mod": "RimWorld",
+      "customname": ""
+    },
+    {
+      "abr": "tophat",
+      "category": "Headgear",
+      "defname": "Apparel_HatTop",
+      "price": 203,
+      "mod": "Royalty",
+      "customname": ""
+    },
+    {
+      "abr": "torchlamp",
+      "category": "Misc",
+      "defname": "TorchLamp",
+      "price": 41,
+      "mod": "RimWorld",
+      "customname": ""
+    },
+    {
+      "abr": "tornadogenerator",
+      "category": "Utility",
+      "defname": "TornadoGenerator",
+      "price": 1333,
+      "mod": "RimWorld",
+      "customname": ""
+    },
+    {
+      "abr": "tortoise",
+      "category": "Animals",
+      "defname": "Tortoise",
+      "price": 333,
+      "mod": "RimWorld",
+      "customname": ""
+    },
+    {
+      "abr": "tortoiseegg(fert.)",
+      "category": "Eggs (fert.)",
+      "defname": "EggTortoiseFertilized",
+      "price": 38,
+      "mod": "RimWorld",
+      "customname": ""
+    },
+    {
+      "abr": "tortoisemeat",
+      "category": "Meat",
+      "defname": "Meat_Tortoise",
+      "price": 3,
+      "mod": "RimWorld",
+      "customname": ""
+    },
+    {
+      "abr": "torturecrown",
+      "category": "Headgear",
+      "defname": "Apparel_TortureCrown",
+      "price": 91,
+      "mod": "Ideology",
+      "customname": ""
+    },
+    {
+      "abr": "totemicslab(broad)",
+      "category": "Furniture",
+      "defname": "TotemicSlab_Broad",
+      "price": 508,
+      "mod": "Ideology",
+      "customname": ""
+    },
+    {
+      "abr": "totemicslab(medium)",
+      "category": "Furniture",
+      "defname": "TotemicSlab_Medium",
+      "price": 342,
+      "mod": "Ideology",
+      "customname": ""
+    },
+    {
+      "abr": "toughskingland",
+      "category": "Bionic",
+      "defname": "ToughskinGland",
+      "price": 1717,
+      "mod": "Royalty",
+      "customname": ""
+    },
+    {
+      "abr": "towelrail",
+      "category": "Hygiene",
+      "defname": "RadiatorTowelRail",
+      "price": 85,
+      "mod": "Dubs Bad Hygiene",
+      "customname": ""
+    },
+    {
+      "abr": "toxgrenades",
+      "category": "Grenades",
+      "defname": "Weapon_GrenadeTox",
+      "price": 525,
+      "mod": "Biotech",
+      "customname": ""
+    },
+    {
+      "abr": "toxpack",
+      "category": "Utility",
+      "defname": "Apparel_PackTox",
+      "price": 219,
+      "mod": "Biotech",
+      "customname": ""
+    },
+    {
+      "abr": "toxshell",
+      "category": "Mortar shells",
+      "defname": "Shell_Toxic",
+      "price": 92,
+      "mod": "Biotech",
+      "customname": ""
+    },
+    {
+      "abr": "toxalope",
+      "category": "Animals",
+      "defname": "Toxalope",
+      "price": 583,
+      "mod": "Biotech",
+      "customname": ""
+    },
+    {
+      "abr": "toxalopemeat",
+      "category": "Meat",
+      "defname": "Meat_Toxalope",
+      "price": 3,
+      "mod": "Biotech",
+      "customname": ""
+    },
+    {
+      "abr": "toxbomblauncher",
+      "category": "Ranged weapons",
+      "defname": "Gun_ToxbombLauncher",
+      "price": 633,
+      "mod": "Biotech",
+      "customname": ""
+    },
+    {
+      "abr": "toxifiergenerator",
+      "category": "Misc",
+      "defname": "ToxifierGenerator",
+      "price": 600,
+      "mod": "Biotech",
+      "customname": ""
+    },
+    {
+      "abr": "toxipotatoes",
+      "category": "Vegetarian",
+      "defname": "RawToxipotato",
+      "price": 1,
+      "mod": "Biotech",
+      "customname": ""
+    },
+    {
+      "abr": "toybox",
+      "category": "Furniture",
+      "defname": "ToyBox",
+      "price": 274,
+      "mod": "Biotech",
+      "customname": ""
+    },
+    {
+      "abr": "transportpod",
+      "category": "Misc",
+      "defname": "TransportPod",
+      "price": 253,
+      "mod": "RimWorld",
+      "customname": ""
+    },
+    {
+      "abr": "trapholder",
+      "category": "Maru Apparel",
+      "defname": "MR_Apparel_Trap",
+      "price": 183,
+      "mod": "Maru Race",
+      "customname": ""
+    },
+    {
+      "abr": "tribalheaddress",
+      "category": "Headgear",
+      "defname": "Apparel_TribalHeaddress",
+      "price": 203,
+      "mod": "RimWorld",
+      "customname": ""
+    },
+    {
+      "abr": "tribalkilt",
+      "category": "Apparel",
+      "defname": "VAE_Apparel_TribalKilt",
+      "price": 144,
+      "mod": "Vanilla Apparel Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "tribalponcho",
+      "category": "Apparel",
+      "defname": "VAE_Apparel_TribalPoncho",
+      "price": 144,
+      "mod": "Vanilla Apparel Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "tribalwear",
+      "category": "Misc",
+      "defname": "Apparel_TribalA",
+      "price": 211,
+      "mod": "RimWorld",
+      "customname": ""
+    },
+    {
+      "abr": "triplerocketlauncher",
+      "category": "Ranged weapons",
+      "defname": "Gun_TripleRocket",
+      "price": 1667,
+      "mod": "Vanilla Weapons Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "trooperarmor",
+      "category": "Armor",
+      "defname": "VAE_Apparel_TrooperArmor",
+      "price": 1917,
+      "mod": "Vanilla Armour Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "trooperhelmet",
+      "category": "Headgear",
+      "defname": "VAE_Headgear_TrooperHelmet",
+      "price": 792,
+      "mod": "Vanilla Armour Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "trousers",
+      "category": "Apparel",
+      "defname": "VAE_Apparel_Trousers",
+      "price": 164,
+      "mod": "Vanilla Apparel Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "trout",
+      "category": "Raw fish",
+      "defname": "VCEF_RawTrout",
+      "price": 2,
+      "mod": "Vanilla Fishing Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "t-shirt",
+      "category": "Misc",
+      "defname": "Apparel_BasicShirt",
+      "price": 143,
+      "mod": "RimWorld",
+      "customname": ""
+    },
+    {
+      "abr": "tubetelevision",
+      "category": "Recreation",
+      "defname": "TubeTelevision",
+      "price": 525,
+      "mod": "RimWorld",
+      "customname": ""
+    },
+    {
+      "abr": "tuna",
+      "category": "Raw fish",
+      "defname": "VCEF_RawTuna",
+      "price": 4,
+      "mod": "Vanilla Fishing Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "tunic",
+      "category": "Apparel",
+      "defname": "VAE_Apparel_Tunic",
+      "price": 143,
+      "mod": "Vanilla Apparel Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "tuque",
+      "category": "Headgear",
+      "defname": "Apparel_Tuque",
+      "price": 74,
+      "mod": "RimWorld",
+      "customname": ""
+    },
+    {
+      "abr": "turkey",
+      "category": "Animals",
+      "defname": "Turkey",
+      "price": 167,
+      "mod": "RimWorld",
+      "customname": ""
+    },
+    {
+      "abr": "turkeyegg(fert.)",
+      "category": "Eggs (fert.)",
+      "defname": "EggTurkeyFertilized",
+      "price": 18,
+      "mod": "RimWorld",
+      "customname": ""
+    },
+    {
+      "abr": "turkeymeat",
+      "category": "Meat",
+      "defname": "Meat_Turkey",
+      "price": 3,
+      "mod": "RimWorld",
+      "customname": ""
+    },
+    {
+      "abr": "unblinkingeye",
+      "category": "Animals",
+      "defname": "AA_UnblinkingEye",
+      "price": 2000,
+      "mod": "Alpha Animals",
+      "customname": ""
+    },
+    {
+      "abr": "uncookedfinesoup",
+      "category": "Uncooked soups",
+      "defname": "VCE_UncookedSoupFine",
+      "price": 227,
+      "mod": "Vanilla Cooking Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "uncookedgourmetsoup",
+      "category": "Uncooked soups",
+      "defname": "VCE_UncookedSoupGourmet",
+      "price": 742,
+      "mod": "Vanilla Cooking Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "uncookedlavishsoup",
+      "category": "Uncooked soups",
+      "defname": "VCE_UncookedSoupLavish",
+      "price": 458,
+      "mod": "Vanilla Cooking Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "uncookedsimplesoup",
+      "category": "Uncooked soups",
+      "defname": "VCE_UncookedSoupSimple",
+      "price": 161,
+      "mod": "Vanilla Cooking Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "unrefineduraniumcrystals",
+      "category": "Raw resources",
+      "defname": "AA_UraniumCrystals",
+      "price": 108,
+      "mod": "Alpha Animals",
+      "customname": ""
+    },
+    {
+      "abr": "unstablepowercell",
+      "category": "Special",
+      "defname": "UnstablePowerCell",
+      "price": 667,
+      "mod": "Royalty",
+      "customname": ""
+    },
+    {
+      "abr": "unstablepowercell",
+      "category": "Special",
+      "defname": "Miho_UnstablePowerCell",
+      "price": 667,
+      "mod": "Miho, the celestial fox",
+      "customname": ""
+    },
+    {
+      "abr": "uprightpiano",
+      "category": "Furniture",
+      "defname": "Joy_Piano",
+      "price": 908,
+      "mod": "Vanilla Furniture Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "uranium",
+      "category": "Raw resources",
+      "defname": "Uranium",
+      "price": 10,
+      "mod": "RimWorld",
+      "customname": ""
+    },
+    {
+      "abr": "uraniumslugturret",
+      "category": "Misc",
+      "defname": "Turret_Sniper",
+      "price": 2408,
+      "mod": "RimWorld",
+      "customname": ""
+    },
+    {
+      "abr": "urn",
+      "category": "Furniture",
+      "defname": "Urn",
+      "price": 70,
+      "mod": "RimWorld",
+      "customname": ""
+    },
+    {
+      "abr": "vanometricpowercell",
+      "category": "Special",
+      "defname": "VanometricPowerCell",
+      "price": 2000,
+      "mod": "RimWorld",
+      "customname": ""
+    },
+    {
+      "abr": "vegetablemilkextractor",
+      "category": "Production",
+      "defname": "VCE_VegMilkExtractor",
+      "price": 296,
+      "mod": "Vanilla Plants Expanded - More Plants",
+      "customname": ""
+    },
+    {
+      "abr": "vegetarianfinemeal",
+      "category": "Meals",
+      "defname": "MealFine_Veg",
+      "price": 33,
+      "mod": "RimWorld",
+      "customname": ""
+    },
+    {
+      "abr": "vegetarianlavishmeal",
+      "category": "Meals",
+      "defname": "MealLavish_Veg",
+      "price": 67,
+      "mod": "RimWorld",
+      "customname": ""
+    },
+    {
+      "abr": "veil",
+      "category": "Headgear",
+      "defname": "Apparel_WarVeil",
+      "price": 75,
+      "mod": "RimWorld",
+      "customname": ""
+    },
+    {
+      "abr": "venison",
+      "category": "Meat",
+      "defname": "Meat_Deer",
+      "price": 3,
+      "mod": "RimWorld",
+      "customname": ""
+    },
+    {
+      "abr": "venomfangs",
+      "category": "Prosthetic",
+      "defname": "VenomFangs",
+      "price": 592,
+      "mod": "Royalty",
+      "customname": ""
+    },
+    {
+      "abr": "venomtalon",
+      "category": "Prosthetic",
+      "defname": "VenomTalon",
+      "price": 592,
+      "mod": "Royalty",
+      "customname": ""
+    },
+    {
+      "abr": "vent",
+      "category": "Misc",
+      "defname": "Vent",
+      "price": 97,
+      "mod": "RimWorld",
+      "customname": ""
+    },
+    {
+      "abr": "vermilliontide",
+      "category": "Melee weapons",
+      "defname": "ReviaBlessedSerratedScythe",
+      "price": 6575,
+      "mod": "Revia Race",
+      "customname": ""
+    },
+    {
+      "abr": "visagemask",
+      "category": "Headgear",
+      "defname": "Apparel_VisageMask",
+      "price": 62,
+      "mod": "Ideology",
+      "customname": ""
+    },
+    {
+      "abr": "vitalsmonitor",
+      "category": "Misc",
+      "defname": "VitalsMonitor",
+      "price": 358,
+      "mod": "RimWorld",
+      "customname": ""
+    },
+    {
+      "abr": "wake-up",
+      "category": "Drugs",
+      "defname": "WakeUp",
+      "price": 58,
+      "mod": "RimWorld",
+      "customname": ""
+    },
+    {
+      "abr": "walk-infreezerunit",
+      "category": "Hygiene",
+      "defname": "FreezerUnit",
+      "price": 153,
+      "mod": "Dubs Bad Hygiene",
+      "customname": ""
+    },
+    {
+      "abr": "wall",
+      "category": "Misc",
+      "defname": "Wall",
+      "price": 17,
+      "mod": "RimWorld",
+      "customname": ""
+    },
+    {
+      "abr": "walllight",
+      "category": "Furniture",
+      "defname": "Lighting_MURWallLight",
+      "price": 16,
+      "mod": "Wall Light",
+      "customname": ""
+    },
+    {
+      "abr": "wallsunlight",
+      "category": "Furniture",
+      "defname": "Lighting_MURWallSunLight",
+      "price": 16,
+      "mod": "Wall Light",
+      "customname": ""
+    },
+    {
+      "abr": "warmask",
+      "category": "Headgear",
+      "defname": "Apparel_WarMask",
+      "price": 101,
+      "mod": "RimWorld",
+      "customname": ""
+    },
+    {
+      "abr": "wardrobe",
+      "category": "Furniture",
+      "defname": "Table_Wardrobe",
+      "price": 285,
+      "mod": "Vanilla Furniture Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "warg",
+      "category": "Animals",
+      "defname": "Warg",
+      "price": 750,
+      "mod": "RimWorld",
+      "customname": ""
+    },
+    {
+      "abr": "wargmeat",
+      "category": "Meat",
+      "defname": "Meat_Warg",
+      "price": 3,
+      "mod": "RimWorld",
+      "customname": ""
+    },
+    {
+      "abr": "warhammer",
+      "category": "Melee weapons",
+      "defname": "MeleeWeapon_Warhammer",
+      "price": 608,
+      "mod": "Royalty",
+      "customname": ""
+    },
+    {
+      "abr": "washingmachine",
+      "category": "Hygiene",
+      "defname": "WashingMachine",
+      "price": 433,
+      "mod": "Dubs Bad Hygiene",
+      "customname": ""
+    },
+    {
+      "abr": "wasterat",
+      "category": "Animals",
+      "defname": "WasteRat",
+      "price": 58,
+      "mod": "Biotech",
+      "customname": ""
+    },
+    {
+      "abr": "wasteratmeat",
+      "category": "Meat",
+      "defname": "Meat_WasteRat",
+      "price": 3,
+      "mod": "Biotech",
+      "customname": ""
+    },
+    {
+      "abr": "wastepackatomizer",
+      "category": "Misc",
+      "defname": "WastepackAtomizer",
+      "price": 4067,
+      "mod": "Biotech",
+      "customname": ""
+    },
+    {
+      "abr": "waterchestnuts",
+      "category": "Vegetarian",
+      "defname": "VCE_RawWaterChestnut",
+      "price": 2,
+      "mod": "Vanilla Plants Expanded - More Plants",
+      "customname": ""
+    },
+    {
+      "abr": "watertower",
+      "category": "Misc",
+      "defname": "WaterTowerS",
+      "price": 258,
+      "mod": "Dubs Bad Hygiene",
+      "customname": ""
+    },
+    {
+      "abr": "watertreatment",
+      "category": "Misc",
+      "defname": "WaterTreatment",
+      "price": 1075,
+      "mod": "Dubs Bad Hygiene",
+      "customname": ""
+    },
+    {
+      "abr": "watertub",
+      "category": "Hygiene",
+      "defname": "WashBucket",
+      "price": 52,
+      "mod": "Dubs Bad Hygiene",
+      "customname": ""
+    },
+    {
+      "abr": "waterwell",
+      "category": "Misc",
+      "defname": "WaterWellInlet",
+      "price": 248,
+      "mod": "Dubs Bad Hygiene",
+      "customname": ""
+    },
+    {
+      "abr": "watercressleaves",
+      "category": "Vegetarian",
+      "defname": "VCE_RawWatercress",
+      "price": 2,
+      "mod": "Vanilla Plants Expanded - More Plants",
+      "customname": ""
+    },
+    {
+      "abr": "watermillgenerator",
+      "category": "Misc",
+      "defname": "WatermillGenerator",
+      "price": 1000,
+      "mod": "RimWorld",
+      "customname": ""
+    },
+    {
+      "abr": "waterproofconduit",
+      "category": "Misc",
+      "defname": "WaterproofConduit",
+      "price": 32,
+      "mod": "RimWorld",
+      "customname": ""
+    },
+    {
+      "abr": "waywardmobileassembler",
+      "category": "Animal",
+      "defname": "AA_WaywardMobileAssembler",
+      "price": 1083,
+      "mod": "Alpha Animals",
+      "customname": ""
+    },
+    {
+      "abr": "weaponrack",
+      "category": "Furniture",
+      "defname": "Shelf_WeaponRack",
+      "price": 137,
+      "mod": "Vanilla Furniture Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "weaponrebuildworkbench",
+      "category": "Production",
+      "defname": "MR_Rebuildtable",
+      "price": 1508,
+      "mod": "Maru Race",
+      "customname": ""
+    },
+    {
+      "abr": "whalingharpoon",
+      "category": "Ranged weapons",
+      "defname": "MR_WH_O",
+      "price": 261,
+      "mod": "Maru Race",
+      "customname": ""
+    },
+    {
+      "abr": "whalingharpoon:abduct",
+      "category": "Ranged weapons",
+      "defname": "MR_WH_AT",
+      "price": 1567,
+      "mod": "Maru Race",
+      "customname": ""
+    },
+    {
+      "abr": "whalingharpoon:abduct",
+      "category": "Ranged weapons",
+      "defname": "MR_WH_ATT",
+      "price": 1567,
+      "mod": "Maru Race",
+      "customname": ""
+    },
+    {
+      "abr": "whalingharpoon:externalanti-gravity",
+      "category": "Ranged weapons",
+      "defname": "MR_WH_BT",
+      "price": 1567,
+      "mod": "Maru Race",
+      "customname": ""
+    },
+    {
+      "abr": "whalingharpoon:externalanti-gravity",
+      "category": "Ranged weapons",
+      "defname": "MR_WH_BTT",
+      "price": 1258,
+      "mod": "Maru Race",
+      "customname": ""
+    },
+    {
+      "abr": "whalingharpoon:improvement",
+      "category": "Ranged weapons",
+      "defname": "MR_WH_AO",
+      "price": 592,
+      "mod": "Maru Race",
+      "customname": ""
+    },
+    {
+      "abr": "whalingharpoon:internalanti-gravity",
+      "category": "Ranged weapons",
+      "defname": "MR_WH_BO",
+      "price": 617,
+      "mod": "Maru Race",
+      "customname": ""
+    },
+    {
+      "abr": "whip",
+      "category": "Ranged weapons",
+      "defname": "VWE_Tool_Whip",
+      "price": 203,
+      "mod": "Vanilla Weapons Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "whitetwigs",
+      "category": "Manufactured",
+      "defname": "MR_whitetwigs",
+      "price": 500,
+      "mod": "Maru Race",
+      "customname": ""
+    },
+    {
+      "abr": "wildboar",
+      "category": "Animals",
+      "defname": "WildBoar",
+      "price": 333,
+      "mod": "RimWorld",
+      "customname": ""
+    },
+    {
+      "abr": "wildpawn",
+      "category": "Animals",
+      "defname": "AA_Wildpawn",
+      "price": 333,
+      "mod": "Alpha Animals",
+      "customname": ""
+    },
+    {
+      "abr": "wildpawnsporeclump(fert.)",
+      "category": "Eggs (fert.)",
+      "defname": "AA_WildpawnSpores",
+      "price": 15,
+      "mod": "Alpha Animals",
+      "customname": ""
+    },
+    {
+      "abr": "wildpod",
+      "category": "Animals",
+      "defname": "AA_Wildpod",
+      "price": 667,
+      "mod": "Alpha Animals",
+      "customname": ""
+    },
+    {
+      "abr": "wildpodsporeclump(fert.)",
+      "category": "Eggs (fert.)",
+      "defname": "AA_WildpodSpores",
+      "price": 15,
+      "mod": "Alpha Animals",
+      "customname": ""
+    },
+    {
+      "abr": "windpump",
+      "category": "Misc",
+      "defname": "WindPump",
+      "price": 358,
+      "mod": "Dubs Bad Hygiene",
+      "customname": ""
+    },
+    {
+      "abr": "windbeast",
+      "category": "Animals",
+      "defname": "AA_WindBeast",
+      "price": 1250,
+      "mod": "Alpha Animals",
+      "customname": ""
+    },
+    {
+      "abr": "wolfmeat",
+      "category": "Meat",
+      "defname": "Meat_Wolf_Timber",
+      "price": 3,
+      "mod": "RimWorld",
+      "customname": ""
+    },
+    {
+      "abr": "wolfskin",
+      "category": "Leathers",
+      "defname": "Leather_Wolf",
+      "price": 5,
+      "mod": "RimWorld",
+      "customname": ""
+    },
+    {
+      "abr": "wood",
+      "category": "Raw resources",
+      "defname": "WoodLog",
+      "price": 2,
+      "mod": "RimWorld",
+      "customname": ""
+    },
+    {
+      "abr": "woodenarmor",
+      "category": "Armor",
+      "defname": "VAE_Apparel_WoodenArmor",
+      "price": 300,
+      "mod": "Vanilla Armour Expanded",
+      "customname": ""
+    },
+    {
+      "abr": "wood-firedgenerator",
+      "category": "Misc",
+      "defname": "WoodFiredGenerator",
+      "price": 442,
+      "mod": "RimWorld",
+      "customname": ""
+    },
+    {
+      "abr": "wort",
+      "category": "Manufactured",
+      "defname": "Wort",
+      "price": 4,
+      "mod": "RimWorld",
+      "customname": ""
+    },
+    {
+      "abr": "xenogerm",
+      "category": "Misc",
+      "defname": "Xenogerm",
+      "price": 167,
+      "mod": "Biotech",
+      "customname": ""
+    },
+    {
+      "abr": "yak",
+      "category": "Animals",
+      "defname": "Yak",
+      "price": 533,
+      "mod": "RimWorld",
+      "customname": ""
+    },
+    {
+      "abr": "yakbeef",
+      "category": "Meat",
+      "defname": "Meat_Yak",
+      "price": 3,
+      "mod": "RimWorld",
+      "customname": ""
+    },
+    {
+      "abr": "yayo",
+      "category": "Drugs",
+      "defname": "Yayo",
+      "price": 35,
+      "mod": "RimWorld",
+      "customname": ""
+    },
+    {
+      "abr": "yellowbellpeppers",
+      "category": "Vegetarian",
+      "defname": "VCE_RawYellowBellPeppers",
+      "price": 2,
+      "mod": "Vanilla Plants Expanded - More Plants",
+      "customname": ""
+    },
+    {
+      "abr": "yorkshireterrier",
+      "category": "Animals",
+      "defname": "YorkshireTerrier",
+      "price": 167,
+      "mod": "RimWorld",
+      "customname": ""
+    },
+    {
+      "abr": "yorkshireterriermeat",
+      "category": "Meat",
+      "defname": "Meat_YorkshireTerrier",
+      "price": 3,
+      "mod": "RimWorld",
+      "customname": ""
+    },
+    {
+      "abr": "zeushammer",
+      "category": "Melee weapons",
+      "defname": "MeleeWeapon_Zeushammer",
+      "price": 3333,
+      "mod": "Royalty",
+      "customname": ""
+    },
+    {
+      "abr": "칼날나비포탈",
+      "category": "Misc",
+      "defname": "Miho_ButterflyHaze_Portal",
+      "price": -10,
+      "mod": "Miho, the celestial fox",
+      "customname": ""
+    },
+    {
+      "abr": "basicwear(child)",
+      "category": "Apparel",
+      "defname": "DR_BasicWearChild",
+      "price": 958,
+      "mod": "n/a",
+      "customname": ""
+    },
+    {
+      "abr": "zombrella",
+      "category": "Misc",
+      "defname": "Zombrella",
+      "price": 3333,
+      "mod": "n/a",
+      "customname": ""
+    },
+    {
+      "abr": "guestbed",
+      "category": "Furniture",
+      "defname": "BedGuest",
+      "price": 155,
+      "mod": "n/a",
+      "customname": ""
+    },
+    {
+      "abr": "guestdoublebed",
+      "category": "Furniture",
+      "defname": "DoubleBedGuest",
+      "price": 292,
+      "mod": "n/a",
+      "customname": ""
+    },
+    {
+      "abr": "guestroyalbed",
+      "category": "Furniture",
+      "defname": "RoyalBedGuest",
+      "price": 1467,
+      "mod": "n/a",
+      "customname": ""
+    },
+    {
+      "abr": "guesthospitalbed",
+      "category": "Furniture",
+      "defname": "HospitalBedGuest",
+      "price": 667,
+      "mod": "n/a",
+      "customname": ""
+    },
+    {
+      "abr": "guestbedroll",
+      "category": "Furniture",
+      "defname": "BedrollGuest",
+      "price": 137,
+      "mod": "n/a",
+      "customname": ""
+    },
+    {
+      "abr": "guestdoublebedroll",
+      "category": "Furniture",
+      "defname": "BedrollDoubleGuest",
+      "price": 290,
+      "mod": "n/a",
+      "customname": ""
+    },
+    {
+      "abr": "guestancientbed",
+      "category": "Misc",
+      "defname": "AncientBedGuest",
+      "price": 5,
+      "mod": "n/a",
+      "customname": ""
+    },
+    {
+      "abr": "guestslabbed",
+      "category": "Furniture",
+      "defname": "SlabBedGuest",
+      "price": 102,
+      "mod": "n/a",
+      "customname": ""
+    },
+    {
+      "abr": "guestslabdoublebed",
+      "category": "Furniture",
+      "defname": "SlabDoubleBedGuest",
+      "price": 288,
+      "mod": "n/a",
+      "customname": ""
+    },
+    {
+      "abr": "guestdeathrestcasket",
+      "category": "Misc",
+      "defname": "DeathrestCasketGuest",
+      "price": 492,
+      "mod": "n/a",
+      "customname": ""
+    },
+    {
+      "abr": "guestcrib",
+      "category": "Furniture",
+      "defname": "CribGuest",
+      "price": 86,
+      "mod": "n/a",
+      "customname": ""
+    },
+    {
+      "abr": "guestbedroll",
+      "category": "Misc",
+      "defname": "CAMakeshiftBedrollGuest",
+      "price": 137,
+      "mod": "n/a",
+      "customname": ""
+    },
+    {
+      "abr": "guestdoublebedroll",
+      "category": "Misc",
+      "defname": "CAMakeshiftBedrollDoubleGuest",
+      "price": 290,
+      "mod": "n/a",
+      "customname": ""
+    },
+    {
+      "abr": "guestspacerbedroll",
+      "category": "Misc",
+      "defname": "CASpacerBedrollGuest",
+      "price": 137,
+      "mod": "n/a",
+      "customname": ""
+    },
+    {
+      "abr": "guestspacerdoublebedroll",
+      "category": "Misc",
+      "defname": "CASpacerBedrollDoubleGuest",
+      "price": 290,
+      "mod": "n/a",
+      "customname": ""
+    },
+    {
+      "abr": "guesthypersleepbed",
+      "category": "Furniture",
+      "defname": "HisaHyperSleepBedGuest",
+      "price": 1575,
+      "mod": "n/a",
+      "customname": ""
+    },
+    {
+      "abr": "guestdoublehypersleepbed",
+      "category": "Furniture",
+      "defname": "HisaHyperSleepBedBigGuest",
+      "price": 2992,
+      "mod": "n/a",
+      "customname": ""
+    },
+    {
+      "abr": "guestroyalhypersleepbed",
+      "category": "Furniture",
+      "defname": "HisaHyperSleepBedRoyalGuest",
+      "price": 3917,
+      "mod": "n/a",
+      "customname": ""
+    },
+    {
+      "abr": "guesthisamedicalbed",
+      "category": "Furniture",
+      "defname": "Hisa_MediBedGuest",
+      "price": 2958,
+      "mod": "n/a",
+      "customname": ""
+    },
+    {
+      "abr": "guestminchocrepebedroll",
+      "category": "Furniture",
+      "defname": "Mincho_Crepe_BedrollGuest",
+      "price": 68,
+      "mod": "n/a",
+      "customname": ""
+    },
+    {
+      "abr": "guestminchofullsizecakebed",
+      "category": "Furniture",
+      "defname": "Mincho_Full_Size_Cake_BedGuest",
+      "price": 1833,
+      "mod": "n/a",
+      "customname": ""
+    },
+    {
+      "abr": "guestminchosinglesizecakebed",
+      "category": "Furniture",
+      "defname": "Mincho_Single_Size_Cake_BedGuest",
+      "price": 917,
+      "mod": "n/a",
+      "customname": ""
+    },
+    {
+      "abr": "guestslabbed",
+      "category": "Furniture",
+      "defname": "Bed_StoneSlabGuest",
+      "price": 111,
+      "mod": "n/a",
+      "customname": ""
+    },
+    {
+      "abr": "guestsimplebed",
+      "category": "Furniture",
+      "defname": "Bed_SimpleGuest",
+      "price": 137,
+      "mod": "n/a",
+      "customname": ""
+    },
+    {
+      "abr": "guestergonomicbed",
+      "category": "Furniture",
+      "defname": "Bed_ErgonomicGuest",
+      "price": 450,
+      "mod": "n/a",
+      "customname": ""
+    },
+    {
+      "abr": "guestergonomicdoublebed",
+      "category": "Furniture",
+      "defname": "Bed_DoubleErgonomicGuest",
+      "price": 867,
+      "mod": "n/a",
+      "customname": ""
+    },
+    {
+      "abr": "guestroyalposterbed",
+      "category": "Furniture",
+      "defname": "Bed_KingsizeGuest",
+      "price": 2008,
+      "mod": "n/a",
       "customname": ""
     }
   ]
