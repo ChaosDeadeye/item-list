@@ -501,6 +501,29 @@
     "description": "Timmy has an awful immune system. he gets sick more often than usual, frequently with illnesses that nobody in the colony has been afflicted by."
   },
   {
+    "name": "delicate",
+    "addPrice": 3500,
+    "removePrice": 3500,
+    "stats": [
+      "x115% incoming damage multiplier"
+    ],
+    "description": "Timmy has fragile skin and bones. he takes more damage than other people from the same blows."
+  },
+  {
+    "name": "recluse",
+    "addPrice": 3500,
+    "removePrice": 3500,
+    "stats": [],
+    "description": "The fewer people in Timmy's faction, the happier he is. Being alone is best of all."
+  },
+  {
+    "name": "thrall",
+    "addPrice": 3500,
+    "removePrice": 3500,
+    "stats": [],
+    "description": "Psychic enthrallment caused by incredibly strong mental influence. Thralls don't need to sleep or have recreation, but are unable to do skilled work and engage in social interactions."
+  },
+  {
     "name": "xenophobe",
     "addPrice": 3500,
     "removePrice": 3500,
@@ -515,45 +538,20 @@
     "description": "Timmy thinks aliens are exotic and interesting. They would love to get to know them more and wouldn't mind forming relationships with them."
   },
   {
-    "name": "kurinlike",
+    "name": "attuned",
     "addPrice": 3500,
     "removePrice": 3500,
     "stats": [
-      "+1.0 beauty",
-      "+75.00% trade price improvement"
+      "Artistic meditation focus type disabled.",
+      "Natural meditation focus type allowed.",
+      "+2 plants",
+      "+20% psychic sensitivity",
+      "-5% mental break threshold",
+      "x120% neural heat recovery rate",
+      "x110% neural heat limit",
+      "x90% neural heat gain"
     ],
-    "description": "A Kurin.\n\n¯\\_(ツ)_/¯"
-  },
-  {
-    "name": "strangekurin",
-    "addPrice": 3500,
-    "removePrice": 3500,
-    "stats": [
-      "+10 plants",
-      "+30% plant work speed",
-      "+30% plant harvest yield"
-    ],
-    "description": "Strange kind of kurins... Timmy likes plants."
-  },
-  {
-    "name": "upgradedkurin",
-    "addPrice": 3500,
-    "removePrice": 3500,
-    "stats": [
-      "+10% immunity gain speed",
-      "+15% global learning factor",
-      "+15% toxic environment resistance"
-    ],
-    "description": "Timmy participated in a program of improving their genetic code."
-  },
-  {
-    "name": "kimirilike",
-    "addPrice": 3500,
-    "removePrice": 3500,
-    "stats": [
-      "+1.0 beauty"
-    ],
-    "description": "A Kimiri.\n\n¯\\_(ツ)_/¯"
+    "description": "Timmy has spent time learning and practicing the tribal rituals required to link oneself to an Anima tree. he has long since been enamoured by the wonders of nature."
   },
   {
     "name": "flameworship",
@@ -665,100 +663,6 @@
     "description": "A fragment of a talent to accomplish a feat."
   },
   {
-    "name": "brawler",
-    "addPrice": 3500,
-    "removePrice": 3500,
-    "stats": [
-      "Shoot frenzy inspiration disabled.",
-      "+4 melee",
-      "-4 shooting",
-      "+4.0 melee hit chance"
-    ],
-    "description": "Timmy likes to fight up close and personal. his accuracy is greatly increased in melee combat, but he'll be very unhappy if asked to carry a ranged weapon."
-  },
-  {
-    "name": "nightowl",
-    "addPrice": 3500,
-    "removePrice": 3500,
-    "stats": [],
-    "description": "Timmy likes to be up during the night, and sleep during the day.\n\nhe gets a mood bonus if awake at night (23h-6h) and mood loss if awake during the day (11h-18h).\n\nhe doesn't get a mood penalty for being in the dark."
-  },
-  {
-    "name": "greedy",
-    "addPrice": 3500,
-    "removePrice": 3500,
-    "stats": [],
-    "description": "Timmy needs a really impressive bedroom. he gets a mood loss if he doesn't get what he wants."
-  },
-  {
-    "name": "jealous",
-    "addPrice": 3500,
-    "removePrice": 3500,
-    "stats": [
-      "Morbid meditation focus type allowed."
-    ],
-    "description": "For Timmy, it's degrading to have a less impressive bedroom than someone else. he gets a mood loss if any colonist has a more impressive bedroom."
-  },
-  {
-    "name": "ascetic",
-    "addPrice": 3500,
-    "removePrice": 3500,
-    "stats": [
-      "Artistic meditation focus type disabled.",
-      "Minimal meditation focus type allowed."
-    ],
-    "description": "Timmy has forsaken physical comforts and enjoyments in favor of a simple, pure lifestyle. he will become unhappy if if he has a bedroom that's too impressive. he also dislikes fancy food and prefers to eat raw. he never judges others by their appearance."
-  },
-  {
-    "name": "annoyingvoice",
-    "addPrice": 3500,
-    "removePrice": 3500,
-    "stats": [],
-    "description": "Timmy's voice has a particularly grating, nasal quality to it, and he tends to talk in barked, garbled phrases. This predisposes others to dislike him."
-  },
-  {
-    "name": "pyromaniac",
-    "addPrice": 3500,
-    "removePrice": 3500,
-    "stats": [
-      "Flame meditation focus type allowed.",
-      "Only mental break \"FireStartingSpree\" allowed."
-    ],
-    "description": "Timmy loves fire. he will never extinguish fires. To relieve stress, he will occasionally go on random fire starting sprees. This happens more often if his mood is low."
-  },
-  {
-    "name": "quicksleeper",
-    "addPrice": 3500,
-    "removePrice": 3500,
-    "stats": [
-      "+50% rest rate multiplier"
-    ],
-    "description": "Timmy doesn't need as much sleep as the average person. Whether he's sleeping on a bed or on the ground, he will be fully rested in about two thirds the usual time."
-  },
-  {
-    "name": "thrall",
-    "addPrice": 3500,
-    "removePrice": 3500,
-    "stats": [],
-    "description": "Psychic enthrallment caused by incredibly strong mental influence. Thralls don't need to sleep or have recreation, but are unable to do skilled work and engage in social interactions."
-  },
-  {
-    "name": "delicate",
-    "addPrice": 3500,
-    "removePrice": 3500,
-    "stats": [
-      "x115% incoming damage multiplier"
-    ],
-    "description": "Timmy has fragile skin and bones. he takes more damage than other people from the same blows."
-  },
-  {
-    "name": "recluse",
-    "addPrice": 3500,
-    "removePrice": 3500,
-    "stats": [],
-    "description": "The fewer people in Timmy's faction, the happier he is. Being alone is best of all."
-  },
-  {
     "name": "likeflame",
     "addPrice": 3500,
     "removePrice": 3500,
@@ -831,6 +735,25 @@
     "description": "Timmy is very passionate about having a partner. he will never get debuffs from being rejected or rejecting others etc but will have stronger moodlets in a relationship and stronger debuffs if there heart is betrayed."
   },
   {
+    "name": "brawler",
+    "addPrice": 3500,
+    "removePrice": 3500,
+    "stats": [
+      "Shoot frenzy inspiration disabled.",
+      "+4 melee",
+      "-4 shooting",
+      "+4.0 melee hit chance"
+    ],
+    "description": "Timmy likes to fight up close and personal. his accuracy is greatly increased in melee combat, but he'll be very unhappy if asked to carry a ranged weapon."
+  },
+  {
+    "name": "nightowl",
+    "addPrice": 3500,
+    "removePrice": 3500,
+    "stats": [],
+    "description": "Timmy likes to be up during the night, and sleep during the day.\n\nhe gets a mood bonus if awake at night (23h-6h) and mood loss if awake during the day (11h-18h).\n\nhe doesn't get a mood penalty for being in the dark."
+  },
+  {
     "name": "earlybird",
     "addPrice": 3500,
     "removePrice": 3500,
@@ -838,11 +761,54 @@
     "description": "Timmy enjoys to be up during the day, and sleep during the night.\n\nhe gets a mood bonus if awake at day (23h-6h) and mood loss if awake during the night (11h-18h).\n\nhe doesn't get a mood penalty for being in the light."
   },
   {
+    "name": "greedy",
+    "addPrice": 3500,
+    "removePrice": 3500,
+    "stats": [],
+    "description": "Timmy needs a really impressive bedroom. he gets a mood loss if he doesn't get what he wants."
+  },
+  {
+    "name": "jealous",
+    "addPrice": 3500,
+    "removePrice": 3500,
+    "stats": [
+      "Morbid meditation focus type allowed."
+    ],
+    "description": "For Timmy, it's degrading to have a less impressive bedroom than someone else. he gets a mood loss if any colonist has a more impressive bedroom."
+  },
+  {
+    "name": "ascetic",
+    "addPrice": 3500,
+    "removePrice": 3500,
+    "stats": [
+      "Artistic meditation focus type disabled.",
+      "Minimal meditation focus type allowed."
+    ],
+    "description": "Timmy has forsaken physical comforts and enjoyments in favor of a simple, pure lifestyle. he will become unhappy if if he has a bedroom that's too impressive. he also dislikes fancy food and prefers to eat raw. he never judges others by their appearance."
+  },
+  {
+    "name": "annoyingvoice",
+    "addPrice": 3500,
+    "removePrice": 3500,
+    "stats": [],
+    "description": "Timmy's voice has a particularly grating, nasal quality to it, and he tends to talk in barked, garbled phrases. This predisposes others to dislike him."
+  },
+  {
     "name": "soothingvoice",
     "addPrice": 3500,
     "removePrice": 3500,
     "stats": [],
     "description": "Timmy's voice has a particularly magical, harmony quality to it, and he tends to talk in sweet, careful phrases. This predisposes others to like him."
+  },
+  {
+    "name": "pyromaniac",
+    "addPrice": 3500,
+    "removePrice": 3500,
+    "stats": [
+      "Flame meditation focus type allowed.",
+      "Only mental break \"FireStartingSpree\" allowed."
+    ],
+    "description": "Timmy loves fire. he will never extinguish fires. To relieve stress, he will occasionally go on random fire starting sprees. This happens more often if his mood is low."
   },
   {
     "name": "insane",
@@ -876,8 +842,8 @@
     "addPrice": 3500,
     "removePrice": 3500,
     "stats": [
-      "x25% butchery speed",
-      "x25% plant work speed"
+      "x125% butchery speed",
+      "x125% plant work speed"
     ],
     "description": "Timmy has always dabbled around with plants and human corpses and butchering them. he is great at planting and butchering."
   },
@@ -886,8 +852,8 @@
     "addPrice": 3500,
     "removePrice": 3500,
     "stats": [
-      "x40% move speed",
-      "x10% mental break threshold"
+      "x140% move speed",
+      "x110% mental break threshold"
     ],
     "description": "Timmy has always been Terrified of the dark and as a result they move faster and have a weakened mind and a higher dark penalty."
   },
@@ -900,6 +866,15 @@
       "x10% melee DPS"
     ],
     "description": "Timmy has Powerful penetrating Attacks, and attacks more often. he does much more damage than other people. he is very dangerous in a fight."
+  },
+  {
+    "name": "quicksleeper",
+    "addPrice": 3500,
+    "removePrice": 3500,
+    "stats": [
+      "+50% rest rate multiplier"
+    ],
+    "description": "Timmy doesn't need as much sleep as the average person. Whether he's sleeping on a bed or on the ground, he will be fully rested in about two thirds the usual time."
   },
   {
     "name": "insomnia",
@@ -1676,22 +1651,6 @@
     "removePrice": 3500,
     "stats": [],
     "description": "Timmy enjoys the solitude and tranquility inherent to long fishing sessions. he will prefer fishing above other activities."
-  },
-  {
-    "name": "attuned",
-    "addPrice": 3500,
-    "removePrice": 3500,
-    "stats": [
-      "Artistic meditation focus type disabled.",
-      "Natural meditation focus type allowed.",
-      "+2 plants",
-      "+20% psychic sensitivity",
-      "-5% mental break threshold",
-      "x120% neural heat recovery rate",
-      "x110% neural heat limit",
-      "x90% neural heat gain"
-    ],
-    "description": "Timmy has spent time learning and practicing the tribal rituals required to link oneself to an Anima tree. he has long since been enamoured by the wonders of nature."
   }
 ],
   "total": 0
