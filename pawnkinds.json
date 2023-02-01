@@ -26,6 +26,79 @@
     "data": {
       "customName": false,
       "stats": [
+        "+50.00 Mass",
+        "+30% Flammability",
+        "+$3500 Market value",
+        "+5.00 Move speed",
+        "+40% Mental break threshold",
+        "+42.0C Maximum comfortable temperature",
+        "+10.0C Minimum comfortable temperature",
+        "+110% Immunity gain speed",
+        "+70 Carrying capacity",
+        "+55 Meat amount",
+        "+55 Leather amount",
+        "+80% Pain shock threshold",
+        "+130.00% Negotiation ability",
+        "+120% Sell price multiplier",
+        "+120.00% Social impact",
+        "+110% Mechanoid shredding efficiency",
+        "+110% Mechanoid shredding speed",
+        "+100% Smelting speed",
+        "+90% Research speed",
+        "+70% Mining speed",
+        "+105% Butchery efficiency",
+        "+90% Butchery speed",
+        "+80.00% Food poison chance",
+        "+1.1 Cooking speed",
+        "+110% Rest rate multiplier",
+        "+80% Plant work speed"
+      ],
+      "mod": "Unknown",
+      "karmaType": null
+    },
+    "description": "An all-female race of humans spliced with fox genes. Originally, they were Glitterworld designermates from the planet Aolara, but an internal war forced them to leave their homeworld. Now they are spread among the rim.",
+    "defName": "Kurin_Race",
+    "enabled": true,
+    "name": "Kurin",
+    "price": 5833
+  },
+  {
+    "data": {
+      "customName": false,
+      "stats": [
+        "+75.00 Mass",
+        "+50% Flammability",
+        "+$3200 Market value",
+        "+4.00 Move speed",
+        "+18.0C Maximum comfortable temperature",
+        "+2.0C Minimum comfortable temperature",
+        "+110% Immunity gain speed",
+        "+75 Carrying capacity",
+        "+80 Meat amount",
+        "+50 Leather amount",
+        "+120% Psychic sensitivity",
+        "+0.8 Melee dodge chance",
+        "+100.00% Social impact",
+        "+85% General labor speed",
+        "+130% Drug synthesis speed",
+        "+120% Medical tend speed",
+        "+115% Medical tend quality",
+        "+115% Medical surgery success chance",
+        "+4 Honor value"
+      ],
+      "mod": "Unknown",
+      "karmaType": null
+    },
+    "description": "A humanoid race living in cities under the sea. Having traits similar to sea creatures, their blood contains substances that can be used for various medical uses.\n\nDescendants of glitterworld explorers who settled in the deep sea, generations of body modifications has led to their current form. Spreading far and wide into the rim, they built many cities and prospered. Until now.",
+    "defName": "Alien_Moyo",
+    "enabled": true,
+    "name": "Moyo",
+    "price": 5333
+  },
+  {
+    "data": {
+      "customName": false,
+      "stats": [
         "+60.00 Mass",
         "+50% Flammability",
         "+$5800 Market value",
@@ -34,10 +107,10 @@
         "+45.0C Maximum comfortable temperature",
         "+150% Immunity gain speed",
         "+150 Carrying capacity",
-        "+35.0% Armor - Sharp",
-        "+35.0% Armor - Blunt",
-        "+35.0% Armor - Heat",
-        "+60% Toxic resistance",
+        "+40.0% Armor - Sharp",
+        "+30.0% Armor - Blunt",
+        "+40.0% Armor - Heat",
+        "+40% Toxic resistance",
         "+110% Eating speed",
         "+45 Meat amount",
         "+80% Plant work speed",
@@ -54,7 +127,7 @@
       "mod": "Unknown",
       "karmaType": null
     },
-    "description": "A beautiful xenohuman with characteristics reminiscent of dragons, this particular strain seems to have evolved recently either due to poaching from human slavetraders or some other interference. Originally created as a powerful farm animal or perhaps targets for body confiscation by transhumanists, these long-lived people are beginning to use every scrap of technology they can and albeit slowly, forming large and complex social groups. They are naturally in a good mood, but this has been shown to quickly deteriorate if attacked, and despite their small stature their bones and muscles are much denser compared to genome typical humans. While they could hardly be considered greedy, they have been seen showing a fondness for rare metals and gems.",
+    "description": "A beautiful xenohuman with characteristics reminiscent of dragons, this particular strain seems to have evolved recently either due to poaching from human slavetraders or some\n\t\t\tother interference. Originally created as a powerful farm animal or perhaps targets for body confiscation by transhumanists, these long-lived people are beginning to use every scrap of technology they can and albeit slowly, forming large and complex social groups. They are naturally in a good mood, but this has been shown to quickly deteriorate if attacked, and despite their small stature their bones and muscles are much denser compared to genome typical humans. While they could hardly be considered greedy, they have been seen showing a fondness for rare metals and gems.",
     "defName": "Dragonian_Prime",
     "enabled": true,
     "name": "Dragonian",
@@ -97,82 +170,6 @@
     "enabled": true,
     "name": "hisa",
     "price": 20000
-  },
-  {
-    "data": {
-      "customName": false,
-      "stats": [
-        "+60.00 Mass",
-        "+100% Flammability",
-        "+$2625 Market value",
-        "+4.60 Move speed",
-        "+14.0C Minimum comfortable temperature",
-        "+28.0C Maximum comfortable temperature",
-        "+75 Leather amount",
-        "+135 Meat amount",
-        "+3 Honor value",
-        "+75 Carrying capacity",
-        "+0% Toxic resistance",
-        "+0% Toxic environment resistance",
-        "+100% Psychic sensitivity",
-        "+100.00% Negotiation ability",
-        "+100.00% Social impact",
-        "+100% Immunity gain speed",
-        "+1.0 Cooking speed",
-        "+100% Research speed",
-        "+100% Plant work speed",
-        "+100% Mining speed"
-      ],
-      "mod": "Unknown",
-      "karmaType": null
-    },
-    "description": "Kurin, The Three Tailed Fox.\n\n\"Kurin\" is a biological species born from genetic engineering of a prosperous glitterworld. Their DNA does not have the flaws that natural evolutionary processes have filled human DNA with. Moreover, they have great extensions to \"genetic human base\", such as three fox-like tails, fox-like ears, increased agility, better vision and hearing, better sensory organs, etc.",
-    "defName": "Kurin",
-    "enabled": true,
-    "name": "kurin",
-    "price": 4375
-  },
-  {
-    "data": {
-      "customName": false,
-      "stats": [
-        "+60.00 Mass",
-        "+100% Flammability",
-        "+$2625 Market value",
-        "+4.60 Move speed",
-        "+0.0% Armor - Sharp",
-        "+0.0% Armor - Blunt",
-        "+0.0% Armor - Heat",
-        "-26.0C Minimum comfortable temperature",
-        "+26.0C Maximum comfortable temperature",
-        "+75 Leather amount",
-        "+135 Meat amount",
-        "+3 Honor value",
-        "+75 Carrying capacity",
-        "+0% Toxic resistance",
-        "+0% Toxic environment resistance",
-        "+100.00% Negotiation ability",
-        "+100.00% Social impact",
-        "+100% Immunity gain speed",
-        "+100% Injury healing factor",
-        "+100% Eating speed",
-        "+100% Plant work speed",
-        "+100% Plant harvest yield",
-        "+100% Animal gather speed",
-        "+100% Animal gather yield",
-        "+100% Mining speed",
-        "+100% Mining yield",
-        "+100% Research speed",
-        "+100% Global learning factor"
-      ],
-      "mod": "Unknown",
-      "karmaType": null
-    },
-    "description": "\"Kimiri\" is a biological species born from genetic engineering of kurinworld. Their DNA is a mix of kurin DNA and DNA of dragon-like species that were discovered by kurins on one planet. They have some extensions to \"genetic kurin base\", such as tail of that dragon-like species, ears of that dragon-like species, more durable body than kurins have, increased toxic immunity of that dragon-like species, etc.\n\nKimiris and kurins are equal in society, but due to kimiris' weak abilities in headwork, they usually do physically demanding jobs.\n\nAlso kimiris are hermaphrodites, they have female and male \"tool\" inside of their body, so everyone of them chooses their gender themself.",
-    "defName": "Kimiri",
-    "enabled": true,
-    "name": "kimiri",
-    "price": 4375
   },
   {
     "data": {
@@ -236,7 +233,7 @@
         "+$4000 Market value",
         "+4 Honor value",
         "+30 Carrying capacity",
-        "+100% Global learning factor",
+        "+25% Global learning factor",
         "+100% Psychic sensitivity",
         "+98% Rest rate multiplier",
         "+98% Immunity gain speed",
@@ -253,13 +250,13 @@
         "-100% Toxic environment resistance",
         "+4.20 Move speed",
         "+90% Aiming time",
-        "+0.8 Shooting accuracy",
+        "+0.9 Shooting accuracy",
         "+2.0 Melee dodge chance",
         "+3.0 Melee hit chance",
         "+50.0% Armor - Heat",
         "-1.00 Neural heat recovery rate",
-        "-10.00% Tame animal chance",
-        "-10.00% Train animal chance"
+        "-3.00% Tame animal chance",
+        "-3.00% Train animal chance"
       ],
       "mod": "Unknown",
       "karmaType": null
@@ -268,7 +265,7 @@
     "defName": "Alien_Miho",
     "enabled": true,
     "name": "Miho",
-    "price": 6667
+    "price": 6666
   },
   {
     "data": {
@@ -338,39 +335,6 @@
     "enabled": true,
     "name": "Revia",
     "price": 5833
-  },
-  {
-    "data": {
-      "customName": false,
-      "stats": [
-        "+75.00 Mass",
-        "+50% Flammability",
-        "+$3200 Market value",
-        "+4.00 Move speed",
-        "+18.0C Maximum comfortable temperature",
-        "+2.0C Minimum comfortable temperature",
-        "+110% Immunity gain speed",
-        "+75 Carrying capacity",
-        "+80 Meat amount",
-        "+50 Leather amount",
-        "+120% Psychic sensitivity",
-        "+0.8 Melee dodge chance",
-        "+100.00% Social impact",
-        "+85% General labor speed",
-        "+130% Drug synthesis speed",
-        "+120% Medical tend speed",
-        "+115% Medical tend quality",
-        "+115% Medical surgery success chance",
-        "+4 Honor value"
-      ],
-      "mod": "Unknown",
-      "karmaType": null
-    },
-    "description": "A humanoid race living in cities under the sea. Having traits similar to sea creatures, their blood contains substances that can be used for various medical uses.\n\nDescendants of glitterworld explorers who settled in the deep sea, generations of body modifications has led to their current form. Spreading far and wide into the rim, they built many cities and prospered. Until now.",
-    "defName": "Alien_Moyo",
-    "enabled": true,
-    "name": "Moyo",
-    "price": 5333
   }
 ]
 }
