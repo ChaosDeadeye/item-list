@@ -165,11 +165,11 @@
       "mod": "Unknown",
       "karmaType": null
     },
-    "description": "[Why so expensive? Because Hisa join fully geared with high end equipment.] Geneticaly-modified space-warrior foxgirls.",
+    "description": "[Why so expensive? Because Hisa join fully geared with high end equipment. Currently disabled.] Geneticaly-modified space-warrior foxgirls.",
     "defName": "Alien_Hisa",
     "enabled": true,
     "name": "hisa",
-    "price": -20000
+    "price": 30000
   },
   {
     "data": {
