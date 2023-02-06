@@ -169,7 +169,7 @@
     "defName": "Alien_Hisa",
     "enabled": true,
     "name": "hisa",
-    "price": 20000
+    "price": -20000
   },
   {
     "data": {
