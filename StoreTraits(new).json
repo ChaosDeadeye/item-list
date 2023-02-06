@@ -1014,7 +1014,7 @@
     "stats": [
       "+8 shooting",
       "+50% aiming time",
-      "+500.0 shooting accuracy"
+      "+0.6 shooting accuracy"
     ],
     "description": "Timmy takes more time to aim when shooting. he shoots way less often than others, but never misses."
   },
@@ -1206,6 +1206,15 @@
     "description": "Timmy has a genetically powerful nano bot immune system. he will never need tending to any illness."
   },
   {
+    "name": "nano-worker",
+    "addPrice": 3500,
+    "removePrice": 3500,
+    "stats": [
+      "+130% global work speed"
+    ],
+    "description": "Timmy has genetically powerful nano bots running throughout their body. he will be extremely efficient at working."
+  },
+  {
     "name": "unbreakable",
     "addPrice": 3500,
     "removePrice": 3500,
@@ -1230,6 +1239,66 @@
       "+200 max hit points"
     ],
     "description": "Timmy has been born with a unnatural talent towards defense bones are very dense making them as hard as concrete but it hinders the movement so doing damage is very hard. he will make a great frontline to hold off enemys."
+  },
+  {
+    "name": "super-human",
+    "addPrice": 3500,
+    "removePrice": 3500,
+    "stats": [
+      "-90% incoming damage multiplier",
+      "+0.70 move speed",
+      "+80.0 melee hit chance"
+    ],
+    "description": "Timmy has been a fan of superhero movies for so long. he injected their body with nano-bots that gave them superhuman abilitys."
+  },
+  {
+    "name": "nano-mind",
+    "addPrice": 3500,
+    "removePrice": 3500,
+    "stats": [
+      "+10 intellectual",
+      "+200% research speed",
+      "+200% global learning factor"
+    ],
+    "description": "Timmy is filled with nano brain cells allowing his mind to learn and do things on a super-human level."
+  },
+  {
+    "name": "supercook",
+    "addPrice": 3500,
+    "removePrice": 3500,
+    "stats": [
+      "+15 cooking",
+      "+250.0 cooking speed"
+    ],
+    "description": "Timmy has a abnormally fast technique of cooking. he cooks so fast people say its like watching a god."
+  },
+  {
+    "name": "nano-happy",
+    "addPrice": 3500,
+    "removePrice": 3500,
+    "stats": [],
+    "description": "Timmy was experimented on from a early age to help test new forms of nano-bot usage and because of this a new nano-bot tested on them lead to inducing a permanent large dopamine production in the brain causing Timmy to keep smiling and happy no matter what happens to them."
+  },
+  {
+    "name": "superdoctor",
+    "addPrice": 3500,
+    "removePrice": 3500,
+    "stats": [
+      "+10 medical",
+      "+100% medical tend speed",
+      "+100% medical tend quality"
+    ],
+    "description": "Timmy has a medical skills that are on a super human level, there is no patient that he couldn't save."
+  },
+  {
+    "name": "supertamer",
+    "addPrice": 3500,
+    "removePrice": 3500,
+    "stats": [
+      "+10 animals",
+      "+100.00% tame animal chance"
+    ],
+    "description": "Timmy has a strange super human ability that allows them to bond and connect to almost any animal they encounter."
   },
   {
     "name": "hyperactive",
@@ -1303,11 +1372,11 @@
     "description": "Timmy is extremely bad at Farming and will finish Harvesting slower at -50% and Collects less than most at -20%."
   },
   {
-    "name": "abundent",
+    "name": "abundentharvest",
     "addPrice": 3500,
     "removePrice": 3500,
     "stats": [
-      "-2 plants",
+      "+2 plants",
       "+60% plant harvest yield",
       "-50% plant work speed"
     ],
@@ -1414,6 +1483,17 @@
     "description": "Timmy is extremely Good at Mining and will have a higher mine speed then normal at 30% and a 20% better yield."
   },
   {
+    "name": "abundantexcavation",
+    "addPrice": 3500,
+    "removePrice": 3500,
+    "stats": [
+      "+2 mining",
+      "-50% mining speed",
+      "+60% mining yield"
+    ],
+    "description": "Timmy has learned that being patient pays off."
+  },
+  {
     "name": "efficientlybrawny",
     "addPrice": 3500,
     "removePrice": 3500,
@@ -1424,7 +1504,7 @@
       "-10% incoming damage multiplier",
       "+35% mental break threshold"
     ],
-    "description": "Timmy has always had a reputation for being more muscle then brain, and as a result they can Efficiently do work way faster and easier aswell as take a hit then a normal person but lack any control over their emotions, causing them to throw a tantrum randomly."
+    "description": "Timmy has always had a reputation for being more muscle than brain, and as a result they can Efficiently do work way faster and easier aswell as take a hit then a normal person but lack any control over their emotions, causing them to throw a tantrum randomly."
   },
   {
     "name": "badminer",
@@ -1480,6 +1560,17 @@
       "-20% medical surgery success chance"
     ],
     "description": "Timmy is extremely Bad at surgery and will have a slower surgery speed then normal at -30% and a worse surgery success chance at -20%."
+  },
+  {
+    "name": "nervoussurgeon",
+    "addPrice": 3500,
+    "removePrice": 3500,
+    "stats": [
+      "-4 medical",
+      "+60% medical operation speed",
+      "-50% medical surgery success chance"
+    ],
+    "description": "Timmy is extremely nervous about their operations and normally is in a hurry and rushes the delicate matter."
   },
   {
     "name": "goodmerchant",
