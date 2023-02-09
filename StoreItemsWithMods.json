@@ -10628,7 +10628,7 @@
       "abr": "razorbutterflyportal",
       "category": "Misc",
       "defname": "Miho_Butterfly_Portal_Dummy",
-      "price": 9,
+      "price": -10,
       "mod": "Miho, the celestial fox",
       "customname": ""
     },
@@ -10636,7 +10636,7 @@
       "abr": "bladeflyportal",
       "category": "Misc",
       "defname": "Miho_Butterfly_Portal",
-      "price": 9,
+      "price": -10,
       "mod": "Miho, the celestial fox",
       "customname": ""
     },
@@ -10644,7 +10644,7 @@
       "abr": "bladeflyportal",
       "category": "Misc",
       "defname": "Miho_ButterflyHaze_Portal",
-      "price": 9,
+      "price": -10,
       "mod": "Miho, the celestial fox",
       "customname": ""
     },
@@ -10652,7 +10652,7 @@
       "abr": "helperfoxportal",
       "category": "Misc",
       "defname": "Miho_Fox_Portal",
-      "price": 9,
+      "price": -10,
       "mod": "Miho, the celestial fox",
       "customname": ""
     },
@@ -10660,7 +10660,7 @@
       "abr": "arcanethrumboportal",
       "category": "Misc",
       "defname": "Miho_Thrumbo_Portal",
-      "price": 9,
+      "price": -10,
       "mod": "Miho, the celestial fox",
       "customname": ""
     },
@@ -10676,7 +10676,7 @@
       "abr": "bladefly",
       "category": "Animals",
       "defname": "Miho_Butterfly",
-      "price": 833,
+      "price": -10,
       "mod": "Miho, the celestial fox",
       "customname": ""
     },
@@ -10684,7 +10684,7 @@
       "abr": "helperfox",
       "category": "Animals",
       "defname": "Miho_Fox",
-      "price": 167,
+      "price": -10,
       "mod": "Miho, the celestial fox",
       "customname": ""
     },
@@ -10692,7 +10692,7 @@
       "abr": "arcanethrumbo",
       "category": "Animals",
       "defname": "Miho_Thrumbo",
-      "price": 833,
+      "price": -10,
       "mod": "Miho, the celestial fox",
       "customname": ""
     },
@@ -17665,6 +17665,62 @@
       "customname": ""
     },
     {
+      "abr": "mihoinfantryparka",
+      "category": "Miho apparel",
+      "defname": "Miho_Apparel_Shell_PMC",
+      "price": 633,
+      "mod": "n/a",
+      "customname": ""
+    },
+    {
+      "abr": "mihomedicarmor",
+      "category": "Miho apparel",
+      "defname": "Miho_Apparel_Middle_MilitiaMedic",
+      "price": 1208,
+      "mod": "n/a",
+      "customname": ""
+    },
+    {
+      "abr": "mihomedichelmet",
+      "category": "Miho Headgear",
+      "defname": "Miho_Apparel_Hat_MilitiaMedic",
+      "price": 417,
+      "mod": "n/a",
+      "customname": ""
+    },
+    {
+      "abr": "미호플라즈마중형소총",
+      "category": "Ranged weapons",
+      "defname": "Miho_Weapon_SniperPlasma",
+      "price": 4533,
+      "mod": "n/a",
+      "customname": ""
+    },
+    {
+      "abr": "사냥매",
+      "category": "Animals",
+      "defname": "Miho_Hawk",
+      "price": -10,
+      "mod": "n/a",
+      "customname": ""
+    },
+    {
+      "abr": "사냥매포탈",
+      "category": "Misc",
+      "defname": "Miho_Hawk_Portal",
+      "price": -10,
+      "mod": "n/a",
+      "customname": ""
+    },
+    {
+      "abr": "tradingspot",
+      "category": "Misc",
+      "defname": "TradingSpot",
+      "price": -10,
+      "mod": "n/a",
+      "customname": ""
+    },
+    {
       "abr": "zombrella",
       "category": "Misc",
       "defname": "Zombrella",
@@ -17716,7 +17772,7 @@
       "abr": "guestdoublebedroll",
       "category": "Furniture",
       "defname": "BedrollDoubleGuest",
-      "price": -1,
+      "price": -290,
       "mod": "n/a",
       "customname": ""
     },
@@ -17724,7 +17780,7 @@
       "abr": "guestancientbed",
       "category": "Misc",
       "defname": "AncientBedGuest",
-      "price": -10,
+      "price": -5,
       "mod": "n/a",
       "customname": ""
     },
@@ -17732,7 +17788,7 @@
       "abr": "guestslabbed",
       "category": "Furniture",
       "defname": "SlabBedGuest",
-      "price": -1,
+      "price": -102,
       "mod": "n/a",
       "customname": ""
     },
@@ -17740,7 +17796,7 @@
       "abr": "guestslabdoublebed",
       "category": "Furniture",
       "defname": "SlabDoubleBedGuest",
-      "price": -1,
+      "price": -288,
       "mod": "n/a",
       "customname": ""
     },
@@ -17748,7 +17804,7 @@
       "abr": "guestdeathrestcasket",
       "category": "Misc",
       "defname": "DeathrestCasketGuest",
-      "price": -1,
+      "price": -492,
       "mod": "n/a",
       "customname": ""
     },
@@ -17756,7 +17812,7 @@
       "abr": "guestcrib",
       "category": "Furniture",
       "defname": "CribGuest",
-      "price": -1,
+      "price": -86,
       "mod": "n/a",
       "customname": ""
     },
@@ -17764,7 +17820,7 @@
       "abr": "guesthypersleepbed",
       "category": "Furniture",
       "defname": "HisaHyperSleepBedGuest",
-      "price": -1,
+      "price": -1575,
       "mod": "n/a",
       "customname": ""
     },
@@ -17772,7 +17828,7 @@
       "abr": "guestdoublehypersleepbed",
       "category": "Furniture",
       "defname": "HisaHyperSleepBedBigGuest",
-      "price": -1,
+      "price": -2992,
       "mod": "n/a",
       "customname": ""
     },
@@ -17780,7 +17836,7 @@
       "abr": "guestroyalhypersleepbed",
       "category": "Furniture",
       "defname": "HisaHyperSleepBedRoyalGuest",
-      "price": -1,
+      "price": -3917,
       "mod": "n/a",
       "customname": ""
     },
@@ -17788,7 +17844,7 @@
       "abr": "guesthisamedicalbed",
       "category": "Furniture",
       "defname": "Hisa_MediBedGuest",
-      "price": -1,
+      "price": -2958,
       "mod": "n/a",
       "customname": ""
     },
@@ -17796,7 +17852,7 @@
       "abr": "guestminchocrepebedroll",
       "category": "Furniture",
       "defname": "Mincho_Crepe_BedrollGuest",
-      "price": -1,
+      "price": -68,
       "mod": "n/a",
       "customname": ""
     },
@@ -17804,7 +17860,7 @@
       "abr": "guestminchofullsizecakebed",
       "category": "Furniture",
       "defname": "Mincho_Full_Size_Cake_BedGuest",
-      "price": -1,
+      "price": -1833,
       "mod": "n/a",
       "customname": ""
     },
@@ -17812,7 +17868,7 @@
       "abr": "guestminchosinglesizecakebed",
       "category": "Furniture",
       "defname": "Mincho_Single_Size_Cake_BedGuest",
-      "price": -1,
+      "price": -917,
       "mod": "n/a",
       "customname": ""
     },
@@ -17820,7 +17876,7 @@
       "abr": "guestslabbed",
       "category": "Furniture",
       "defname": "Bed_StoneSlabGuest",
-      "price": -1,
+      "price": -111,
       "mod": "n/a",
       "customname": ""
     },
@@ -17828,7 +17884,7 @@
       "abr": "guestsimplebed",
       "category": "Furniture",
       "defname": "Bed_SimpleGuest",
-      "price": -1,
+      "price": -137,
       "mod": "n/a",
       "customname": ""
     },
@@ -17836,7 +17892,7 @@
       "abr": "guestergonomicbed",
       "category": "Furniture",
       "defname": "Bed_ErgonomicGuest",
-      "price": -1,
+      "price": -450,
       "mod": "n/a",
       "customname": ""
     },
@@ -17844,7 +17900,7 @@
       "abr": "guestergonomicdoublebed",
       "category": "Furniture",
       "defname": "Bed_DoubleErgonomicGuest",
-      "price": -1,
+      "price": -867,
       "mod": "n/a",
       "customname": ""
     },
@@ -17852,7 +17908,7 @@
       "abr": "guestroyalposterbed",
       "category": "Furniture",
       "defname": "Bed_KingsizeGuest",
-      "price": -1,
+      "price": -2008,
       "mod": "n/a",
       "customname": ""
     }
