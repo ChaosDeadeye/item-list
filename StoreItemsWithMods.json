@@ -17669,7 +17669,7 @@
       "category": "Miho apparel",
       "defname": "Miho_Apparel_Shell_PMC",
       "price": 633,
-      "mod": "n/a",
+      "mod": "Miho, the celestial fox",
       "customname": ""
     },
     {
@@ -17677,7 +17677,7 @@
       "category": "Miho apparel",
       "defname": "Miho_Apparel_Middle_MilitiaMedic",
       "price": 1208,
-      "mod": "n/a",
+      "mod": "Miho, the celestial fox",
       "customname": ""
     },
     {
@@ -17685,7 +17685,7 @@
       "category": "Miho Headgear",
       "defname": "Miho_Apparel_Hat_MilitiaMedic",
       "price": 417,
-      "mod": "n/a",
+      "mod": "Miho, the celestial fox",
       "customname": ""
     },
     {
@@ -17693,31 +17693,31 @@
       "category": "Ranged weapons",
       "defname": "Miho_Weapon_SniperPlasma",
       "price": 4533,
-      "mod": "n/a",
-      "customname": ""
+      "mod": "Miho, the celestial fox",
+      "customname": "mihoplasmasniperrifle"
     },
     {
       "abr": "사냥매",
       "category": "Animals",
       "defname": "Miho_Hawk",
       "price": -10,
-      "mod": "n/a",
-      "customname": ""
+      "mod": "Miho, the celestial fox",
+      "customname": "huntinghawk"
     },
     {
       "abr": "사냥매포탈",
       "category": "Misc",
       "defname": "Miho_Hawk_Portal",
       "price": -10,
-      "mod": "n/a",
-      "customname": ""
+      "mod": "Miho, the celestial fox",
+      "customname": "huntinghawkportal"
     },
     {
       "abr": "tradingspot",
       "category": "Misc",
       "defname": "TradingSpot",
       "price": -10,
-      "mod": "n/a",
+      "mod": "[GMT] Trading Spot",
       "customname": ""
     },
     {
@@ -17732,7 +17732,7 @@
       "abr": "guestbed",
       "category": "Furniture",
       "defname": "BedGuest",
-      "price": -155,
+      "price": -10,
       "mod": "n/a",
       "customname": ""
     },
@@ -17740,7 +17740,7 @@
       "abr": "guestdoublebed",
       "category": "Furniture",
       "defname": "DoubleBedGuest",
-      "price": -292,
+      "price": -10,
       "mod": "n/a",
       "customname": ""
     },
@@ -17748,7 +17748,7 @@
       "abr": "guestroyalbed",
       "category": "Furniture",
       "defname": "RoyalBedGuest",
-      "price": -1467,
+      "price": -10,
       "mod": "n/a",
       "customname": ""
     },
@@ -17756,7 +17756,7 @@
       "abr": "guesthospitalbed",
       "category": "Furniture",
       "defname": "HospitalBedGuest",
-      "price": -667,
+      "price": -10,
       "mod": "n/a",
       "customname": ""
     },
@@ -17764,7 +17764,7 @@
       "abr": "guestbedroll",
       "category": "Furniture",
       "defname": "BedrollGuest",
-      "price": -137,
+      "price": -10,
       "mod": "n/a",
       "customname": ""
     },
@@ -17772,7 +17772,7 @@
       "abr": "guestdoublebedroll",
       "category": "Furniture",
       "defname": "BedrollDoubleGuest",
-      "price": -290,
+      "price": -10,
       "mod": "n/a",
       "customname": ""
     },
@@ -17780,7 +17780,7 @@
       "abr": "guestancientbed",
       "category": "Misc",
       "defname": "AncientBedGuest",
-      "price": -5,
+      "price": -10,
       "mod": "n/a",
       "customname": ""
     },
@@ -17788,7 +17788,7 @@
       "abr": "guestslabbed",
       "category": "Furniture",
       "defname": "SlabBedGuest",
-      "price": -102,
+      "price": -10,
       "mod": "n/a",
       "customname": ""
     },
@@ -17796,7 +17796,7 @@
       "abr": "guestslabdoublebed",
       "category": "Furniture",
       "defname": "SlabDoubleBedGuest",
-      "price": -288,
+      "price": -10,
       "mod": "n/a",
       "customname": ""
     },
@@ -17804,7 +17804,7 @@
       "abr": "guestdeathrestcasket",
       "category": "Misc",
       "defname": "DeathrestCasketGuest",
-      "price": -492,
+      "price": -10,
       "mod": "n/a",
       "customname": ""
     },
@@ -17812,7 +17812,7 @@
       "abr": "guestcrib",
       "category": "Furniture",
       "defname": "CribGuest",
-      "price": -86,
+      "price": -10,
       "mod": "n/a",
       "customname": ""
     },
@@ -17820,7 +17820,7 @@
       "abr": "guesthypersleepbed",
       "category": "Furniture",
       "defname": "HisaHyperSleepBedGuest",
-      "price": -1575,
+      "price": -10,
       "mod": "n/a",
       "customname": ""
     },
@@ -17828,7 +17828,7 @@
       "abr": "guestdoublehypersleepbed",
       "category": "Furniture",
       "defname": "HisaHyperSleepBedBigGuest",
-      "price": -2992,
+      "price": -10,
       "mod": "n/a",
       "customname": ""
     },
@@ -17836,7 +17836,7 @@
       "abr": "guestroyalhypersleepbed",
       "category": "Furniture",
       "defname": "HisaHyperSleepBedRoyalGuest",
-      "price": -3917,
+      "price": -10,
       "mod": "n/a",
       "customname": ""
     },
@@ -17844,7 +17844,7 @@
       "abr": "guesthisamedicalbed",
       "category": "Furniture",
       "defname": "Hisa_MediBedGuest",
-      "price": -2958,
+      "price": -10,
       "mod": "n/a",
       "customname": ""
     },
@@ -17852,7 +17852,7 @@
       "abr": "guestminchocrepebedroll",
       "category": "Furniture",
       "defname": "Mincho_Crepe_BedrollGuest",
-      "price": -68,
+      "price": -10,
       "mod": "n/a",
       "customname": ""
     },
@@ -17860,7 +17860,7 @@
       "abr": "guestminchofullsizecakebed",
       "category": "Furniture",
       "defname": "Mincho_Full_Size_Cake_BedGuest",
-      "price": -1833,
+      "price": -10,
       "mod": "n/a",
       "customname": ""
     },
@@ -17868,7 +17868,7 @@
       "abr": "guestminchosinglesizecakebed",
       "category": "Furniture",
       "defname": "Mincho_Single_Size_Cake_BedGuest",
-      "price": -917,
+      "price": -10,
       "mod": "n/a",
       "customname": ""
     },
@@ -17876,7 +17876,7 @@
       "abr": "guestslabbed",
       "category": "Furniture",
       "defname": "Bed_StoneSlabGuest",
-      "price": -111,
+      "price": -10,
       "mod": "n/a",
       "customname": ""
     },
@@ -17884,7 +17884,7 @@
       "abr": "guestsimplebed",
       "category": "Furniture",
       "defname": "Bed_SimpleGuest",
-      "price": -137,
+      "price": -10,
       "mod": "n/a",
       "customname": ""
     },
@@ -17892,7 +17892,7 @@
       "abr": "guestergonomicbed",
       "category": "Furniture",
       "defname": "Bed_ErgonomicGuest",
-      "price": -450,
+      "price": -10,
       "mod": "n/a",
       "customname": ""
     },
@@ -17900,7 +17900,7 @@
       "abr": "guestergonomicdoublebed",
       "category": "Furniture",
       "defname": "Bed_DoubleErgonomicGuest",
-      "price": -867,
+      "price": -10,
       "mod": "n/a",
       "customname": ""
     },
@@ -17908,7 +17908,7 @@
       "abr": "guestroyalposterbed",
       "category": "Furniture",
       "defname": "Bed_KingsizeGuest",
-      "price": -2008,
+      "price": -10,
       "mod": "n/a",
       "customname": ""
     }
