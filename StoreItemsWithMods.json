@@ -1876,7 +1876,7 @@
       "abr": "plainleather",
       "category": "Leathers",
       "defname": "Leather_Plain",
-      "price": 3,
+      "price": 10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -1884,7 +1884,7 @@
       "abr": "dogleather",
       "category": "Leathers",
       "defname": "Leather_Dog",
-      "price": 3,
+      "price": 10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -1892,7 +1892,7 @@
       "abr": "wolfskin",
       "category": "Leathers",
       "defname": "Leather_Wolf",
-      "price": 5,
+      "price": 10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -1900,7 +1900,7 @@
       "abr": "pantherafur",
       "category": "Leathers",
       "defname": "Leather_Panthera",
-      "price": 5,
+      "price": 10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -1908,7 +1908,7 @@
       "abr": "camelhide",
       "category": "Leathers",
       "defname": "Leather_Camel",
-      "price": 4,
+      "price": 10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -1916,7 +1916,7 @@
       "abr": "bluefur",
       "category": "Leathers",
       "defname": "Leather_Bluefur",
-      "price": 4,
+      "price": 10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -1924,7 +1924,7 @@
       "abr": "bearskin",
       "category": "Leathers",
       "defname": "Leather_Bear",
-      "price": 6,
+      "price": 10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -1932,7 +1932,7 @@
       "abr": "guineapigfur",
       "category": "Leathers",
       "defname": "Leather_GuineaPig",
-      "price": 8,
+      "price": 10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -1940,7 +1940,7 @@
       "abr": "humanleather",
       "category": "Leathers",
       "defname": "Leather_Human",
-      "price": 7,
+      "price": 10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -1948,7 +1948,7 @@
       "abr": "pigskin",
       "category": "Leathers",
       "defname": "Leather_Pig",
-      "price": 3,
+      "price": 10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -1956,7 +1956,7 @@
       "abr": "lightleather",
       "category": "Leathers",
       "defname": "Leather_Light",
-      "price": 3,
+      "price": 10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -1964,7 +1964,7 @@
       "abr": "birdskin",
       "category": "Leathers",
       "defname": "Leather_Bird",
-      "price": 3,
+      "price": 10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -1972,7 +1972,7 @@
       "abr": "chinchillafur",
       "category": "Leathers",
       "defname": "Leather_Chinchilla",
-      "price": 11,
+      "price": 10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -1980,7 +1980,7 @@
       "abr": "foxfur",
       "category": "Leathers",
       "defname": "Leather_Fox",
-      "price": 6,
+      "price": 10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -1988,7 +1988,7 @@
       "abr": "lizardskin",
       "category": "Leathers",
       "defname": "Leather_Lizard",
-      "price": 3,
+      "price": 10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -1996,7 +1996,7 @@
       "abr": "elephantleather",
       "category": "Leathers",
       "defname": "Leather_Elephant",
-      "price": 5,
+      "price": 10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -2004,7 +2004,7 @@
       "abr": "heavyfur",
       "category": "Leathers",
       "defname": "Leather_Heavy",
-      "price": 6,
+      "price": 10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -2012,7 +2012,7 @@
       "abr": "rhinocerosleather",
       "category": "Leathers",
       "defname": "Leather_Rhinoceros",
-      "price": 7,
+      "price": 10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -2028,7 +2028,7 @@
       "abr": "patchleather",
       "category": "Leathers",
       "defname": "Leather_Patch",
-      "price": 2,
+      "price": 10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -6244,7 +6244,7 @@
       "abr": "aerofleetfur",
       "category": "Leathers",
       "defname": "AA_Leather_Aerofleet",
-      "price": 5,
+      "price": 10,
       "mod": "Alpha Animals",
       "customname": ""
     },
@@ -6252,7 +6252,7 @@
       "abr": "arcticlionfur",
       "category": "Leathers",
       "defname": "AA_ArcticLion_Leather",
-      "price": 6,
+      "price": 10,
       "mod": "Alpha Animals",
       "customname": ""
     },
@@ -6260,7 +6260,7 @@
       "abr": "sandlionfur",
       "category": "Leathers",
       "defname": "AA_SandLion_Leather",
-      "price": 6,
+      "price": 10,
       "mod": "Alpha Animals",
       "customname": ""
     },
@@ -6268,7 +6268,7 @@
       "abr": "insectchitin",
       "category": "Leathers",
       "defname": "Leather_Chitin",
-      "price": 5,
+      "price": 10,
       "mod": "Alpha Animals",
       "customname": ""
     },
@@ -6276,7 +6276,7 @@
       "abr": "ironchitin",
       "category": "Leathers",
       "defname": "Leather_IronChitin",
-      "price": 5,
+      "price": 10,
       "mod": "Alpha Animals",
       "customname": ""
     },
@@ -6284,7 +6284,7 @@
       "abr": "hardenedchitin",
       "category": "Leathers",
       "defname": "Leather_RaptorPlates",
-      "price": 7,
+      "price": 10,
       "mod": "Alpha Animals",
       "customname": ""
     },
@@ -6292,7 +6292,7 @@
       "abr": "sentientplantskin",
       "category": "Leathers",
       "defname": "Leather_Cactus",
-      "price": 6,
+      "price": 10,
       "mod": "Alpha Animals",
       "customname": ""
     },
@@ -6300,7 +6300,7 @@
       "abr": "blackinsectchitin",
       "category": "Leathers",
       "defname": "Leather_BlackChitin",
-      "price": 7,
+      "price": 10,
       "mod": "Alpha Animals",
       "customname": ""
     },
@@ -6316,7 +6316,7 @@
       "abr": "nightleather",
       "category": "Leathers",
       "defname": "Leather_Night",
-      "price": 6,
+      "price": 10,
       "mod": "Alpha Animals",
       "customname": ""
     },
@@ -8956,7 +8956,7 @@
       "abr": "dragonianleather",
       "category": "Leathers",
       "defname": "Leather_Dragonian",
-      "price": 5,
+      "price": 10,
       "mod": "Dragonian Prime Race2.0 (Unofficial)",
       "customname": ""
     },
@@ -12532,7 +12532,7 @@
       "abr": "poppifur",
       "category": "Leathers",
       "defname": "PoppiFur",
-      "price": 8,
+      "price": 10,
       "mod": "Poppi (Continued)",
       "customname": ""
     },
@@ -12724,7 +12724,7 @@
       "abr": "palestone",
       "category": "Artifacts",
       "defname": "ReviaRacePalestone",
-      "price": 8,
+      "price": 10,
       "mod": "Revia Race",
       "customname": ""
     },
