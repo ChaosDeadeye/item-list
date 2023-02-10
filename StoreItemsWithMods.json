@@ -12,7 +12,7 @@
       "abr": "wort",
       "category": "Manufactured",
       "defname": "Wort",
-      "price": 4,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -596,7 +596,7 @@
       "abr": "eggbox",
       "category": "Misc",
       "defname": "EggBox",
-      "price": 79,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -692,7 +692,7 @@
       "abr": "grave",
       "category": "Misc",
       "defname": "Grave",
-      "price": 5,
+      "price": 50,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -756,7 +756,7 @@
       "abr": "powerconduit",
       "category": "Misc",
       "defname": "PowerConduit",
-      "price": 3,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -988,7 +988,7 @@
       "abr": "sandbags",
       "category": "Misc",
       "defname": "Sandbags",
-      "price": 18,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -996,7 +996,7 @@
       "abr": "barricade",
       "category": "Misc",
       "defname": "Barricade",
-      "price": 19,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -1204,7 +1204,7 @@
       "abr": "wall",
       "category": "Misc",
       "defname": "Wall",
-      "price": 17,
+      "price": 20,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -1212,7 +1212,7 @@
       "abr": "fence",
       "category": "Misc",
       "defname": "Fence",
-      "price": 4,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -1412,7 +1412,7 @@
       "abr": "kibble",
       "category": "Foods",
       "defname": "Kibble",
-      "price": 2,
+      "price": 20,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -1420,7 +1420,7 @@
       "abr": "pemmican",
       "category": "Foods",
       "defname": "Pemmican",
-      "price": 2,
+      "price": 20,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -1428,7 +1428,7 @@
       "abr": "chocolate",
       "category": "Foods",
       "defname": "Chocolate",
-      "price": 5,
+      "price": 20,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -1436,7 +1436,7 @@
       "abr": "milk",
       "category": "Animal products",
       "defname": "Milk",
-      "price": 3,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -1444,7 +1444,7 @@
       "abr": "insectjelly",
       "category": "Animal products",
       "defname": "InsectJelly",
-      "price": 13,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -1452,7 +1452,7 @@
       "abr": "chickenegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "EggChickenUnfertilized",
-      "price": 12,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -1460,7 +1460,7 @@
       "abr": "chickenegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggChickenFertilized",
-      "price": 12,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -1468,7 +1468,7 @@
       "abr": "cobraegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggCobraFertilized",
-      "price": 33,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -1476,7 +1476,7 @@
       "abr": "iguanaegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggIguanaFertilized",
-      "price": 42,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -1484,7 +1484,7 @@
       "abr": "tortoiseegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggTortoiseFertilized",
-      "price": 38,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -1492,7 +1492,7 @@
       "abr": "cassowaryegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggCassowaryFertilized",
-      "price": 32,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -1500,7 +1500,7 @@
       "abr": "emuegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggEmuFertilized",
-      "price": 30,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -1508,7 +1508,7 @@
       "abr": "ostrichegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggOstrichFertilized",
-      "price": 38,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -1516,7 +1516,7 @@
       "abr": "turkeyegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggTurkeyFertilized",
-      "price": 18,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -1524,7 +1524,7 @@
       "abr": "duckegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "EggDuckUnfertilized",
-      "price": 12,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -1532,7 +1532,7 @@
       "abr": "duckegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggDuckFertilized",
-      "price": 12,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -1540,7 +1540,7 @@
       "abr": "gooseegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "EggGooseUnfertilized",
-      "price": 15,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -1548,7 +1548,7 @@
       "abr": "gooseegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggGooseFertilized",
-      "price": 18,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -1604,7 +1604,7 @@
       "abr": "chemfuel",
       "category": "Manufactured",
       "defname": "Chemfuel",
-      "price": 4,
+      "price": 10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -1620,7 +1620,7 @@
       "abr": "potatoes",
       "category": "Vegetarian",
       "defname": "RawPotatoes",
-      "price": 2,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -1628,7 +1628,7 @@
       "abr": "rawfungus",
       "category": "Vegetarian",
       "defname": "RawFungus",
-      "price": 2,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -1636,7 +1636,7 @@
       "abr": "rice",
       "category": "Vegetarian",
       "defname": "RawRice",
-      "price": 2,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -1644,7 +1644,7 @@
       "abr": "agavefruit",
       "category": "Vegetarian",
       "defname": "RawAgave",
-      "price": 2,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -1652,7 +1652,7 @@
       "abr": "corn",
       "category": "Vegetarian",
       "defname": "RawCorn",
-      "price": 2,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -1660,7 +1660,7 @@
       "abr": "berries",
       "category": "Vegetarian",
       "defname": "RawBerries",
-      "price": 2,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -1668,7 +1668,7 @@
       "abr": "hay",
       "category": "Foods",
       "defname": "Hay",
-      "price": 1,
+      "price": 20,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -1676,7 +1676,7 @@
       "abr": "hops",
       "category": "Plant matter",
       "defname": "RawHops",
-      "price": 2,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -1684,7 +1684,7 @@
       "abr": "psychoidleaves",
       "category": "Plant matter",
       "defname": "PsychoidLeaves",
-      "price": 3,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -1692,7 +1692,7 @@
       "abr": "smokeleafleaves",
       "category": "Plant matter",
       "defname": "SmokeleafLeaves",
-      "price": 3,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -1748,7 +1748,7 @@
       "abr": "silver",
       "category": "Raw resources",
       "defname": "Silver",
-      "price": 2,
+      "price": 10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -1764,7 +1764,7 @@
       "abr": "steel",
       "category": "Raw resources",
       "defname": "Steel",
-      "price": 3,
+      "price": 10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -1780,7 +1780,7 @@
       "abr": "wood",
       "category": "Raw resources",
       "defname": "WoodLog",
-      "price": 2,
+      "price": 10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -1788,7 +1788,7 @@
       "abr": "uranium",
       "category": "Raw resources",
       "defname": "Uranium",
-      "price": 10,
+      "price": 15,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -1796,7 +1796,7 @@
       "abr": "jade",
       "category": "Raw resources",
       "defname": "Jade",
-      "price": 8,
+      "price": 10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -1804,7 +1804,7 @@
       "abr": "cloth",
       "category": "Textiles",
       "defname": "Cloth",
-      "price": 2,
+      "price": 10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -1812,7 +1812,7 @@
       "abr": "synthread",
       "category": "Textiles",
       "defname": "Synthread",
-      "price": 7,
+      "price": 10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -1820,7 +1820,7 @@
       "abr": "devilstrand",
       "category": "Textiles",
       "defname": "DevilstrandCloth",
-      "price": 9,
+      "price": 10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -1836,7 +1836,7 @@
       "abr": "sheepwool",
       "category": "Wools",
       "defname": "WoolSheep",
-      "price": 4,
+      "price": 10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -1844,7 +1844,7 @@
       "abr": "alpacawool",
       "category": "Wools",
       "defname": "WoolAlpaca",
-      "price": 6,
+      "price": 10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -1852,7 +1852,7 @@
       "abr": "megaslothwool",
       "category": "Wools",
       "defname": "WoolMegasloth",
-      "price": 4,
+      "price": 10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -1860,7 +1860,7 @@
       "abr": "muffalowool",
       "category": "Wools",
       "defname": "WoolMuffalo",
-      "price": 4,
+      "price": 10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -1868,7 +1868,7 @@
       "abr": "bisonwool",
       "category": "Wools",
       "defname": "WoolBison",
-      "price": 4,
+      "price": 10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -2284,7 +2284,7 @@
       "abr": "sandstoneblocks",
       "category": "Stone blocks",
       "defname": "BlocksSandstone",
-      "price": 2,
+      "price": 10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -2292,7 +2292,7 @@
       "abr": "graniteblocks",
       "category": "Stone blocks",
       "defname": "BlocksGranite",
-      "price": 2,
+      "price": 10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -2300,7 +2300,7 @@
       "abr": "limestoneblocks",
       "category": "Stone blocks",
       "defname": "BlocksLimestone",
-      "price": 2,
+      "price": 10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -2308,7 +2308,7 @@
       "abr": "slateblocks",
       "category": "Stone blocks",
       "defname": "BlocksSlate",
-      "price": 2,
+      "price": 10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -2316,7 +2316,7 @@
       "abr": "marbleblocks",
       "category": "Stone blocks",
       "defname": "BlocksMarble",
-      "price": 2,
+      "price": 10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -2596,7 +2596,7 @@
       "abr": "dye",
       "category": "Plant matter",
       "defname": "Dye",
-      "price": 4,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -3828,7 +3828,7 @@
       "abr": "hermeticcrate",
       "category": "Misc",
       "defname": "AncientHermeticCrate",
-      "price": 6,
+      "price": 50,
       "mod": "Ideology",
       "customname": ""
     },
@@ -3836,7 +3836,7 @@
       "abr": "securitycrate",
       "category": "Misc",
       "defname": "AncientSecurityCrate",
-      "price": 12,
+      "price": 50,
       "mod": "Ideology",
       "customname": ""
     },
@@ -4156,7 +4156,7 @@
       "abr": "mechanoiddetritus",
       "category": "Misc",
       "defname": "AncientMechDetritus",
-      "price": 5,
+      "price": 50,
       "mod": "Ideology",
       "customname": ""
     },
@@ -4652,7 +4652,7 @@
       "abr": "skull",
       "category": "Misc",
       "defname": "Skull",
-      "price": 8,
+      "price": 20,
       "mod": "Ideology",
       "customname": ""
     },
@@ -5060,7 +5060,7 @@
       "abr": "babyfood",
       "category": "Foods",
       "defname": "BabyFood",
-      "price": 2,
+      "price": 33,
       "mod": "Biotech",
       "customname": ""
     },
@@ -5068,7 +5068,7 @@
       "abr": "hemogenpack",
       "category": "Foods",
       "defname": "HemogenPack",
-      "price": 8,
+      "price": 20,
       "mod": "Biotech",
       "customname": ""
     },
@@ -5076,7 +5076,7 @@
       "abr": "toxipotatoes",
       "category": "Vegetarian",
       "defname": "RawToxipotato",
-      "price": 1,
+      "price": -10,
       "mod": "Biotech",
       "customname": ""
     },
@@ -5396,7 +5396,7 @@
       "abr": "powerconduit",
       "category": "Misc",
       "defname": "KCSG_PowerConduit",
-      "price": 3,
+      "price": -10,
       "mod": "Vanilla Expanded Framework",
       "customname": ""
     },
@@ -5404,7 +5404,7 @@
       "abr": "icewall",
       "category": "Misc",
       "defname": "VPE_IceWall",
-      "price": 17,
+      "price": 20,
       "mod": "Vanilla Psycasts Expanded",
       "customname": ""
     },
@@ -5676,7 +5676,7 @@
       "abr": "bumbledroneegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "AA_BumbledroneQueenEggFertilized",
-      "price": 10,
+      "price": -10,
       "mod": "Alpha Animals",
       "customname": ""
     },
@@ -5684,7 +5684,7 @@
       "abr": "wildpodsporeclump(fert.)",
       "category": "Eggs (fert.)",
       "defname": "AA_WildpodSpores",
-      "price": 15,
+      "price": -10,
       "mod": "Alpha Animals",
       "customname": ""
     },
@@ -5692,7 +5692,7 @@
       "abr": "agaripodsporeclump(fert.)",
       "category": "Eggs (fert.)",
       "defname": "AA_AgaripodSpores",
-      "price": 15,
+      "price": -10,
       "mod": "Alpha Animals",
       "customname": ""
     },
@@ -5700,7 +5700,7 @@
       "abr": "mycoidcolossussporeclump(fert.)",
       "category": "Eggs (fert.)",
       "defname": "AA_MycoidColossusSpores",
-      "price": 15,
+      "price": -10,
       "mod": "Alpha Animals",
       "customname": ""
     },
@@ -5708,7 +5708,7 @@
       "abr": "wildpawnsporeclump(fert.)",
       "category": "Eggs (fert.)",
       "defname": "AA_WildpawnSpores",
-      "price": 15,
+      "price": -10,
       "mod": "Alpha Animals",
       "customname": ""
     },
@@ -5716,7 +5716,7 @@
       "abr": "agaripawnsporeclump(fert.)",
       "category": "Eggs (fert.)",
       "defname": "AA_AgaripawnSpores",
-      "price": 15,
+      "price": -10,
       "mod": "Alpha Animals",
       "customname": ""
     },
@@ -5724,7 +5724,7 @@
       "abr": "ironhuskbeetleegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "AA_IronhuskEggUnfertilized",
-      "price": 15,
+      "price": -10,
       "mod": "Alpha Animals",
       "customname": ""
     },
@@ -5732,7 +5732,7 @@
       "abr": "ironhuskbeetleegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "AA_IronhuskEggFertilized",
-      "price": 15,
+      "price": -10,
       "mod": "Alpha Animals",
       "customname": ""
     },
@@ -5740,7 +5740,7 @@
       "abr": "mammothwormegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "AA_MammothWormEggUnfertilized",
-      "price": 15,
+      "price": -10,
       "mod": "Alpha Animals",
       "customname": ""
     },
@@ -5748,7 +5748,7 @@
       "abr": "mammothwormegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "AA_MammothWormEggFertilized",
-      "price": 15,
+      "price": -10,
       "mod": "Alpha Animals",
       "customname": ""
     },
@@ -5756,7 +5756,7 @@
       "abr": "crepuscularbeetleegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "AA_CrepuscularBeetleEggUnfertilized",
-      "price": 15,
+      "price": -10,
       "mod": "Alpha Animals",
       "customname": ""
     },
@@ -5764,7 +5764,7 @@
       "abr": "crepuscularbeetleegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "AA_CrepuscularBeetleEggFertilized",
-      "price": 15,
+      "price": -10,
       "mod": "Alpha Animals",
       "customname": ""
     },
@@ -5772,7 +5772,7 @@
       "abr": "greatdevoureregg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "AA_GreatDevourerEggUnfertilized",
-      "price": 15,
+      "price": -10,
       "mod": "Alpha Animals",
       "customname": ""
     },
@@ -5780,7 +5780,7 @@
       "abr": "greatdevoureregg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "AA_GreatDevourerEggFertilized",
-      "price": 15,
+      "price": -10,
       "mod": "Alpha Animals",
       "customname": ""
     },
@@ -5788,7 +5788,7 @@
       "abr": "megalouseegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "AA_MegalouseEggUnfertilized",
-      "price": 15,
+      "price": -10,
       "mod": "Alpha Animals",
       "customname": ""
     },
@@ -5796,7 +5796,7 @@
       "abr": "megalouseegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "AA_MegalouseEggFertilized",
-      "price": 15,
+      "price": -10,
       "mod": "Alpha Animals",
       "customname": ""
     },
@@ -5804,7 +5804,7 @@
       "abr": "bedbugegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "AA_BedBugEggUnfertilized",
-      "price": 15,
+      "price": -10,
       "mod": "Alpha Animals",
       "customname": ""
     },
@@ -5812,7 +5812,7 @@
       "abr": "bedbugegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "AA_BedBugEggFertilized",
-      "price": 15,
+      "price": -10,
       "mod": "Alpha Animals",
       "customname": ""
     },
@@ -5820,7 +5820,7 @@
       "abr": "animaliskegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "AA_AnimaliskEggFertilized",
-      "price": 15,
+      "price": -10,
       "mod": "Alpha Animals",
       "customname": ""
     },
@@ -5828,7 +5828,7 @@
       "abr": "feraliskegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "AA_FeraliskEggUnfertilized",
-      "price": 15,
+      "price": -10,
       "mod": "Alpha Animals",
       "customname": ""
     },
@@ -5836,7 +5836,7 @@
       "abr": "feraliskegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "AA_FeraliskEggFertilized",
-      "price": 15,
+      "price": -10,
       "mod": "Alpha Animals",
       "customname": ""
     },
@@ -5844,7 +5844,7 @@
       "abr": "chargedferaliskegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "AA_FeraliskSuperEggFertilized",
-      "price": 15,
+      "price": -10,
       "mod": "Alpha Animals",
       "customname": ""
     },
@@ -5852,7 +5852,7 @@
       "abr": "dunealiskegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "AA_DunealiskEggUnfertilized",
-      "price": 15,
+      "price": -10,
       "mod": "Alpha Animals",
       "customname": ""
     },
@@ -5860,7 +5860,7 @@
       "abr": "dunealiskegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "AA_DunealiskEggFertilized",
-      "price": 15,
+      "price": -10,
       "mod": "Alpha Animals",
       "customname": ""
     },
@@ -5868,7 +5868,7 @@
       "abr": "chargeddunealiskegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "AA_DunealiskSuperEggFertilized",
-      "price": 15,
+      "price": -10,
       "mod": "Alpha Animals",
       "customname": ""
     },
@@ -5876,7 +5876,7 @@
       "abr": "blizzariskegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "AA_BlizzariskEggUnfertilized",
-      "price": 15,
+      "price": -10,
       "mod": "Alpha Animals",
       "customname": ""
     },
@@ -5884,7 +5884,7 @@
       "abr": "blizzariskegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "AA_BlizzariskEggFertilized",
-      "price": 15,
+      "price": -10,
       "mod": "Alpha Animals",
       "customname": ""
     },
@@ -5892,7 +5892,7 @@
       "abr": "chargedblizzariskegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "AA_BlizzariskSuperEggFertilized",
-      "price": 15,
+      "price": -10,
       "mod": "Alpha Animals",
       "customname": ""
     },
@@ -5900,7 +5900,7 @@
       "abr": "jungleliskegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "AA_JungleliskEggUnfertilized",
-      "price": 15,
+      "price": -10,
       "mod": "Alpha Animals",
       "customname": ""
     },
@@ -5908,7 +5908,7 @@
       "abr": "jungleliskegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "AA_JungleliskEggFertilized",
-      "price": 15,
+      "price": -10,
       "mod": "Alpha Animals",
       "customname": ""
     },
@@ -5916,7 +5916,7 @@
       "abr": "cinderliskegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "AA_CinderliskEggUnfertilized",
-      "price": 15,
+      "price": -10,
       "mod": "Alpha Animals",
       "customname": ""
     },
@@ -5924,7 +5924,7 @@
       "abr": "cinderliskegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "AA_CinderliskEggFertilized",
-      "price": 15,
+      "price": -10,
       "mod": "Alpha Animals",
       "customname": ""
     },
@@ -5932,7 +5932,7 @@
       "abr": "nightlingegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "AA_EggNightlingFertilized",
-      "price": 167,
+      "price": -10,
       "mod": "Alpha Animals",
       "customname": ""
     },
@@ -5940,7 +5940,7 @@
       "abr": "meadowaveegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "AA_EggMeadowAveFertilized",
-      "price": 32,
+      "price": -10,
       "mod": "Alpha Animals",
       "customname": ""
     },
@@ -5948,7 +5948,7 @@
       "abr": "desertaveegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "AA_EggDesertAveFertilized",
-      "price": 32,
+      "price": -10,
       "mod": "Alpha Animals",
       "customname": ""
     },
@@ -5956,7 +5956,7 @@
       "abr": "nightaveegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "AA_EggNightAveFertilized",
-      "price": 58,
+      "price": -10,
       "mod": "Alpha Animals",
       "customname": ""
     },
@@ -5964,7 +5964,7 @@
       "abr": "royalaveegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "AA_EggRoyalAveFertilized",
-      "price": 225,
+      "price": -10,
       "mod": "Alpha Animals",
       "customname": ""
     },
@@ -5972,7 +5972,7 @@
       "abr": "rough-platedmonitoregg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "AA_EggRoughPlatedMonitorFertilized",
-      "price": 17,
+      "price": -10,
       "mod": "Alpha Animals",
       "customname": ""
     },
@@ -5980,7 +5980,7 @@
       "abr": "atispecegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "AA_AtispecEggFertilized",
-      "price": 1,
+      "price": -10,
       "mod": "Alpha Animals",
       "customname": ""
     },
@@ -5988,7 +5988,7 @@
       "abr": "angelmothegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "AA_AngelMothEggFertilized",
-      "price": 1,
+      "price": -10,
       "mod": "Alpha Animals",
       "customname": ""
     },
@@ -5996,7 +5996,7 @@
       "abr": "draineregg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "AA_DrainerEggFertilized",
-      "price": 1,
+      "price": -10,
       "mod": "Alpha Animals",
       "customname": ""
     },
@@ -6004,7 +6004,7 @@
       "abr": "firewaspegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "AA_FireWaspEggFertilized",
-      "price": 12,
+      "price": -10,
       "mod": "Alpha Animals",
       "customname": ""
     },
@@ -6012,7 +6012,7 @@
       "abr": "firewaspegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "AA_FireWaspEggUnfertilized",
-      "price": 12,
+      "price": -10,
       "mod": "Alpha Animals",
       "customname": ""
     },
@@ -6020,7 +6020,7 @@
       "abr": "flamingophoenixegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "AA_EggFlamingoPhoenixFertilized",
-      "price": 17,
+      "price": -10,
       "mod": "Alpha Animals",
       "customname": ""
     },
@@ -6028,7 +6028,7 @@
       "abr": "crescendoanoleegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "AA_EggCrescendoAnoleFertilized",
-      "price": 15,
+      "price": -10,
       "mod": "Alpha Animals",
       "customname": ""
     },
@@ -6036,7 +6036,7 @@
       "abr": "pedigreedraptoregg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "AA_EggPedigreedRaptorFertilized",
-      "price": 75,
+      "price": -10,
       "mod": "Alpha Animals",
       "customname": ""
     },
@@ -6044,7 +6044,7 @@
       "abr": "empressbutterflyegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "AA_EmpressButterflyEggFertilized",
-      "price": 1,
+      "price": -10,
       "mod": "Alpha Animals",
       "customname": ""
     },
@@ -6052,7 +6052,7 @@
       "abr": "giantcrownedsilkieegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "AA_EggGiantCrownedSilkieUnfertilized",
-      "price": 15,
+      "price": -10,
       "mod": "Alpha Animals",
       "customname": ""
     },
@@ -6060,7 +6060,7 @@
       "abr": "giantcrownedsilkieegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "AA_EggGiantCrownedSilkieFertilized",
-      "price": 15,
+      "price": -10,
       "mod": "Alpha Animals",
       "customname": ""
     },
@@ -6068,7 +6068,7 @@
       "abr": "aerofleetmeat",
       "category": "Meat",
       "defname": "AA_AerofleetMeat",
-      "price": 3,
+      "price": -10,
       "mod": "Alpha Animals",
       "customname": ""
     },
@@ -6076,7 +6076,7 @@
       "abr": "ocularjellymeat",
       "category": "Meat",
       "defname": "AA_OcularJellyMeat",
-      "price": 3,
+      "price": -10,
       "mod": "Alpha Animals",
       "customname": ""
     },
@@ -6084,7 +6084,7 @@
       "abr": "rawredslime",
       "category": "Vegetarian",
       "defname": "AB_RawRedSlime",
-      "price": 1,
+      "price": -10,
       "mod": "Alpha Animals",
       "customname": ""
     },
@@ -6092,7 +6092,7 @@
       "abr": "plantmeat",
       "category": "Vegetarian",
       "defname": "AA_CactusMeat",
-      "price": 2,
+      "price": -10,
       "mod": "Alpha Animals",
       "customname": ""
     },
@@ -6100,7 +6100,7 @@
       "abr": "blackhiveinsectjelly",
       "category": "Animal products",
       "defname": "AA_BlackInsectJelly",
-      "price": 15,
+      "price": -10,
       "mod": "Alpha Animals",
       "customname": ""
     },
@@ -6116,7 +6116,7 @@
       "abr": "bluemilk",
       "category": "Animal products",
       "defname": "AA_BlueMilk",
-      "price": 8,
+      "price": -10,
       "mod": "Alpha Animals",
       "customname": ""
     },
@@ -6124,7 +6124,7 @@
       "abr": "gowmilk",
       "category": "Animal products",
       "defname": "AA_GowMilk",
-      "price": 7,
+      "price": -10,
       "mod": "Alpha Animals",
       "customname": ""
     },
@@ -6132,7 +6132,7 @@
       "abr": "disgustingnutrientpastemeal",
       "category": "Meals",
       "defname": "AA_DisgustingMealNutrientPaste",
-      "price": 2,
+      "price": 10,
       "mod": "Alpha Animals",
       "customname": ""
     },
@@ -6148,7 +6148,7 @@
       "abr": "redwood",
       "category": "Raw resources",
       "defname": "GU_RedWood",
-      "price": 2,
+      "price": 10,
       "mod": "Alpha Animals",
       "customname": ""
     },
@@ -6156,7 +6156,7 @@
       "abr": "skysteel",
       "category": "Raw resources",
       "defname": "AA_SkySteel",
-      "price": 8,
+      "price": 15,
       "mod": "Alpha Animals",
       "customname": ""
     },
@@ -6172,7 +6172,7 @@
       "abr": "bluegel",
       "category": "Raw resources",
       "defname": "AA_BlueGel",
-      "price": 2,
+      "price": 10,
       "mod": "Alpha Animals",
       "customname": ""
     },
@@ -6196,7 +6196,7 @@
       "abr": "agariluxrawfungus",
       "category": "Vegetarian",
       "defname": "AA_AgariluxRawFungus",
-      "price": 2,
+      "price": -10,
       "mod": "Alpha Animals",
       "customname": ""
     },
@@ -6204,7 +6204,7 @@
       "abr": "fermentedrottingmound",
       "category": "Vegetarian",
       "defname": "AA_RottingMoundItem",
-      "price": 2,
+      "price": -10,
       "mod": "Alpha Animals",
       "customname": ""
     },
@@ -6220,7 +6220,7 @@
       "abr": "nightmilk",
       "category": "Animal products",
       "defname": "AA_NightMilk",
-      "price": 8,
+      "price": -10,
       "mod": "Alpha Animals",
       "customname": ""
     },
@@ -6228,7 +6228,7 @@
       "abr": "blacktruffles",
       "category": "Vegetarian",
       "defname": "AA_BlackTruffles",
-      "price": 9,
+      "price": -10,
       "mod": "Alpha Animals",
       "customname": ""
     },
@@ -6324,7 +6324,7 @@
       "abr": "chameleonyakwool,temperate",
       "category": "Wools",
       "defname": "AA_ChameleonYakWoolTemperate",
-      "price": 4,
+      "price": 10,
       "mod": "Alpha Animals",
       "customname": ""
     },
@@ -6332,7 +6332,7 @@
       "abr": "chameleonyakwool,winter",
       "category": "Wools",
       "defname": "AA_ChameleonYakWoolWinter",
-      "price": 4,
+      "price": 10,
       "mod": "Alpha Animals",
       "customname": ""
     },
@@ -6340,7 +6340,7 @@
       "abr": "chameleonyakwool,jungle",
       "category": "Wools",
       "defname": "AA_ChameleonYakWoolJungle",
-      "price": 4,
+      "price": 10,
       "mod": "Alpha Animals",
       "customname": ""
     },
@@ -6348,7 +6348,7 @@
       "abr": "chameleonyakwool,desert",
       "category": "Wools",
       "defname": "AA_ChameleonYakWoolDesert",
-      "price": 4,
+      "price": 10,
       "mod": "Alpha Animals",
       "customname": ""
     },
@@ -6356,7 +6356,7 @@
       "abr": "cindersilk",
       "category": "Textiles",
       "defname": "AA_CinderSilk",
-      "price": 7,
+      "price": 10,
       "mod": "Alpha Animals",
       "customname": ""
     },
@@ -6364,7 +6364,7 @@
       "abr": "mothsilk",
       "category": "Textiles",
       "defname": "AA_MothSilk",
-      "price": 9,
+      "price": 10,
       "mod": "Alpha Animals",
       "customname": ""
     },
@@ -6372,7 +6372,7 @@
       "abr": "giantcrownedsilkiesilk",
       "category": "Wools",
       "defname": "AA_GiantCrownedSilkieSilk",
-      "price": 7,
+      "price": 10,
       "mod": "Alpha Animals",
       "customname": ""
     },
@@ -6380,7 +6380,7 @@
       "abr": "grey-coatedmouflonwool",
       "category": "Wools",
       "defname": "AA_GreyCoatedMouflonWool",
-      "price": 4,
+      "price": 10,
       "mod": "Alpha Animals",
       "customname": ""
     },
@@ -6388,7 +6388,7 @@
       "abr": "nightwool",
       "category": "Wools",
       "defname": "AA_NightWool",
-      "price": 4,
+      "price": 10,
       "mod": "Alpha Animals",
       "customname": ""
     },
@@ -8436,7 +8436,7 @@
       "abr": "depthweave",
       "category": "Textiles",
       "defname": "Moyo_Depthweave",
-      "price": 7,
+      "price": 10,
       "mod": "Moyo-From the depth",
       "customname": ""
     },
@@ -8940,7 +8940,7 @@
       "abr": "dragonianmilk",
       "category": "Animal products",
       "defname": "DragonianMilk",
-      "price": 14,
+      "price": -10,
       "mod": "Dragonian Prime Race2.0 (Unofficial)",
       "customname": ""
     },
@@ -9092,7 +9092,7 @@
       "abr": "cannedmeat",
       "category": "Meals",
       "defname": "VCE_CannedMeat",
-      "price": 4,
+      "price": 10,
       "mod": "Vanilla Cooking Expanded",
       "customname": ""
     },
@@ -9100,7 +9100,7 @@
       "abr": "cannedproduce",
       "category": "Meals",
       "defname": "VCE_CannedProduce",
-      "price": 2,
+      "price": 10,
       "mod": "Vanilla Cooking Expanded",
       "customname": ""
     },
@@ -9108,7 +9108,7 @@
       "abr": "cannedfruit",
       "category": "Meals",
       "defname": "VCE_CannedFruit",
-      "price": 2,
+      "price": 10,
       "mod": "Vanilla Cooking Expanded",
       "customname": ""
     },
@@ -9116,7 +9116,7 @@
       "abr": "cannedeggs",
       "category": "Meals",
       "defname": "VCE_CannedAP",
-      "price": 6,
+      "price": -10,
       "mod": "Vanilla Cooking Expanded",
       "customname": ""
     },
@@ -9124,7 +9124,7 @@
       "abr": "cannedfish",
       "category": "Meals",
       "defname": "VCE_CannedFish",
-      "price": 3,
+      "price": 10,
       "mod": "Vanilla Cooking Expanded",
       "customname": ""
     },
@@ -9132,7 +9132,7 @@
       "abr": "cheese",
       "category": "Meals",
       "defname": "VCE_Cheese",
-      "price": 17,
+      "price": 20,
       "mod": "Vanilla Cooking Expanded",
       "customname": ""
     },
@@ -9140,7 +9140,7 @@
       "abr": "agavenectar",
       "category": "Condiments",
       "defname": "VCE_AgaveNectar",
-      "price": 2,
+      "price": 20,
       "mod": "Vanilla Cooking Expanded",
       "customname": ""
     },
@@ -9156,7 +9156,7 @@
       "abr": "spices",
       "category": "Condiments",
       "defname": "VCE_RawSpices",
-      "price": 11,
+      "price": 20,
       "mod": "Vanilla Cooking Expanded",
       "customname": ""
     },
@@ -9164,7 +9164,7 @@
       "abr": "salt",
       "category": "Condiments",
       "defname": "VCE_Salt",
-      "price": 3,
+      "price": 20,
       "mod": "Vanilla Cooking Expanded",
       "customname": ""
     },
@@ -9172,7 +9172,7 @@
       "abr": "mayo",
       "category": "Condiments",
       "defname": "VCE_Mayo",
-      "price": 6,
+      "price": 20,
       "mod": "Vanilla Cooking Expanded",
       "customname": ""
     },
@@ -9180,7 +9180,7 @@
       "abr": "insectjellypreserves",
       "category": "Condiments",
       "defname": "VCE_InsectJellyPreserves",
-      "price": 15,
+      "price": 20,
       "mod": "Vanilla Cooking Expanded",
       "customname": ""
     },
@@ -9188,7 +9188,7 @@
       "abr": "smokeleafbutter",
       "category": "Condiments",
       "defname": "VCE_SmokeleafButter",
-      "price": 12,
+      "price": 20,
       "mod": "Vanilla Cooking Expanded",
       "customname": ""
     },
@@ -9196,7 +9196,7 @@
       "abr": "chocolatesyrup",
       "category": "Condiments",
       "defname": "VCE_ChocolateSyrup",
-      "price": 6,
+      "price": 20,
       "mod": "Vanilla Cooking Expanded",
       "customname": ""
     },
@@ -9340,7 +9340,7 @@
       "abr": "flour",
       "category": "Plant matter",
       "defname": "VCE_Flour",
-      "price": 3,
+      "price": -10,
       "mod": "Vanilla Cooking Expanded",
       "customname": ""
     },
@@ -9612,7 +9612,7 @@
       "abr": "exoticdust",
       "category": "Manufactured",
       "defname": "ExoticDust",
-      "price": 3,
+      "price": 10,
       "mod": "Hisa Faction",
       "customname": ""
     },
@@ -10444,7 +10444,7 @@
       "abr": "mendingkit",
       "category": "Manufactured",
       "defname": "MendingKit",
-      "price": 17,
+      "price": -10,
       "mod": "MendAndRecycle",
       "customname": ""
     },
@@ -10452,7 +10452,7 @@
       "abr": "mihotatami",
       "category": "Furniture",
       "defname": "Miho_Tatami",
-      "price": 10,
+      "price": 50,
       "mod": "Miho, the celestial fox",
       "customname": ""
     },
@@ -10468,7 +10468,7 @@
       "abr": "ebonsilk",
       "category": "Textiles",
       "defname": "Miho_Ebony_SilkCloth",
-      "price": 9,
+      "price": 10,
       "mod": "Miho, the celestial fox",
       "customname": ""
     },
@@ -10476,7 +10476,7 @@
       "abr": "ebonymulberry",
       "category": "Vegetarian",
       "defname": "Miho_Ebony_Mulberry",
-      "price": 2,
+      "price": -10,
       "mod": "Miho, the celestial fox",
       "customname": ""
     },
@@ -10564,7 +10564,7 @@
       "abr": "heliantopetal",
       "category": "Plant matter",
       "defname": "RawPosFlower",
-      "price": 2,
+      "price": -10,
       "mod": "Miho, the celestial fox",
       "customname": ""
     },
@@ -10572,7 +10572,7 @@
       "abr": "solarpowder",
       "category": "Plant matter",
       "defname": "RawPosFlower_Dust",
-      "price": 2,
+      "price": -10,
       "mod": "Miho, the celestial fox",
       "customname": ""
     },
@@ -10588,7 +10588,7 @@
       "abr": "mihoceramicdough",
       "category": "Raw resources",
       "defname": "Miho_CeramicsPaste",
-      "price": 1,
+      "price": 10,
       "mod": "Miho, the celestial fox",
       "customname": ""
     },
@@ -10596,7 +10596,7 @@
       "abr": "mihoceramic",
       "category": "Raw resources",
       "defname": "Miho_Ceramics",
-      "price": 3,
+      "price": 10,
       "mod": "Miho, the celestial fox",
       "customname": ""
     },
@@ -11620,7 +11620,7 @@
       "abr": "minchochocolatehumancookie",
       "category": "Drugs",
       "defname": "Mincho_Humanlike_Cookie",
-      "price": 2,
+      "price": 50,
       "mod": "Mincho, The Mint Choco Slime ~ HAR ver.",
       "customname": ""
     },
@@ -11628,7 +11628,7 @@
       "abr": "minchomintslimecookie",
       "category": "Drugs",
       "defname": "Mincho_Slime_Cookie",
-      "price": 2,
+      "price": 50,
       "mod": "Mincho, The Mint Choco Slime ~ HAR ver.",
       "customname": ""
     },
@@ -11636,7 +11636,7 @@
       "abr": "minchomintchococookie",
       "category": "Drugs",
       "defname": "Mincho_Mintchoco_Cookie",
-      "price": 2,
+      "price": 50,
       "mod": "Mincho, The Mint Choco Slime ~ HAR ver.",
       "customname": ""
     },
@@ -11644,7 +11644,7 @@
       "abr": "minchobluepolarbearcookie",
       "category": "Drugs",
       "defname": "Mincho_BluePolarBear_Cookie",
-      "price": 2,
+      "price": 50,
       "mod": "Mincho, The Mint Choco Slime ~ HAR ver.",
       "customname": ""
     },
@@ -11652,7 +11652,7 @@
       "abr": "minchopinkfallinlovecookie",
       "category": "Drugs",
       "defname": "Mincho_PinkFallInLove_Cookie",
-      "price": 2,
+      "price": 50,
       "mod": "Mincho, The Mint Choco Slime ~ HAR ver.",
       "customname": ""
     },
@@ -11676,7 +11676,7 @@
       "abr": "mintchoco",
       "category": "Mintchoco-like ice cream",
       "defname": "Mincho_Mintchoco",
-      "price": 5,
+      "price": 10,
       "mod": "Mincho, The Mint Choco Slime ~ HAR ver.",
       "customname": ""
     },
@@ -11684,7 +11684,7 @@
       "abr": "bluepolarbear",
       "category": "Mintchoco-like ice cream",
       "defname": "Mincho_BluePolarBear",
-      "price": 5,
+      "price": 10,
       "mod": "Mincho, The Mint Choco Slime ~ HAR ver.",
       "customname": ""
     },
@@ -11692,7 +11692,7 @@
       "abr": "pinkfallinlove",
       "category": "Mintchoco-like ice cream",
       "defname": "Mincho_PinkFallInLove",
-      "price": 5,
+      "price": 10,
       "mod": "Mincho, The Mint Choco Slime ~ HAR ver.",
       "customname": ""
     },
@@ -11700,7 +11700,7 @@
       "abr": "minchoshroom",
       "category": "Mintchocos",
       "defname": "Mincho_Minchoshroom",
-      "price": 5,
+      "price": 10,
       "mod": "Mincho, The Mint Choco Slime ~ HAR ver.",
       "customname": ""
     },
@@ -11780,7 +11780,7 @@
       "abr": "mintleaves",
       "category": "Plant matter",
       "defname": "Mincho_MintLeaves",
-      "price": 1,
+      "price": -10,
       "mod": "Mincho, The Mint Choco Slime ~ HAR ver.",
       "customname": ""
     },
@@ -11788,7 +11788,7 @@
       "abr": "mintchocoblock",
       "category": "Stone blocks",
       "defname": "Mincho_BlocksMintchoco",
-      "price": 6,
+      "price": 10,
       "mod": "Mincho, The Mint Choco Slime ~ HAR ver.",
       "customname": ""
     },
@@ -11796,7 +11796,7 @@
       "abr": "chocostick",
       "category": "Raw resources",
       "defname": "Mincho_ChocoStick",
-      "price": 6,
+      "price": 10,
       "mod": "Mincho, The Mint Choco Slime ~ HAR ver.",
       "customname": ""
     },
@@ -12052,7 +12052,7 @@
       "abr": "plumbing",
       "category": "Misc",
       "defname": "sewagePipeStuff",
-      "price": 5,
+      "price": -10,
       "mod": "Dubs Bad Hygiene",
       "customname": ""
     },
@@ -12068,7 +12068,7 @@
       "abr": "air-conpipe",
       "category": "Misc",
       "defname": "airPipe",
-      "price": 5,
+      "price": -10,
       "mod": "Dubs Bad Hygiene",
       "customname": ""
     },
@@ -12076,7 +12076,7 @@
       "abr": "stalldoor",
       "category": "Misc",
       "defname": "ToiletStallDoor",
-      "price": 18,
+      "price": -10,
       "mod": "Dubs Bad Hygiene",
       "customname": ""
     },
@@ -12244,7 +12244,7 @@
       "abr": "saunaseating",
       "category": "Furniture",
       "defname": "DBHSaunaSeating",
-      "price": 9,
+      "price": 50,
       "mod": "Dubs Bad Hygiene",
       "customname": ""
     },
@@ -12484,7 +12484,7 @@
       "abr": "biosolids",
       "category": "Waste",
       "defname": "Biosolids",
-      "price": 1,
+      "price": -10,
       "mod": "Dubs Bad Hygiene",
       "customname": ""
     },
@@ -13260,7 +13260,7 @@
       "abr": "anchovy",
       "category": "Raw fish",
       "defname": "VCEF_RawAnchovy",
-      "price": 1,
+      "price": -10,
       "mod": "Vanilla Fishing Expanded",
       "customname": ""
     },
@@ -13268,7 +13268,7 @@
       "abr": "angelfish",
       "category": "Raw fish",
       "defname": "VCEF_RawAngelfish",
-      "price": 2,
+      "price": -10,
       "mod": "Vanilla Fishing Expanded",
       "customname": ""
     },
@@ -13276,7 +13276,7 @@
       "abr": "anglerfish",
       "category": "Raw fish",
       "defname": "VCEF_RawAnglerfish",
-      "price": 2,
+      "price": -10,
       "mod": "Vanilla Fishing Expanded",
       "customname": ""
     },
@@ -13284,7 +13284,7 @@
       "abr": "bass",
       "category": "Raw fish",
       "defname": "VCEF_RawBass",
-      "price": 2,
+      "price": -10,
       "mod": "Vanilla Fishing Expanded",
       "customname": ""
     },
@@ -13292,7 +13292,7 @@
       "abr": "catfish",
       "category": "Raw fish",
       "defname": "VCEF_RawCatfish",
-      "price": 4,
+      "price": -10,
       "mod": "Vanilla Fishing Expanded",
       "customname": ""
     },
@@ -13300,7 +13300,7 @@
       "abr": "clownfish",
       "category": "Raw fish",
       "defname": "VCEF_RawClownfish",
-      "price": 1,
+      "price": -10,
       "mod": "Vanilla Fishing Expanded",
       "customname": ""
     },
@@ -13308,7 +13308,7 @@
       "abr": "cod",
       "category": "Raw fish",
       "defname": "VCEF_RawCod",
-      "price": 3,
+      "price": -10,
       "mod": "Vanilla Fishing Expanded",
       "customname": ""
     },
@@ -13316,7 +13316,7 @@
       "abr": "eel",
       "category": "Raw fish",
       "defname": "VCEF_RawEel",
-      "price": 2,
+      "price": -10,
       "mod": "Vanilla Fishing Expanded",
       "customname": ""
     },
@@ -13324,7 +13324,7 @@
       "abr": "goldfish",
       "category": "Raw fish",
       "defname": "VCEF_RawGoldfish",
-      "price": 3,
+      "price": -10,
       "mod": "Vanilla Fishing Expanded",
       "customname": ""
     },
@@ -13332,7 +13332,7 @@
       "abr": "guppy",
       "category": "Raw fish",
       "defname": "VCEF_RawGuppy",
-      "price": 1,
+      "price": -10,
       "mod": "Vanilla Fishing Expanded",
       "customname": ""
     },
@@ -13340,7 +13340,7 @@
       "abr": "haddock",
       "category": "Raw fish",
       "defname": "VCEF_RawHaddock",
-      "price": 2,
+      "price": -10,
       "mod": "Vanilla Fishing Expanded",
       "customname": ""
     },
@@ -13348,7 +13348,7 @@
       "abr": "halibut",
       "category": "Raw fish",
       "defname": "VCEF_RawHalibut",
-      "price": 3,
+      "price": -10,
       "mod": "Vanilla Fishing Expanded",
       "customname": ""
     },
@@ -13356,7 +13356,7 @@
       "abr": "herring",
       "category": "Raw fish",
       "defname": "VCEF_RawHerring",
-      "price": 1,
+      "price": -10,
       "mod": "Vanilla Fishing Expanded",
       "customname": ""
     },
@@ -13364,7 +13364,7 @@
       "abr": "koi",
       "category": "Raw fish",
       "defname": "VCEF_RawKoi",
-      "price": 4,
+      "price": -10,
       "mod": "Vanilla Fishing Expanded",
       "customname": ""
     },
@@ -13372,7 +13372,7 @@
       "abr": "lobster",
       "category": "Raw fish",
       "defname": "VCEF_RawLobster",
-      "price": 9,
+      "price": -10,
       "mod": "Vanilla Fishing Expanded",
       "customname": ""
     },
@@ -13380,7 +13380,7 @@
       "abr": "mackerel",
       "category": "Raw fish",
       "defname": "VCEF_RawMackerel",
-      "price": 2,
+      "price": -10,
       "mod": "Vanilla Fishing Expanded",
       "customname": ""
     },
@@ -13388,7 +13388,7 @@
       "abr": "minnow",
       "category": "Raw fish",
       "defname": "VCEF_RawMinnow",
-      "price": 1,
+      "price": -10,
       "mod": "Vanilla Fishing Expanded",
       "customname": ""
     },
@@ -13396,7 +13396,7 @@
       "abr": "perch",
       "category": "Raw fish",
       "defname": "VCEF_RawPerch",
-      "price": 2,
+      "price": -10,
       "mod": "Vanilla Fishing Expanded",
       "customname": ""
     },
@@ -13404,7 +13404,7 @@
       "abr": "piranha",
       "category": "Raw fish",
       "defname": "VCEF_RawPiranha",
-      "price": 2,
+      "price": -10,
       "mod": "Vanilla Fishing Expanded",
       "customname": ""
     },
@@ -13412,7 +13412,7 @@
       "abr": "pufferfish",
       "category": "Raw fish",
       "defname": "VCEF_RawPufferfish",
-      "price": 2,
+      "price": -10,
       "mod": "Vanilla Fishing Expanded",
       "customname": ""
     },
@@ -13420,7 +13420,7 @@
       "abr": "salmon",
       "category": "Raw fish",
       "defname": "VCEF_RawSalmon",
-      "price": 9,
+      "price": -10,
       "mod": "Vanilla Fishing Expanded",
       "customname": ""
     },
@@ -13428,7 +13428,7 @@
       "abr": "sprat",
       "category": "Raw fish",
       "defname": "VCEF_RawSprat",
-      "price": 1,
+      "price": -10,
       "mod": "Vanilla Fishing Expanded",
       "customname": ""
     },
@@ -13436,7 +13436,7 @@
       "abr": "swordfish",
       "category": "Raw fish",
       "defname": "VCEF_RawSwordfish",
-      "price": 9,
+      "price": -10,
       "mod": "Vanilla Fishing Expanded",
       "customname": ""
     },
@@ -13444,7 +13444,7 @@
       "abr": "trout",
       "category": "Raw fish",
       "defname": "VCEF_RawTrout",
-      "price": 2,
+      "price": -10,
       "mod": "Vanilla Fishing Expanded",
       "customname": ""
     },
@@ -13452,7 +13452,7 @@
       "abr": "tuna",
       "category": "Raw fish",
       "defname": "VCEF_RawTuna",
-      "price": 4,
+      "price": -10,
       "mod": "Vanilla Fishing Expanded",
       "customname": ""
     },
@@ -13892,7 +13892,7 @@
       "abr": "apples",
       "category": "Raw fruits",
       "defname": "VCE_RawApple",
-      "price": 2,
+      "price": -10,
       "mod": "Vanilla Plants Expanded",
       "customname": ""
     },
@@ -13900,7 +13900,7 @@
       "abr": "peaches",
       "category": "Raw fruits",
       "defname": "VCE_RawPeach",
-      "price": 2,
+      "price": -10,
       "mod": "Vanilla Plants Expanded",
       "customname": ""
     },
@@ -13908,7 +13908,7 @@
       "abr": "cherries",
       "category": "Raw fruits",
       "defname": "VCE_RawCherry",
-      "price": 2,
+      "price": -10,
       "mod": "Vanilla Plants Expanded",
       "customname": ""
     },
@@ -13916,7 +13916,7 @@
       "abr": "plums",
       "category": "Raw fruits",
       "defname": "VCE_RawPlum",
-      "price": 2,
+      "price": -10,
       "mod": "Vanilla Plants Expanded",
       "customname": ""
     },
@@ -13924,7 +13924,7 @@
       "abr": "prunes",
       "category": "Raw fruits",
       "defname": "VCE_RawPrunes",
-      "price": 2,
+      "price": -10,
       "mod": "Vanilla Plants Expanded",
       "customname": ""
     },
@@ -13932,7 +13932,7 @@
       "abr": "pears",
       "category": "Raw fruits",
       "defname": "VCE_RawPear",
-      "price": 2,
+      "price": -10,
       "mod": "Vanilla Plants Expanded",
       "customname": ""
     },
@@ -13940,7 +13940,7 @@
       "abr": "pricklypears",
       "category": "Raw fruits",
       "defname": "VCE_RawPricklyPear",
-      "price": 2,
+      "price": -10,
       "mod": "Vanilla Plants Expanded",
       "customname": ""
     },
@@ -13948,7 +13948,7 @@
       "abr": "bearberries",
       "category": "Raw fruits",
       "defname": "VCE_Bearberry",
-      "price": 2,
+      "price": -10,
       "mod": "Vanilla Plants Expanded",
       "customname": ""
     },
@@ -13956,7 +13956,7 @@
       "abr": "bananas",
       "category": "Raw fruits",
       "defname": "VCE_RawBanana",
-      "price": 2,
+      "price": -10,
       "mod": "Vanilla Plants Expanded",
       "customname": ""
     },
@@ -13964,7 +13964,7 @@
       "abr": "oranges",
       "category": "Raw fruits",
       "defname": "VCE_RawOrange",
-      "price": 2,
+      "price": -10,
       "mod": "Vanilla Plants Expanded",
       "customname": ""
     },
@@ -13972,7 +13972,7 @@
       "abr": "onions",
       "category": "Vegetarian",
       "defname": "VCE_RawOnion",
-      "price": 2,
+      "price": -10,
       "mod": "Vanilla Plants Expanded",
       "customname": ""
     },
@@ -13980,7 +13980,7 @@
       "abr": "pumpkins",
       "category": "Vegetarian",
       "defname": "VCE_RawPumpkin",
-      "price": 2,
+      "price": -10,
       "mod": "Vanilla Plants Expanded",
       "customname": ""
     },
@@ -13988,7 +13988,7 @@
       "abr": "peppers",
       "category": "Vegetarian",
       "defname": "VCE_RawPepper",
-      "price": 2,
+      "price": -10,
       "mod": "Vanilla Plants Expanded",
       "customname": ""
     },
@@ -13996,7 +13996,7 @@
       "abr": "peas",
       "category": "Vegetarian",
       "defname": "VCE_RawPeas",
-      "price": 2,
+      "price": -10,
       "mod": "Vanilla Plants Expanded",
       "customname": ""
     },
@@ -14004,7 +14004,7 @@
       "abr": "eggplants",
       "category": "Vegetarian",
       "defname": "VCE_RawEggplant",
-      "price": 2,
+      "price": -10,
       "mod": "Vanilla Plants Expanded",
       "customname": ""
     },
@@ -14012,7 +14012,7 @@
       "abr": "cabbages",
       "category": "Vegetarian",
       "defname": "VCE_RawCabbage",
-      "price": 2,
+      "price": -10,
       "mod": "Vanilla Plants Expanded",
       "customname": ""
     },
@@ -14020,7 +14020,7 @@
       "abr": "beets",
       "category": "Vegetarian",
       "defname": "VCE_RawBeets",
-      "price": 2,
+      "price": -10,
       "mod": "Vanilla Plants Expanded",
       "customname": ""
     },
@@ -14028,7 +14028,7 @@
       "abr": "tomatoes",
       "category": "Vegetarian",
       "defname": "VCE_RawTomatoes",
-      "price": 2,
+      "price": -10,
       "mod": "Vanilla Plants Expanded",
       "customname": ""
     },
@@ -14044,7 +14044,7 @@
       "abr": "oats",
       "category": "Vegetarian",
       "defname": "VCE_RawOats",
-      "price": 2,
+      "price": -10,
       "mod": "Vanilla Plants Expanded - More Plants",
       "customname": ""
     },
@@ -14052,7 +14052,7 @@
       "abr": "cavemoss",
       "category": "Foods",
       "defname": "VCE_RawMoss",
-      "price": 1,
+      "price": 20,
       "mod": "Vanilla Plants Expanded - More Plants",
       "customname": ""
     },
@@ -14060,7 +14060,7 @@
       "abr": "canolaflowers",
       "category": "Plant matter",
       "defname": "VCE_RawCanola",
-      "price": 3,
+      "price": -10,
       "mod": "Vanilla Plants Expanded - More Plants",
       "customname": ""
     },
@@ -14068,7 +14068,7 @@
       "abr": "avocados",
       "category": "Raw fruits",
       "defname": "VCE_RawAvocado",
-      "price": 2,
+      "price": -10,
       "mod": "Vanilla Plants Expanded - More Plants",
       "customname": ""
     },
@@ -14076,7 +14076,7 @@
       "abr": "melons",
       "category": "Raw fruits",
       "defname": "VCE_RawMelon",
-      "price": 2,
+      "price": -10,
       "mod": "Vanilla Plants Expanded - More Plants",
       "customname": ""
     },
@@ -14084,7 +14084,7 @@
       "abr": "pineapples",
       "category": "Raw fruits",
       "defname": "VCE_RawPineapple",
-      "price": 7,
+      "price": -10,
       "mod": "Vanilla Plants Expanded - More Plants",
       "customname": ""
     },
@@ -14092,7 +14092,7 @@
       "abr": "coconuts",
       "category": "Raw fruits",
       "defname": "VCE_RawCoconut",
-      "price": 2,
+      "price": -10,
       "mod": "Vanilla Plants Expanded - More Plants",
       "customname": ""
     },
@@ -14100,7 +14100,7 @@
       "abr": "almonds",
       "category": "Raw fruits",
       "defname": "VCE_RawAlmonds",
-      "price": 2,
+      "price": -10,
       "mod": "Vanilla Plants Expanded - More Plants",
       "customname": ""
     },
@@ -14108,7 +14108,7 @@
       "abr": "mangoes",
       "category": "Raw fruits",
       "defname": "VCE_Mangoes",
-      "price": 2,
+      "price": -10,
       "mod": "Vanilla Plants Expanded - More Plants",
       "customname": ""
     },
@@ -14116,7 +14116,7 @@
       "abr": "celery",
       "category": "Vegetarian",
       "defname": "VCE_RawCelery",
-      "price": 2,
+      "price": -10,
       "mod": "Vanilla Plants Expanded - More Plants",
       "customname": ""
     },
@@ -14124,7 +14124,7 @@
       "abr": "lettuce",
       "category": "Vegetarian",
       "defname": "VCE_RawLettuce",
-      "price": 2,
+      "price": -10,
       "mod": "Vanilla Plants Expanded - More Plants",
       "customname": ""
     },
@@ -14132,7 +14132,7 @@
       "abr": "radishes",
       "category": "Vegetarian",
       "defname": "VCE_RawRadish",
-      "price": 2,
+      "price": -10,
       "mod": "Vanilla Plants Expanded - More Plants",
       "customname": ""
     },
@@ -14140,7 +14140,7 @@
       "abr": "buckwheat",
       "category": "Vegetarian",
       "defname": "VCE_RawBuckwheat",
-      "price": 2,
+      "price": -10,
       "mod": "Vanilla Plants Expanded - More Plants",
       "customname": ""
     },
@@ -14148,7 +14148,7 @@
       "abr": "peanuts",
       "category": "Vegetarian",
       "defname": "VCE_RawPeanut",
-      "price": 2,
+      "price": -10,
       "mod": "Vanilla Plants Expanded - More Plants",
       "customname": ""
     },
@@ -14156,7 +14156,7 @@
       "abr": "sunflowerseeds",
       "category": "Vegetarian",
       "defname": "VCE_RawSunflower",
-      "price": 2,
+      "price": -10,
       "mod": "Vanilla Plants Expanded - More Plants",
       "customname": ""
     },
@@ -14164,7 +14164,7 @@
       "abr": "okra",
       "category": "Vegetarian",
       "defname": "VCE_RawOkra",
-      "price": 2,
+      "price": -10,
       "mod": "Vanilla Plants Expanded - More Plants",
       "customname": ""
     },
@@ -14172,7 +14172,7 @@
       "abr": "garliccloves",
       "category": "Vegetarian",
       "defname": "VCE_RawGarlic",
-      "price": 2,
+      "price": -10,
       "mod": "Vanilla Plants Expanded - More Plants",
       "customname": ""
     },
@@ -14180,7 +14180,7 @@
       "abr": "carrots",
       "category": "Vegetarian",
       "defname": "VCE_RawCarrot",
-      "price": 2,
+      "price": -10,
       "mod": "Vanilla Plants Expanded - More Plants",
       "customname": ""
     },
@@ -14188,7 +14188,7 @@
       "abr": "brusselssprouts",
       "category": "Vegetarian",
       "defname": "VCE_RawBrusselsSprouts",
-      "price": 2,
+      "price": -10,
       "mod": "Vanilla Plants Expanded - More Plants",
       "customname": ""
     },
@@ -14196,7 +14196,7 @@
       "abr": "olives",
       "category": "Vegetarian",
       "defname": "VCE_RawOlives",
-      "price": 2,
+      "price": -10,
       "mod": "Vanilla Plants Expanded - More Plants",
       "customname": ""
     },
@@ -14204,7 +14204,7 @@
       "abr": "sweetpotatoes",
       "category": "Vegetarian",
       "defname": "VCE_RawSweetPotatoes",
-      "price": 2,
+      "price": -10,
       "mod": "Vanilla Plants Expanded - More Plants",
       "customname": ""
     },
@@ -14212,7 +14212,7 @@
       "abr": "cassavas",
       "category": "Vegetarian",
       "defname": "VCE_RawCassava",
-      "price": 2,
+      "price": -10,
       "mod": "Vanilla Plants Expanded - More Plants",
       "customname": ""
     },
@@ -14220,7 +14220,7 @@
       "abr": "greenbeans",
       "category": "Vegetarian",
       "defname": "VCE_RawBeans",
-      "price": 2,
+      "price": -10,
       "mod": "Vanilla Plants Expanded - More Plants",
       "customname": ""
     },
@@ -14228,7 +14228,7 @@
       "abr": "redbellpeppers",
       "category": "Vegetarian",
       "defname": "VCE_RawBellPeppers",
-      "price": 2,
+      "price": -10,
       "mod": "Vanilla Plants Expanded - More Plants",
       "customname": ""
     },
@@ -14236,7 +14236,7 @@
       "abr": "yellowbellpeppers",
       "category": "Vegetarian",
       "defname": "VCE_RawYellowBellPeppers",
-      "price": 2,
+      "price": -10,
       "mod": "Vanilla Plants Expanded - More Plants",
       "customname": ""
     },
@@ -14244,7 +14244,7 @@
       "abr": "chickpeas",
       "category": "Vegetarian",
       "defname": "VCE_RawChickpeas",
-      "price": 1,
+      "price": -10,
       "mod": "Vanilla Plants Expanded - More Plants",
       "customname": ""
     },
@@ -14252,7 +14252,7 @@
       "abr": "taroroots",
       "category": "Vegetarian",
       "defname": "VCE_RawTaro",
-      "price": 2,
+      "price": -10,
       "mod": "Vanilla Plants Expanded - More Plants",
       "customname": ""
     },
@@ -14260,7 +14260,7 @@
       "abr": "watercressleaves",
       "category": "Vegetarian",
       "defname": "VCE_RawWatercress",
-      "price": 2,
+      "price": -10,
       "mod": "Vanilla Plants Expanded - More Plants",
       "customname": ""
     },
@@ -14268,7 +14268,7 @@
       "abr": "lotusseeds",
       "category": "Vegetarian",
       "defname": "VCE_RawLotus",
-      "price": 2,
+      "price": -10,
       "mod": "Vanilla Plants Expanded - More Plants",
       "customname": ""
     },
@@ -14276,7 +14276,7 @@
       "abr": "waterchestnuts",
       "category": "Vegetarian",
       "defname": "VCE_RawWaterChestnut",
-      "price": 2,
+      "price": -10,
       "mod": "Vanilla Plants Expanded - More Plants",
       "customname": ""
     },
@@ -14284,7 +14284,7 @@
       "abr": "cucumbers",
       "category": "Vegetarian",
       "defname": "VCE_RawCucumber",
-      "price": 2,
+      "price": -10,
       "mod": "Vanilla Plants Expanded - More Plants",
       "customname": ""
     },
@@ -14292,7 +14292,7 @@
       "abr": "butternutsquashes",
       "category": "Vegetarian",
       "defname": "VCE_RawButternutSquash",
-      "price": 2,
+      "price": -10,
       "mod": "Vanilla Plants Expanded - More Plants",
       "customname": ""
     },
@@ -14740,7 +14740,7 @@
       "abr": "doormat",
       "category": "Furniture",
       "defname": "DoorMatLeather",
-      "price": 8,
+      "price": 100,
       "mod": "[SYR] Doormats",
       "customname": ""
     },
@@ -14748,7 +14748,7 @@
       "abr": "mediumdoormat",
       "category": "Furniture",
       "defname": "DoorMatMediumLeather",
-      "price": 13,
+      "price": 50,
       "mod": "[SYR] Doormats",
       "customname": ""
     },
@@ -14756,7 +14756,7 @@
       "abr": "largedoormat",
       "category": "Furniture",
       "defname": "DoorMatBigLeather",
-      "price": 20,
+      "price": 50,
       "mod": "[SYR] Doormats",
       "customname": ""
     },
@@ -14764,7 +14764,7 @@
       "abr": "linkeddoormat",
       "category": "Furniture",
       "defname": "DoorMatLinkedLeather",
-      "price": 8,
+      "price": 50,
       "mod": "[SYR] Doormats",
       "customname": ""
     },
@@ -14772,7 +14772,7 @@
       "abr": "doormat(red)",
       "category": "Furniture",
       "defname": "DoorMatRed",
-      "price": 8,
+      "price": 50,
       "mod": "[SYR] Doormats",
       "customname": ""
     },
@@ -14780,7 +14780,7 @@
       "abr": "doormat(orange)",
       "category": "Furniture",
       "defname": "DoorMatOrange",
-      "price": 8,
+      "price": 50,
       "mod": "[SYR] Doormats",
       "customname": ""
     },
@@ -14788,7 +14788,7 @@
       "abr": "doormat(green)",
       "category": "Furniture",
       "defname": "DoorMatGreen",
-      "price": 8,
+      "price": 50,
       "mod": "[SYR] Doormats",
       "customname": ""
     },
@@ -14796,7 +14796,7 @@
       "abr": "doormat(teal)",
       "category": "Furniture",
       "defname": "DoorMatTeal",
-      "price": 8,
+      "price": 50,
       "mod": "[SYR] Doormats",
       "customname": ""
     },
@@ -14804,7 +14804,7 @@
       "abr": "doormat(blue)",
       "category": "Furniture",
       "defname": "DoorMatBlue",
-      "price": 8,
+      "price": 50,
       "mod": "[SYR] Doormats",
       "customname": ""
     },
@@ -14812,7 +14812,7 @@
       "abr": "mediumdoormat(red)",
       "category": "Furniture",
       "defname": "DoorMatMediumRed",
-      "price": 13,
+      "price": 50,
       "mod": "[SYR] Doormats",
       "customname": ""
     },
@@ -14820,7 +14820,7 @@
       "abr": "mediumdoormat(orange)",
       "category": "Furniture",
       "defname": "DoorMatMediumOrange",
-      "price": 13,
+      "price": 50,
       "mod": "[SYR] Doormats",
       "customname": ""
     },
@@ -14828,7 +14828,7 @@
       "abr": "mediumdoormat(green)",
       "category": "Furniture",
       "defname": "DoorMatMediumGreen",
-      "price": 13,
+      "price": 50,
       "mod": "[SYR] Doormats",
       "customname": ""
     },
@@ -14836,7 +14836,7 @@
       "abr": "mediumdoormat(teal)",
       "category": "Furniture",
       "defname": "DoorMatMediumTeal",
-      "price": 13,
+      "price": 50,
       "mod": "[SYR] Doormats",
       "customname": ""
     },
@@ -14844,7 +14844,7 @@
       "abr": "mediumdoormat(blue)",
       "category": "Furniture",
       "defname": "DoorMatMediumBlue",
-      "price": 13,
+      "price": 50,
       "mod": "[SYR] Doormats",
       "customname": ""
     },
@@ -14852,7 +14852,7 @@
       "abr": "largedoormat(red)",
       "category": "Furniture",
       "defname": "DoorMatBigRed",
-      "price": 20,
+      "price": 50,
       "mod": "[SYR] Doormats",
       "customname": ""
     },
@@ -14860,7 +14860,7 @@
       "abr": "largedoormat(orange)",
       "category": "Furniture",
       "defname": "DoorMatBigOrange",
-      "price": 20,
+      "price": 50,
       "mod": "[SYR] Doormats",
       "customname": ""
     },
@@ -14868,7 +14868,7 @@
       "abr": "largedoormat(green)",
       "category": "Furniture",
       "defname": "DoorMatBigGreen",
-      "price": 20,
+      "price": 50,
       "mod": "[SYR] Doormats",
       "customname": ""
     },
@@ -14876,7 +14876,7 @@
       "abr": "largedoormat(teal)",
       "category": "Furniture",
       "defname": "DoorMatBigTeal",
-      "price": 20,
+      "price": 50,
       "mod": "[SYR] Doormats",
       "customname": ""
     },
@@ -14884,7 +14884,7 @@
       "abr": "largedoormat(blue)",
       "category": "Furniture",
       "defname": "DoorMatBigBlue",
-      "price": 20,
+      "price": 50,
       "mod": "[SYR] Doormats",
       "customname": ""
     },
@@ -14892,7 +14892,7 @@
       "abr": "linkeddoormat(red)",
       "category": "Furniture",
       "defname": "DoorMatLinkedRed",
-      "price": 8,
+      "price": 50,
       "mod": "[SYR] Doormats",
       "customname": ""
     },
@@ -14900,7 +14900,7 @@
       "abr": "linkeddoormat(orange)",
       "category": "Furniture",
       "defname": "DoorMatLinkedOrange",
-      "price": 8,
+      "price": 50,
       "mod": "[SYR] Doormats",
       "customname": ""
     },
@@ -14908,7 +14908,7 @@
       "abr": "linkeddoormat(green)",
       "category": "Furniture",
       "defname": "DoorMatLinkedGreen",
-      "price": 8,
+      "price": 50,
       "mod": "[SYR] Doormats",
       "customname": ""
     },
@@ -14916,7 +14916,7 @@
       "abr": "linkeddoormat(teal)",
       "category": "Furniture",
       "defname": "DoorMatLinkedTeal",
-      "price": 8,
+      "price": 50,
       "mod": "[SYR] Doormats",
       "customname": ""
     },
@@ -14924,7 +14924,7 @@
       "abr": "linkeddoormat(blue)",
       "category": "Furniture",
       "defname": "DoorMatLinkedBlue",
-      "price": 8,
+      "price": 50,
       "mod": "[SYR] Doormats",
       "customname": ""
     },
@@ -14964,7 +14964,7 @@
       "abr": "gowcheese",
       "category": "Meals",
       "defname": "VCE_GowCheese",
-      "price": 22,
+      "price": 20,
       "mod": "n/a",
       "customname": ""
     },
@@ -14972,7 +14972,7 @@
       "abr": "ketchup",
       "category": "Condiments",
       "defname": "VCE_Ketchup",
-      "price": 2,
+      "price": 20,
       "mod": "n/a",
       "customname": ""
     },
@@ -14980,7 +14980,7 @@
       "abr": "hotsauce",
       "category": "Condiments",
       "defname": "VCE_HotSauce",
-      "price": 2,
+      "price": 20,
       "mod": "n/a",
       "customname": ""
     },
@@ -15004,7 +15004,7 @@
       "abr": "bearmeat",
       "category": "Meat",
       "defname": "Meat_Bear_Grizzly",
-      "price": 3,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -15012,7 +15012,7 @@
       "abr": "birdmeat",
       "category": "Meat",
       "defname": "Meat_Cassowary",
-      "price": 3,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -15020,7 +15020,7 @@
       "abr": "cougarmeat",
       "category": "Meat",
       "defname": "Meat_Cougar",
-      "price": 3,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -15028,7 +15028,7 @@
       "abr": "panthermeat",
       "category": "Meat",
       "defname": "Meat_Panther",
-      "price": 3,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -15036,7 +15036,7 @@
       "abr": "lynxmeat",
       "category": "Meat",
       "defname": "Meat_Lynx",
-      "price": 3,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -15044,7 +15044,7 @@
       "abr": "catmeat",
       "category": "Meat",
       "defname": "Meat_Cat",
-      "price": 3,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -15052,7 +15052,7 @@
       "abr": "yorkshireterriermeat",
       "category": "Meat",
       "defname": "Meat_YorkshireTerrier",
-      "price": 3,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -15060,7 +15060,7 @@
       "abr": "guineapigmeat",
       "category": "Meat",
       "defname": "Meat_GuineaPig",
-      "price": 3,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -15068,7 +15068,7 @@
       "abr": "labradorretrievermeat",
       "category": "Meat",
       "defname": "Meat_LabradorRetriever",
-      "price": 3,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -15076,7 +15076,7 @@
       "abr": "huskymeat",
       "category": "Meat",
       "defname": "Meat_Husky",
-      "price": 3,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -15084,7 +15084,7 @@
       "abr": "monkeymeat",
       "category": "Meat",
       "defname": "Meat_Monkey",
-      "price": 3,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -15092,7 +15092,7 @@
       "abr": "chickenmeat",
       "category": "Meat",
       "defname": "Meat_Chicken",
-      "price": 3,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -15100,7 +15100,7 @@
       "abr": "duckmeat",
       "category": "Meat",
       "defname": "Meat_Duck",
-      "price": 3,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -15108,7 +15108,7 @@
       "abr": "turkeymeat",
       "category": "Meat",
       "defname": "Meat_Turkey",
-      "price": 3,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -15116,7 +15116,7 @@
       "abr": "beef",
       "category": "Meat",
       "defname": "Meat_Cow",
-      "price": 3,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -15124,7 +15124,7 @@
       "abr": "boomalopemeat",
       "category": "Meat",
       "defname": "Meat_Boomalope",
-      "price": 3,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -15132,7 +15132,7 @@
       "abr": "muffalomeat",
       "category": "Meat",
       "defname": "Meat_Muffalo",
-      "price": 3,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -15140,7 +15140,7 @@
       "abr": "bisonmeat",
       "category": "Meat",
       "defname": "Meat_Bison",
-      "price": 3,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -15148,7 +15148,7 @@
       "abr": "dromedarymeat",
       "category": "Meat",
       "defname": "Meat_Dromedary",
-      "price": 3,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -15156,7 +15156,7 @@
       "abr": "goatmeat",
       "category": "Meat",
       "defname": "Meat_Goat",
-      "price": 3,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -15164,7 +15164,7 @@
       "abr": "elkmeat",
       "category": "Meat",
       "defname": "Meat_Elk",
-      "price": 3,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -15172,7 +15172,7 @@
       "abr": "yakbeef",
       "category": "Meat",
       "defname": "Meat_Yak",
-      "price": 3,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -15180,7 +15180,7 @@
       "abr": "cariboumeat",
       "category": "Meat",
       "defname": "Meat_Caribou",
-      "price": 3,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -15188,7 +15188,7 @@
       "abr": "horsemeat",
       "category": "Meat",
       "defname": "Meat_Horse",
-      "price": 3,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -15196,7 +15196,7 @@
       "abr": "donkeymeat",
       "category": "Meat",
       "defname": "Meat_Donkey",
-      "price": 3,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -15204,7 +15204,7 @@
       "abr": "elephantmeat",
       "category": "Meat",
       "defname": "Meat_Elephant",
-      "price": 3,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -15212,7 +15212,7 @@
       "abr": "rhinocerosmeat",
       "category": "Meat",
       "defname": "Meat_Rhinoceros",
-      "price": 3,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -15220,7 +15220,7 @@
       "abr": "haremeat",
       "category": "Meat",
       "defname": "Meat_Hare",
-      "price": 3,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -15228,7 +15228,7 @@
       "abr": "insectmeat",
       "category": "Meat",
       "defname": "Meat_Megaspider",
-      "price": 1,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -15236,7 +15236,7 @@
       "abr": "thrumbomeat",
       "category": "Meat",
       "defname": "Meat_Thrumbo",
-      "price": 3,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -15244,7 +15244,7 @@
       "abr": "cobrameat",
       "category": "Meat",
       "defname": "Meat_Cobra",
-      "price": 3,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -15252,7 +15252,7 @@
       "abr": "tortoisemeat",
       "category": "Meat",
       "defname": "Meat_Tortoise",
-      "price": 3,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -15260,7 +15260,7 @@
       "abr": "alphabeavermeat",
       "category": "Meat",
       "defname": "Meat_Alphabeaver",
-      "price": 3,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -15268,7 +15268,7 @@
       "abr": "pork",
       "category": "Meat",
       "defname": "Meat_Pig",
-      "price": 3,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -15276,7 +15276,7 @@
       "abr": "ibexmeat",
       "category": "Meat",
       "defname": "Meat_Ibex",
-      "price": 3,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -15284,7 +15284,7 @@
       "abr": "venison",
       "category": "Meat",
       "defname": "Meat_Deer",
-      "price": 3,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -15292,7 +15292,7 @@
       "abr": "gazellemeat",
       "category": "Meat",
       "defname": "Meat_Gazelle",
-      "price": 3,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -15300,7 +15300,7 @@
       "abr": "chinchillameat",
       "category": "Meat",
       "defname": "Meat_Chinchilla",
-      "price": 3,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -15308,7 +15308,7 @@
       "abr": "sheepmeat",
       "category": "Meat",
       "defname": "Meat_Sheep",
-      "price": 3,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -15316,7 +15316,7 @@
       "abr": "alpacameat",
       "category": "Meat",
       "defname": "Meat_Alpaca",
-      "price": 3,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -15324,7 +15324,7 @@
       "abr": "megaslothmeat",
       "category": "Meat",
       "defname": "Meat_Megasloth",
-      "price": 3,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -15332,7 +15332,7 @@
       "abr": "capybarameat",
       "category": "Meat",
       "defname": "Meat_Capybara",
-      "price": 3,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -15340,7 +15340,7 @@
       "abr": "squirrelmeat",
       "category": "Meat",
       "defname": "Meat_Squirrel",
-      "price": 3,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -15348,7 +15348,7 @@
       "abr": "ratmeat",
       "category": "Meat",
       "defname": "Meat_Rat",
-      "price": 3,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -15356,7 +15356,7 @@
       "abr": "boomratmeat",
       "category": "Meat",
       "defname": "Meat_Boomrat",
-      "price": 3,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -15364,7 +15364,7 @@
       "abr": "raccoonmeat",
       "category": "Meat",
       "defname": "Meat_Raccoon",
-      "price": 3,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -15372,7 +15372,7 @@
       "abr": "iguanameat",
       "category": "Meat",
       "defname": "Meat_Iguana",
-      "price": 3,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -15380,7 +15380,7 @@
       "abr": "wargmeat",
       "category": "Meat",
       "defname": "Meat_Warg",
-      "price": 3,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -15388,7 +15388,7 @@
       "abr": "wolfmeat",
       "category": "Meat",
       "defname": "Meat_Wolf_Timber",
-      "price": 3,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -15396,7 +15396,7 @@
       "abr": "foxmeat",
       "category": "Meat",
       "defname": "Meat_Fox_Fennec",
-      "price": 3,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -15404,7 +15404,7 @@
       "abr": "humanmeat",
       "category": "Meat",
       "defname": "Meat_Human",
-      "price": 10,
+      "price": -10,
       "mod": "RimWorld",
       "customname": ""
     },
@@ -15412,7 +15412,7 @@
       "abr": "immaturedryadmeat",
       "category": "Meat",
       "defname": "Meat_Dryad_Basic",
-      "price": 3,
+      "price": -10,
       "mod": "Ideology",
       "customname": ""
     },
@@ -15420,7 +15420,7 @@
       "abr": "wasteratmeat",
       "category": "Meat",
       "defname": "Meat_WasteRat",
-      "price": 3,
+      "price": -10,
       "mod": "Biotech",
       "customname": ""
     },
@@ -15428,7 +15428,7 @@
       "abr": "toxalopemeat",
       "category": "Meat",
       "defname": "Meat_Toxalope",
-      "price": 3,
+      "price": -10,
       "mod": "Biotech",
       "customname": ""
     },
@@ -15436,7 +15436,7 @@
       "abr": "lionmeat",
       "category": "Meat",
       "defname": "Meat_AA_ArcticLion",
-      "price": 3,
+      "price": -10,
       "mod": "Alpha Animals",
       "customname": ""
     },
@@ -15444,7 +15444,7 @@
       "abr": "atispecmeat",
       "category": "Meat",
       "defname": "Meat_AA_Atispec",
-      "price": 3,
+      "price": -10,
       "mod": "Alpha Animals",
       "customname": ""
     },
@@ -15452,7 +15452,7 @@
       "abr": "behemothmeat",
       "category": "Meat",
       "defname": "Meat_AA_Behemoth",
-      "price": 3,
+      "price": -10,
       "mod": "Alpha Animals",
       "customname": ""
     },
@@ -15460,7 +15460,7 @@
       "abr": "crabmeat",
       "category": "Meat",
       "defname": "Meat_AA_BoulderMit",
-      "price": 3,
+      "price": -10,
       "mod": "Alpha Animals",
       "customname": ""
     },
@@ -15468,7 +15468,7 @@
       "abr": "devilsheepmeat",
       "category": "Meat",
       "defname": "Meat_AA_DevilSheep",
-      "price": 3,
+      "price": -10,
       "mod": "Alpha Animals",
       "customname": ""
     },
@@ -15476,7 +15476,7 @@
       "abr": "frostlingmeat",
       "category": "Meat",
       "defname": "Meat_AA_Frostling",
-      "price": 3,
+      "price": -10,
       "mod": "Alpha Animals",
       "customname": ""
     },
@@ -15484,7 +15484,7 @@
       "abr": "gallatrossmeat",
       "category": "Meat",
       "defname": "Meat_AA_Gallatross",
-      "price": 3,
+      "price": -10,
       "mod": "Alpha Animals",
       "customname": ""
     },
@@ -15492,7 +15492,7 @@
       "abr": "gigantelopemeat",
       "category": "Meat",
       "defname": "Meat_AA_Gigantelope",
-      "price": 3,
+      "price": -10,
       "mod": "Alpha Animals",
       "customname": ""
     },
@@ -15500,7 +15500,7 @@
       "abr": "groundrunnermeat",
       "category": "Meat",
       "defname": "Meat_AA_Groundrunner",
-      "price": 3,
+      "price": -10,
       "mod": "Alpha Animals",
       "customname": ""
     },
@@ -15508,7 +15508,7 @@
       "abr": "slugmeat",
       "category": "Meat",
       "defname": "Meat_AA_Helixien",
-      "price": 3,
+      "price": -10,
       "mod": "Alpha Animals",
       "customname": ""
     },
@@ -15516,7 +15516,7 @@
       "abr": "meadowavemeat",
       "category": "Meat",
       "defname": "Meat_AA_MeadowAve",
-      "price": 3,
+      "price": -10,
       "mod": "Alpha Animals",
       "customname": ""
     },
@@ -15524,7 +15524,7 @@
       "abr": "darkmarbledsteak",
       "category": "Meat",
       "defname": "Meat_AA_NightMule",
-      "price": 3,
+      "price": -10,
       "mod": "Alpha Animals",
       "customname": ""
     },
@@ -15532,7 +15532,7 @@
       "abr": "nightlingmeat",
       "category": "Meat",
       "defname": "Meat_AA_Nightling",
-      "price": 3,
+      "price": -10,
       "mod": "Alpha Animals",
       "customname": ""
     },
@@ -15540,7 +15540,7 @@
       "abr": "overgrowncolossusmeat",
       "category": "Meat",
       "defname": "Meat_AA_OvergrownColossus",
-      "price": 3,
+      "price": -10,
       "mod": "Alpha Animals",
       "customname": ""
     },
@@ -15548,7 +15548,7 @@
       "abr": "raptorshrimpflesh",
       "category": "Meat",
       "defname": "Meat_AA_RaptorShrimp",
-      "price": 3,
+      "price": -10,
       "mod": "Alpha Animals",
       "customname": ""
     },
@@ -15556,7 +15556,7 @@
       "abr": "razorjackmeat",
       "category": "Meat",
       "defname": "Meat_AA_Razorjack",
-      "price": 3,
+      "price": -10,
       "mod": "Alpha Animals",
       "customname": ""
     },
@@ -15564,7 +15564,7 @@
       "abr": "ripperhoundmeat",
       "category": "Meat",
       "defname": "Meat_AA_RipperHound",
-      "price": 3,
+      "price": -10,
       "mod": "Alpha Animals",
       "customname": ""
     },
@@ -15572,7 +15572,7 @@
       "abr": "lizardmeat",
       "category": "Meat",
       "defname": "Meat_AA_RoughPlatedMonitor",
-      "price": 3,
+      "price": -10,
       "mod": "Alpha Animals",
       "customname": ""
     },
@@ -15580,7 +15580,7 @@
       "abr": "squidmeat",
       "category": "Meat",
       "defname": "Meat_AA_SandSquid",
-      "price": 3,
+      "price": -10,
       "mod": "Alpha Animals",
       "customname": ""
     },
@@ -15588,7 +15588,7 @@
       "abr": "arcturanskyeelmeat",
       "category": "Meat",
       "defname": "Meat_AA_Skyeel",
-      "price": 3,
+      "price": -10,
       "mod": "Alpha Animals",
       "customname": ""
     },
@@ -15596,7 +15596,7 @@
       "abr": "kurinmeat",
       "category": "Meat",
       "defname": "Meat_Kurin_Race",
-      "price": 1,
+      "price": -10,
       "mod": "Kurin HAR Edition",
       "customname": ""
     },
@@ -15604,7 +15604,7 @@
       "abr": "moyomeat",
       "category": "Meat",
       "defname": "Meat_Alien_Moyo",
-      "price": 1,
+      "price": -10,
       "mod": "Moyo-From the depth",
       "customname": ""
     },
@@ -15612,7 +15612,7 @@
       "abr": "dragonianmeat",
       "category": "Meat",
       "defname": "Meat_Dragonian_Prime",
-      "price": 3,
+      "price": -10,
       "mod": "Dragonian Prime Race2.0 (Unofficial)",
       "customname": ""
     },
@@ -15620,7 +15620,7 @@
       "abr": "marumeat",
       "category": "Meat",
       "defname": "Meat_Maru",
-      "price": 3,
+      "price": -10,
       "mod": "Maru Race",
       "customname": ""
     },
@@ -15628,7 +15628,7 @@
       "abr": "mihomeat",
       "category": "Meat",
       "defname": "Meat_Alien_Miho",
-      "price": 3,
+      "price": -10,
       "mod": "Miho, the celestial fox",
       "customname": ""
     },
@@ -15636,7 +15636,7 @@
       "abr": "poppimeat",
       "category": "Meat",
       "defname": "Meat_Poppi",
-      "price": 3,
+      "price": -10,
       "mod": "Poppi (Continued)",
       "customname": ""
     },
@@ -15644,7 +15644,7 @@
       "abr": "reviameat",
       "category": "Meat",
       "defname": "Meat_ReviaRaceAlien",
-      "price": 1,
+      "price": -10,
       "mod": "Revia Race",
       "customname": ""
     },
