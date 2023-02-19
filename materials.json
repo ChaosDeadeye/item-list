@@ -121,6 +121,16 @@
 		"type": "metal"
 	},
 	{
+		"name": "abyssteel",
+		"maxHitPoints": "280%",
+		"armorSharp": "116%",
+		"armorBlunt": "60%",
+		"armorHeat": "65%",
+		"bluntDamage": "130%",
+		"sharpDamage": "110%",
+		"type": "metal"
+	},
+	{
 		"name": "wood",
 		"maxHitPoints": "65%",
 		"armorSharp": "54%",
@@ -186,6 +196,16 @@
 		"armorSharp": "200%",
 		"armorBlunt": "54%",
 		"armorHeat": "288%",
+		"bluntDamage": "-",
+		"sharpDamage": "-",
+		"type": "fabric"
+	},
+	{
+		"name": "depthweave",
+		"maxHitPoints": "130%",
+		"armorSharp": "95%",
+		"armorBlunt": "25%",
+		"armorHeat": "150%",
 		"bluntDamage": "-",
 		"sharpDamage": "-",
 		"type": "fabric"
