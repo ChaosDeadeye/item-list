@@ -464,8 +464,8 @@
         let pawnList = null;
         $.getJSON(pawnListURL, function(data) {
             var options = {
-                valueNames: ['name', 'price', 'description'],
-                item: '<tr><td class="name"></td><td class="price"></td><td class="description"></td></tr>'
+                valueNames: ['image', 'name', 'price', 'description'],
+                item: '<tr><td class="image"></td><td class="name"></td><td class="price"></td><td class="description"></td></tr>'
             };
 
             var pawnData = [];
