@@ -213,7 +213,6 @@
                             </div>
                             <table class="table pawns">
                                 <tr>
-                                    <th scope="col" class="sort" data-sort="image">Image</th>
                                     <th scope="col" class="sort" data-sort="name">Name</th>
                                     <th scope="col" class="sort" data-sort="price">Price</th>
 				    <th scope="col" class="sort" data-sort="description">Description</th>
@@ -464,8 +463,8 @@
         let pawnList = null;
         $.getJSON(pawnListURL, function(data) {
             var options = {
-                valueNames: ['image', 'name', 'price', 'description'],
-                item: '<tr><td class="image"></td><td class="name"></td><td class="price"></td><td class="description"></td></tr>'
+                valueNames: ['name', 'price', 'description'],
+                item: '<tr><td class="name"></td><td class="price"></td><td class="description"></td></tr>'
             };
 
             var pawnData = [];
