@@ -213,6 +213,7 @@
                             </div>
                             <table class="table pawns">
                                 <tr>
+                                    <th scope="col" class="sort" data-sort="image">Image</th>
                                     <th scope="col" class="sort" data-sort="name">Name</th>
                                     <th scope="col" class="sort" data-sort="price">Price</th>
 				    <th scope="col" class="sort" data-sort="description">Description</th>
@@ -468,7 +469,7 @@
             };
 
             var pawnData = [];
-            $.each(data.pawns, function(index, value) {
+            $.each(data.pawns, function(index+1, value) {
                     pawnData.push(value);
             });
 
