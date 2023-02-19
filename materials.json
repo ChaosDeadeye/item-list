@@ -31,16 +31,6 @@
 		"type": "metal"
 	},
 	{
-		"name": "silver",
-		"maxHitPoints": "70%",
-		"armorSharp": "72%",
-		"armorBlunt": "36%",
-		"armorHeat": "36%",
-		"bluntDamage": "100%",
-		"sharpDamage": "85%",
-		"type": "metal"
-	},
-	{
 		"name": "plasteel",
 		"maxHitPoints": "280%",
 		"armorSharp": "114%",
@@ -48,16 +38,6 @@
 		"armorHeat": "65%",
 		"bluntDamage": "90%",
 		"sharpDamage": "110%",
-		"type": "metal"
-	},
-	{
-		"name": "silver",
-		"maxHitPoints": "70%",
-		"armorSharp": "72%",
-		"armorBlunt": "36%",
-		"armorHeat": "36%",
-		"bluntDamage": "100%",
-		"sharpDamage": "85%",
 		"type": "metal"
 	},
 	{
