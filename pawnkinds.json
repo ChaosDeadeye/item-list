@@ -16,7 +16,7 @@
       "mod": "Unknown",
       "karmaType": null
     },
-    "description": "[Can be turned into a Nyaron (cat girl/boy) on demand.] A baseline human, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Earth planets.",
+    "description": "A baseline human, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Earth planets.",
     "defName": "Human",
     "enabled": true,
     "name": "human",
@@ -99,44 +99,6 @@
     "data": {
       "customName": false,
       "stats": [
-        "+90.00 Mass",
-        "+35% Flammability",
-        "+$2800 Market value",
-        "+2 Honor value",
-        "+4.50 Move speed",
-        "+30.0C Maximum comfortable temperature",
-        "+10.0C Minimum comfortable temperature",
-        "+120% Injury healing factor",
-        "+120% Rest rate multiplier",
-        "+200% Eating speed",
-        "+0.00% Food poison chance",
-        "+135% Immunity gain speed",
-        "+150 Carrying capacity",
-        "+100 Meat amount",
-        "+60 Leather amount",
-        "+5% Psychic sensitivity",
-        "+0.9 Melee dodge chance",
-        "+55.00% Social impact",
-        "+115% General labor speed",
-        "+100% Drug synthesis speed",
-        "+120% Medical tend speed",
-        "+100% Medical tend quality",
-        "+100% Medical surgery success chance",
-        "+75% Aiming time"
-      ],
-      "mod": "Unknown",
-      "karmaType": null
-    },
-    "description": "A subspecies of the Moyo race, usually babies born after Moyo fertilized by creature infected with the Leviathan virus. And because the symbiotic virus affects, most of them have strange personalities, but not intrinsically bad.",
-    "defName": "Alien_RedMoyo",
-    "enabled": true,
-    "name": "Red Moyo",
-    "price": 4667
-  },
-  {
-    "data": {
-      "customName": false,
-      "stats": [
         "+60.00 Mass",
         "+50% Flammability",
         "+$5800 Market value",
@@ -203,11 +165,11 @@
       "mod": "Unknown",
       "karmaType": null
     },
-    "description": "[Why so expensive? Because Hisa join fully geared with high end equipment. Currently disabled.] Geneticaly-modified space-warrior foxgirls.",
+    "description": "Geneticaly-modified space-warrior foxgirls.",
     "defName": "Alien_Hisa",
-    "enabled": true,
+    "enabled": false,
     "name": "hisa",
-    "price": 30000
+    "price": 20000
   },
   {
     "data": {
@@ -271,7 +233,7 @@
         "+$4000 Market value",
         "+4 Honor value",
         "+30 Carrying capacity",
-        "+25% Global learning factor",
+        "+100% Global learning factor",
         "+100% Psychic sensitivity",
         "+98% Rest rate multiplier",
         "+98% Immunity gain speed",
@@ -373,6 +335,44 @@
     "enabled": true,
     "name": "Revia",
     "price": 5833
+  },
+  {
+    "data": {
+      "customName": false,
+      "stats": [
+        "+90.00 Mass",
+        "+35% Flammability",
+        "+$2800 Market value",
+        "+2 Honor value",
+        "+4.50 Move speed",
+        "+30.0C Maximum comfortable temperature",
+        "+10.0C Minimum comfortable temperature",
+        "+120% Injury healing factor",
+        "+120% Rest rate multiplier",
+        "+200% Eating speed",
+        "+0.00% Food poison chance",
+        "+135% Immunity gain speed",
+        "+150 Carrying capacity",
+        "+100 Meat amount",
+        "+60 Leather amount",
+        "+5% Psychic sensitivity",
+        "+0.9 Melee dodge chance",
+        "+55.00% Social impact",
+        "+115% General labor speed",
+        "+100% Drug synthesis speed",
+        "+120% Medical tend speed",
+        "+100% Medical tend quality",
+        "+100% Medical surgery success chance",
+        "+75% Aiming time"
+      ],
+      "mod": "Unknown",
+      "karmaType": null
+    },
+    "description": "A subspecies of the Moyo race, usually babies born after Moyo fertilized by creature infected with the Leviathan virus. And because the symbiotic virus affects, most of them have strange personalities, but not intrinsically bad.",
+    "defName": "Alien_RedMoyo",
+    "enabled": true,
+    "name": "Red Moyo",
+    "price": 4667
   }
 ]
 }
