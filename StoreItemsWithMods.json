@@ -17721,6 +17721,278 @@
       "customname": ""
     },
     {
+      "abr": "abysstechgeothermalgenerator",
+      "category": "Misc",
+      "defname": "RedMoyo_GeothermalGenerator",
+      "price": 6442,
+      "mod": "Moyo-Light in the Abyss",
+      "customname": ""
+    },
+    {
+      "abr": "crimsonserum",
+      "category": "Drugs",
+      "defname": "CrimsonSerum",
+      "price": 53,
+      "mod": "Moyo-Light in the Abyss",
+      "customname": ""
+    },
+    {
+      "abr": "moyoabyssarmour",
+      "category": "Moyo Apparel",
+      "defname": "RedMoyo_AbyssArmour",
+      "price": 4792,
+      "mod": "Moyo-Light in the Abyss",
+      "customname": ""
+    },
+    {
+      "abr": "moyoabysshelmet",
+      "category": "Moyo Headgear",
+      "defname": "RedMoyo_AbyssHelmet",
+      "price": 2617,
+      "mod": "Moyo-Light in the Abyss",
+      "customname": ""
+    },
+    {
+      "abr": "moyoassaultrifle",
+      "category": "Moyo ranged weapons",
+      "defname": "RedMoyo_MilitaryAR",
+      "price": 1908,
+      "mod": "Moyo-Light in the Abyss",
+      "customname": ""
+    },
+    {
+      "abr": "moyobodystrap",
+      "category": "Apparel",
+      "defname": "RedMoyo_BodyStrap",
+      "price": 275,
+      "mod": "Moyo-Light in the Abyss",
+      "customname": ""
+    },
+    {
+      "abr": "moyobodysuit",
+      "category": "Moyo Apparel",
+      "defname": "RedMoyo_BobySuit",
+      "price": 717,
+      "mod": "Moyo-Light in the Abyss",
+      "customname": ""
+    },
+    {
+      "abr": "moyochargeaccelerator",
+      "category": "Moyo ranged weapons",
+      "defname": "RedMoyo_MilitaryHeavyRifle",
+      "price": 3200,
+      "mod": "Moyo-Light in the Abyss",
+      "customname": ""
+    },
+    {
+      "abr": "moyocivilrifle",
+      "category": "Moyo ranged weapons",
+      "defname": "RedMoyo_CivilAR",
+      "price": 925,
+      "mod": "Moyo-Light in the Abyss",
+      "customname": ""
+    },
+    {
+      "abr": "moyodefensepistol",
+      "category": "Moyo ranged weapons",
+      "defname": "RedMoyo_Pistol",
+      "price": 367,
+      "mod": "Moyo-Light in the Abyss",
+      "customname": ""
+    },
+    {
+      "abr": "moyoexoskeleton",
+      "category": "Moyo Apparel",
+      "defname": "RedMoyo_ExoSkeleton",
+      "price": 1308,
+      "mod": "Moyo-Light in the Abyss",
+      "customname": ""
+    },
+    {
+      "abr": "moyogasmask",
+      "category": "Headgear",
+      "defname": "RedMoyo_GasMask",
+      "price": 246,
+      "mod": "Moyo-Light in the Abyss",
+      "customname": ""
+    },
+    {
+      "abr": "moyoharpoon",
+      "category": "Moyo melee weapons",
+      "defname": "RedMoyo_AlloyHarpoon",
+      "price": 858,
+      "mod": "Moyo-Light in the Abyss",
+      "customname": ""
+    },
+    {
+      "abr": "moyohelmet",
+      "category": "Moyo Headgear",
+      "defname": "RedMoyo_Helmet",
+      "price": 992,
+      "mod": "Moyo-Light in the Abyss",
+      "customname": ""
+    },
+    {
+      "abr": "moyoholocamisole",
+      "category": "Moyo Apparel",
+      "defname": "RedMoyo_HoloCamisole",
+      "price": 442,
+      "mod": "Moyo-Light in the Abyss",
+      "customname": ""
+    },
+    {
+      "abr": "moyokineticclamp",
+      "category": "Moyo melee weapons",
+      "defname": "RedMoyo_KineticClamp",
+      "price": 717,
+      "mod": "Moyo-Light in the Abyss",
+      "customname": ""
+    },
+    {
+      "abr": "moyomilitaryprecisionrifle",
+      "category": "Moyo ranged weapons",
+      "defname": "RedMoyo_MilitarySR",
+      "price": 1967,
+      "mod": "Moyo-Light in the Abyss",
+      "customname": ""
+    },
+    {
+      "abr": "moyoofficercape",
+      "category": "Moyo Apparel",
+      "defname": "RedMoyo_OfficerCape",
+      "price": 875,
+      "mod": "Moyo-Light in the Abyss",
+      "customname": ""
+    },
+    {
+      "abr": "moyoplasmaharpoon",
+      "category": "Moyo melee weapons",
+      "defname": "RedMoyo_PlasmaHarpoon",
+      "price": 1967,
+      "mod": "Moyo-Light in the Abyss",
+      "customname": ""
+    },
+    {
+      "abr": "moyoplasmatachi",
+      "category": "Moyo melee weapons",
+      "defname": "MeleeWeapon_PlasmaTachi",
+      "price": 2608,
+      "mod": "Moyo-Light in the Abyss",
+      "customname": ""
+    },
+    {
+      "abr": "moyopolicecap",
+      "category": "Moyo Headgear",
+      "defname": "RedMoyo_PanHat",
+      "price": 231,
+      "mod": "Moyo-Light in the Abyss",
+      "customname": ""
+    },
+    {
+      "abr": "moyopolicepistol",
+      "category": "Moyo ranged weapons",
+      "defname": "RedMoyo_PistolPolice",
+      "price": 783,
+      "mod": "Moyo-Light in the Abyss",
+      "customname": ""
+    },
+    {
+      "abr": "moyopolicesmg",
+      "category": "Moyo ranged weapons",
+      "defname": "RedMoyo_SMG",
+      "price": 1158,
+      "mod": "Moyo-Light in the Abyss",
+      "customname": ""
+    },
+    {
+      "abr": "moyopoliceuniform",
+      "category": "Moyo Apparel",
+      "defname": "RedMoyo_PoliceUniform",
+      "price": 558,
+      "mod": "Moyo-Light in the Abyss",
+      "customname": ""
+    },
+    {
+      "abr": "moyoriotmask",
+      "category": "Moyo Headgear",
+      "defname": "RedMoyo_MeleeMask",
+      "price": 375,
+      "mod": "Moyo-Light in the Abyss",
+      "customname": ""
+    },
+    {
+      "abr": "moyosniperassistantsystem",
+      "category": "Moyo Headgear",
+      "defname": "RedMoyo_SniperMask",
+      "price": 958,
+      "mod": "Moyo-Light in the Abyss",
+      "customname": ""
+    },
+    {
+      "abr": "moyotacticalgears",
+      "category": "Apparel",
+      "defname": "RedMoyo_TacticalGears",
+      "price": 1483,
+      "mod": "Moyo-Light in the Abyss",
+      "customname": ""
+    },
+    {
+      "abr": "moyotacticalstrap",
+      "category": "Moyo Apparel",
+      "defname": "RedMoyo_TacticalStrap",
+      "price": 717,
+      "mod": "Moyo-Light in the Abyss",
+      "customname": ""
+    },
+    {
+      "abr": "moyotaticalheadset",
+      "category": "Headgear",
+      "defname": "RedMoyo_TacticalHeadSet",
+      "price": 567,
+      "mod": "Moyo-Light in the Abyss",
+      "customname": ""
+    },
+    {
+      "abr": "moyotaticalknife",
+      "category": "Moyo melee weapons",
+      "defname": "RedMoyo_Knife",
+      "price": 475,
+      "mod": "Moyo-Light in the Abyss",
+      "customname": ""
+    },
+    {
+      "abr": "moyoworkersuit",
+      "category": "Moyo Apparel",
+      "defname": "RedMoyo_WorkSuit",
+      "price": 265,
+      "mod": "Moyo-Light in the Abyss",
+      "customname": ""
+    },
+    {
+      "abr": "redmoyo",
+      "category": "Animal",
+      "defname": "Alien_RedMoyo",
+      "price": -10,
+      "mod": "Moyo-Light in the Abyss",
+      "customname": ""
+    },
+    {
+      "abr": "redmoyobloodbag",
+      "category": "Manufactured",
+      "defname": "RedMoyo_BloodBag",
+      "price": 33,
+      "mod": "Moyo-Light in the Abyss",
+      "customname": ""
+    },
+    {
+      "abr": "redmoyomeat",
+      "category": "Meat",
+      "defname": "Meat_Alien_RedMoyo",
+      "price": -1,
+      "mod": "Moyo-Light in the Abyss",
+      "customname": ""
+    },
+    {
       "abr": "zombrella",
       "category": "Misc",
       "defname": "Zombrella",
@@ -17732,7 +18004,7 @@
       "abr": "guestbed",
       "category": "Furniture",
       "defname": "BedGuest",
-      "price": -10,
+      "price": -155,
       "mod": "n/a",
       "customname": ""
     },
@@ -17740,7 +18012,7 @@
       "abr": "guestdoublebed",
       "category": "Furniture",
       "defname": "DoubleBedGuest",
-      "price": -10,
+      "price": -292,
       "mod": "n/a",
       "customname": ""
     },
@@ -17748,7 +18020,7 @@
       "abr": "guestroyalbed",
       "category": "Furniture",
       "defname": "RoyalBedGuest",
-      "price": -10,
+      "price": -1467,
       "mod": "n/a",
       "customname": ""
     },
@@ -17756,7 +18028,7 @@
       "abr": "guesthospitalbed",
       "category": "Furniture",
       "defname": "HospitalBedGuest",
-      "price": -10,
+      "price": -667,
       "mod": "n/a",
       "customname": ""
     },
@@ -17764,7 +18036,7 @@
       "abr": "guestbedroll",
       "category": "Furniture",
       "defname": "BedrollGuest",
-      "price": -10,
+      "price": -137,
       "mod": "n/a",
       "customname": ""
     },
@@ -17772,7 +18044,7 @@
       "abr": "guestdoublebedroll",
       "category": "Furniture",
       "defname": "BedrollDoubleGuest",
-      "price": -10,
+      "price": -290,
       "mod": "n/a",
       "customname": ""
     },
@@ -17780,7 +18052,7 @@
       "abr": "guestancientbed",
       "category": "Misc",
       "defname": "AncientBedGuest",
-      "price": -10,
+      "price": -5,
       "mod": "n/a",
       "customname": ""
     },
@@ -17788,7 +18060,7 @@
       "abr": "guestslabbed",
       "category": "Furniture",
       "defname": "SlabBedGuest",
-      "price": -10,
+      "price": -102,
       "mod": "n/a",
       "customname": ""
     },
@@ -17796,7 +18068,7 @@
       "abr": "guestslabdoublebed",
       "category": "Furniture",
       "defname": "SlabDoubleBedGuest",
-      "price": -10,
+      "price": -288,
       "mod": "n/a",
       "customname": ""
     },
@@ -17804,7 +18076,7 @@
       "abr": "guestdeathrestcasket",
       "category": "Misc",
       "defname": "DeathrestCasketGuest",
-      "price": -10,
+      "price": -492,
       "mod": "n/a",
       "customname": ""
     },
@@ -17812,7 +18084,7 @@
       "abr": "guestcrib",
       "category": "Furniture",
       "defname": "CribGuest",
-      "price": -10,
+      "price": -86,
       "mod": "n/a",
       "customname": ""
     },
@@ -17820,7 +18092,7 @@
       "abr": "guesthypersleepbed",
       "category": "Furniture",
       "defname": "HisaHyperSleepBedGuest",
-      "price": -10,
+      "price": -1575,
       "mod": "n/a",
       "customname": ""
     },
@@ -17828,7 +18100,7 @@
       "abr": "guestdoublehypersleepbed",
       "category": "Furniture",
       "defname": "HisaHyperSleepBedBigGuest",
-      "price": -10,
+      "price": -2992,
       "mod": "n/a",
       "customname": ""
     },
@@ -17836,7 +18108,7 @@
       "abr": "guestroyalhypersleepbed",
       "category": "Furniture",
       "defname": "HisaHyperSleepBedRoyalGuest",
-      "price": -10,
+      "price": -3917,
       "mod": "n/a",
       "customname": ""
     },
@@ -17844,7 +18116,7 @@
       "abr": "guesthisamedicalbed",
       "category": "Furniture",
       "defname": "Hisa_MediBedGuest",
-      "price": -10,
+      "price": -2958,
       "mod": "n/a",
       "customname": ""
     },
@@ -17852,7 +18124,7 @@
       "abr": "guestminchocrepebedroll",
       "category": "Furniture",
       "defname": "Mincho_Crepe_BedrollGuest",
-      "price": -10,
+      "price": -68,
       "mod": "n/a",
       "customname": ""
     },
@@ -17860,7 +18132,7 @@
       "abr": "guestminchofullsizecakebed",
       "category": "Furniture",
       "defname": "Mincho_Full_Size_Cake_BedGuest",
-      "price": -10,
+      "price": -1833,
       "mod": "n/a",
       "customname": ""
     },
@@ -17868,7 +18140,7 @@
       "abr": "guestminchosinglesizecakebed",
       "category": "Furniture",
       "defname": "Mincho_Single_Size_Cake_BedGuest",
-      "price": -10,
+      "price": -917,
       "mod": "n/a",
       "customname": ""
     },
@@ -17876,7 +18148,7 @@
       "abr": "guestslabbed",
       "category": "Furniture",
       "defname": "Bed_StoneSlabGuest",
-      "price": -10,
+      "price": -111,
       "mod": "n/a",
       "customname": ""
     },
@@ -17884,7 +18156,7 @@
       "abr": "guestsimplebed",
       "category": "Furniture",
       "defname": "Bed_SimpleGuest",
-      "price": -10,
+      "price": -137,
       "mod": "n/a",
       "customname": ""
     },
@@ -17892,7 +18164,7 @@
       "abr": "guestergonomicbed",
       "category": "Furniture",
       "defname": "Bed_ErgonomicGuest",
-      "price": -10,
+      "price": -450,
       "mod": "n/a",
       "customname": ""
     },
@@ -17900,7 +18172,7 @@
       "abr": "guestergonomicdoublebed",
       "category": "Furniture",
       "defname": "Bed_DoubleErgonomicGuest",
-      "price": -10,
+      "price": -867,
       "mod": "n/a",
       "customname": ""
     },
@@ -17908,7 +18180,7 @@
       "abr": "guestroyalposterbed",
       "category": "Furniture",
       "defname": "Bed_KingsizeGuest",
-      "price": -10,
+      "price": -2008,
       "mod": "n/a",
       "customname": ""
     }
