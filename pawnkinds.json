@@ -16,7 +16,7 @@
       "mod": "Unknown",
       "karmaType": null
     },
-    "description": "[Can be turned into a Nyaron (cat girl/boy) on demand.] A baseline human, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Earth planets.",
+    "description": "A baseline human, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Earth planets.",
     "defName": "Human",
     "enabled": true,
     "name": "human",
@@ -68,10 +68,10 @@
       "stats": [
         "+75.00 Mass",
         "+50% Flammability",
-        "+$3200 Market value",
+        "+$2500 Market value",
         "+4.00 Move speed",
-        "+18.0C Maximum comfortable temperature",
-        "+2.0C Minimum comfortable temperature",
+        "+20.0C Maximum comfortable temperature",
+        "+8.0C Minimum comfortable temperature",
         "+110% Immunity gain speed",
         "+75 Carrying capacity",
         "+80 Meat amount",
@@ -94,82 +94,6 @@
     "enabled": true,
     "name": "Moyo",
     "price": 5333
-  },
-  {
-    "data": {
-      "customName": false,
-      "stats": [
-        "+90.00 Mass",
-        "+35% Flammability",
-        "+$2800 Market value",
-        "+2 Honor value",
-        "+4.50 Move speed",
-        "+30.0C Maximum comfortable temperature",
-        "+10.0C Minimum comfortable temperature",
-        "+120% Injury healing factor",
-        "+120% Rest rate multiplier",
-        "+200% Eating speed",
-        "+0.00% Food poison chance",
-        "+135% Immunity gain speed",
-        "+150 Carrying capacity",
-        "+100 Meat amount",
-        "+60 Leather amount",
-        "+5% Psychic sensitivity",
-        "+0.9 Melee dodge chance",
-        "+55.00% Social impact",
-        "+115% General labor speed",
-        "+100% Drug synthesis speed",
-        "+120% Medical tend speed",
-        "+100% Medical tend quality",
-        "+100% Medical surgery success chance",
-        "+75% Aiming time"
-      ],
-      "mod": "Unknown",
-      "karmaType": null
-    },
-    "description": "A subspecies of the Moyo race, usually babies born after Moyo fertilized by creature infected with the Leviathan virus. And because the symbiotic virus affects, most of them have strange personalities, but not intrinsically bad.",
-    "defName": "Alien_RedMoyo",
-    "enabled": true,
-    "name": "Red Moyo",
-    "price": 4667
-  },
-  {
-    "data": {
-      "customName": false,
-      "stats": [
-        "+60.00 Mass",
-        "+50% Flammability",
-        "+$5800 Market value",
-        "+5.20 Move speed",
-        "-45.0C Minimum comfortable temperature",
-        "+45.0C Maximum comfortable temperature",
-        "+150% Immunity gain speed",
-        "+150 Carrying capacity",
-        "+40.0% Armor - Sharp",
-        "+30.0% Armor - Blunt",
-        "+40.0% Armor - Heat",
-        "+40% Toxic resistance",
-        "+110% Eating speed",
-        "+45 Meat amount",
-        "+80% Plant work speed",
-        "+120% Plant harvest yield",
-        "+75 Leather amount",
-        "+80% Mining speed",
-        "+120% Mining yield",
-        "+1.0 Melee dodge chance",
-        "+100% Aiming time",
-        "+80.00% Negotiation ability",
-        "+90% Construction speed",
-        "+125.00% Social impact"
-      ],
-      "mod": "Unknown",
-      "karmaType": null
-    },
-    "description": "A beautiful xenohuman with characteristics reminiscent of dragons, this particular strain seems to have evolved recently either due to poaching from human slavetraders or some\n\t\t\tother interference. Originally created as a powerful farm animal or perhaps targets for body confiscation by transhumanists, these long-lived people are beginning to use every scrap of technology they can and albeit slowly, forming large and complex social groups. They are naturally in a good mood, but this has been shown to quickly deteriorate if attacked, and despite their small stature their bones and muscles are much denser compared to genome typical humans. While they could hardly be considered greedy, they have been seen showing a fondness for rare metals and gems.",
-    "defName": "Dragonian_Prime",
-    "enabled": true,
-    "name": "Dragonian",
-    "price": 6000
   },
   {
     "data": {
@@ -203,7 +127,7 @@
       "mod": "Unknown",
       "karmaType": null
     },
-    "description": "[Why so expensive? Because Hisa join fully geared with high end equipment. Currently disabled.] Geneticaly-modified space-warrior foxgirls.",
+    "description": "Geneticaly-modified space-warrior foxgirls.",
     "defName": "Alien_Hisa",
     "enabled": true,
     "name": "hisa",
@@ -270,8 +194,8 @@
         "+0% Flammability",
         "+$4000 Market value",
         "+4 Honor value",
-        "+30 Carrying capacity",
-        "+25% Global learning factor",
+        "+42 Carrying capacity",
+        "+100% Global learning factor",
         "+100% Psychic sensitivity",
         "+98% Rest rate multiplier",
         "+98% Immunity gain speed",
@@ -286,15 +210,16 @@
         "+31.0C Maximum comfortable temperature",
         "-100% Toxic resistance",
         "-100% Toxic environment resistance",
-        "+4.20 Move speed",
+        "+4.10 Move speed",
         "+90% Aiming time",
         "+0.9 Shooting accuracy",
         "+2.0 Melee dodge chance",
         "+3.0 Melee hit chance",
         "+50.0% Armor - Heat",
+        "+150% Learning rate factor",
         "-1.00 Neural heat recovery rate",
-        "-3.00% Tame animal chance",
-        "-3.00% Train animal chance"
+        "-2.50% Tame animal chance",
+        "-2.50% Train animal chance"
       ],
       "mod": "Unknown",
       "karmaType": null
@@ -373,6 +298,44 @@
     "enabled": true,
     "name": "Revia",
     "price": 5833
+  },
+  {
+    "data": {
+      "customName": false,
+      "stats": [
+        "+90.00 Mass",
+        "+35% Flammability",
+        "+$2800 Market value",
+        "+2 Honor value",
+        "+4.50 Move speed",
+        "+30.0C Maximum comfortable temperature",
+        "+10.0C Minimum comfortable temperature",
+        "+120% Injury healing factor",
+        "+120% Rest rate multiplier",
+        "+200% Eating speed",
+        "+0.00% Food poison chance",
+        "+135% Immunity gain speed",
+        "+150 Carrying capacity",
+        "+100 Meat amount",
+        "+60 Leather amount",
+        "+5% Psychic sensitivity",
+        "+0.9 Melee dodge chance",
+        "+55.00% Social impact",
+        "+115% General labor speed",
+        "+100% Drug synthesis speed",
+        "+120% Medical tend speed",
+        "+100% Medical tend quality",
+        "+100% Medical surgery success chance",
+        "+75% Aiming time"
+      ],
+      "mod": "Unknown",
+      "karmaType": null
+    },
+    "description": "A subspecies of the Moyo race, usually babies born after Moyo fertilized by creature infected with the Leviathan virus. And because the symbiotic virus affects, most of them have strange personalities, but not intrinsically bad.",
+    "defName": "Alien_RedMoyo",
+    "enabled": true,
+    "name": "Red Moyo",
+    "price": 4667
   }
 ]
 }
